@@ -1,0 +1,135 @@
+District,Total,Male,Female,Children,Revenue Circlewise,Date
+Cachar,2,2,0,0,"(Katigorah | 0), (Lakhipur | 1), (Silchar | 1), (Sonai | 0), (Udharbond | 0)",16-05-2022
+Udalguri,1,1,0,0,"(Harisinga | 0), (Kalaigaon | 0), (Khairabari | 1), (Mazbat | 0), (Udalguri | 0)",17-05-2022
+Darrang,1,1,0,0,"(Dalgaon | 0), (Mangaldoi | 0), (Patharighat | 1), (Sipajhar | 0)",18-05-2022
+Nagaon,1,1,0,0,"(Kampur | 1), (Nagaon | 0), (Raha | 0)",19-05-2022
+Cachar,2,0,1,1,"(Katigorah | 2), (Lakhipur | 0), (Silchar | 0), (Sonai | 0), (Udharbond | 0)",20-05-2022
+Lakhimpur,1,0,0,1,"(Bihpuria | 0), (Narayanpur | 0), (North Lakhimpur | 1), (Subansiri | 0)",20-05-2022
+Nagaon,1,1,0,0,"(Kampur | 1), (Nagaon | 0), (Raha | 0)",20-05-2022
+Nagaon,1,1,0,0,"(Kampur | 1), (Nagaon | 0), (Raha | 0)",21-05-2022
+Hojai,1,1,0,0,"(Doboka | 1), (Hojai | 0), (Lanka | 0)",21-05-2022
+Cachar,2,2,0,0,"(Katigorah | 0), (Lakhipur | 0), (Silchar | 2), (Sonai | 0), (Udharbond | 0)",21-05-2022
+Hojai,1,1,0,0,"(Doboka | 1), (Hojai | 0), (Lanka | 0)",22-05-2022
+Cachar,1,0,0,1,"(Katigorah | 0), (Lakhipur | 0), (Silchar | 1), (Sonai | 0), (Udharbond | 0)",22-05-2022
+Nagaon,4,3,0,1,"(Kampur | 3), (Nagaon | 0), (Raha | 1)",22-05-2022
+Cachar,1,0,1,0,"(Katigorah | 0), (Lakhipur | 0), (Silchar | 1), (Sonai | 0), (Udharbond | 0)",23-05-2022
+Nagaon,1,1,0,0,"(Kampur | 1), (Nagaon | 0), (Raha | 0)",24-05-2022
+Cachar,1,1,0,0,"(Katigorah | 0), (Lakhipur | 0), (Silchar | 0), (Sonai | 0), (Udharbond | 1)",24-05-2022
+Nagaon,1,0,0,1,"(Kampur | 1), (Nagaon | 0), (Raha | 0)",25-05-2022
+Cachar,1,1,0,0,"(Katigorah | 0), (Lakhipur | 0), (Silchar | 1), (Sonai | 0), (Udharbond | 0)",25-05-2022
+Nagaon,2,1,0,1,"(Kampur | 1), (Nagaon | 0), (Raha | 1)",26-05-2022
+Nagaon,2,1,0,1,"(Kampur | 0), (Nagaon | 0), (Raha | 2)",28-05-2022
+Cachar,2,1,0,1,"(Katigorah | 0), (Lakhipur | 0), (Silchar | 1), (Sonai | 1)",30-05-2022
+Nagaon,2,0,0,2,"(Kampur | 2), (Nagaon | 0), (Raha | 0)",30-05-2022
+Cachar,2,2,0,0,"(Katigorah | 1), (Lakhipur | 0), (Silchar | 0), (Sonai | 1), ((Cachar) At District | 0)",01-06-2022
+Kamrup (M),4,4,0,0,"(Dispur | 0), (Guwahati | 4), (Sonapur | 0)",14-06-2022
+Dima-Hasao,1,1,0,0,(Haflong | 1),16-06-2022
+Goalpara,2,0,0,2,"(Balijana | 2), (Lakhipur | 0), (Rongjuli | 0)",16-06-2022
+Udalguri,1,0,1,0,"(Harisinga | 0), (Kalaigaon | 0), (Khairabari | 0), (Mazbat | 0), (Udalguri | 1)",16-06-2022
+Sonitpur,1,1,0,0,"(Chariduar | 1), (Dhekiajuli | 0), (Naduar | 0), (Tezpur | 0), (Thelamara | 0)",17-06-2022
+Nalbari,2,2,0,0,"(Banekuchi | 1), (Barbhag | 0), (Barkhetri | 0), (Ghograpar | 0), (Nalbari | 0), (Paschim Nalbari | 1), (Tihu | 0)",17-06-2022
+Kokrajhar,1,1,0,0,"(Bagribari | 0), (Bhawraguri | 0), (Dotma | 0), (Gossaigaon | 0), (Kokrajhar | 1)",17-06-2022
+Kamrup,1,1,0,0,"(Boko | 0), (Chaygaon | 0), (Goroimari | 0), (Hajo | 0), (Kamalpur | 0), (Kayan | 0), (North Ghy | 0), (Palashbari | 0), (Rangia | 1)",17-06-2022
+Hojai,2,0,1,1,"(Doboka | 0), (Hojai | 2), (Lanka | 0)",17-06-2022
+Dhubri,1,0,0,1,"(Agamoni | 0), (Athani | 0), (Bilasipara | 1), (Chapar | 0), (South Salmara Part | 0)",17-06-2022
+Bajali,1,1,0,0,"(Bajali | 1), (Sarupeta | 0)",17-06-2022
+Hailakandi,1,1,0,0,(Katlicherra | 1),18-06-2022
+Sonitpur,1,0,0,1,"(Chariduar | 1), (Dhekiajuli | 0), (Tezpur | 0), (Thelamara | 0)",18-06-2022
+Nalbari,1,1,0,0,"(Banekuchi | 0), (Barbhag | 0), (Barkhetri | 0), (Ghograpar | 0), (Nalbari | 1), (Paschim Nalbari | 0), (Tihu | 0)",18-06-2022
+Barpeta,2,1,0,1,"(Baghbar | 0), (Barnagar | 0), (Barpeta | 0), (Chenga | 0), (Kalgachia | 1), (Sarthebari | 1)",18-06-2022
+Darrang,1,1,0,0,"(Dalgaon | 0), (Mangaldoi | 0), (Patharighat | 1), (Sipajhar | 0)",18-06-2022
+Karimganj,2,0,0,2,"(Badarpur | 0), (Karimganj | 0), (Nilambazar | 1), (Patherkandi | 0), (RK Nagar | 1)",18-06-2022
+Bajali,1,1,0,0,"(Bajali | 1), (Sarupeta | 0)",19-06-2022
+Barpeta,2,1,0,1,"(Baghbar | 0), (Barnagar | 0), (Barpeta | 0), (Chenga | 1), (Kalgachia | 0), (Sarthebari | 1)",19-06-2022
+Cachar,3,2,0,1,"(Katigorah | 0), (Lakhipur | 0), (Silchar | 3), (Sonai | 0), (Udharbond | 0)",19-06-2022
+Kamrup,1,1,0,0,"(Chamaria | 0), (Chaygaon | 0), (Goroimari | 0), (Hajo | 1), (Kamalpur | 0), (Kayan | 0), (North Ghy | 0), (Palashbari | 0), (Rangia | 0)",19-06-2022
+Udalguri,1,0,0,1,"(Harisinga | 1), (Kalaigaon | 0), (Khairabari | 0), (Mazbat | 0), (Udalguri | 0)",19-06-2022
+Karimganj,1,1,0,0,"(Badarpur | 0), (Karimganj | 0), (Nilambazar | 1), (Patherkandi | 0), (RK Nagar | 0)",19-06-2022
+Darrang,3,3,0,0,"(Dalgaon | 1), (Mangaldoi | 1), (Patharighat | 0), (Sipajhar | 1)",20-06-2022
+Nagaon,2,2,0,0,"(Dhing | 0), (Kaliabor | 0), (Kampur | 2), (Nagaon | 0), (Raha | 0), (Rupahi | 0), (Samaguri | 0)",20-06-2022
+Hojai,1,1,0,0,"(Doboka | 0), (Hojai | 1), (Lanka | 0)",20-06-2022
+Hailakandi,1,0,0,1,"(Algapur | 0), (Hailakandi | 1), (Katlicherra | 0), (Lala | 0)",20-06-2022
+Dibrugarh,1,0,1,0,(Chabua | 1),20-06-2022
+Lakhimpur,1,1,0,0,"(Bihpuria | 0), (Dhakuakhana | 0), (Kadam | 1), (Narayanpur | 0), (North Lakhimpur | 0), (Nowboicha | 0), (Subansiri | 0)",20-06-2022
+Cachar,1,1,0,0,"(Katigorah | 0), (Lakhipur | 0), (Silchar | 0), (Sonai | 1), (Udharbond | 0)",20-06-2022
+Kamrup,1,0,0,1,"(Chamaria | 0), (Chaygaon | 0), (Goroimari | 0), (Hajo | 0), (Kamalpur | 0), (Kayan | 0), (North Ghy | 0), (Palashbari | 0), (Rangia | 1)",20-06-2022
+Karimganj,1,0,0,1,"(Badarpur | 0), (Karimganj | 0), (Nilambazar | 1), (Patherkandi | 0), (RK Nagar | 0)",21-06-2022
+Udalguri,1,0,0,1,"(Harisinga | 0), (Kalaigaon | 0), (Khairabari | 1), (Mazbat | 0), (Udalguri | 0)",21-06-2022
+Tamulpur,1,1,0,0,"(Goreswar | 0), (Tamulpur | 1)",21-06-2022
+Kamrup,3,2,0,1,"(Chamaria | 0), (Chaygaon | 0), (Goroimari | 0), (Hajo | 1), (Kamalpur | 0), (Kayan | 0), (Nagarbera | 0), (North Ghy | 1), (Palashbari | 0), (Rangia | 1)",21-06-2022
+Darrang,1,1,0,0,"(Dalgaon | 0), (Mangaldoi | 1), (Patharighat | 0), (Sipajhar | 0)",21-06-2022
+Nalbari,3,3,0,0,"(Banekuchi | 0), (Barbhag | 3), (Barkhetri | 0), (Ghograpar | 0), (Nalbari | 0), (Paschim Nalbari | 0), (Tihu | 0)",22-06-2022
+Kamrup,2,2,0,0,"(Chamaria | 0), (Chaygaon | 0), (Goroimari | 0), (Hajo | 0), (Kamalpur | 0), (Kayan | 1), (Nagarbera | 0), (North Ghy | 1), (Palashbari | 0), (Rangia | 0)",22-06-2022
+Hojai,4,1,0,3,"(Doboka | 1), (Hojai | 3), (Lanka | 0)",22-06-2022
+Barpeta,3,2,0,1,"(Baghbar | 1), (Barnagar | 0), (Barpeta | 0), (Chenga | 0), (Kalgachia | 1), (Sarthebari | 1)",22-06-2022
+Barpeta,2,1,0,1,"(Baghbar | 0), (Barnagar | 0), (Barpeta | 1), (Chenga | 1), (Kalgachia | 0), (Sarthebari | 0)",23-06-2022
+Bajali,1,1,0,0,"(Bajali | 1), (Sarupeta | 0)",23-06-2022
+Tamulpur,1,1,0,0,"(Goreswar | 1), (Tamulpur | 0)",23-06-2022
+Dhubri,1,0,0,1,"(Agamoni | 0), (Athani | 0), (Bilasipara | 0), (Chapar | 0), (Dhubri | 0), (Gauripur | 0), (Golakganj | 0), (South Salmara Part | 1)",23-06-2022
+Cachar,2,2,0,0,"(Katigorah | 0), (Lakhipur | 2), (Silchar | 0), (Sonai | 0), (Udharbond | 0)",23-06-2022
+Udalguri,2,2,0,0,"(Harisinga | 0), (Kalaigaon | 0), (Khairabari | 0), (Mazbat | 1), (Udalguri | 1)",24-06-2022
+Morigaon,1,1,0,0,"(Bhuragaon | 0), (Mayong | 1), (Mikirbheta | 0), (Morigaon | 0)",24-06-2022
+Barpeta,2,0,0,2,"(Baghbar | 0), (Barnagar | 0), (Barpeta | 0), (Chenga | 2), (Kalgachia | 0), (Sarthebari | 0)",24-06-2022
+Dhubri,2,0,0,2,"(Agamoni | 0), (Athani | 0), (Bilasipara | 1), (Dhubri | 0), (Gauripur | 1), (South Salmara Part | 0)",24-06-2022
+Cachar,1,1,0,0,"(Katigorah | 0), (Lakhipur | 0), (Silchar | 0), (Sonai | 1), (Udharbond | 0)",24-06-2022
+Karimganj,2,2,0,0,"(Badarpur | 1), (Karimganj | 0), (Nilambazar | 1), (Patherkandi | 0), (RK Nagar | 0)",24-06-2022
+Barpeta,1,0,0,1,"(Baghbar | 0), (Barnagar | 0), (Barpeta | 1), (Chenga | 0), (Kalgachia | 0), (Sarthebari | 0)",25-06-2022
+Darrang,1,1,0,0,"(Dalgaon | 0), (Mangaldoi | 1), (Patharighat | 0), (Sipajhar | 0)",25-06-2022
+Golaghat,1,1,0,0,"(Bokakhat | 1), (Khumtai | 0)",25-06-2022
+Cachar,1,0,0,1,"(Katigorah | 0), (Lakhipur | 0), (Silchar | 0), (Sonai | 1), (Udharbond | 0)",25-06-2022
+Cachar,1,0,0,1,"(Katigorah | 1), (Lakhipur | 0), (Silchar | 0), (Sonai | 0), (Udharbond | 0)",26-06-2022
+Darrang,1,0,0,1,"(Dalgaon | 1), (Mangaldoi | 0), (Patharighat | 0), (Sipajhar | 0)",26-06-2022
+Karimganj,1,0,0,1,"(Badarpur | 0), (Karimganj | 0), (Nilambazar | 0), (Patherkandi | 1), (RK Nagar | 0)",26-06-2022
+Morigaon,1,0,1,0,"(Bhuragaon | 0), (Mayong | 1), (Mikirbheta | 0), (Morigaon | 0)",26-06-2022
+Barpeta,1,0,0,1,"(Baghbar | 1), (Barnagar | 0), (Barpeta | 0), (Chenga | 0), (Kalgachia | 0), (Sarthebari | 0)",26-06-2022
+Cachar,5,4,0,1,"(Katigorah | 0), (Lakhipur | 0), (Silchar | 4), (Sonai | 0), (Udharbond | 1)",27-06-2022
+Kamrup (M),1,1,0,0,"(Chandrapur | 0), (Sonapur | 1)",27-06-2022
+Morigaon,1,1,0,0,"(Bhuragaon | 0), (Mayong | 1), (Mikirbheta | 0), (Morigaon | 0)",27-06-2022
+Nagaon,1,0,0,1,"(Kampur | 0), (Nagaon | 0), (Raha | 1)",27-06-2022
+Cachar,3,2,1,0,"(Katigorah | 0), (Lakhipur | 0), (Silchar | 3), (Sonai | 0), (Udharbond | 0)",28-06-2022
+Morigaon,1,0,0,1,"(Bhuragaon | 0), (Mayong | 0), (Mikirbheta | 0), (Morigaon | 1)",28-06-2022
+Dhubri,1,1,0,0,"(Athani | 0), (Dhubri | 1), (Gauripur | 0)",28-06-2022
+Nagaon,2,1,0,1,"(Kaliabor | 0), (Kampur | 0), (Nagaon | 0), (Raha | 2), (Samaguri | 1 0)",30-06-2022
+Morigaon,1,1,0,0,"(Bhuragaon | 0), (Mayong | 0), (Mikirbheta | 1), (Morigaon | 0)",30-06-2022
+Barpeta,1,0,0,1,"(Baghbar | 0), (Barpeta | 1), (Chenga | 0), (Kalgachia | 0), (Sarthebari | 0)",30-06-2022
+Biswanath,1,1,0,0,"(Biswanath | 0), (Gohpur | 0), (Halem | 1)",30-06-2022
+Dhemaji,1,1,0,0,"(Dhemaji | 0), (Gogamukh | 0), (Jonai | 1), (Sissiborgaon | 0)",30-06-2022
+Lakhimpur,2,1,0,1,"(Bihpuria | 2), (Dhakuakhana | 0), (Kadam | 0), (Narayanpur | 0), (North Lakhimpur | 0), (Nowboicha | 0), (Subansiri | 0)",30-06-2022
+Cachar,6,4,1,1,"(Katigorah | 0), (Lakhipur | 0), (Silchar | 4), (Sonai | 1), (Udharbond | 1)",01-07-2022
+Barpeta,2,0,0,2,"(Baghbar | 1), (Barpeta | 1), (Chenga | 0), (Kalgachia | 0), (Sarthebari | 0)",01-07-2022
+Nagaon,3,2,0,1,"(Kaliabor | 0), (Kampur | 0), (Nagaon | 2), (Raha | 1), (Rupahi | 0), (Samaguri | 0)",01-07-2022
+Lakhimpur,1,0,0,1,"(Bihpuria | 0), (Dhakuakhana | 0), (Kadam | 0), (Narayanpur | 0), (North Lakhimpur | 1), (Nowboicha | 0), (Subansiri | 0)",01-07-2022
+Karimganj,1,0,0,1,"(Badarpur | 0), (Karimganj | 0), (Nilambazar | 1), (Patherkandi | 0), (RK Nagar | 0)",01-07-2022
+Kokrajhar,1,1,0,0,"(Bagribari | 1), (Bhawraguri | 0), (Dotma | 0), (Gossaigaon | 0), (Kokrajhar | 0)",01-07-2022
+Cachar,1,1,0,0,"(Katigorah | 0), (Lakhipur | 0), (Silchar | 0), (Sonai | 1), (Udharbond | 0)",02-07-2022
+Karimganj,1,1,0,0,"(Badarpur | 0), (Karimganj | 1), (Nilambazar | 0), (RK Nagar | 0)",03-07-2022
+Lakhimpur,1,1,0,0,"(Bihpuria | 0), (Narayanpur | 1), (Nowboicha | 0), (Subansiri | 0)",03-07-2022
+Nagaon,2,2,0,0,"(Kampur | 0), (Nagaon | 0), (Raha | 2), (Rupahi | 0), (Samaguri | 0)",03-07-2022
+Sivasagar,1,1,0,0,"(Amguri | 0), (Demow | 1)",03-07-2022
+Cachar,1,0,0,1,"(Katigorah | 0), (Lakhipur | 0), (Silchar | 1), (Sonai | 0), (Udharbond | 0)",04-07-2022
+Cachar,2,1,0,1,"(Katigorah | 0), (Lakhipur | 0), (Silchar | 0), (Sonai | 1), (Udharbond | 1)",05-07-2022
+Morigaon,1,1,0,0,"(Bhuragaon | 0), (Mayong | 1), (Mikirbheta | 0), (Morigaon | 0)",05-07-2022
+Nagaon,1,0,0,1,"(Kampur | 0), (Nagaon | 0), (Raha | 1), (Samaguri | 0)",05-07-2022
+Nagaon,1,0,0,1,"(Kampur | 0), (Nagaon | 0), (Raha | 1), (Samaguri | 0)",06-07-2022
+Kamrup (M),1,0,0,1,"(Chandrapur | 0), (Sonapur | 1)",06-07-2022
+Cachar,1,0,0,1,"(Katigorah | 0), (Lakhipur | 0), (Silchar | 1), (Sonai | 0)",07-07-2022
+Cachar,1,0,1,0,"(Katigorah | 0), (Lakhipur | 0), (Silchar | 1), (Sonai | 0)",08-07-2022
+Hailakandi,1,1,0,0,"(Algapur | 0), (Hailakandi | 0), (Katlicherra | 1), (Lala | 0)",08-07-2022
+Nagaon,1,0,0,1,"(Nagaon | 1), (Raha | 0)",08-07-2022
+Hailakandi,2,2,0,0,"(Algapur | 2), (Hailakandi | 0), (Katlicherra | 0), (Lala | 0)",10-07-2022
+Nagaon,1,1,0,0,"(Kampur | 1), (Raha | 0)",13-07-2022
+Cachar,1,0,1,0,"(Katigorah | 0), (Silchar | 1)",15-07-2022
+Dibrugarh,1,1,0,0,(Chabua | 1),18-07-2022
+Cachar,1,1,0,0,"(Katigorah | 1), (Silchar | 0)",20-07-2022
+Cachar,1,1,0,0,(Katigorah | 1),26-07-2022
+Dhemaji,1,1,0,0,(Jonai | 1),16-09-2022
+Barpeta,1,1,0,0,"(Baghbar | 0), (Barpeta | 0), (Chenga | 1), (Kalgachia | 0), (Sarthebari | 0)",29-06-2022
+Chirang,2,2,0,0,"(Bengtal | 0), (Bijni | 2)",29-06-2022
+Biswanath,1,1,0,0,"(Biswanath | 0), (Gohpur | 1), (Halem | 0)",29-06-2022
+Cachar,2,2,0,0,"(Katigorah | 0), (Lakhipur | 1), (Silchar | 1), (Sonai | 0), (Udharbond | 0)",29-06-2022
+Darrang,1,1,0,0,"(Dalgaon | 0), (Mangaldoi | 0), (Patharighat | 0), (Sipajhar | 1)",29-06-2022
+Dhemaji,1,0,0,1,"(Dhemaji | 0), (Gogamukh | 0), (Jonai | 1), (Sissiborgaon | 0)",29-06-2022
+Golaghat,1,1,0,0,"(Bokakhat | 1), (Khumtai | 0)",29-06-2022
+Kamrup (M),1,1,0,0,"(Chandrapur | 0), (Dispur | 1), (Sonapur | 0)",29-06-2022
+Lakhimpur,1,1,0,0,"(Bihpuria | 1), (Dhakuakhana | 0), (Kadam | 0), (Narayanpur | 0), (North Lakhimpur | 0), (Nowboicha | 0), (Subansiri | 0)",29-06-2022
+Nagaon,1,1,0,0,"(Kampur | 0), (Nagaon | 1), (Raha | 0), (Samaguri | 0)",29-06-2022

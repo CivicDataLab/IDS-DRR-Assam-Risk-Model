@@ -1,0 +1,1238 @@
+District,Male,Female,Children,Total Population,Population Details,Crop Area ( in Hect. ),Crop Area Details,Date
+Nalbari,0,0,0,0,( Ghograpar | 0 ),16.8,( Ghograpar | 16.80 ),15-05-2022
+Nagaon,6,8,5,19,"( Raha | 0 ), ( Kampur | 19 )",2391.54,"( Raha | 1940.54 ), ( Kampur | 451.00 )",15-05-2022
+Cachar,16451,12399,12187,41037,"( Udharbond | 957 ), ( Lakhipur | 80 ), ( Sonai | 0 ), ( Silchar | 10000 ), ( Katigorah | 30000 )",2099.6,"( Udharbond | 129.00 ), ( Lakhipur | 97.00 ), ( Sonai | 157.10 ), ( Silchar | 594.50 ), ( Katigorah | 1122.00 )",15-05-2022
+Dhemaji,315,260,69,644,( Dhemaji | 644 ),12,( Dhemaji | 12.00 ),15-05-2022
+Hojai,7836,4618,1069,13523,"( Lanka | 0 ), ( Hojai | 13523 ), ( Doboka | 0 )",5801.5,"( Lanka | 245.50 ), ( Hojai | 5377.00 ), ( Doboka | 179.00 )",15-05-2022
+Karbi Anglong West,500,599,347,1446,( Donkamokam | 1446 ),0,( Donkamokam | 0.00 ),15-05-2022
+Bajali,89,75,19,183,( Bajali | 183 ),194,( Bajali | 194.00 ),16-05-2022
+Tamulpur,530,410,60,1000,( Goreswar | 1000 ),,( Goreswar | 0.00 ),16-05-2022
+Sonitpur,2352,1924,2095,6371,"( Dhekiajuli | 1340 ), ( Thelamara | 0 ), ( Chariduar | 4002 ), ( Tezpur | 1029 )",,"( Dhekiajuli | 107.00 ), ( Thelamara | 12.00 ), ( Chariduar | 151.00 ), ( Tezpur | 100.00 )",16-05-2022
+Nalbari,48,38,19,105,"( Paschim Nalbari | 0 ), ( Ghograpar | 0 ), ( Tihu | 105 )",,"( Paschim Nalbari | 1.40 ), ( Ghograpar | 14.00 ), ( Tihu | 20.00 )",16-05-2022
+Nagaon,7612,4801,3004,15417,"( Raha | 0 ), ( Kampur | 15417 )",,"( Raha | 2230.75 ), ( Kampur | 3157.00 )",16-05-2022
+Majuli,0,0,0,0,"( Ujani Majuli | 0 ), ( Majuli | 0 )",,"( Ujani Majuli | 32.00 ), ( Majuli | 48.00 )",16-05-2022
+Lakhimpur,2253,2172,1872,6297,"( Nowboicha | 0 ), ( Narayanpur | 248 ), ( Bihpuria | 6049 )",,"( Nowboicha | 25.00 ), ( Narayanpur | 10.00 ), ( Bihpuria | 73.00 )",16-05-2022
+Hojai,41607,29296,7254,78157,"( Lanka | 1034 ), ( Hojai | 29795 ), ( Doboka | 47328 )",4611.5,"( Lanka | 245.50 ), ( Hojai | 3940.00 ), ( Doboka | 426.00 )",16-05-2022
+Karbi Anglong West,1132,1172,1549,3853,( Donkamokam | 3853 ),,( Donkamokam | 0.00 ),16-05-2022
+Kamrup,155,138,66,359,( Rangia | 359 ),160,( Rangia | 160.00 ),16-05-2022
+Udalguri,4314,3411,1582,9307,"( Harisinga | 0 ), ( Khairabari | 619 ), ( Udalguri | 2242 ), ( Kalaigaon | 4232 ), ( Mazbat | 2214 )",,"( Harisinga | 0.00 ), ( Khairabari | 166.00 ), ( Udalguri | 3209.00 ), ( Kalaigaon | 0.00 ), ( Mazbat | 0.00 )",16-05-2022
+Charaideo,27,22,18,67,( Sapekhati | 67 ),0,( Sapekhati | 0.00 ),16-05-2022
+Dima-Hasao,500,500,270,1270,( Haflong | 1270 ),0,( Haflong | 0.00 ),16-05-2022
+Dibrugarh,1963,1503,1158,4624,"( Chabua | 4587 ), ( Naharkatia | 37 )",3.5,"( Chabua | 3.50 ), ( Naharkatia | 0.00 )",16-05-2022
+Kokrajhar,0,0,0,0,"( Bhawraguri | 0 ), ( Gossaigaon | 0 ), ( Bagribari | 0 )",,"( Bhawraguri | 52.63 ), ( Gossaigaon | 92.88 ), ( Bagribari | 354.35 )",16-05-2022
+Dhemaji,315,260,69,644,"( Dhemaji | 644 ), ( Jonai | 0 )",54,"( Dhemaji | 12.00 ), ( Jonai | 42.00 )",16-05-2022
+Darrang,7111,3483,2088,12682,"( Patharighat | 1495 ), ( Dalgaon | 7970 ), ( Mangaldoi | 3217 )",219,"( Patharighat | 0.00 ), ( Dalgaon | 0.00 ), ( Mangaldoi | 219.00 )",16-05-2022
+Biswanath,2520,2002,992,5514,"( Gohpur | 1500 ), ( Halem | 2013 ), ( Biswanath | 2001 )",360,"( Gohpur | 150.00 ), ( Halem | 210.00 ), ( Biswanath | 0.00 )",16-05-2022
+Cachar,19571,17519,14267,51357,"( Udharbond | 957 ), ( Sonai | 0 ), ( Lakhipur | 400 ), ( Silchar | 10000 ), ( Katigorah | 40000 )",1187.6,"( Udharbond | 59.00 ), ( Sonai | 300.60 ), ( Lakhipur | 8.00 ), ( Silchar | 594.50 ), ( Katigorah | 225.50 )",16-05-2022
+Baksa,20,14,7,41,( Baksa | 41 ),0,( Baksa | 0.00 ),16-05-2022
+Charaideo,45,42,40,127,( Sapekhati | 127 ),0,( Sapekhati | 0.00 ),17-05-2022
+Sonitpur,3835,3380,2501,9716,"( Naduar | 738 ), ( Thelamara | 0 ), ( Chariduar | 5791 ), ( Dhekiajuli | 1986 ), ( Tezpur | 1201 )",,"( Naduar | 151.00 ), ( Thelamara | 273.00 ), ( Chariduar | 79.00 ), ( Dhekiajuli | 176.00 ), ( Tezpur | 222.00 )",17-05-2022
+Nalbari,1039,807,341,2187,"( Barbhag | 0 ), ( Banekuchi | 176 ), ( Nalbari | 0 ), ( Paschim Nalbari | 1241 ), ( Ghograpar | 292 ), ( Tihu | 478 )",,"( Barbhag | 88.00 ), ( Banekuchi | 5.00 ), ( Nalbari | 13.00 ), ( Paschim Nalbari | 125.00 ), ( Ghograpar | 23.00 ), ( Tihu | 52.00 )",17-05-2022
+Nagaon,29691,19934,9350,58975,"( Raha | 219 ), ( Kampur | 58756 )",,"( Raha | 2537.57 ), ( Kampur | 5600.00 )",17-05-2022
+Morigaon,0,0,0,0,"( Mayong | 0 ), ( Morigaon | 0 )",,"( Mayong | 769.50 ), ( Morigaon | 412.26 )",17-05-2022
+Majuli,0,0,0,0,"( Majuli | 0 ), ( Ujani Majuli | 0 )",,"( Majuli | 61.48 ), ( Ujani Majuli | 34.03 )",17-05-2022
+Lakhimpur,4658,3895,3062,11615,"( North Lakhimpur | 1809 ), ( Nowboicha | 915 ), ( Narayanpur | 797 ), ( Bihpuria | 8094 )",,"( North Lakhimpur | 4.00 ), ( Nowboicha | 42.00 ), ( Narayanpur | 447.20 ), ( Bihpuria | 199.00 )",17-05-2022
+Tamulpur,0,0,0,0,"( Tamulpur | 0 ), ( Goreswar | 0 )",,"( Tamulpur | 0.00 ), ( Goreswar | 68.09 )",17-05-2022
+Kokrajhar,0,0,0,0,"( Kokrajhar | 0 ), ( Gossaigaon | 0 ), ( Bhawraguri | 0 ), ( Bagribari | 0 )",,"( Kokrajhar | 140.00 ), ( Gossaigaon | 1.00 ), ( Bhawraguri | 16.00 ), ( Bagribari | 429.10 )",17-05-2022
+WestKarimganj,1298,1021,745,3064,"( Badarpur | 248 ), ( Karimganj | 2816 )",,"( Badarpur | 0.00 ), ( Karimganj | 0.00 )",17-05-2022
+Karbi Anglong,294,295,211,800,( Donkamokam | 800 ),,( Donkamokam | 6.69 ),17-05-2022
+Kamrup,1568,1408,741,3717,"( Rangia | 3242 ), ( Kayan | 475 )",,"( Rangia | 246.00 ), ( Kayan | 231.00 )",17-05-2022
+Hojai,47538,32067,8815,88420,"( Lanka | 4126 ), ( Hojai | 30497 ), ( Doboka | 53797 )",,"( Lanka | 424.00 ), ( Hojai | 3701.00 ), ( Doboka | 640.00 )",17-05-2022
+Hailakandi,990,740,410,2140,( Algapur | 2140 ),,( Algapur | 53.00 ),17-05-2022
+Goalpara,0,0,0,0,( Rongjuli | 0 ),,( Rongjuli | 122.00 ),17-05-2022
+Dima-Hasao,500,500,270,1270,( Haflong | 1270 ),,( Haflong | 0.00 ),17-05-2022
+Dibrugarh,1949,1490,1148,4587,( Chabua | 4587 ),,( Chabua | 3.50 ),17-05-2022
+Bajali,32,29,4,65,( Bajali | 65 ),0,( Bajali | 0.00 ),17-05-2022
+Barpeta,0,0,0,0,( Sarthebari | 0 ),2241.6,( Sarthebari | 2241.60 ),17-05-2022
+Biswanath,18056,15169,6649,39874,"( Naduar RC part | 3234 ), ( Gohpur | 9325 ), ( Halem | 23721 ), ( Biswanath | 3594 )",2135.1,"( Naduar RC part | 130.00 ), ( Gohpur | 769.10 ), ( Halem | 811.00 ), ( Biswanath | 425.00 )",17-05-2022
+Bongaigaon,0,0,0,0,"( Srijangram | 0 ), ( Boitamari | 0 )",522,"( Srijangram | 432.00 ), ( Boitamari | 90.00 )",17-05-2022
+Dhemaji,305,250,57,612,"( Dhemaji | 612 ), ( Jonai | 0 ), ( Sissiborgaon | 0 )",,"( Dhemaji | 12.00 ), ( Jonai | 57.60 ), ( Sissiborgaon | 78.60 )",17-05-2022
+Darrang,22801,17267,16892,56960,"( Patharighat | 18295 ), ( Mangaldoi | 22219 ), ( Dalgaon | 16446 ), ( Sipajhar | 0 )",,"( Patharighat | 360.90 ), ( Mangaldoi | 587.00 ), ( Dalgaon | 3666.00 ), ( Sipajhar | 247.40 )",17-05-2022
+Cachar,38905,32827,24965,96697,"( Katigorah | 65000 ), ( Silchar | 20000 ), ( Lakhipur | 6740 ), ( Udharbond | 1205 ), ( Sonai | 3752 )",1462.9,"( Katigorah | 225.00 ), ( Silchar | 596.90 ), ( Lakhipur | 110.00 ), ( Udharbond | 134.00 ), ( Sonai | 397.00 )",17-05-2022
+Udalguri,9648,8420,4458,22526,"( Harisinga | 0 ), ( Kalaigaon | 19998 ), ( Mazbat | 2174 ), ( Udalguri | 123 ), ( Khairabari | 231 )",,"( Harisinga | 0.00 ), ( Kalaigaon | 2450.00 ), ( Mazbat | 0.00 ), ( Udalguri | 1568.00 ), ( Khairabari | 160.00 )",17-05-2022
+Kokrajhar,0,0,0,0,"( Kokrajhar | 0 ), ( Bagribari | 0 )",,"( Kokrajhar | 267.00 ), ( Bagribari | 1793.00 )",18-05-2022
+Udalguri,9325,7469,2961,19755,"( Udalguri | 7766 ), ( Kalaigaon | 11355 ), ( Khairabari | 629 ), ( Harisinga | 5 )",,"( Udalguri | 122.00 ), ( Kalaigaon | 22.00 ), ( Khairabari | 0.00 ), ( Harisinga | 0.00 )",18-05-2022
+Tamulpur,0,0,0,0,( Tamulpur | 0 ),,( Tamulpur | 60.00 ),18-05-2022
+Sonitpur,2750,2625,2090,7465,"( Naduar | 738 ), ( Dhekiajuli | 894 ), ( Chariduar | 4632 ), ( Tezpur | 1201 )",,"( Naduar | 151.00 ), ( Dhekiajuli | 62.60 ), ( Chariduar | 0.00 ), ( Tezpur | 222.00 )",18-05-2022
+Nalbari,4492,3558,1275,9325,"( Nalbari | 0 ), ( Barbhag | 0 ), ( Banekuchi | 120 ), ( Barkhetri | 0 ), ( Paschim Nalbari | 1241 ), ( Tihu | 7964 ), ( Ghograpar | 0 )",,"( Nalbari | 15.00 ), ( Barbhag | 128.50 ), ( Banekuchi | 38.50 ), ( Barkhetri | 594.00 ), ( Paschim Nalbari | 152.00 ), ( Tihu | 292.00 ), ( Ghograpar | 31.00 )",18-05-2022
+Nagaon,126253,114454,47605,288312,"( Raha | 56125 ), ( Kampur | 230380 ), ( Nagaon | 1807 )",,"( Raha | 3974.57 ), ( Kampur | 5600.00 ), ( Nagaon | 168.00 )",18-05-2022
+Morigaon,0,0,0,0,"( Mayong | 0 ), ( Morigaon | 0 )",,"( Mayong | 1275.00 ), ( Morigaon | 795.69 )",18-05-2022
+Majuli,0,0,0,0,"( Majuli | 0 ), ( Ujani Majuli | 0 )",,"( Majuli | 167.38 ), ( Ujani Majuli | 26.09 )",18-05-2022
+Lakhimpur,1594,1433,3290,6317,"( Nowboicha | 915 ), ( North Lakhimpur | 600 ), ( Narayanpur | 110 ), ( Bihpuria | 4692 )",,"( Nowboicha | 144.50 ), ( North Lakhimpur | 4.00 ), ( Narayanpur | 476.70 ), ( Bihpuria | 258.00 )",18-05-2022
+Karimganj,1490,1211,865,3566,"( Badarpur | 210 ), ( Karimganj | 3356 )",,"( Badarpur | 0.00 ), ( Karimganj | 0.00 )",18-05-2022
+Karbi Anglong,1334,1335,1297,3966,( Donkamokam | 3966 ),290,( Donkamokam | 290.00 ),18-05-2022
+Kamrup,396,299,140,835,"( Kayan | 416 ), ( Rangia | 419 )",504.7,"( Kayan | 242.70 ), ( Rangia | 262.00 )",18-05-2022
+Hojai,56592,36899,13708,107199,"( Doboka | 53795 ), ( Hojai | 46569 ), ( Lanka | 6835 )",5802,"( Doboka | 874.00 ), ( Hojai | 4278.00 ), ( Lanka | 650.00 )",18-05-2022
+Kamrup (M),0,0,0,0,( Chandrapur | 0 ),778,( Chandrapur | 778.00 ),18-05-2022
+Goalpara,0,0,0,0,( Rongjuli | 0 ),276.2,( Rongjuli | 276.20 ),18-05-2022
+Bajali,31,27,4,62,( Bajali | 62 ),0,( Bajali | 0.00 ),18-05-2022
+Baksa,2,1,0,3,( Barama | 3 ),0,( Barama | 0.00 ),18-05-2022
+Barpeta,0,0,0,0,"( Chenga | 0 ), ( Sarthebari | 0 ), ( Baghbar | 0 ), ( Kalgachia | 0 )",2599.3,"( Chenga | 1446.80 ), ( Sarthebari | 153.00 ), ( Baghbar | 222.00 ), ( Kalgachia | 777.50 )",18-05-2022
+Biswanath,12828,10580,3874,27282,"( Halem | 19012 ), ( Naduar RC part | 1450 ), ( Gohpur | 4036 ), ( Biswanath | 2784 )",2566.5,"( Halem | 593.00 ), ( Naduar RC part | 191.50 ), ( Gohpur | 532.00 ), ( Biswanath | 1250.00 )",18-05-2022
+Hailakandi,290,280,190,760,( Algapur | 760 ),154,( Algapur | 154.00 ),18-05-2022
+Cachar,47372,39483,32815,119670,"( Sonai | 10105 ), ( Lakhipur | 6740 ), ( Udharbond | 1830 ), ( Silchar | 30000 ), ( Katigorah | 70995 )",7424.9,"( Sonai | 1449.80 ), ( Lakhipur | 106.00 ), ( Udharbond | 507.50 ), ( Silchar | 1137.50 ), ( Katigorah | 4224.10 )",18-05-2022
+Bongaigaon,0,0,0,0,"( Manikpur | 0 ), ( Bongaigaon | 0 ), ( Boitamari | 0 ), ( Srijangram | 0 )",951,"( Manikpur | 544.00 ), ( Bongaigaon | 197.00 ), ( Boitamari | 44.00 ), ( Srijangram | 166.00 )",18-05-2022
+Darrang,24975,21902,13685,60562,"( Patharighat | 24395 ), ( Mangaldoi | 30390 ), ( Dalgaon | 4977 ), ( Sipajhar | 800 )",7582.6,"( Patharighat | 366.90 ), ( Mangaldoi | 1559.00 ), ( Dalgaon | 5388.70 ), ( Sipajhar | 268.00 )",18-05-2022
+Dhemaji,153,123,53,329,"( Gogamukh | 71 ), ( Jonai | 0 ), ( Dhemaji | 258 ), ( Sissiborgaon | 0 )",387.2,"( Gogamukh | 0.00 ), ( Jonai | 303.60 ), ( Dhemaji | 5.00 ), ( Sissiborgaon | 78.60 )",18-05-2022
+Dibrugarh,1949,1490,1148,4587,( Chabua | 4587 ),3.5,( Chabua | 3.50 ),18-05-2022
+Dima-Hasao,770,990,440,2200,( Haflong | 2200 ),0,( Haflong | 0.00 ),18-05-2022
+Charaideo,82,57,51,190,( Sapekhati | 190 ),0,( Sapekhati | 0.00 ),18-05-2022
+Kamrup (M),0,0,0,0,( Chandrapur | 0 ),778,( Chandrapur | 778.00 ),19-05-2022
+Lakhimpur,1907,1534,1935,5376,"( Nowboicha | 915 ), ( Narayanpur | 0 ), ( Bihpuria | 2962 ), ( North Lakhimpur | 1499 )",777.7,"( Nowboicha | 0.00 ), ( Narayanpur | 549.70 ), ( Bihpuria | 216.00 ), (
+North Lakhimpur | 12.00 )",19-05-2022
+Karbi Anglong West,611,611,773,1995,( Donkamokam | 1995 ),7,( Donkamokam | 7.00 ),19-05-2022
+Karimganj,4576,3698,3757,12031,"( Karimganj | 10004 ), ( Badarpur | 2027 )",11.2,"( Karimganj | 0.00 ), ( Badarpur | 11.20 )",19-05-2022
+Kokrajhar,0,0,0,0,"( Bagribari | 0 ), ( Bhawraguri | 0 )",246.4,"( Bagribari | 241.90 ), ( Bhawraguri | 4.50 )",19-05-2022
+Majuli,0,0,0,0,"( Majuli | 0 ), ( Ujani Majuli | 0 )",,"( Majuli | 255.08 ), ( Ujani Majuli | 31.35 )",19-05-2022
+Dibrugarh,1949,1490,1148,4587,( Chabua | 4587 ),3.5,( Chabua | 3.50 ),19-05-2022
+Nagaon,143382,128870,58989,331241,"( Kampur | 237158 ), ( Raha | 79305 ), ( Nagaon | 14778 )",,"( Kampur | 5600.00 ), ( Raha | 4867.94 ), ( Nagaon | 1398.00 )",19-05-2022
+Nalbari,4294,3406,1219,8919,"( Barbhag | 0 ), ( Barkhetri | 0 ), ( Nalbari | 0 ), ( Tihu | 7964 ), ( Paschim Nalbari | 955 ), ( Ghograpar | 0 )",,"( Barbhag | 173.00 ), ( Barkhetri | 840.00 ), ( Nalbari | 30.60 ), ( Tihu | 36.00 ), ( Paschim Nalbari | 152.00 ), ( Ghograpar | 64.50 )",19-05-2022
+Sonitpur,2391,2325,1855,6571,"( Naduar | 738 ), ( Tezpur | 1201 ), ( Thelamara | 0 ), ( Dhekiajuli | 0 ), ( Chariduar | 4632 )",,"( Naduar | 151.00 ), ( Tezpur | 222.00 ), ( Thelamara | 180.00 ), ( Dhekiajuli | 1123.00 ), ( Chariduar | 76.00 )",19-05-2022
+Udalguri,5462,3950,1720,11132,"( Harisinga | 0 ), ( Khairabari | 289 ), ( Kalaigaon | 8922 ), ( Udalguri | 1921 )",,"( Harisinga | 0.00 ), ( Khairabari | 0.00 ), ( Kalaigaon | 0.00 ), ( Udalguri | 0.00 )",19-05-2022
+Kamrup,24,19,14,57,"( Chamaria | 0 ), ( Nagarbera | 0 ), ( Kayan | 0 ), ( Rangia | 57 )",1907.2,"( Chamaria | 1468.50 ), ( Nagarbera | 99.50 ), ( Kayan | 68.20 ), ( Rangia | 271.00 )",19-05-2022
+Morigaon,373,356,165,894,"( Mayong | 0 ), ( Morigaon | 894 )",,"( Mayong | 4680.00 ), ( Morigaon | 1358.19 )",19-05-2022
+Hojai,52951,34360,10059,97370,"( Lanka | 3852 ), ( Doboka | 53838 ), ( Hojai | 39680 )",5447,"( Lanka | 650.00 ), ( Doboka | 1231.00 ), ( Hojai | 3566.00 )",19-05-2022
+Barpeta,0,0,0,0,"( Sarthebari | 0 ), ( Chenga | 0 ), ( Kalgachia | 0 ), ( Baghbar | 0 )",5537.3,"( Sarthebari | 282.50 ), ( Chenga | 1471.00 ), ( Kalgachia | 967.00 ), ( Baghbar | 2816.80 )",19-05-2022
+Goalpara,0,0,0,0,"( Matia | 0 ), ( Balijana | 0 ), ( Rongjuli | 0 ), ( Lakhipur | 0 )",6867,"( Matia | 1750.00 ), ( Balijana | 722.50 ), ( Rongjuli | 300.00 ), ( Lakhipur | 4094.50 )",19-05-2022
+Bajali,19,13,4,36,( Bajali | 36 ),0,( Bajali | 0.00 ),19-05-2022
+Hailakandi,870,660,320,1850,( Algapur | 1850 ),13,( Algapur | 13.00 ),19-05-2022
+Biswanath,5082,4423,2849,12354,"( Biswanath | 1434 ), ( Naduar RC part | 1450 ), ( Gohpur | 3608 ), ( Halem | 5862 )",1815,"( Biswanath | 713.00 ), ( Naduar RC part | 204.00 ), ( Gohpur | 662.00 ), ( Halem | 236.00 )",19-05-2022
+Bongaigaon,0,0,0,0,"( Manikpur | 0 ), ( Srijangram | 0 )",1730,"( Manikpur | 67.00 ), ( Srijangram | 1663.00 )",19-05-2022
+Cachar,60640,54629,44515,159784,"( Katigorah | 110575 ), ( Udharbond | 1205 ), ( Silchar | 30000 ), ( Lakhipur | 7899 ), ( Sonai | 10105 )",5550,"( Katigorah | 3052.00 ), ( Udharbond | 146.00 ), ( Silchar | 1238.00 ), ( Lakhipur | 293.00 ), ( Sonai | 821.00 )",19-05-2022
+Baksa,0,0,0,0,( Baksa | 0 ),2.5,( Baksa | 2.50 ),19-05-2022
+Dhemaji,315,260,69,644,"( Jonai | 0 ), ( Sissiborgaon | 0 ), ( Dhemaji | 644 )",431.85,"( Jonai | 303.60 ), ( Sissiborgaon | 116.25 ), ( Dhemaji | 12.00 )",19-05-2022
+Dhubri,0,0,0,0,"( Gauripur | 0 ), ( Dhubri | 0 ), ( Athani | 0 ), ( Chapar | 0 )",1228.41,"( Gauripur | 534.00 ), ( Dhubri | 67.00 ), ( Athani | 471.41 ), ( Chapar | 156.00 )",19-05-2022
+Dima-Hasao,323,323,365,1011,( Haflong | 1011 ),0,( Haflong | 0.00 ),19-05-2022
+Darrang,26066,21982,13688,61736,"( Dalgaon | 3977 ), ( Patharighat | 26433 ), ( Mangaldoi | 30860 ), ( Sipajhar | 466 )",10378.9,"( Dalgaon | 7441.50 ), ( Patharighat | 385.40 ), ( Mangaldoi | 2259.00 ), ( Sipajhar | 293.00 )",19-05-2022
+Hojai,62736,38270,10015,111021,"( Lanka | 1919 ), ( Hojai | 55943 ), ( Doboka | 53159 )",5213,"( Lanka | 650.00 ), ( Hojai | 3332.00 ), ( Doboka | 1231.00 )",20-05-2022
+Majuli,0,0,0,0,"( Ujani Majuli | 0 ), ( Majuli | 0 )",219.43,"( Ujani Majuli | 38.25 ), ( Majuli | 181.18 )",20-05-2022
+Lakhimpur,1000,658,207,1865,"( Subansiri | 40 ), ( North Lakhimpur | 1825 ), ( Narayanpur | 0 ), ( Bihpuria | 0 )",906.4,"( Subansiri | 20.00 ), ( North Lakhimpur | 3.00 ), ( Narayanpur | 628.40 ), ( Bihpuria | 255.00 )",20-05-2022
+Kokrajhar,0,0,0,0,"( Bagribari | 0 ), ( Bhawraguri | 0 )",278.55,"( Bagribari | 241.90 ), ( Bhawraguri | 36.65 )",20-05-2022
+Karimganj,5673,4434,4055,14162,"( Karimganj | 10996 ), ( Badarpur | 3166 )",6.9,"( Karimganj | 0.00 ), ( Badarpur | 6.90 )",20-05-2022
+Karbi Anglong West,344,348,388,1080,( Donkamokam | 1080 ),0,( Donkamokam | 0.00 ),20-05-2022
+Kamrup (M),0,0,0,0,( Chandrapur | 0 ),778,( Chandrapur | 778.00 ),20-05-2022
+Kamrup,11,10,5,26,"( Chamaria | 0 ), ( Chaygaon | 0 ), ( Nagarbera | 0 ), ( Hajo | 0 ), ( Rangia | 26 ), ( Boko | 0 ), ( Kayan | 0 ), ( Kamalpur | 0 ), ( Goroimari | 0 )",4099.55,"( Chamaria | 1829.50 ), ( Chaygaon | 82.00 ), ( Nagarbera | 99.50 ), ( Hajo | 1146.05 ), ( Rangia | 277.00 ), ( Boko | 56.00 ), ( Kayan | 80.00 ), ( Kamalpur | 44.00 ), ( Goroimari | 485.50 )",20-05-2022
+Jorhat,0,0,0,0,( Jorhat West | 0 ),130,( Jorhat West | 130.00 ),20-05-2022
+Golaghat,0,0,0,0,"( Sarupathar | 0 ), ( Khumtai | 0 )",38.14,"( Sarupathar | 12.14 ), ( Khumtai | 26.00 )",20-05-2022
+Dima-Hasao,140,125,70,335,( Haflong | 335 ),115,( Haflong | 115.00 ),20-05-2022
+Dibrugarh,1949,1490,1148,4587,( Chabua | 4587 ),3.5,( Chabua | 3.50 ),20-05-2022
+Dhubri,0,0,0,0,"( Dhubri | 0 ), ( Gauripur | 0 ), ( Golakganj | 0 ), ( Bilasipara | 0 ), ( Athani | 0 ), ( Chapar | 0 )",5974.33,"( Dhubri | 1061.00 ), ( Gauripur | 937.50 ), ( Golakganj | 151.00 ), ( Bilasipara | 1647.70 ), ( Athani | 1726.13 ), ( Chapar | 451.00 )",20-05-2022
+Dhemaji,315,260,69,644,"( Jonai | 0 ), ( Dhemaji | 644 )",339.2,"( Jonai | 327.20 ), ( Dhemaji | 12.00 )",20-05-2022
+Darrang,22175,18799,11735,52709,"( Mangaldoi | 29790 ), ( Dalgaon | 1985 ), ( Patharighat | 20809 ), ( Sipajhar | 125 )",10707.9,"( Mangaldoi | 2494.50 ), ( Dalgaon | 7441.50 ), ( Patharighat | 385.40 ), ( Sipajhar | 386.50 )",20-05-2022
+Charaideo,0,0,0,0,( Mahmora | 0 ),1.6,( Mahmora | 1.60 ),20-05-2022
+Cachar,62770,57154,46702,166626,"( Katigorah | 110575 ), ( Silchar | 32500 ), ( Udharbond | 1755 ), ( Sonai | 12800 ), ( Lakhipur | 8996 )",6890.5,"( Katigorah | 3052.00 ), ( Silchar | 1385.00 ), ( Udharbond | 275.00 ), ( Sonai | 1838.30 ), ( Lakhipur | 340.20 )",20-05-2022
+Bongaigaon,0,0,0,0,"( Manikpur | 0 ), ( Srijangram | 0 ), ( Boitamari | 0 )",1145,"( Manikpur | 188.00 ), ( Srijangram | 319.00 ), ( Boitamari | 638.00 )",20-05-2022
+Biswanath,2597,2198,1952,6747,"( Naduar RC part | 1450 ), ( Biswanath | 480 ), ( Gohpur | 1709 ), ( Halem | 3108 )",563,"( Naduar RC part | 208.00 ), ( Biswanath | 0.00 ), ( Gohpur | 238.00 ), ( Halem | 117.00 )",20-05-2022
+Barpeta,0,0,0,0,"( Barpeta | 0 ), ( Sarthebari | 0 ), ( Kalgachia | 0 ), ( Chenga | 0 ), ( Baghbar | 0 )",8015.77,"( Barpeta | 1289.00 ), ( Sarthebari | 3717.10 ), ( Kalgachia | 1457.00 ), ( Chenga | 1153.00 ), ( Baghbar | 399.67 )",20-05-2022
+Morigaon,1341,1229,615,3185,"( Mayong | 0 ), ( Morigaon | 3185 )",8060.51,"( Mayong | 5853.50 ), ( Morigaon | 2207.01 )",20-05-2022
+Goalpara,0,0,0,0,"( Lakhipur | 0 ), ( Balijana | 0 ), ( Matia | 0 ), ( Rongjuli | 0 )",9525.5,"( Lakhipur | 6750.00 ), ( Balijana | 722.50 ), ( Matia | 1750.00 ), ( Rongjuli | 303.00 )",20-05-2022
+Nagaon,144924,131385,60109,336418,"( Nagaon | 17385 ), ( Kampur | 237158 ), ( Raha | 81875 )",12443.42,"( Nagaon | 1676.00 ), ( Kampur | 5600.00 ), ( Raha | 5167.42 )",20-05-2022
+Udalguri,971,789,381,2141,"( Harisinga | 0 ), ( Kalaigaon | 1986 ), ( Udalguri | 155 )",0,"( Harisinga | 0.00 ), ( Kalaigaon | 0.00 ), (
+Udalguri | 0.00 )",20-05-2022
+Sonitpur,2192,2139,1553,5884,"( Naduar | 958 ), ( Dhekiajuli | 0 ), ( Chariduar | 4632 ), ( Tezpur | 294 )",1387.1,"( Naduar | 151.00 ), ( Dhekiajuli | 1088.10 ), ( Chariduar | 0.00 ), ( Tezpur | 148.00 )",20-05-2022
+South Salmara,0,0,0,0,( Mankachar | 0 ),140,( Mankachar | 140.00 ),20-05-2022
+Nalbari,2218,1481,776,4475,"( Barbhag | 0 ), ( Tihu | 3692 ), ( Barkhetri | 0 ), ( Ghograpar | 0 ), ( Paschim Nalbari | 783 ), ( Nalbari | 0 )",3035.6,"( Barbhag | 255.00 ), ( Tihu | 36.00 ), ( Barkhetri | 2351.00 ), ( Ghograpar | 64.00 ), ( Paschim Nalbari | 161.00 ), ( Nalbari | 168.60 )",20-05-2022
+Tinsukia,0,0,0,0,( Doomdooma | 0 ),19,( Doomdooma | 19.00 ),20-05-2022
+Golaghat,0,0,0,0,"( Bokakhat | 0 ), ( Khumtai | 0 )",51,"( Bokakhat | 25.00 ), ( Khumtai | 26.00 )",21-05-2022
+Hojai,36587,25952,7694,70233,"( Lanka | 2334 ), ( Hojai | 14639 ), ( Doboka | 53260 )",3949,"( Lanka | 650.00 ), ( Hojai | 2051.00 ), ( Doboka | 1248.00 )",21-05-2022
+Jorhat,0,0,0,0,( Jorhat East | 0 ),35,( Jorhat East | 35.00 ),21-05-2022
+Kamrup,8,7,4,19,"( Chaygaon | 0 ), ( Nagarbera | 0 ), ( Chamaria | 0 ), ( Goroimari | 0 ), ( Hajo | 0 ), ( Kayan | 0 ), ( Boko | 0 ), ( Kamalpur | 0 ), ( Rangia | 19 )",4907.98,"( Chaygaon | 62.00 ), ( Nagarbera | 1209.00 ), ( Chamaria | 1829.50 ), ( Goroimari | 559.00 ), ( Hajo | 988.98 ), ( Kayan | 99.00 ), ( Boko | 69.00 ), ( Kamalpur | 44.00 ), ( Rangia | 47.50 )",21-05-2022
+Kamrup (M),0,0,0,0,"( Chandrapur | 0 ), ( Sonapur | 0 )",1158,"( Chandrapur | 826.00 ), ( Sonapur | 332.00 )",21-05-2022
+Karbi Anglong West,660,678,761,2099,( Donkamokam | 2099 ),0,( Donkamokam | 0.00 ),21-05-2022
+Karimganj,7144,5074,4164,16382,"( Karimganj | 10996 ), ( Badarpur | 5386 )",3.3,"( Karimganj | 0.00 ), ( Badarpur | 3.30 )",21-05-2022
+Kokrajhar,0,0,0,0,( Bagribari | 0 ),69.38,( Bagribari | 69.38 ),21-05-2022
+Lakhimpur,1000,658,207,1865,"( Subansiri | 40 ), ( North Lakhimpur | 1825 ), ( Narayanpur | 0 ), ( Bihpuria | 0 )",1210.4,"( Subansiri | 227.90 ), ( North Lakhimpur | 0.00 ), ( Narayanpur | 570.50 ), ( Bihpuria | 412.00 )",21-05-2022
+Morigaon,7055,6125,4596,17776,"( Morigaon | 17776 ), ( Mayong | 0 )",11238.63,"( Morigaon | 3429.63 ), ( Mayong | 7809.00 )",21-05-2022
+Goalpara,0,0,0,0,"( Lakhipur | 0 ), ( Balijana | 0 ), ( Rongjuli | 0 ), ( Matia | 0 )",13900,"( Lakhipur | 8483.00 ), ( Balijana | 2408.00 ), ( Rongjuli | 487.00 ), ( Matia | 2522.00 )",21-05-2022
+Nagaon,146165,132534,60728,339427,"( Kampur | 237158 ), ( Raha | 82164 ), ( Nagaon | 20105 )",14263.87,"( Kampur | 5600.00 ), ( Raha | 5354.87 ), ( Nagaon | 3309.00 )",21-05-2022
+Nalbari,270,185,42,497,"( Barbhag | 0 ), ( Nalbari | 0 ), ( Barkhetri | 0 ), ( Ghograpar | 0 ), ( Tihu | 0 ), ( Paschim Nalbari | 497 )",3798.6,"( Barbhag | 270.00 ), ( Nalbari | 168.60 ), ( Barkhetri | 3075.00 ), ( Ghograpar | 88.00 ), ( Tihu | 36.00 ), ( Paschim Nalbari | 161.00 )",21-05-2022
+Sivasagar,0,0,0,0,( Sonari RC part | 0 ),7.6,( Sonari RC part | 7.60 ),21-05-2022
+Sonitpur,220,195,67,482,"( Naduar | 332 ), ( Dhekiajuli | 0 ), ( Chariduar | 150 ), ( Tezpur | 0 )",1099.1,"( Naduar | 92.00 ), ( Dhekiajuli | 905.10 ), ( Chariduar | 0.00 ), ( Tezpur | 102.00 )",21-05-2022
+South Salmara,0,0,0,0,"( Mankachar | 0 ), ( South Salmara | 0 )",243,"( Mankachar | 140.00 ), ( South Salmara | 103.00 )",21-05-2022
+Tinsukia,0,0,0,0,( Doomdooma | 0 ),,( Doomdooma | 15.00 ),21-05-2022
+Udalguri,243,141,29,413,"( Harisinga | 0 ), ( Kalaigaon | 0 ), ( Udalguri | 413 )",,"( Harisinga | 0.00 ), ( Kalaigaon | 0.00 ), ( Udalguri | 0.00 )",21-05-2022
+Majuli,0,0,0,0,"( Ujani Majuli | 0 ), ( Majuli | 0 )",151.43,"( Ujani Majuli | 33.25 ), ( Majuli | 118.18 )",21-05-2022
+Dibrugarh,1949,1490,1148,4587,( Chabua | 4587 ),3.5,( Chabua | 3.50 ),21-05-2022
+Hailakandi,35,37,7,79,( Algapur | 79 ),0,( Algapur | 0.00 ),21-05-2022
+Charaideo,0,0,0,0,( Sonari | 0 ),1.6,( Sonari | 1.60 ),21-05-2022
+Dhubri,0,0,0,0,"( Dhubri | 0 ), ( Golakganj | 0 ), ( Gauripur | 0 ), ( South Salmara Part | 0 )",4574.7,"( Dhubri | 1236.50 ), ( Golakganj | 1215.00 ), ( Gauripur | 1137.00 ), ( South Salmara Part | 986.20 )",21-05-2022
+Baksa,0,0,0,0,( Baksa | 0 ),1.46,( Baksa | 1.46 ),21-05-2022
+Barpeta,1550,736,250,2536,"( Barpeta | 2536 ), ( Sarthebari | 0 ), ( Kalgachia | 0 ), ( Chenga | 0 ), ( Baghbar | 0 )",7354.5,"( Barpeta | 1286.00 ), ( Sarthebari | 3102.00 ), ( Kalgachia | 1457.00 ), ( Chenga | 1153.00 ), ( Baghbar | 356.50 )",21-05-2022
+Biswanath,391,248,104,743,"( Naduar RC part | 0 ), ( Halem | 0 ), ( Gohpur | 582 ), ( Biswanath | 161 )",398,"( Naduar RC part | 41.00 ), ( Halem | 0.00 ), ( Gohpur | 215.00 ), ( Biswanath | 142.00 )",21-05-2022
+Dhemaji,315,260,69,644,"( Jonai | 0 ), ( Dhemaji | 644 )",384.2,"( Jonai | 372.20 ), ( Dhemaji | 12.00 )",21-05-2022
+Darrang,18032,15906,10444,44382,"( Patharighat | 18560 ), ( Dalgaon | 1270 ), ( Mangaldoi | 24417 ), ( Sipajhar | 135 )",20195.4,"( Patharighat | 298.90 ), ( Dalgaon | 7441.50 ), ( Mangaldoi | 11963.00 ), ( Sipajhar | 492.00 )",21-05-2022
+Bongaigaon,0,0,0,0,"( Manikpur | 0 ), ( Srijangram | 0 )",431,"( Manikpur | 143.00 ), ( Srijangram | 288.00 )",21-05-2022
+Cachar,83630,39512,54812,177954,"( Silchar | 37000 ), ( Katigorah | 77967 ), ( Udharbond | 5780 ), ( Lakhipur | 37220 ), ( Sonai | 19987 )",4116.75,"( Silchar | 501.00 ), ( Katigorah | 2015.00 ), ( Udharbond | 217.00 ), ( Lakhipur | 375.00 ), ( Sonai | 1008.75 )",21-05-2022
+Karimganj,7144,5074,4164,16382,"( Karimganj | 10996 ), ( Badarpur | 5386 )",,"( Karimganj | 0.00 ), ( Badarpur | 0.00 )",22-05-2022
+Karbi Anglong West,800,922,280,2002,( Donkamokam | 2002 ),541,( Donkamokam | 541.00 ),22-05-2022
+Kamrup (M),0,0,0,0,"( Chandrapur | 0 ), ( Sonapur | 0 )",1185.5,"( Chandrapur | 883.00 ), ( Sonapur | 302.50 )",22-05-2022
+Nagaon,150069,134061,61708,345838,"( Kampur | 237158 ), ( Nagaon | 24973 ), ( Raha | 83707 )",,"( Kampur | 5600.00 ), ( Nagaon | 3409.00 ), ( Raha | 5701.24 )",22-05-2022
+Kamrup,130,46,40,216,"( Chamaria | 0 ), ( Nagarbera | 0 ), ( Chaygaon | 0 ), ( Rangia | 0 ), ( Boko | 0 ), ( Goroimari | 0 ), ( North Ghy | 0 ), ( Hajo | 0 ), ( Kayan | 0 ), ( Kamalpur | 216 )",5298.2,"( Chamaria | 1829.50 ), ( Nagarbera | 1296.00 ), ( Chaygaon | 50.00 ), ( Rangia | 37.50 ), ( Boko | 69.00 ), ( Goroimari | 485.50 ), ( North Ghy | 2.13 ), ( Hajo | 1385.57 ), ( Kayan | 99.00 ), ( Kamalpur | 44.00 )",22-05-2022
+Jorhat,0,0,0,0,"( Jorhat West | 0 ), ( Jorhat East | 0 )",154,"( Jorhat West | 119.00 ), ( Jorhat East | 35.00 )",22-05-2022
+Hojai,30037,22667,5689,58393,"( Lanka | 975 ), ( Doboka | 52458 ), ( Hojai | 4960 )",1916,"( Lanka | 221.00 ), ( Doboka | 1183.00 ), ( Hojai | 512.00 )",22-05-2022
+Golaghat,0,0,0,0,"( Bokakhat | 0 ), ( Khumtai | 0 )",42,"( Bokakhat | 25.00 ), ( Khumtai | 17.00 )",22-05-2022
+Goalpara,0,0,0,0,"( Lakhipur | 0 ), ( Balijana | 0 ), ( Matia | 0 ), ( Rongjuli | 0 )",15477,"( Lakhipur | 10060.00 ), ( Balijana | 2408.00 ), ( Matia | 2522.00 ), ( Rongjuli | 487.00 )",22-05-2022
+Dhubri,0,0,0,0,"( Dhubri | 0 ), ( South Salmara Part | 0 ), ( Gauripur | 0 )",4097.5,"( Dhubri | 1413.00 ), ( South Salmara Part | 1172.00 ), ( Gauripur | 1512.50 )",22-05-2022
+Dhemaji,0,0,0,0,( Jonai | 0 ),372.2,( Jonai | 372.20 ),22-05-2022
+Biswanath,63,51,17,131,( Gohpur | 131 ),83,( Gohpur | 83.00 ),22-05-2022
+Barpeta,27,11,0,38,"( Barpeta | 38 ), ( Kalgachia | 0 ), ( Chenga | 0 ), ( Sarthebari | 0 ), ( Baghbar | 0 )",6861.5,"( Barpeta | 0.00 ), ( Kalgachia | 1457.00 ), ( Chenga | 1125.10 ), ( Sarthebari | 3102.00 ), ( Baghbar | 1177.40 )",22-05-2022
+Cachar,91636,83309,54330,229275,"( Katigorah | 97579 ), ( Udharbond | 10203 ), ( Silchar | 37000 ), ( Lakhipur | 44538 ), ( Sonai | 39955 )",5915,"( Katigorah | 3125.00 ), ( Udharbond | 146.00 ), ( Silchar | 1268.00 ), ( Lakhipur | 223.00 ), ( Sonai | 1153.00 )",22-05-2022
+Udalguri,100,68,108,276,"( Harisinga | 0 ), ( Kalaigaon | 0 ), ( Mazbat | 276 )",,"( Harisinga | 0.00 ), ( Kalaigaon | 0.00 ), ( Mazbat | 0.00 )",22-05-2022
+Darrang,12123,10075,5803,28001,"( Patharighat | 9717 ), ( Dalgaon | 292 ), ( Mangaldoi | 17992 ), ( Sipajhar | 0 )",20197.4,"( Patharighat | 298.90 ), ( Dalgaon | 7441.50 ), ( Mangaldoi | 11963.00 ), ( Sipajhar | 494.00 )",22-05-2022
+Sonitpur,100,95,25,220,"( Naduar | 220 ), ( Dhekiajuli | 0 )",,"( Naduar | 50.00 ), ( Dhekiajuli | 448.00 )",22-05-2022
+Lakhimpur,0,0,0,0,"( Narayanpur | 0 ), ( Bihpuria | 0 )",,"( Narayanpur | 581.20 ), ( Bihpuria | 479.00 )",22-05-2022
+Majuli,0,0,0,0,"( Majuli | 0 ), ( Ujani Majuli | 0 )",,"( Majuli | 42.51 ), ( Ujani Majuli | 25.93 )",22-05-2022
+Morigaon,15100,14574,8864,38538,"( Mayong | 0 ), ( Morigaon | 38538 )",,"( Mayong | 9402.00 ), ( Morigaon | 3659.33 )",22-05-2022
+Nalbari,49,44,22,115,"( Barbhag | 0 ), ( Barkhetri | 0 ), ( Tihu | 0 ), ( Ghograpar | 0 ), ( Nalbari | 0 ), ( Paschim Nalbari | 115 )",,"( Barbhag | 192.50 ), ( Barkhetri | 3295.00 ), ( Tihu | 34.00 ), ( Ghograpar | 100.50 ), ( Nalbari | 152.00 ), ( Paschim Nalbari | 161.00 )",22-05-2022
+Hojai,24021,17099,3394,44514,"( Lanka | 621 ), ( Doboka | 42909 ), ( Hojai | 984 )",1595,"( Lanka | 221.00 ), ( Doboka | 1238.00 ), ( Hojai | 136.00 )",23-05-2022
+Goalpara,0,0,0,0,"( Balijana | 0 ), ( Lakhipur | 0 ), ( Matia | 0 ), ( Rongjuli | 0 )",16012,"( Balijana | 2570.00 ), ( Lakhipur | 10060.00 ), ( Matia | 2522.00 ), ( Rongjuli | 860.00 )",23-05-2022
+Dima-Hasao,424,267,188,879,( Haflong | 879 ),99,( Haflong | 99.00 ),23-05-2022
+Darrang,3083,2531,2149,7763,"( Patharighat | 787 ), ( Mangaldoi | 6976 ), ( Dalgaon | 0 )",10223,"( Patharighat | 285.50 ), ( Mangaldoi | 2496.00 ), ( Dalgaon | 7441.50 )",23-05-2022
+Jorhat,0,0,0,0,"( Jorhat West | 0 ), ( Jorhat East | 0 )",164.5,"( Jorhat West | 136.00 ), ( Jorhat East | 28.50 )",23-05-2022
+Cachar,80801,71066,46261,198128,"( Katigorah | 91228 ), ( Udharbond | 7503 ), ( Sonai | 33963 ), ( Lakhipur | 33526 ), ( Silchar | 31908 )",4616,"( Katigorah | 3125.00 ), ( Udharbond | 0.00 ), ( Sonai | 0.00 ), ( Lakhipur | 223.00 ), ( Silchar | 1268.00 )",23-05-2022
+Barpeta,0,0,0,0,"( Barpeta | 0 ), ( Sarthebari | 0 ), ( Kalgachia | 0 ), ( Chenga | 0 ), ( Baghbar | 0 )",11389.96,"( Barpeta | 4620.00 ), ( Sarthebari | 4449.00 ), ( Kalgachia | 814.00 ), ( Chenga | 772.00 ), ( Baghbar | 734.96 )",23-05-2022
+Golaghat,0,0,0,0,"( Bokakhat | 0 ), ( Khumtai | 0 )",32,"( Bokakhat | 15.00 ), ( Khumtai | 17.00 )",23-05-2022
+Dhubri,0,0,0,0,"( Bilasipara | 0 ), ( Athani | 0 )",2167.69,"( Bilasipara | 0.00 ), ( Athani | 2167.69 )",23-05-2022
+Majuli,0,0,0,0,"( Majuli | 0 ), ( Ujani Majuli | 0 )",,"( Majuli | 20.31 ), ( Ujani Majuli | 33.45 )",23-05-2022
+Kamrup (M),301,226,0,527,"( Chandrapur | 0 ), ( Sonapur | 527 )",,"( Chandrapur | 889.00 ), ( Sonapur | 281.50 )",23-05-2022
+Udalguri,343,209,137,689,"( Kalaigaon | 0 ), ( Harisinga | 0 ), ( Udalguri | 413 ), ( Mazbat | 276 )",,"( Kalaigaon | 0.00 ), ( Harisinga | 0.00 ), ( Udalguri | 0.00 ), ( Mazbat | 0.00 )",23-05-2022
+Sonitpur,0,0,0,0,( Dhekiajuli | 0 ),,( Dhekiajuli | 204.00 ),23-05-2022
+Nalbari,0,0,0,0,"( Paschim Nalbari | 0 ), ( Barkhetri | 0 )",,"( Paschim Nalbari | 42.00 ), ( Barkhetri | 66.00 )",23-05-2022
+Nagaon,151428,136945,62697,351070,"( Kampur | 237158 ), ( Nagaon | 29202 ), ( Raha | 84710 )",,"( Kampur | 5600.00 ), ( Nagaon | 3623.00 ), ( Raha | 6101.24 )",23-05-2022
+Morigaon,15807,15366,9172,40345,"( Morigaon | 40345 ), ( Mayong | 0 )",,"( Morigaon | 3935.83 ), ( Mayong | 9965.50 )",23-05-2022
+Lakhimpur,0,0,0,0,"( Narayanpur | 0 ), ( Bihpuria | 0 )",,"( Narayanpur | 0.00 ), ( Bihpuria | 448.00 )",23-05-2022
+Kamrup,180,46,40,266,"( Nagarbera | 0 ), ( Chaygaon | 0 ), ( Chamaria | 0 ), ( Kayan | 0 ), ( Palashbari | 0 ), ( Rangia | 0 ), ( Boko | 0 ), ( Hajo | 50 ), ( Kamalpur | 216 ), ( North Ghy | 0 ) ",4994.02,"( Nagarbera | 1583.00 ), ( Chaygaon | 52.00 ), ( Chamaria | 1829.50 ), ( Kayan | 60.10 ), ( Palashbari | 10.00 ), ( Rangia | 10.00 ), ( Boko | 69.00 ), ( Hajo | 1334.29 ), ( Kamalpur | 44.00 ), ( North Ghy | 2.13 )",23-05-2022
+Karbi Anglong West,180,193,166,539,( Donkamokam | 539 ),,( Donkamokam | 0.00 ),23-05-2022
+Karimganj,2429,1986,1267,5682,"( Karimganj | 4484 ), ( Badarpur | 1198 )",,"( Karimganj | 0.00 ), ( Badarpur | 0.00 )",23-05-2022
+Lakhimpur,0,0,0,0,"( Narayanpur | 0 ), ( Bihpuria | 0 )",211,"( Narayanpur | 0.00 ), ( Bihpuria | 211.00 )",24-05-2022
+Dima-Hasao,1396,1582,1826,4804,( Haflong | 4804 ),0,( Haflong | 0.00 ),24-05-2022
+Darrang,2105,1614,1407,5126,"( Patharighat | 644 ), ( Mangaldoi | 4482 ), ( Dalgaon | 0 )",2618.5,"( Patharighat | 149.50 ), ( Mangaldoi | 2469.00 ), ( Dalgaon | 0.00 )",24-05-2022
+Cachar,77233,59855,40866,177954,"( Katigorah | 85724 ), ( Silchar | 31931 ), ( Lakhipur | 33526 ), ( Udharbond | 6102 ), ( Sonai | 20671 )",5915,"( Katigorah | 3125.00 ), ( Silchar | 1268.00 ), ( Lakhipur | 223.00 ), ( Udharbond | 146.00 ), ( Sonai | 1153.00 )",24-05-2022
+Barpeta,0,0,0,0,"( Sarthebari | 0 ), ( Kalgachia | 0 ), ( Chenga | 0 ), ( Baghbar | 0 )",1238.5,"( Sarthebari | 44.50 ), ( Kalgachia | 196.00 ), ( Chenga | 135.00 ), ( Baghbar | 863.00 )",24-05-2022
+Nalbari,0,0,0,0,"( Barkhetri | 0 ), ( Paschim Nalbari | 0 )",,"( Barkhetri | 673.00 ), ( Paschim Nalbari | 0.00 )",24-05-2022
+Nagaon,149573,135923,60795,346291,"( Kampur | 231211 ), ( Nagaon | 30370 ), ( Raha | 84710 )",17473.24,"( Kampur | 7691.00 ), ( Nagaon | 3681.00 ), ( Raha | 6101.24 )",24-05-2022
+Morigaon,16052,15588,9301,40941,"( Mayong | 0 ), ( Morigaon | 40941 )",14429.83,"( Mayong | 10179.00 ), ( Morigaon | 4250.83 )",24-05-2022
+Goalpara,0,0,0,0,"( Lakhipur | 0 ), ( Balijana | 0 ), ( Matia | 0 ), ( Dudhnoi | 0 ), ( Rongjuli | 0 )",15413,"( Lakhipur | 10060.00 ), ( Balijana | 2270.00 ), ( Matia | 2259.00 ), ( Dudhnoi | 86.00 ), ( Rongjuli | 738.00 )",24-05-2022
+Sonitpur,0,0,0,0,( Dhekiajuli | 0 ),,( Dhekiajuli | 57.00 ),24-05-2022
+Hojai,675,430,269,1374,"( Hojai | 555 ), ( Doboka | 198 ), ( Lanka | 621 )",267,"( Hojai | 46.00 ), ( Doboka | 0.00 ), ( Lanka | 221.00 )",24-05-2022
+Jorhat,0,0,0,0,( Jorhat West | 0 ),18,( Jorhat West | 18.00 ),24-05-2022
+Kamrup,130,46,40,216,"( Chaygaon | 0 ), ( Nagarbera | 0 ), ( Chamaria | 0 ), ( Rangia | 0 ), ( Hajo | 0 ), ( Kamalpur | 216 ), ( Boko | 0 )",4598.35,"( Chaygaon | 50.00 ), ( Nagarbera | 1496.00 ), ( Chamaria | 1680.00 ), ( Rangia | 16.00 ), ( Hajo | 1235.25 ), ( Kamalpur | 52.10 ), ( Boko | 69.00 )",24-05-2022
+Kamrup (M),0,0,0,0,"( Chandrapur | 0 ), ( Sonapur | 0 )",1154.5,"( Chandrapur | 948.00 ), ( Sonapur | 206.50 )",24-05-2022
+Karbi Anglong West,250,268,291,809,( Donkamokam | 809 ),0,( Donkamokam | 0.00 ),24-05-2022
+Karimganj,1098,1119,413,2630,"( Karimganj | 2420 ), ( Badarpur | 210 )",0,"( Karimganj | 0.00 ), ( Badarpur | 0.00 )",24-05-2022
+Golaghat,0,0,0,0,"( Bokakhat | 0 ), ( Khumtai | 0 )",32,"( Bokakhat | 15.00 ), ( Khumtai | 17.00 )",24-05-2022
+Cachar,66157,60420,36911,163488,"( Katigorah | 80814 ), ( Silchar | 30923 ), ( Lakhipur | 25544 ), ( Sonai | 20105 ), ( Udharbond | 6102 )",4941,"( Katigorah | 2151.00 ), ( Silchar | 1268.00 ), ( Lakhipur | 223.00 ), ( Sonai | 1153.00 ), ( Udharbond | 146.00 )",25-05-2022
+Sonitpur,0,0,0,0,( Dhekiajuli | 0 ),21,( Dhekiajuli | 21.00 ),25-05-2022
+Nagaon,155028,142096,67368,364492,"( Kampur | 222379 ), ( Nagaon | 30370 ), ( Raha | 111743 )",17449.92,"( Kampur | 7100.00 ), ( Nagaon | 4020.50 ), ( Raha | 6329.42 )",25-05-2022
+Morigaon,16102,15613,9321,41036,"( Morigaon | 41036 ), ( Mayong | 0 )",14569.83,"( Morigaon | 4317.83 ), ( Mayong | 10252.00 )",25-05-2022
+Karimganj,562,537,126,1225,"( Badarpur | 35 ), ( Karimganj | 1190 )",0,"( Badarpur | 0.00 ), ( Karimganj | 0.00 )",25-05-2022
+Karbi Anglong West,900,1092,1139,3131,( Donkamokam | 3131 ),0,( Donkamokam | 0.00 ),25-05-2022
+Golaghat,0,0,0,0,"( Bokakhat | 0 ), ( Khumtai | 0 )",22,"( Bokakhat | 5.00 ), ( Khumtai | 17.00 )",25-05-2022
+Kamrup,130,46,40,216,"( Chamaria | 0 ), ( Hajo | 0 ), ( Rangia | 0 ), ( Kamalpur | 216 ), ( Boko | 0 )",2837.82,"( Chamaria | 1600.00 ), ( Hajo | 1111.72 ), ( Rangia | 16.00 ), ( Kamalpur | 52.10 ), ( Boko | 58.00 )",25-05-2022
+Hojai,422,296,238,956,"( Hojai | 335 ), ( Lanka | 621 )",250,"( Hojai | 29.00 ), ( Lanka | 221.00 )",25-05-2022
+Goalpara,0,0,0,0,"( Lakhipur | 0 ), ( Balijana | 0 ), ( Rongjuli | 0 ), ( Matia | 0 ), ( Dudhnoi | 0 )",10324,"( Lakhipur | 5974.00 ), ( Balijana | 1923.00 ), ( Rongjuli | 463.00 ), ( Matia | 1878.00 ), ( Dudhnoi | 86.00 )",25-05-2022
+Darrang,198,176,60,434,( Patharighat | 434 ),79.5,( Patharighat | 79.50 ),25-05-2022
+Dima-Hasao,183,198,111,492,( Haflong | 492 ),2.45,( Haflong | 2.45 ),25-05-2022
+Kamrup (M),0,0,0,0,"( Dispur | 0 ), ( Chandrapur | 0 ), ( Sonapur | 0 )",1111,"( Dispur | 0.00 ), ( Chandrapur | 948.00 ), ( Sonapur | 163.00 )",25-05-2022
+Barpeta,0,0,0,0,"( Kalgachia | 0 ), ( Chenga | 0 )",63,"( Kalgachia | 14.00 ), ( Chenga | 49.00 )",25-05-2022
+Goalpara,0,0,0,0,"( Lakhipur | 0 ), ( Balijana | 0 ), ( Dudhnoi | 0 ), ( Rongjuli | 0 ), ( Matia | 0 )",2278,"( Lakhipur | 633.00 ), ( Balijana | 1148.00 ), ( Dudhnoi | 60.00 ), ( Rongjuli | 198.00 ), ( Matia | 239.00 )",27-05-2022
+Cachar,59765,53683,34547,147995,"( Silchar | 30099 ), ( Katigorah | 78305 ), ( Lakhipur | 16906 ), ( Sonai | 18775 ), ( Udharbond | 3910 )",4781.8,"( Silchar | 1174.00 ), ( Katigorah | 2151.00 ), ( Lakhipur | 207.00 ), ( Sonai | 1103.80 ), ( Udharbond | 146.00 )",27-05-2022
+Dima-Hasao,98,124,112,334,( Haflong | 334 ),22.25,( Haflong | 22.25 ),27-05-2022
+Nagaon,119618,107014,84765,311397,"( Nagaon | 57360 ), ( Kampur | 138598 ), ( Raha | 115439 )",,"( Nagaon | 4244.50 ), ( Kampur | 4600.00 ), ( Raha | 6933.14 )",27-05-2022
+Kamrup (M),0,0,0,0,( Sonapur | 0 ),,( Sonapur | 120.00 ),27-05-2022
+Morigaon,16102,15613,9321,41036,"( Morigaon | 41036 ), ( Mayong | 0 )",,"( Morigaon | 4260.33 ), ( Mayong | 6860.00 )",27-05-2022
+Hojai,55,28,7,90,"( Doboka | 0 ), ( Hojai | 90 )",11,"( Doboka | 0.00 ), ( Hojai | 11.00 )",27-05-2022
+Golaghat,0,0,0,0,( Khumtai | 0 ),17,( Khumtai | 17.00 ),27-05-2022
+Kamrup,0,0,0,0,"( Chamaria | 0 ), ( Kamalpur | 0 ), ( Hajo | 0 ), ( Boko | 0 ) ",1256.1,"( Chamaria | 320.00 ), ( Kamalpur | 33.10 ), ( Hajo | 873.00 ",27-05-2022
+Cachar,41114,37401,20545,99060,"( Katigorah | 67071 ), ( Lakhipur | 8389 ), ( Sonai | 4815 ), ( Silchar | 16368 ), ( Udharbond | 2417 )",0,"( Katigorah | 0.00 ), ( Lakhipur | 0.00 ), ( Sonai | 0.00 ), ( Silchar | 0.00 ), ( Udharbond | 0.00 )",28-05-2022
+Morigaon,15989,15566,9288,40843,"( Mayong | 0 ), ( Morigaon | 40843 )",11105.33,"( Mayong | 6860.00 ), ( Morigaon | 4245.33 )",28-05-2022
+Dima-Hasao,560,558,893,2011,( Haflong | 2011 ),247.29,( Haflong | 247.29 ),28-05-2022
+Goalpara,0,0,0,0,"( Balijana | 0 ), ( Lakhipur | 0 ), ( Dudhnoi | 0 ), ( Rongjuli | 0 ), ( Matia | 0 )",1589,"( Balijana | 798.00 ), ( Lakhipur | 496.00 ), ( Dudhnoi | 50.00 ), ( Rongjuli | 147.00 ), ( Matia | 98.00 )",28-05-2022
+Kamrup,0,0,0,0,"( Kamalpur | 0 ), ( Hajo | 0 )",258.1,"( Kamalpur | 9.10 ), ( Hajo | 249.00 )",28-05-2022
+Kamrup (M),0,0,0,0,( Sonapur | 0 ),183,( Sonapur | 183.00 ),28-05-2022
+Nagaon,118425,105023,83774,307222,"( Nagaon | 53185 ), ( Kampur | 138598 ), ( Raha | 115439 )",,"( Nagaon | 4244.50 ), ( Kampur | 4600.00 ), ( Raha | 6933.14 )",28-05-2022
+Kamrup (M),0,0,0,0,( Sonapur | 0 ),251,( Sonapur | 251.00 ),29-05-2022
+Kamrup,0,0,0,0,( Hajo | 0 ),112,( Hajo | 112.00 ),29-05-2022
+Cachar,27916,26319,14339,68574,"( Lakhipur | 4670 ), ( Udharbond | 2417 ), ( Sonai | 4815 ), ( Katigorah | 46871 ), ( Silchar | 9801 )",0,"( Lakhipur | 0.00 ), ( Udharbond | 0.00 ), ( Sonai | 0.00 ), ( Katigorah | 0.00 ), ( Silchar | 0.00 )",29-05-2022
+Nagaon,115990,102825,72669,291484,"( Nagaon | 37447 ), ( Kampur | 138598 ), ( Raha | 115439 )",14213.14,"( Nagaon | 2680.00 ), ( Kampur | 4600.00 ), ( Raha | 6933.14 )",29-05-2022
+Dima-Hasao,317,354,326,997,( Haflong | 997 ),310.53,( Haflong | 310.53 ),29-05-2022
+Goalpara,0,0,0,0,"( Balijana | 0 ), ( Lakhipur | 0 ), ( Rongjuli | 0 ), ( Matia | 0 ), ( Dudhnoi | 0 )",446,"( Balijana | 119.00 ), ( Lakhipur | 137.00 ), ( Rongjuli | 94.00 ), ( Matia | 66.00 ), ( Dudhnoi | 30.00 )",29-05-2022
+Morigaon,15980,15560,9278,40818,"( Mayong | 0 ), ( Morigaon | 40818 )",10527.33,"( Mayong | 6287.00 ), ( Morigaon | 4240.33 )",29-05-2022
+Nagaon,72828,63929,57168,193925,"( Nagaon | 28520 ), ( Raha | 114669 ), ( Kampur | 50736 )",9511.27,"( Nagaon | 977.00 ), ( Raha | 6834.27 ), ( Kampur | 1700.00 )",30-05-2022
+Morigaon,15970,15555,9270,40795,"( Mayong | 0 ), ( Morigaon | 40795 )",6436,"( Mayong | 2200.00 ), ( Morigaon | 4236.00 )",30-05-2022
+Cachar,23121,21433,11218,55772,"( Lakhipur | 3689 ), ( Sonai | 4815 ), ( Silchar | 9801 ), ( Katigorah | 37467 )",0,"( Lakhipur | 0.00 ), ( Sonai | 0.00 ), ( Silchar | 0.00 ), ( Katigorah | 0.00 )",30-05-2022
+Dima-Hasao,192,65,0,257,( Haflong | 257 ),97.15,( Haflong | 97.15 ),30-05-2022
+Goalpara,0,0,0,0,( Lakhipur | 0 ),129,( Lakhipur | 129.00 ),30-05-2022
+Kamrup (M),0,0,0,0,( Sonapur | 0 ),389.5,( Sonapur | 389.50 ),30-05-2022
+Cachar,6206,5155,2511,13872,"( Katigorah | 6317 ), ( Silchar | 7555 ), ( Lakhipur | 0 ), ( Sonai | 0 )",0,"( Katigorah | 0.00 ), ( Silchar | 0.00 ), ( Lakhipur | 0.00 ), ( Sonai | 0.00 )",01-06-2022
+Morigaon,15940,15530,9230,40700,( Morigaon | 40700 ),4200,( Morigaon | 4200.00 ),01-06-2022
+Nagaon,20427,16519,10332,47278,"( Nagaon | 4739 ), ( Raha | 19759 ), ( Kampur | 22780 )",2352.78,"( Nagaon | 435.00 ), ( Raha | 1067.78 ), ( Kampur | 850.00 )",01-06-2022
+Dima-Hasao,63,13,0,76,( Haflong | 76 ),92.64,( Haflong | 92.64 ),01-06-2022
+Kamrup (M),0,0,0,0,( Sonapur | 0 ),247,( Sonapur | 247.00 ),01-06-2022
+Cachar,5898,5498,2278,13674,"( Silchar | 7555 ), ( Katigorah | 6119 )",0,"( Silchar | 0.00 ), ( Katigorah | 0.00 )",02-06-2022
+Morigaon,15766,15230,9100,40096,( Morigaon | 40096 ),4060,( Morigaon | 4060.00 ),02-06-2022
+Nagaon,9102,8147,3830,21079,"( Kampur | 16106 ), ( Raha | 4973 )",1322.7,"( Kampur | 650.00 ), ( Raha | 672.70 )",02-06-2022
+Dima-Hasao,9,0,0,9,( Haflong | 9 ),2.07,( Haflong | 2.07 ),02-06-2022
+Kamrup (M),0,0,0,0,( Sonapur | 0 ),194,( Sonapur | 194.00 ),02-06-2022
+Morigaon,15750,15200,9026,39976,( Morigaon | 39976 ),4040,( Morigaon | 4040.00 ),03-06-2022
+Kamrup (M),0,0,0,0,( Sonapur | 0 ),223,( Sonapur | 223.00 ),03-06-2022
+Dima-Hasao,260,15,0,275,( Haflong | 275 ),683.6,( Haflong | 683.60 ),03-06-2022
+Cachar,5598,4888,1957,12443,"( Silchar | 6324 ), ( Katigorah | 6119 )",0,"( Silchar | 0.00 ), ( Katigorah | 0.00 )",03-06-2022
+Nagaon,7493,6345,3078,16916,"( Raha | 810 ), ( Kampur | 16106 )",844.12,"( Raha | 194.12 ), ( Kampur | 650.00 )",03-06-2022
+Cachar,5598,4888,1957,12443,"( Katigorah | 6119 ), ( Silchar | 6324 )",0,"( Katigorah | 0.00 ), ( Silchar | 0.00 )",04-06-2022
+Dima-Hasao,221,17,0,238,( Haflong | 238 ),1065.5,( Haflong | 1065.50 ),04-06-2022
+Kamrup (M),0,0,0,0,( Sonapur | 0 ),247,( Sonapur | 247.00 ),04-06-2022
+Nagaon,7000,6173,2933,16106,"( Kampur | 16106 ), ( Raha | 0 )",729,"( Kampur | 650.00 ), ( Raha | 79.00 )",04-06-2022
+Morigaon,15700,15100,9003,39803,"( Mayong | 0 ), ( Morigaon | 39803 )",3988,"( Mayong | 0.00 ), ( Morigaon | 3988.00 )",04-06-2022
+Cachar,4921,3581,1823,10325,"( Silchar | 6324 ), ( Katigorah | 4001 )",0,"( Silchar | 0.00 ), ( Katigorah | 0.00 )",05-06-2022
+Kamrup (M),0,0,0,0,( Sonapur | 0 ),161,( Sonapur | 161.00 ),05-06-2022
+Morigaon,11956,11123,7369,30448,( Morigaon | 30448 ),3200,( Morigaon | 3200.00 ),05-06-2022
+Cachar,4921,3581,1823,10325,"( Silchar | 6324 ), ( Katigorah | 4001 )",0,"( Silchar | 0.00 ), ( Katigorah | 0.00 )",06-06-2022
+Morigaon,8520,7852,4388,20760,( Morigaon | 20760 ),2112,( Morigaon | 2112.00 ),06-06-2022
+Cachar,4921,3581,1823,10325,"( Katigorah | 4001 ), ( Silchar | 6324 )",0,"( Katigorah | 0.00 ), ( Silchar | 0.00 )",07-06-2022
+Morigaon,1022,856,544,2422,( Morigaon | 2422 ),1403,( Morigaon | 1403.00 ),07-06-2022
+Cachar,4921,3581,1823,10325,"( Katigorah | 4001 ), ( Silchar | 6324 )",0,"( Katigorah | 0.00 ), ( Silchar | 0.00 )",08-06-2022
+Morigaon,959,772,456,2187,( Morigaon | 2187 ),1380,( Morigaon | 1380.00 ),08-06-2022
+Morigaon,0,0,0,0,( Morigaon | 0 ),1000,( Morigaon | 1000.00 ),09-06-2022
+Dhemaji,1019,1149,762,2930,"( Gogamukh | 1834 ), ( Sissiborgaon | 1096 )",95.9,"( Gogamukh | 35.00 ), ( Sissiborgaon | 60.90 )",09-06-2022
+Dhemaji,1127,1083,629,2839,"( Gogamukh | 1834 ), ( Sissiborgaon | 422 ), ( Dhemaji | 583 )",101,"( Gogamukh | 35.00 ), ( Sissiborgaon | 60.00 ), ( Dhemaji | 6.00 )",10-06-2022
+Morigaon,0,0,0,0,( Morigaon | 0 ),750,( Morigaon | 750.00 ),10-06-2022
+South Salmara,2,2,3,7,( Mankachar | 7 ),199,( Mankachar | 199.00 ),10-06-2022
+South Salmara,0,0,0,0,( Mankachar | 0 ),199,( Mankachar | 199.00 ),11-06-2022
+Dhemaji,1140,1100,658,2898,"( Gogamukh | 1834 ), ( Dhemaji | 644 ), ( Sissiborgaon | 420 )",101,"( Gogamukh | 35.00 ), ( Dhemaji | 6.00 ), ( Sissiborgaon | 60.00 )",11-06-2022
+Morigaon,0,0,0,0,( Morigaon | 0 ),345,( Morigaon | 345.00 ),11-06-2022
+Lakhimpur,298,188,114,600,( North Lakhimpur | 600 ),0,( North Lakhimpur | 0.00 ),11-06-2022
+South Salmara,0,0,0,0,( Mankachar | 0 ),87,( Mankachar | 87.00 ),12-06-2022
+Lakhimpur,137,120,56,313,( Subansiri | 313 ),231,( Subansiri | 231.00 ),12-06-2022
+Dhemaji,457,419,160,1036,"( Dhemaji | 616 ), ( Sissiborgaon | 420 )",64,"( Dhemaji | 4.00 ), ( Sissiborgaon | 60.00 )",12-06-2022
+South Salmara,0,0,0,0,( Mankachar | 0 ),87,( Mankachar | 87.00 ),13-06-2022
+Dhemaji,1142,1229,793,3164,"( Gogamukh | 1832 ), ( Dhemaji | 236 ), ( Sissiborgaon | 1096 )",92,"( Gogamukh | 35.00 ), ( Dhemaji | 2.00 ), ( Sissiborgaon | 55.00 )",13-06-2022
+Darrang,376,254,120,750,( Mangaldoi | 750 ),21,( Mangaldoi | 21.00 ),13-06-2022
+Dhemaji,913,1001,655,2569,"( Jonai | 1070 ), ( Dhemaji | 403 ), ( Sissiborgaon | 1096 )",185,"( Jonai | 127.00 ), ( Dhemaji | 3.00 ), ( Sissiborgaon | 55.00 )",14-06-2022
+Darrang,526,465,223,1214,( Mangaldoi | 1214 ),21,( Mangaldoi | 21.00 ),14-06-2022
+Dibrugarh,1567,1240,1050,3857,( Chabua | 3857 ),2.5,( Chabua | 2.50 ),14-06-2022
+Goalpara,116,102,93,311,( Balijana | 311 ),0,( Balijana | 0.00 ),14-06-2022
+Kamrup (M),37,22,8,67,"( Sonapur | 0 ), ( Dispur | 0 ), ( Guwahati | 67 )",0,"( Sonapur | 0.00 ), ( Dispur | 0.00 ), ( Guwahati | 0.00 )",14-06-2022
+South Salmara,0,0,0,0,( Mankachar | 0 ),87,( Mankachar | 87.00 ),14-06-2022
+Udalguri,592,478,392,1462,"( Harisinga | 0 ), ( Khairabari | 239 ), ( Kalaigaon | 1116 ), ( Udalguri | 107 )",8,"( Harisinga | 0.00 ), ( Khairabari | 8.00 ), ( Kalaigaon | 0.00 ), ( Udalguri | 0.00 )",15-06-2022
+Tamulpur,7630,6670,865,15165,"( Goreswar | 8050 ), ( Tamulpur | 7115 )",95,"( Goreswar | 29.00 ), ( Tamulpur | 66.00 )",15-06-2022
+Nalbari,5801,4669,2592,13062,"( Nalbari | 575 ), ( Banekuchi | 3140 ), ( Tihu | 3420 ), ( Ghograpar | 5832 ), ( Paschim Nalbari | 95 )",182.9,"( Nalbari | 140.60 ), ( Banekuchi | 8.30 ), ( Tihu | 34.00 ), ( Ghograpar | 0.00 ), ( Paschim Nalbari | 0.00 )",15-06-2022
+Majuli,0,0,0,0,"( Majuli | 0 ), ( Ujani Majuli | 0 )",79,"( Majuli | 55.00 ), ( Ujani Majuli | 24.00 )",15-06-2022
+Lakhimpur,327,214,145,686,"( North Lakhimpur | 600 ), ( Bihpuria | 86 )",0,"( North Lakhimpur | 0.00 ), ( Bihpuria | 0.00 )",15-06-2022
+Dhemaji,937,1018,664,2619,"( Jonai | 1070 ), ( Dhemaji | 453 ), ( Sissiborgaon | 1096 )",268,"( Jonai | 127.00 ), ( Dhemaji | 4.00 ), ( Sissiborgaon | 137.00 )",15-06-2022
+Bajali,1124,1045,89,2258,( Bajali | 2258 ),0,( Bajali | 0.00 ),15-06-2022
+Baksa,1248,1210,493,2951,"( Jalah | 745 ), ( Barama | 426 ), ( Baska | 1780 )",113.78,"( Jalah | 60.00 ), ( Barama | 49.00 ), ( Baska | 4.78 )",15-06-2022
+Kamrup (M),12130,9170,3000,24300,"( Guwahati | 12500 ), ( Dispur | 11800 )",0,"( Guwahati | 0.00 ), ( Dispur | 0.00 )",15-06-2022
+Kamrup,125,121,72,318,"( Rangia | 318 ), ( Kayan | 0 ), ( Kamalpur | 0 )",67,"( Rangia | 27.00 ), ( Kayan | 10.00 ), ( Kamalpur | 30.00 )",15-06-2022
+Hojai,31,22,7,60,( Hojai | 60 ),12,( Hojai | 12.00 ),15-06-2022
+Goalpara,1123,998,493,2614,( Balijana | 2614 ),0,( Balijana | 0.00 ),15-06-2022
+Bongaigaon,0,0,0,0,( Manikpur | 0 ),877,( Manikpur | 877.00 ),15-06-2022
+Chirang,127,108,37,272,( Bijni | 272 ),0,( Bijni | 0.00 ),15-06-2022
+Darrang,966,872,656,2494,"( Mangaldoi | 1214 ), ( Patharighat | 1280 )",21,"( Mangaldoi | 21.00 ), ( Patharighat | 0.00 )",15-06-2022
+Dibrugarh,1567,1240,1050,3857,( Chabua | 3857 ),2.5,( Chabua | 2.50 ),15-06-2022
+Kokrajhar,965,737,296,1998,"( Dotma | 1350 ), ( Bagribari | 0 ), ( Kokrajhar | 648 )",5,"( Dotma | 0.00 ), ( Bagribari | 5.00 ), ( Kokrajhar | 0.00 )",15-06-2022
+Kamrup (M),18915,12649,2865,34429,"( Sonapur | 0 ), ( Chandrapur | 0 ), ( Guwahati | 12879 ), ( Dispur | 21550 )",,"( Sonapur | 0.00 ), ( Chandrapur | 0.00 ), ( Guwahati | 0.00 ), ( Dispur | 0.00 )",16-06-2022
+Baksa,4987,4168,781,9936,"( Barnagar RC part | 0 ), ( Baganpara | 1284 ), ( Barama | 1231 ), ( Baska | 1356 ), ( Jalah | 6065 )",764.5,"( Barnagar RC part | 387.00 ), ( Baganpara | 219.50 ), ( Barama | 68.00 ), ( Baska | 0.00 ), ( Jalah | 90.00 )",16-06-2022
+Bajali,180000,140000,35000,355000,"( Sarupeta | 195000 ), ( Bajali | 160000 )",20,"( Sarupeta | 20.00 ), ( Bajali | 0.00 )",16-06-2022
+Udalguri,12468,8591,7329,28388,"( Khairabari | 1801 ), ( Mazbat | 4520 ), ( Udalguri | 8644 ), ( Kalaigaon | 13365 ), ( Harisinga | 58 )",,"( Khairabari | 28.50 ), ( Mazbat | 0.00 ), ( Udalguri | 62.00 ), ( Kalaigaon | 791.00 ), ( Harisinga | 0.00 )",16-06-2022
+Tamulpur,13759,10971,3863,28593,"( Goreswar | 17783 ), ( Tamulpur | 10810 )",,"( Goreswar | 167.50 ), ( Tamulpur | 232.00 )",16-06-2022
+Sonitpur,1222,1119,738,3079,"( Thelamara | 0 ), ( Dhekiajuli | 1411 ), ( Chariduar | 1638 ), ( Tezpur | 30 )",,"( Thelamara | 25.00 ), ( Dhekiajuli | 150.60 ), ( Chariduar | 0.00 ), ( Tezpur | 8.00 )",16-06-2022
+Nalbari,27472,24003,15273,66748,"( Ghograpar | 11905 ), ( Barbhag | 7735 ), ( Tihu | 16745 ), ( Paschim Nalbari | 5900 ), ( Nalbari | 7420 ), ( Banekuchi | 16790 ), ( Barkhetri | 253 )",,"( Ghograpar | 0.00 ), ( Barbhag | 86.00 ), ( Tihu | 465.00 ), ( Paschim Nalbari | 271.60 ), ( Nalbari | 140.60 ), ( Banekuchi | 28.50 ), ( Barkhetri | 0.00 )",16-06-2022
+Nagaon,481,392,253,1126,"( Kampur | 1126 ), ( Raha | 0 )",,"( Kampur | 119.00 ), ( Raha | 87.00 )",16-06-2022
+Lakhimpur,4365,3082,2151,9598,"( North Lakhimpur | 2646 ), ( Nowboicha | 5175 ), ( Bihpuria | 1777 )",,"( North Lakhimpur | 19.00 ), ( Nowboicha | 0.00 ), ( Bihpuria | 0.00 )",16-06-2022
+Kokrajhar,22688,21428,13609,57725,"( Bagribari | 18588 ), ( Bhawraguri | 15437 ), ( Gossaigaon | 1783 ), ( Kokrajhar | 6528 ), ( Dotma | 15389 )",,"( Bagribari | 14.89 ), ( Bhawraguri | 122.50 ), ( Gossaigaon | 221.80 ), ( Kokrajhar | 0.00 ), ( Dotma | 0.00 )",16-06-2022
+Karbi Anglong West,758,758,392,1908,( Donkamokam | 1908 ),,( Donkamokam | 0.00 ),16-06-2022
+Kamrup,20740,19308,10089,50137,"( Kayan | 6629 ), ( Rangia | 43508 ), ( Kamalpur | 0 ), ( Palashbari | 0 ), ( Boko | 0 ), ( Hajo | 0 )",,"( Kayan | 110.00 ), ( Rangia | 578.00 ), ( Kamalpur | 234.20 ), ( Palashbari | 198.00 ), ( Boko | 6.95 ), ( Hajo | 2099.00 )",16-06-2022
+Majuli,0,0,0,0,"( Majuli | 0 ), ( Ujani Majuli | 0 )",,"( Majuli | 30.00 ), ( Ujani Majuli | 18.00 )",16-06-2022
+Goalpara,80172,48998,9830,139000,"( Balijana | 12000 ), ( Lakhipur | 127000 ), ( Rongjuli | 0 )",1839,"( Balijana | 43.00 ), ( Lakhipur | 1781.00 ), ( Rongjuli | 15.00 )",16-06-2022
+Dibrugarh,1567,1240,1050,3857,( Chabua | 3857 ),2.5,( Chabua | 2.50 ),16-06-2022
+Dhubri,1726,1459,586,3771,"( Chapar | 900 ), ( Bilasipara | 2687 ), ( Athani | 184 )",185.52,"( Chapar | 179.00 ), ( Bilasipara | 6.52 ), ( Athani | 0.00 )",16-06-2022
+Dhemaji,2303,2147,1503,5953,"( Jonai | 4462 ), ( Dhemaji | 395 ), ( Sissiborgaon | 1096 )",1098,"( Jonai | 819.00 ), ( Dhemaji | 3.00 ), ( Sissiborgaon | 276.00 )",16-06-2022
+Darrang,40211,35810,24215,100236,"( Mangaldoi | 15268 ), ( Dalgaon | 52395 ), ( Patharighat | 31972 ), ( Sipajhar | 601 )",4149.51,"( Mangaldoi | 1104.00 ), ( Dalgaon | 2435.50 ), ( Patharighat | 580.35 ), ( Sipajhar | 29.66 )",16-06-2022
+Chirang,6915,5129,3966,16010,"( Bengtal | 1632 ), ( Sidli | 1805 ), ( Bijni | 12573 )",688.32,"( Bengtal | 253.00 ), ( Sidli | 321.00 ), ( Bijni | 114.32 )",16-06-2022
+Bongaigaon,31779,26666,19325,77770,"( Manikpur | 75850 ), ( Dangtol | 995 ), ( Bongaigaon | 925 )",1201,"( Manikpur | 1201.00 ), ( Dangtol | 0.00 ), ( Bongaigaon | 0.00 )",16-06-2022
+Biswanath,83,59,38,180,( Halem | 180 ),18,( Halem | 18.00 ),16-06-2022
+Hojai,24421,13156,3279,40856,"( Lanka | 212 ), ( Hojai | 39194 ), ( Doboka | 1450 )",1745,"( Lanka | 349.00 ), ( Hojai | 1295.00 ), ( Doboka | 101.00 )",16-06-2022
+Barpeta,33054,27501,14445,75000,"( Barpeta | 9168 ), ( Barnagar | 0 ), ( Kalgachia | 0 ), ( Sarthebari | 64530 ), ( Chenga | 1302 )",2116,"( Barpeta | 646.00 ), ( Barnagar | 829.00 ), ( Kalgachia | 604.00 ), ( Sarthebari | 37.00 ), ( Chenga | 0.00 )",16-06-2022
+Majuli,0,0,0,0,"( Majuli | 0 ), ( Ujani Majuli | 0 )",361,"( Majuli | 309.00 ), ( Ujani Majuli | 52.00 )",17-06-2022
+Dhemaji,12391,11765,6049,30205,"( Jonai | 4716 ), ( Gogamukh | 15759 ), ( Sissiborgaon | 8131 ), ( Dhemaji | 1599 )",2525,"( Jonai | 1728.00 ), ( Gogamukh | 457.00 ), ( Sissiborgaon | 310.00 ), ( Dhemaji | 30.00 )",17-06-2022
+Dhubri,9701,8777,3803,22281,"( Chapar | 900 ), ( South Salmara Part | 11805 ), ( Athani | 318 ), ( Bilasipara | 9258 ), ( Agamoni | 0 )",5192.8,"( Chapar | 1018.20 ), ( South Salmara Part | 0.00 ), ( Athani | 1040.20 ), ( Bilasipara | 2919.40 ), ( Agamoni | 215.00 )",17-06-2022
+Goalpara,100465,73131,10906,184502,"( Balijana | 63643 ), ( Lakhipur | 117215 ), ( Matia | 3644 ), ( Dudhnoi | 0 ), ( Rongjuli | 0 )",1062,"( Balijana | 762.50 ), ( Lakhipur | 0.00 ), ( Matia | 272.00 ), ( Dudhnoi | 0.50 ), ( Rongjuli | 27.00 )",17-06-2022
+Hojai,55150,39535,10656,105341,"( Lanka | 9047 ), ( Hojai | 73499 ), ( Doboka | 22795 )",3757,"( Lanka | 532.00 ), ( Hojai | 3026.00 ), ( Doboka | 199.00 )",17-06-2022
+Lakhimpur,16337,12987,11641,40965,"( North Lakhimpur | 7853 ), ( Nowboicha | 27412 ), ( Subansiri | 257 ), ( Kadam | 2926 ), ( Bihpuria | 2517 )",549.3,"( North Lakhimpur | 97.00 ), ( Nowboicha | 360.30 ), ( Subansiri | 75.00 ), ( Kadam | 7.00 ), ( Bihpuria | 10.00 )",17-06-2022
+Kamrup (M),17775,14589,1965,34329,"( Chandrapur | 0 ), ( Guwahati | 12879 ), ( Dispur | 21450 )",0,"( Chandrapur | 0.00 ), ( Guwahati | 0.00 ), ( Dispur | 0.00 )",17-06-2022
+Karbi Anglong West,1575,1476,2102,5153,( Donkamokam | 5153 ),244,( Donkamokam | 244.00 ),17-06-2022
+Kokrajhar,34300,33351,24764,92415,"( Bagribari | 20212 ), ( Kokrajhar | 22186 ), ( Bhawraguri | 17767 ), ( Gossaigaon | 1989 ), ( Dotma | 30261 )",1583.74,"( Bagribari | 284.49 ), ( Kokrajhar | 460.40 ), ( Bhawraguri | 0.00 ), ( Gossaigaon | 141.10 ), ( Dotma | 697.75 )",17-06-2022
+Darrang,114434,103598,72373,290405,"( Patharighat | 75294 ), ( Dalgaon | 120340 ), ( Mangaldoi | 81207 ), ( Sipajhar | 13564 )",7058.7,"( Patharighat | 1181.20 ), ( Dalgaon | 3795.50 ), ( Mangaldoi | 1572.00 ), ( Sipajhar | 510.00 )",17-06-2022
+Kamrup,52965,42906,23068,118939,"( Kayan | 38122 ), ( Chaygaon | 0 ), ( North Ghy | 221 ), ( Rangia | 50253 ), ( Goroimari | 0 ), ( Palashbari | 0 ), ( Kamalpur | 14071 ), ( Boko | 0 ), ( Hajo | 16272 )",2625.65,"( Kayan | 358.00 ), ( Chaygaon | 123.00 ), ( North Ghy | 0.00 ), ( Rangia | 593.00 ), ( Goroimari | 69.00 ), ( Palashbari | 198.00 ), ( Kamalpur | 208.20 ), ( Boko | 10.45 ), ( Hajo | 1066.00 )",17-06-2022
+Chirang,5115,3809,5788,14712,"( Sidli | 1786 ), ( Bengtal | 846 ), ( Bijni | 12080 )",365.6,"( Sidli | 22.10 ), ( Bengtal | 65.00 ), ( Bijni | 278.50 )",17-06-2022
+Tinsukia,1848,1625,1248,4721,"( Tinsukia | 2666 ), ( Doomdooma | 2055 )",,"( Tinsukia | 238.00 ), ( Doomdooma | 256.30 )",17-06-2022
+Biswanath,367,298,526,1191,( Halem | 1191 ),27,( Halem | 27.00 ),17-06-2022
+Barpeta,68997,61214,38759,168970,"( Barpeta | 45088 ), ( Sarthebari | 122952 ), ( Kalgachia | 0 ), ( Barnagar | 0 ), ( Chenga | 930 ), ( Baghbar | 0 )",7592.3,"( Barpeta | 178.00 ), ( Sarthebari | 37.00 ), ( Kalgachia | 1666.50 ), ( Barnagar | 901.50 ), ( Chenga | 724.00 ), ( Baghbar | 4085.30 )",17-06-2022
+Baksa,27497,19609,18814,65920,"( Barnagar RC part | 51222 ), ( Baska | 1780 ), ( Baganpara | 3583 ), ( Barama | 1359 ), ( Jalah | 7976 )",1081.72,"( Barnagar RC part | 830.00 ), ( Baska | 32.72 ), ( Baganpara | 43.00 ), ( Barama | 30.00 ), ( Jalah | 146.00 )",17-06-2022
+Bajali,180000,140000,35000,355000,"( Sarupeta | 195000 ), ( Bajali | 160000 )",20,"( Sarupeta | 20.00 ), ( Bajali | 0.00 )",17-06-2022
+Nalbari,52613,43534,26888,123035,"( Paschim Nalbari | 25102 ), ( Ghograpar | 35610 ), ( Barbhag | 8551 ), ( Nalbari | 9460 ), ( Tihu | 11500 ), ( Banekuchi | 22196 ), ( Barkhetri | 10616 )",1891.8,"( Paschim Nalbari | 449.00 ), ( Ghograpar | 606.00 ), ( Barbhag | 178.00 ), ( Nalbari | 252.80 ), ( Tihu | 367.00 ), ( Banekuchi | 39.00 ), ( Barkhetri | 0.00 )",17-06-2022
+Sivasagar,0,0,0,0,( Demow | 0 ),19.14,( Demow | 19.14 ),17-06-2022
+Sonitpur,8142,7310,6102,21554,"( Naduar | 0 ), ( Dhekiajuli | 3703 ), ( Thelamara | 4840 ), ( Chariduar | 12947 ), ( Tezpur | 64 )",799.5,"( Naduar | 6.00 ), ( Dhekiajuli | 250.90 ), (
+Thelamara | 127.00 ), (
+Chariduar | 262.00 ), (
+Tezpur | 153.60 )",17-06-2022
+South Salmara,2615,2512,1105,6232,"( South Salmara | 6232 ), ( Mankachar | 0 )",,"( South Salmara | 0.00 ), ( Mankachar | 405.00 )",17-06-2022
+Tamulpur,3769,12314,3115,19198,"( Tamulpur | 6070 ), ( Goreswar | 13128 )",,"( Tamulpur | 300.00 ), ( Goreswar | 224.00 )",17-06-2022
+Udalguri,20273,14351,10302,44926,"( Khairabari | 4850 ), ( Udalguri | 10393 ), ( Mazbat | 4010 ), ( Kalaigaon | 24903 ), ( Harisinga | 770 )",,"( Khairabari | 55.00 ), ( Udalguri | 0.00 ), ( Mazbat | 0.00 ), ( Kalaigaon | 240.10 ), ( Harisinga | 0.00 )",17-06-2022
+Nagaon,21164,20546,15416,57126,"( Kampur | 57126 ), ( Raha | 0 )",1631.74,"( Kampur | 1437.00 ), ( Raha | 194.74 )",17-06-2022
+Bongaigaon,33068,27703,19815,80586,"( Manikpur | 75850 ), ( Bongaigaon | 925 ), ( Srijangram | 1569 ), ( Boitamari | 585 ), ( Dangtol | 1657 )",2908.5,"( Manikpur | 2712.00 ), ( Bongaigaon | 196.50 ), ( Srijangram | 0.00 ), ( Boitamari | 0.00 ), ( Dangtol | 0.00 )",17-06-2022
+Morigaon,0,0,0,0,( Mayong | 0 ),320,( Mayong | 320.00 ),17-06-2022
+Dibrugarh,2870,2204,1593,6667,( Chabua | 6667 ),3.5,( Chabua | 3.50 ),17-06-2022
+Tinsukia,4455,3682,2641,10778,( Doomdooma | 10778 ),,( Doomdooma | 302.88 ),18-06-2022
+Udalguri,36452,25393,17399,79244,"( Khairabari | 5332 ), ( Udalguri | 11035 ), ( Mazbat | 9525 ), ( Kalaigaon | 49671 ), ( Harisinga | 3681 )",,"( Khairabari | 0.00 ), ( Udalguri | 0.00 ), ( Mazbat | 0.00 ), ( Kalaigaon | 458.20 ), ( Harisinga | 0.00 )",18-06-2022
+Dibrugarh,2883,2213,1593,6689,"( Chabua | 6667 ), ( Dibrugarh West | 22 ), ( Naharkatia | 0 )",6.14,"( Chabua | 5.70 ), ( Dibrugarh West | 0.00 ), ( Naharkatia | 0.44 )",18-06-2022
+Goalpara,106795,78708,35472,220975,"( Balijana | 93322 ), ( Lakhipur | 122317 ), ( Matia | 5336 ), ( Rongjuli | 0 )",1400.5,"( Balijana | 762.50 ), ( Lakhipur | 0.00 ), ( Matia | 614.00 ), ( Rongjuli | 24.00 )",18-06-2022
+Golaghat,0,0,0,0,( Khumtai | 0 ),26,( Khumtai | 26.00 ),18-06-2022
+Bajali,178500,139200,34850,352550,"( Bajali | 160000 ), ( Sarupeta | 192550 )",520,"( Bajali | 0.00 ), ( Sarupeta | 520.00 )",18-06-2022
+Hojai,63889,47920,13526,125335,"( Lanka | 12494 ), ( Hojai | 88148 ), ( Doboka | 24693 )",3344,"( Lanka | 791.00 ), ( Hojai | 2227.00 ), ( Doboka | 326.00 )",18-06-2022
+Kamrup,87703,73221,57229,218153,"( Rangia | 50242 ), ( Chaygaon | 0 ), ( Kayan | 38122 ), ( Boko | 0 ), ( Goroimari | 0 ), ( Kamalpur | 26362 ), ( Palashbari | 0 ), ( North Ghy | 463 ), ( Hajo | 102964 )",3737.85,"( Rangia | 594.00 ), ( Chaygaon | 144.00 ), ( Kayan | 358.00 ), ( Boko | 10.45 ), ( Goroimari | 165.50 ), ( Kamalpur | 492.90 ), ( Palashbari | 198.00 ), ( North Ghy | 58.00 ), ( Hajo | 1717.00 )",18-06-2022
+Kamrup (M),8110,6095,358,14563,"( Chandrapur | 0 ), ( Sonapur | 0 ), ( Guwahati | 863 ), ( Azara | 0 ), ( Dispur | 13700 )",219,"( Chandrapur | 0.00 ), ( Sonapur | 219.00 ), ( Guwahati | 0.00 ), ( Azara | 0.00 ), ( Dispur | 0.00 )",18-06-2022
+Karbi Anglong West,5285,5286,5736,16307,( Donkamokam | 16307 ),0,( Donkamokam | 0.00 ),18-06-2022
+Karimganj,27491,18362,6401,52254,"( RK Nagar | 30425 ), ( Badarpur | 50 ), ( Patherkandi | 1335 ), ( Karimganj | 3151 ), ( Nilambazar | 17293 )",200,"( RK Nagar | 200.00 ), ( Badarpur | 0.00 ), ( Patherkandi | 0.00 ), ( Karimganj | 0.00 ), ( Nilambazar | 0.00 )",18-06-2022
+Kokrajhar,24771,20763,9158,54692,"( Bagribari | 22829 ), ( Bhawraguri | 5078 ), ( Gossaigaon | 987 ), ( Dotma | 23705 ), ( Kokrajhar | 2093 )",717.79,"( Bagribari | 284.49 ), ( Bhawraguri | 101.80 ),
+( Gossaigaon | 0.00 ), (
+Dotma | 331.50 ), (
+Kokrajhar | 0.00 )",18-06-2022
+Lakhimpur,54316,36830,22688,113834,"( Narayanpur | 0 ), ( North Lakhimpur | 51619 ), ( Nowboicha | 37898 ), ( Subansiri | 5257 ), ( Bihpuria | 17271 ), ( Dhakuakhana | 629 ), ( Kadam | 1160 )",,"( Narayanpur | 0.00 ), ( North Lakhimpur | 161.00 ), ( Nowboicha | 313.30 ), ( Subansiri | 317.00 ), ( Bihpuria | 339.80 ), ( Dhakuakhana | 30.00 ), ( Kadam | 71.85 )",18-06-2022
+Morigaon,0,0,0,0,"( Bhuragaon | 0 ), ( Mayong | 0 ), ( Morigaon | 0 ), ( Laharighat | 0 )",,"( Bhuragaon | 311.00 ), ( Mayong | 750.00 ), ( Morigaon | 545.00 ), ( Laharighat | 101.00 )",18-06-2022
+Nagaon,84443,75599,81149,241191,"( Samaguri | 380 ), ( Raha | 33863 ), ( Kampur | 205026 ), ( Nagaon | 1548 ), ( Kaliabor | 374 )",,"( Samaguri | 88.00 ), ( Raha | 273.74 ), ( Kampur | 4730.00 ), ( Nagaon | 56.00 ), ( Kaliabor | 27.00 )",18-06-2022
+Majuli,0,0,0,0,"( Majuli | 0 ), ( Ujani Majuli | 0 )",,"( Majuli | 539.02 ), ( Ujani Majuli | 92.35 )",18-06-2022
+Sivasagar,46,51,21,118,"( Sivsagar | 118 ), ( Demow | 0 )",,"( Sivsagar | 80.00 ), ( Demow | 68.50 )",18-06-2022
+Baksa,14001,11151,7658,32810,"( Barnagar RC part | 22064 ), ( Baska | 1140 ), ( Jalah | 3317 ), ( Baganpara | 4855 ), ( Barama | 1434 )",748.07,"( Barnagar RC part | 498.00 ), ( Baska | 35.07 ), ( Jalah | 147.00 ), ( Baganpara | 43.00 ), ( Barama | 25.00 )",18-06-2022
+Barpeta,306120,267810,157114,731044,"( Kalgachia | 105700 ), ( Chenga | 121150 ), ( Barpeta | 105228 ), ( Barnagar | 9865 ), ( Sarthebari | 335837 ), ( Baghbar | 53264 )",13771.33,"( Kalgachia | 1822.50 ), ( Chenga | 1256.00 ), ( Barpeta | 6230.00 ), ( Barnagar | 1757.50 ), ( Sarthebari | 1860.33 ), ( Baghbar | 845.00 )",18-06-2022
+Biswanath,851,693,547,2091,( Halem | 2091 ),38.5,( Halem | 38.50 ),18-06-2022
+Bongaigaon,45834,40938,26140,112912,"( Manikpur | 103609 ), ( Bongaigaon | 0 ), ( Dangtol | 0 ), ( Srijangram | 8718 ), ( Boitamari | 585 )",2413.5,"( Manikpur | 1946.00 ), ( Bongaigaon | 196.50 ), ( Dangtol | 271.00 ), ( Srijangram | 0.00 ), ( Boitamari | 0.00 )",18-06-2022
+Nalbari,70124,60509,34773,165406,"( Ghograpar | 41171 ), ( Tihu | 14470 ), ( Nalbari | 12500 ), ( Banekuchi | 43820 ), ( Paschim Nalbari | 31329 ), ( Barbhag | 11500 ), ( Barkhetri | 10616 )",,"( Ghograpar | 606.00 ), ( Tihu | 367.00 ), ( Nalbari | 338.10 ), ( Banekuchi | 165.00 ), ( Paschim Nalbari | 554.00 ), ( Barbhag | 83.50 ), ( Barkhetri | 4417.70 )",18-06-2022
+Chirang,5294,5328,4150,14772,"( Bijni | 9082 ), ( Sidli | 2808 ), ( Bengtal | 2882 )",2871.5,"( Bijni | 2871.50 ), ( Sidli | 0.00 ), ( Bengtal | 0.00 )",18-06-2022
+Cachar,9805,8759,4343,22907,"( Silchar | 4570 ), ( Katigorah | 17871 ), ( Udharbond | 96 ), ( Lakhipur | 80 ), ( Sonai | 290 )",0,"( Silchar | 0.00 ), ( Katigorah | 0.00 ), ( Udharbond | 0.00 ), ( Lakhipur | 0.00 ), ( Sonai | 0.00 )",18-06-2022
+Dhemaji,13454,12822,6558,32834,"( Gogamukh | 17117 ), ( Sissiborgaon | 7721 ), ( Jonai | 4462 ), ( Dhemaji | 3534 )",4521.5,"( Gogamukh | 510.00 ), ( Sissiborgaon | 405.00 ), ( Jonai | 3565.50 ), ( Dhemaji | 41.00 )",18-06-2022
+Dhubri,7805,7970,4564,20339,"( Dhubri | 0 ), ( Gauripur | 0 ), ( South Salmara Part | 12655 ), ( Bilasipara | 6545 ), ( Golakganj | 66 ), ( Athani | 503 ), ( Chapar | 570 )",4870.7,"( Dhubri | 478.00 ), ( Gauripur | 265.30 ), ( South Salmara Part | 2069.00 ), ( Bilasipara | 0.00 ), ( Golakganj | 0.00 ), ( Athani | 1040.20 ), ( Chapar | 1018.20 )",18-06-2022
+Tamulpur,12329,10406,4230,26965,"( Goreswar | 20955 ), ( Tamulpur | 6010 )",,"( Goreswar | 0.00 ), ( Tamulpur | 220.00 )",18-06-2022
+South Salmara,2823,2689,1332,6844,"( Mankachar | 43 ), ( South Salmara | 6801 )",,"( Mankachar | 405.00 ), ( South Salmara | 0.00 )",18-06-2022
+Sonitpur,23915,21389,24639,69943,"( Thelamara | 4954 ), ( Chariduar | 57261 ), ( Dhekiajuli | 7365 ), ( Tezpur | 363 )",,"( Thelamara | 683.00 ), ( Chariduar | 435.00 ), ( Dhekiajuli | 1465.10 ), ( Tezpur | 190.70 )",18-06-2022
+Darrang,145525,126716,81971,354212,"( Dalgaon | 122440 ), ( Patharighat | 75294 ), ( Mangaldoi | 120007 ), ( Sipajhar | 36471 )",7463.7,"( Dalgaon | 3795.50 ), ( Patharighat | 1181.20 ), ( Mangaldoi | 1572.00 ), ( Sipajhar | 915.00 )",18-06-2022
+Bajali,177700,137200,33400,348300,"( Sarupeta | 188300 ), ( Bajali | 160000 )",520,"( Sarupeta | 520.00 ), ( Bajali | 0.00 )",19-06-2022
+Baksa,12418,9851,7721,29990,"( Barnagar RC part | 22064 ), ( Barama | 1450 ), ( Baska | 835 ), ( Baganpara | 3941 ), ( Jalah | 1700 )",543,"( Barnagar RC part | 480.00 ), ( Barama | 7.00 ), ( Baska | 0.00 ), ( Baganpara | 41.00 ), ( Jalah | 15.00 )",19-06-2022
+Bongaigaon,8316,6675,4218,19209,"( Manikpur | 12360 ), ( Srijangram | 0 ), ( Boitamari | 6849 )",321,"( Manikpur | 321.00 ), ( Srijangram | 0.00 ), ( Boitamari | 0.00 )",19-06-2022
+Barpeta,523403,505127,247579,1276109,"( Barpeta | 214076 ), ( Baghbar | 370497 ), ( Kalgachia | 198692 ), ( Sarthebari | 335837 ), ( Barnagar | 8857 ), ( Chenga | 148150 )",27907,"( Barpeta | 779.00 ), ( Baghbar | 18983.00 ), ( Kalgachia | 1823.50 ), ( Sarthebari | 2014.00 ), ( Barnagar | 1757.50 ), ( Chenga | 2550.00 )",19-06-2022
+Biswanath,8559,6670,4419,19648,"( Gohpur | 2889 ), ( Halem | 16247 ), ( Naduar RC part | 0 ), ( Biswanath | 512 )",1379.5,"( Gohpur | 536.00 ), ( Halem | 571.00 ), ( Naduar RC part | 22.50 ), ( Biswanath | 250.00 )",19-06-2022
+Cachar,55541,51692,38589,145822,"( Katigorah | 87108 ), ( Silchar | 28390 ), ( Lakhipur | 2925 ), ( Sonai | 25602 ), ( Udharbond | 1797 )",0,"( Katigorah | 0.00 ), ( Silchar | 0.00 ), ( Lakhipur | 0.00 ), ( Sonai | 0.00 ), ( Udharbond | 0.00 )",19-06-2022
+Dibrugarh,2870,2204,1593,6667,( Chabua | 6667 ),5.6,( Chabua | 5.60 ),19-06-2022
+Darrang,165089,145177,83703,393969,"( Mangaldoi | 125007 ), ( Dalgaon | 123940 ), ( Sipajhar | 58537 ), ( Patharighat | 86485 )",8380,"( Mangaldoi | 2328.00 ), ( Dalgaon | 3795.50 ), ( Sipajhar | 256.50 ), ( Patharighat | 2000.00 )",19-06-2022
+Udalguri,27632,21975,15615,65222,"( Udalguri | 11035 ), ( Mazbat | 1039 ), ( Khairabari | 2514 ), ( Harisinga | 2078 ), ( Kalaigaon | 48556 )",5617,"( Udalguri | 5103.00 ), ( Mazbat | 0.00 ), ( Khairabari | 10.00 ), ( Harisinga | 0.00 ), ( Kalaigaon | 504.00 )",19-06-2022
+Tinsukia,5237,4343,3427,13007,"( Tinsukia | 76 ), ( Doomdooma | 12931 )",379.08,"( Tinsukia | 8.85 ), ( Doomdooma | 370.23 )",19-06-2022
+Tamulpur,11351,10721,5474,27546,"( Goreswar | 20177 ), ( Tamulpur | 7369 )",983.2,"( Goreswar | 183.20 ), ( Tamulpur | 800.00 )",19-06-2022
+South Salmara,31373,25725,14330,71428,"( South Salmara | 71016 ), ( Mankachar | 412 )",405,"( South Salmara | 0.00 ), ( Mankachar | 405.00 )",19-06-2022
+Sonitpur,24583,21971,24623,71177,"( Naduar | 0 ), ( Dhekiajuli | 6260 ), ( Chariduar | 55743 ), ( Thelamara | 4954 ), ( Tezpur | 4220 )",4469.7,"( Naduar | 50.50 ), ( Dhekiajuli | 2876.60 ), ( Chariduar | 171.00 ), ( Thelamara | 646.00 ), ( Tezpur | 725.60 )",19-06-2022
+Sivasagar,2846,2752,694,6292,"( Sivsagar | 6292 ), ( Demow | 0 )",85.9,"( Sivsagar | 60.00 ), ( Demow | 25.90 )",19-06-2022
+Nalbari,102383,89657,42753,234793,"( Ghograpar | 58214 ), ( Tihu | 44605 ), ( Banekuchi | 39093 ), ( Paschim Nalbari | 49621 ), ( Barbhag | 11500 ), ( Nalbari | 12500 ), ( Barkhetri | 19260 )",5916.3,"( Ghograpar | 718.00 ), ( Tihu | 367.00 ), ( Banekuchi | 161.00 ), ( Paschim Nalbari | 554.00 ), ( Barbhag | 83.50 ), ( Nalbari | 338.10 ), ( Barkhetri | 3694.70 )",19-06-2022
+Nagaon,128371,115759,120329,364459,"( Kampur | 221738 ), ( Raha | 119133 ), ( Nagaon | 22690 ), ( Samaguri | 459 ), ( Kaliabor | 439 )",15058.14,"( Kampur | 7800.00 ), ( Raha | 6932.14 ), ( Nagaon | 86.00 ), ( Samaguri | 185.00 ), ( Kaliabor | 55.00 )",19-06-2022
+Morigaon,26898,25817,16104,68819,"( Morigaon | 42068 ), ( Bhuragaon | 26751 ), ( Mayong | 0 ), ( Laharighat | 0 )",2439,"( Morigaon | 750.00 ), ( Bhuragaon | 658.00 ), ( Mayong | 930.00 ), ( Laharighat | 101.00 )",19-06-2022
+Majuli,0,0,0,0,"( Majuli | 0 ), ( Ujani Majuli | 0 )",660.94,"( Majuli | 424.80 ), ( Ujani Majuli | 236.14 )",19-06-2022
+Lakhimpur,55675,38399,22527,116601,"( North Lakhimpur | 51619 ), ( Narayanpur | 0 ), ( Nowboicha | 37898 ), ( Dhakuakhana | 1358 ), ( Bihpuria | 21027 ), ( Kadam | 0 ), ( Subansiri | 4699 )",1318.15,"( North Lakhimpur | 161.00 ), ( Narayanpur | 0.00 ), ( Nowboicha | 313.30 ), ( Dhakuakhana | 50.00 ), ( Bihpuria | 640.35 ), ( Kadam | 46.50 ), ( Subansiri | 107.00 )",19-06-2022
+Kokrajhar,17249,14369,6892,38510,"( Bagribari | 22884 ), ( Bhawraguri | 2659 ), ( Gossaigaon | 542 ), ( Kokrajhar | 483 ), ( Dotma | 11942 )",284.49,"( Bagribari | 284.49 ), ( Bhawraguri | 0.00 ), ( Gossaigaon | 0.00 ), ( Kokrajhar | 0.00 ), ( Dotma | 0.00 )",19-06-2022
+Karimganj,46164,30972,11668,88804,"( RK Nagar | 34425 ), ( Badarpur | 10833 ), ( Patherkandi | 5250 ), ( Karimganj | 13150 ), ( Nilambazar | 25146 )",225,"( RK Nagar | 225.00 ), ( Badarpur | 0.00 ), ( Patherkandi | 0.00 ), ( Karimganj | 0.00 ), ( Nilambazar | 0.00 )",19-06-2022
+Karbi Anglong West,2716,2717,9181,14614,( Donkamokam | 14614 ),66,( Donkamokam | 66.00 ),19-06-2022
+Kamrup (M),5490,5010,255,10755,"( Guwahati | 455 ), ( Chandrapur | 0 ), ( Dispur | 10300 ), ( Sonapur | 0 )",219,"( Guwahati | 0.00 ), ( Chandrapur | 0.00 ), ( Dispur | 0.00 ), ( Sonapur | 219.00 )",19-06-2022
+Kamrup,110225,95076,49968,255269,"( Rangia | 76850 ), ( Goroimari | 0 ), ( Kayan | 38122 ), ( Chamaria | 0 ), ( Chaygaon | 0 ), ( Kamalpur | 27382 ), ( Palashbari | 0 ), ( Hajo | 101164 ), ( North Ghy | 11751 )",4535.4,"( Rangia | 680.00 ), ( Goroimari | 559.00 ), ( Kayan | 358.00 ), ( Chamaria | 92.50 ), ( Chaygaon | 144.00 ), ( Kamalpur | 468.90 ), ( Palashbari | 305.50 ), ( Hajo | 1787.00 ), ( North Ghy | 140.50 )",19-06-2022
+Jorhat,174,116,102,392,"( Jorhat East | 321 ), ( Teok | 71 )",0,"( Jorhat East | 0.00 ), ( Teok | 0.00 )",19-06-2022
+Hojai,54276,41359,13111,108746,"( Lanka | 12494 ), ( Hojai | 68874 ), ( Doboka | 27378 )",2785,"( Lanka | 815.00 ), ( Hojai | 1534.00 ), ( Doboka | 436.00 )",19-06-2022
+Hailakandi,1496,1024,407,2927,"( Hailakandi | 1300 ), ( Lala | 550 ), ( Katlicherra | 145 ), ( Algapur | 932 )",25,"( Hailakandi | 0.00 ), ( Lala | 0.00 ), ( Katlicherra | 0.00 ), ( Algapur | 25.00 )",19-06-2022
+Golaghat,2537,1911,691,5139,"( Dergaon | 33 ), ( Bokakhat | 5106 ), ( Khumtai | 0 )",57,"( Dergaon | 0.00 ), ( Bokakhat | 31.00 ), ( Khumtai | 26.00 )",19-06-2022
+Goalpara,129415,96748,40105,266268,"( Balijana | 98319 ), ( Lakhipur | 161317 ), ( Matia | 6632 ), ( Rongjuli | 0 )",3630.5,"( Balijana | 762.50 ), ( Lakhipur | 2227.00 ), ( Matia | 614.00 ), ( Rongjuli | 27.00 )",19-06-2022
+Dhubri,46720,37962,21884,106566,"( Dhubri | 0 ), ( Gauripur | 0 ), ( South Salmara Part | 96013 ), ( Chapar | 570 ), ( Athani | 1695 ), ( Bilasipara | 7422 ), ( Golakganj | 866 ), ( Agamoni | 0 )",8656.83,"( Dhubri | 564.00 ), ( Gauripur | 535.60 ), ( South Salmara Part | 2394.00 ), ( Chapar | 1018.20 ), ( Athani | 2289.03 ), ( Bilasipara | 0.00 ), ( Golakganj | 962.50 ), ( Agamoni | 893.50 )",19-06-2022
+Dhemaji,16990,15547,8436,40973,"( Sissiborgaon | 11196 ), ( Jonai | 9126 ), ( Gogamukh | 17117 ), ( Dhemaji | 3534 )",7175.5,"( Sissiborgaon | 730.00 ), ( Jonai | 5941.50 ), ( Gogamukh | 467.00 ), ( Dhemaji | 37.00 )",19-06-2022
+Chirang,4168,3223,2745,10136,"( Sidli | 599 ), ( Bijni | 6823 ), ( Bengtal | 2714 )",3322.2,"( Sidli | 368.50 ), ( Bijni | 2922.50 ), ( Bengtal | 31.20 )",19-06-2022
+Dhubri,115788,93930,81481,291199,"( Agamoni | 430 ), ( Chapar | 690 ), ( South Salmara Part | 265395 ), ( Athani | 1758 ), ( Dhubri | 40 ), ( Gauripur | 0 ), ( Golakganj | 1179 ), ( Bilasipara | 21707 )",7617.33,"( Agamoni | 0.00 ), ( Chapar | 1018.20 ), ( South Salmara Part | 2394.00 ), ( Athani | 2289.03 ), ( Dhubri | 660.50 ), ( Gauripur | 596.60 ), ( Golakganj | 659.00 ), ( Bilasipara | 0.00 )",20-06-2022
+Kamrup,146778,96911,38555,282244,"( Rangia | 82230 ), ( Kayan | 38122 ), ( Chamaria | 0 ), ( Chaygaon | 0 ), ( Kamalpur | 20972 ), ( Goroimari | 0 ), ( Hajo | 121438 ), ( Palashbari | 590 ), ( North Ghy | 18892 )",3601.9,"( Rangia | 798.50 ), ( Kayan | 407.00 ), ( Chamaria | 95.50 ), ( Chaygaon | 144.00 ), ( Kamalpur | 468.90 ), ( Goroimari | 600.00 ), ( Hajo | 620.00 ), ( Palashbari | 208.50 ), ( North Ghy | 259.50 )",20-06-2022
+Tinsukia,4199,3675,3008,10882,"( Doomdooma | 6361 ), ( Tinsukia | 4521 )",,"( Doomdooma | 185.20 ), ( Tinsukia | 1268.33 )",20-06-2022
+Barpeta,499536,470049,261136,1230721,"( Baghbar | 370497 ), ( Barpeta | 158760 ), ( Sarthebari | 335837 ), ( Barnagar | 12452 ), ( Kalgachia | 198692 ), ( Chenga | 154483 )",28102.5,"( Baghbar | 18983.00 ), ( Barpeta | 875.00 ), ( Sarthebari | 2289.00 ), ( Barnagar | 1439.00 ), ( Kalgachia | 1823.50 ), ( Chenga | 2693.00 )",20-06-2022
+Biswanath,6366,5370,4816,16552,"( Gohpur | 668 ), ( Naduar RC part | 0 ), ( Biswanath | 138 ), ( Halem | 15746 )",775.5,"( Gohpur | 212.00 ), ( Naduar RC part | 22.50 ), ( Biswanath | 0.00 ), ( Halem | 541.00 )",20-06-2022
+Bongaigaon,50545,46076,49810,146431,"( Boitamari | 12843 ), ( Srijangram | 130808 ), ( Manikpur | 2780 )",2671,"( Boitamari | 0.00 ), ( Srijangram | 2445.00 ), ( Manikpur | 226.00 )",20-06-2022
+Cachar,80518,74620,52005,207143,"( Silchar | 42782 ), ( Sonai | 61300 ), ( Udharbond | 2724 ), ( Katigorah | 87119 ), ( Lakhipur | 13218 )",15,"( Silchar | 0.00 ), ( Sonai | 15.00 ), ( Udharbond | 0.00 ), ( Katigorah | 0.00 ), ( Lakhipur | 0.00 )",20-06-2022
+Chirang,3417,2697,2099,8213,"( Bijni | 6129 ), ( Sidli | 0 ), ( Bengtal | 2084 )",2444.9,"( Bijni | 2444.90 ), ( Sidli | 0.00 ), ( Bengtal | 0.00 )",20-06-2022
+Darrang,199377,168619,101245,469241,"( Mangaldoi | 125007 ), ( Patharighat | 77096 ), ( Dalgaon | 185900 ), ( Sipajhar | 81238 )",9347.5,"( Mangaldoi | 2328.00 ), ( Patharighat | 2000.00 ), ( Dalgaon | 3795.50 ), ( Sipajhar | 1224.00 )",20-06-2022
+Dhemaji,14100,12058,8478,34636,"( Sissiborgaon | 12196 ), ( Jonai | 18295 ), ( Gogamukh | 1358 ), ( Dhemaji | 2787 )",9709.5,"( Sissiborgaon | 885.00 ), ( Jonai | 8794.50 ), ( Gogamukh | 0.00 ), ( Dhemaji | 30.00 )",20-06-2022
+Dibrugarh,1567,1240,1050,3857,( Chabua | 3857 ),2.5,( Chabua | 2.50 ),20-06-2022
+Goalpara,135673,102667,41808,280148,"( Balijana | 99311 ), ( Matia | 9408 ), ( Lakhipur | 171429 ), ( Rongjuli | 0 )",1381.5,"( Balijana | 762.50 ), ( Matia | 614.00 ), ( Lakhipur | 0.00 ), ( Rongjuli | 5.00 )",20-06-2022
+Golaghat,11878,10977,3677,26532,"( Bokakhat | 26532 ), ( Khumtai | 0 )",106,"( Bokakhat | 80.00 ), ( Khumtai | 26.00 )",20-06-2022
+Hailakandi,8477,6986,2560,18023,"( Lala | 5500 ), ( Algapur | 6510 ), ( Hailakandi | 5150 ), ( Katlicherra | 863 )",76,"( Lala | 13.00 ), ( Algapur | 31.00 ), ( Hailakandi | 19.00 ), ( Katlicherra | 13.00 )",20-06-2022
+Hojai,44689,34179,10930,89798,"( Lanka | 10757 ), ( Doboka | 27378 ), ( Hojai | 51663 )",2349,"( Lanka | 815.00 ), ( Doboka | 436.00 ), ( Hojai | 1098.00 )",20-06-2022
+Kamrup (M),4718,3431,491,8640,"( Guwahati | 759 ), ( Sonapur | 5050 ), ( Chandrapur | 0 ), ( Azara | 981 ), ( Dispur | 1850 )",436.5,"( Guwahati | 0.00 ), ( Sonapur | 109.50 ), ( Chandrapur | 0.00 ), ( Azara | 327.00 ), ( Dispur | 0.00 )",20-06-2022
+Karbi Anglong West,3605,3605,4878,12088,( Donkamokam | 12088 ),2.4,( Donkamokam | 2.40 ),20-06-2022
+Karimganj,71565,43721,18579,133865,"( RK Nagar | 38425 ), ( Badarpur | 26920 ), ( Patherkandi | 7751 ), ( Karimganj | 17569 ), ( Nilambazar | 43200 )",290,"( RK Nagar | 290.00 ), ( Badarpur | 0.00 ), ( Patherkandi | 0.00 ), ( Karimganj | 0.00 ), ( Nilambazar | 0.00 )",20-06-2022
+Kokrajhar,9164,8419,5301,22884,"( Bhawraguri | 0 ), ( Gossaigaon | 0 ), ( Bagribari | 22884 )",284.49,"( Bhawraguri | 0.00 ), ( Gossaigaon | 0.00 ), ( Bagribari | 284.49 )",20-06-2022
+Lakhimpur,43743,30846,21629,96218,"( Narayanpur | 0 ), ( Nowboicha | 43094 ), ( North Lakhimpur | 28818 ), ( Bihpuria | 17756 ), ( Dhakuakhana | 1358 ), ( Kadam | 0 ), ( Subansiri | 5192 )",1474.3,"( Narayanpur | 0.00 ), ( Nowboicha | 1040.30 ), ( North Lakhimpur | 165.00 ), ( Bihpuria | 0.00 ), ( Dhakuakhana | 50.00 ), ( Kadam | 51.00 ), ( Subansiri | 168.00 )",20-06-2022
+Majuli,5765,5025,6607,17397,"( Ujani Majuli | 0 ), ( Majuli | 17397 ) ",819.78,"( Ujani Majuli | 230.42 ), ( Majuli | 589.36 )",20-06-2022
+Morigaon,32798,30504,20036,83338,"( Morigaon | 56587 ), ( Bhuragaon | 26751 ), ( Mayong | 0 ), ( Laharighat | 0 )",,"( Morigaon | 770.00 ), ( Bhuragaon | 721.00 ), ( Mayong | 9000.00 ), ( Laharighat | 101.00 )",20-06-2022
+Nagaon,153567,141794,144774,440135,"( Nagaon | 44238 ), ( Raha | 130046 ), ( Samaguri | 5844 ), ( Kampur | 259500 ), ( Rupahi | 0 ), ( Dhing | 0 ), ( Kaliabor | 507 )",,"( Nagaon | 152.00 ), ( Raha | 7047.57 ), ( Samaguri | 252.00 ), ( Kampur | 7835.00 ), ( Rupahi | 160.00 ), ( Dhing | 328.00 ), ( Kaliabor | 40.00 )",20-06-2022
+Nalbari,80711,70695,33032,184438,"( Ghograpar | 34928 ), ( Tihu | 30369 ), ( Paschim Nalbari | 48121 ), ( Banekuchi | 27760 ), ( Barbhag | 11500 ), ( Nalbari | 12500 ), ( Barkhetri | 19260 )",,"( Ghograpar | 718.00 ), ( Tihu | 367.00 ), ( Paschim Nalbari | 554.00 ), ( Banekuchi | 111.00 ), ( Barbhag | 83.50 ), ( Nalbari | 338.10 ), ( Barkhetri | 4004.50 )",20-06-2022
+Sivasagar,2846,2752,694,6292,"( Sivsagar | 6292 ), ( Demow | 0 )",,"( Sivsagar | 40.00 ), ( Demow | 16.00 )",20-06-2022
+Sonitpur,27888,25581,27747,81216,"( Naduar | 0 ), ( Chariduar | 59814 ), ( Thelamara | 4954 ), ( Dhekiajuli | 12228 ), ( Tezpur | 4220 )",,"( Naduar | 66.00 ), ( Chariduar | 0.00 ), ( Thelamara | 656.00 ), ( Dhekiajuli | 2347.70 ), ( Tezpur | 732.60 )",20-06-2022
+South Salmara,52511,47815,50827,151153,"( South Salmara | 139183 ), ( Mankachar | 11970 )",,"( South Salmara | 0.00 ), ( Mankachar | 405.00 )",20-06-2022
+Tamulpur,9535,9029,2015,20579,"( Tamulpur | 2558 ), ( Goreswar | 18021 )",,"( Tamulpur | 400.00 ), ( Goreswar | 1310.00 )",20-06-2022
+Udalguri,11193,8221,6598,26012,"( Udalguri | 9515 ), ( Khairabari | 836 ), ( Mazbat | 382 ), ( Kalaigaon | 12606 ), ( Harisinga | 2673 )",,"( Udalguri | 0.00 ), ( Khairabari | 48.00 ), ( Mazbat | 475.44 ), ( Kalaigaon | 246.50 ), ( Harisinga | 40.00 )",20-06-2022
+Baksa,14650,12884,6216,33750,"( Barnagar RC part | 19682 ), ( Baska | 82 ), ( Baganpara | 1233 ), ( Barama | 252 ), ( Jalah | 12501 )",668.33,"( Barnagar RC part | 410.00 ), ( Baska | 21.33 ), ( Baganpara | 12.00 ), ( Barama | 5.00 ), ( Jalah | 220.00 )",20-06-2022
+Bajali,172115,135100,31300,338515,"( Sarupeta | 178515 ), ( Bajali | 160000 )",490,"( Sarupeta | 490.00 ), ( Bajali | 0.00 )",20-06-2022
+Tinsukia,2247,2246,1972,6465,"( Tinsukia | 4521 ), ( Doomdooma | 1944 )",,"( Tinsukia | 1268.33 ), ( Doomdooma | 44.50 )",21-06-2022
+Biswanath,0,0,0,0,"( Gohpur | 0 ), ( Naduar RC part | 0 ), ( Halem | 0 ), ( Biswanath | 0 )",443.5,"( Gohpur | 0.00 ), ( Naduar RC part | 22.50 ), ( Halem | 411.00 ), ( Biswanath | 10.00 )",21-06-2022
+Bongaigaon,81398,71666,83006,236070,"( Srijangram | 166318 ), ( Manikpur | 2780 ), ( Boitamari | 66972 )",172,"( Srijangram | 0.00 ), ( Manikpur | 172.00 ), ( Boitamari | 0.00 )",21-06-2022
+Udalguri,4004,2856,2647,9507,"( Udalguri | 3878 ), ( Mazbat | 610 ), ( Khairabari | 88 ), ( Harisinga | 1746 ), ( Kalaigaon | 3185 )",,"( Udalguri | 0.00 ), ( Mazbat | 0.00 ), ( Khairabari | 0.00 ), ( Harisinga | 146.00 ), ( Kalaigaon | 81.00 )",21-06-2022
+Tamulpur,15156,12336,2106,29598,"( Goreswar | 26655 ), ( Tamulpur | 2943 )",,"( Goreswar | 0.00 ), ( Tamulpur | 500.00 )",21-06-2022
+South Salmara,56232,51234,62745,170211,"( South Salmara | 139183 ), ( Mankachar | 31028 )",,"( South Salmara | 692.00 ), ( Mankachar | 199.00 )",21-06-2022
+Sonitpur,7906,11608,8147,27661,"( Naduar | 0 ), ( Chariduar | 929 ), ( Thelamara | 1264 ), ( Dhekiajuli | 20841 ), ( Tezpur | 4627 )",,"( Naduar | 66.00 ), ( Chariduar | 69.00 ), ( Thelamara | 120.00 ), ( Dhekiajuli | 1920.00 ), ( Tezpur | 727.90 )",21-06-2022
+Sivasagar,1046,802,302,2150,( Sivsagar | 2150 ),,( Sivsagar | 30.00 ),21-06-2022
+Nalbari,145214,132501,117323,395038,"( Ghograpar | 31602 ), ( Banekuchi | 16530 ), ( Tihu | 6455 ), ( Barbhag | 11500 ), ( Paschim Nalbari | 47121 ), ( Nalbari | 12500 ), ( Barkhetri | 269330 )",,"( Ghograpar | 718.00 ), ( Banekuchi | 80.00 ), ( Tihu | 200.00 ), ( Barbhag | 83.50 ), ( Paschim Nalbari | 554.00 ), ( Nalbari | 338.10 ), ( Barkhetri | 0.00 )",21-06-2022
+Nagaon,159419,148340,149622,457381,"( Nagaon | 55097 ), ( Kampur | 259500 ), ( Rupahi | 0 ), ( Raha | 137000 ), ( Samaguri | 5287 ), ( Kaliabor | 497 ), ( Dhing | 0 )",,"( Nagaon | 218.00 ), ( Kampur | 8320.00 ), ( Rupahi | 118.00 ), ( Raha | 7938.02 ), ( Samaguri | 252.00 ), ( Kaliabor | 35.00 ), ( Dhing | 241.00 )",21-06-2022
+Morigaon,39907,37708,25837,103452,"( Mayong | 2437 ), ( Bhuragaon | 39292 ), ( Morigaon | 61723 ), ( Laharighat | 0 )",,"( Mayong | 14000.00 ), ( Bhuragaon | 832.00 ), ( Morigaon | 855.00 ), ( Laharighat | 101.00 )",21-06-2022
+Majuli,5768,5027,6608,17403,"( Ujani Majuli | 0 ), ( Majuli | 17403 )",,"( Ujani Majuli | 132.84 ), ( Majuli | 269.36 )",21-06-2022
+Lakhimpur,23450,18022,15373,56845,"( Nowboicha | 40213 ), ( Narayanpur | 0 ), ( North Lakhimpur | 7336 ), ( Bihpuria | 5875 ), ( Dhakuakhana | 729 ), ( Subansiri | 2692 )",,"( Nowboicha | 644.30 ), ( Narayanpur | 0.00 ), ( North Lakhimpur | 38.00 ), ( Bihpuria | 0.00 ), ( Dhakuakhana | 387.00 ), ( Subansiri | 73.00 )",21-06-2022
+Kokrajhar,5207,4758,2509,12474,"( Gossaigaon | 0 ), ( Kokrajhar | 0 ), ( Bhawraguri | 0 ), ( Bagribari | 12474 )",,"( Gossaigaon | 0.00 ), ( Kokrajhar | 0.00 ), ( Bhawraguri | 0.00 ), ( Bagribari | 0.00 )",21-06-2022
+Barpeta,509455,480838,261066,1251359,"( Barpeta | 180839 ), ( Chenga | 154483 ), ( Baghbar | 370497 ), ( Sarthebari | 335837 ), ( Kalgachia | 198692 ), ( Barnagar | 11011 )",27601,"( Barpeta | 870.00 ), ( Chenga | 2693.00 ), ( Baghbar | 18983.00 ), ( Sarthebari | 2028.00 ), ( Kalgachia | 1823.50 ), ( Barnagar | 1203.50 )",21-06-2022
+Karimganj,74435,44338,28876,147649,"( Patherkandi | 6883 ), ( RK Nagar | 11000 ), ( Badarpur | 35366 ), ( Nilambazar | 77960 ), ( Karimganj | 16440 )",275.2,"( Patherkandi | 0.00 ), ( RK Nagar | 0.00 ), ( Badarpur | 275.20 ), (
+Nilambazar | 0.00 ), (
+Karimganj | 0.00 )",21-06-2022
+Kamrup (M),3445,1713,605,5763,"( Chandrapur | 0 ), ( Guwahati | 0 ), ( Sonapur | 5483 ), ( Dispur | 280 )",541.5,"( Chandrapur | 173.00 ), ( Guwahati | 0.00 ), ( Sonapur | 368.50 ), ( Dispur | 0.00 )",21-06-2022
+Kamrup,195449,135236,69529,400214,"( Rangia | 71800 ), ( Goroimari | 0 ), ( Kayan | 38122 ), ( Nagarbera | 0 ), ( Chaygaon | 0 ), ( Kamalpur | 146310 ), ( Chamaria | 0 ), ( Hajo | 122138 ), ( Palashbari | 219 ), ( North Ghy | 21625 )",4044.4,"( Rangia | 798.50 ), ( Goroimari | 600.00 ), ( Kayan | 407.00 ), ( Nagarbera | 245.00 ), ( Chaygaon | 144.00 ), ( Kamalpur | 694.90 ), ( Chamaria | 95.50 ), ( Hajo | 610.00 ), ( Palashbari | 274.50 ), ( North Ghy | 175.00 )",21-06-2022
+Hojai,39556,30214,10028,79798,"( Hojai | 44019 ), ( Doboka | 27378 ), ( Lanka | 8401 )",2273,"( Hojai | 1022.00 ), ( Doboka | 436.00 ), ( Lanka | 815.00 )",21-06-2022
+Hailakandi,36237,20345,19608,76190,"( Algapur | 54241 ), ( Hailakandi | 6611 ), ( Lala | 14000 ), ( Katlicherra | 1338 )",106,"( Algapur | 42.00 ), ( Hailakandi | 16.00 ), ( Lala | 29.00 ), ( Katlicherra | 19.00 )",21-06-2022
+Golaghat,11878,10977,3677,26532,"( Bokakhat | 26532 ), ( Khumtai | 0 )",96,"( Bokakhat | 80.00 ), ( Khumtai | 16.00 )",21-06-2022
+Goalpara,137325,104210,42833,284368,"( Matia | 13546 ), ( Balijana | 99311 ), ( Lakhipur | 171429 ), ( Dudhnoi | 82 ), ( Rongjuli | 0 )",1376.5,"( Matia | 614.00 ), ( Balijana | 762.50 ), ( Lakhipur | 0.00 ), ( Dudhnoi | 0.00 ), ( Rongjuli | 0.00 )",21-06-2022
+Dibrugarh,1567,1240,1050,3857,( Chabua | 3857 ),2.5,( Chabua | 2.50 ),21-06-2022
+Dhubri,214071,196434,184203,594708,"( Dhubri | 53248 ), ( Agamoni | 1190 ), ( Gauripur | 0 ), ( Chapar | 690 ), ( Bilasipara | 130503 ), ( South Salmara Part | 265395 ), ( Golakganj | 301 ), ( Athani | 143381 )",8978.83,"( Dhubri | 711.00 ), ( Agamoni | 0.00 ), ( Gauripur | 695.10 ), ( Chapar | 1018.20 ), ( Bilasipara | 0.00 ), ( South Salmara Part | 3769.00 ), ( Golakganj | 378.00 ), ( Athani | 2407.53 )",21-06-2022
+Dhemaji,15547,12511,9621,37679,"( Jonai | 20042 ), ( Sissiborgaon | 17078 ), ( Dhemaji | 559 )",7079.5,"( Jonai | 6158.50 ), ( Sissiborgaon | 912.00 ), ( Dhemaji | 9.00 )",21-06-2022
+Cachar,84281,78662,53908,216851,"( Silchar | 42782 ), ( Lakhipur | 19800 ), ( Sonai | 62200 ), ( Udharbond | 4950 ), ( Katigorah | 87119 )",41,"( Silchar | 0.00 ), ( Lakhipur | 0.00 ), ( Sonai | 41.00 ), ( Udharbond | 0.00 ), ( Katigorah | 0.00 )",21-06-2022
+Bajali,160560,125205,30105,315870,"( Sarupeta | 155870 ), ( Bajali | 160000 )",460,"( Sarupeta | 460.00 ), ( Bajali | 0.00 )",21-06-2022
+Chirang,1217,1059,1259,3535,"( Bijni | 1451 ), ( Bengtal | 2084 )",2444.9,"( Bijni | 2444.90 ), ( Bengtal | 0.00 )",21-06-2022
+Darrang,243968,204349,99104,547421,"( Mangaldoi | 125007 ), ( Dalgaon | 185900 ), ( Sipajhar | 155764 ), ( Patharighat | 80750 )",9626.5,"( Mangaldoi | 2838.00 ), ( Dalgaon | 3795.50 ), ( Sipajhar | 1593.00 ), ( Patharighat | 1400.00 )",21-06-2022
+Karbi Anglong West,1256,1257,1496,4009,( Donkamokam | 4009 ),0,( Donkamokam | 0.00 ),21-06-2022
+Baksa,8937,6991,6067,21995,"( Barnagar RC part | 21038 ), ( Baska | 0 ), ( Barama | 105 ), ( Baganpara | 0 ), ( Jalah | 852 )",452,"( Barnagar RC part | 410.00 ), ( Baska | 0.00 ), ( Barama | 0.00 ), ( Baganpara | 0.00 ), ( Jalah | 42.00 )",21-06-2022
+Udalguri,3860,2716,1409,7985,"( Udalguri | 1742 ), ( Harisinga | 2 ), ( Mazbat | 6050 ), ( Khairabari | 154 ), ( Kalaigaon | 37 )",,"( Udalguri | 0.00 ), ( Harisinga | 1.34 ), ( Mazbat | 0.00 ), ( Khairabari | 0.00 ), ( Kalaigaon | 10.00 )",22-06-2022
+Baksa,8638,6624,5930,21192,"( Barnagar RC part | 20957 ), ( Barama | 56 ), ( Baganpara | 179 )",410,"( Barnagar RC part | 410.00 ), ( Barama | 0.00 ), ( Baganpara | 0.00 )",22-06-2022
+Tinsukia,620,429,289,1338,( Doomdooma | 1338 ),,( Doomdooma | 28.00 ),22-06-2022
+Tamulpur,5722,5449,1540,12711,"( Goreswar | 12571 ), ( Tamulpur | 140 )",,"( Goreswar | 0.00 ), ( Tamulpur | 200.00 )",22-06-2022
+South Salmara,56230,51232,62745,170207,"( South Salmara | 139183 ), ( Mankachar | 31024 )",,"( South Salmara | 692.00 ), ( Mankachar | 199.00 )",22-06-2022
+Sonitpur,7963,11047,7419,26429,"( Dhekiajuli | 21140 ), ( Thelamara | 336 ), ( Chariduar | 4300 ), ( Tezpur | 653 )",,"( Dhekiajuli | 1424.00 ), ( Thelamara | 0.00 ), ( Chariduar | 0.00 ), ( Tezpur | 195.00 )",22-06-2022
+Sivasagar,230,210,47,487,( Sivsagar | 487 ),,( Sivsagar | 20.00 ),22-06-2022
+Nalbari,128247,118674,106815,353736,"( Tihu | 3570 ), ( Paschim Nalbari | 47429 ), ( Ghograpar | 4180 ), ( Barbhag | 21000 ), ( Banekuchi | 480 ), ( Nalbari | 12500 ), ( Barkhetri | 264577 )",,"( Tihu | 200.00 ), ( Paschim Nalbari | 554.00 ), ( Ghograpar | 718.00 ), ( Barbhag | 200.00 ), ( Banekuchi | 8.00 ), ( Nalbari | 381.50 ), ( Barkhetri | 0.00 )",22-06-2022
+Nagaon,178456,167646,157348,503450,"( Nagaon | 97767 ), ( Kampur | 259500 ), ( Samaguri | 5287 ), ( Raha | 140715 ), ( Kaliabor | 181 ), ( Rupahi | 0 ), ( Dhing | 0 )",,"( Nagaon | 218.00 ), ( Kampur | 8320.00 ), ( Samaguri | 225.00 ), ( Raha | 7941.51 ), ( Kaliabor | 18.00 ), ( Rupahi | 43.00 ), ( Dhing | 107.00 )",22-06-2022
+Morigaon,43684,41529,28106,113319,"( Mayong | 3774 ), ( Bhuragaon | 39292 ), ( Morigaon | 68391 ), ( Mikirbheta | 1862 ), ( Laharighat | 0 )",,"( Mayong | 14000.00 ), ( Bhuragaon | 832.00 ), ( Morigaon | 952.00 ), ( Mikirbheta | 0.00 ), ( Laharighat | 8.50 )",22-06-2022
+Bajali,124221,111379,24100,259700,"( Sarupeta | 98700 ), ( Bajali | 161000 )",412,"( Sarupeta | 412.00 ), ( Bajali | 0.00 )",22-06-2022
+Lakhimpur,15663,12609,11570,39842,"( Narayanpur | 0 ), ( Nowboicha | 30000 ), ( North Lakhimpur | 2789 ), ( Subansiri | 844 ), ( Bihpuria | 5475 ), ( Dhakuakhana | 734 )",833.6,"( Narayanpur | 0.00 ), ( Nowboicha | 239.60 ), ( North Lakhimpur | 0.00
+), ( Subansiri | 207.00 ),
+( Bihpuria | 0.00 ), (
+Dhakuakhana | 387.00
+)",22-06-2022
+Karimganj,137561,107947,35763,281271,"( Nilambazar | 62368 ), ( Badarpur | 42960 ), ( Patherkandi | 4732 ), ( RK Nagar | 51140 ), ( Karimganj | 120071 )",1562.5,"( Nilambazar | 914.00 ), ( Badarpur | 0.00 ), ( Patherkandi | 348.50 ), ( RK Nagar | 300.00 ), ( Karimganj | 0.00 )",22-06-2022
+Karbi Anglong West,1225,1225,1334,3784,( Donkamokam | 3784 ),0,( Donkamokam | 0.00 ),22-06-2022
+Kamrup (M),3095,2501,50,5646,"( Azara | 0 ), ( Chandrapur | 0 ), ( Sonapur | 5646 )",860,"( Azara | 0.00 ), ( Chandrapur | 173.00 ), ( Sonapur | 687.00 )",22-06-2022
+Kamrup,199419,515011,75066,789496,"( Rangia | 48700 ), ( Kamalpur | 146310 ), ( Kayan | 38122 ), ( Chaygaon | 0 ), ( Nagarbera | 0 ), ( Chamaria | 0 ), ( Hajo | 532240 ), ( Goroimari | 0 ), ( North Ghy | 21625 ), ( Palashbari | 2499 )",4238.5,"( Rangia | 798.50 ), ( Kamalpur | 694.00 ), ( Kayan | 407.00 ), ( Chaygaon | 144.00 ), ( Nagarbera | 245.00 ), ( Chamaria | 117.50 ), ( Hajo | 690.00 ), ( Goroimari | 700.00 ), ( North Ghy | 175.00 ), ( Palashbari | 267.50 )",22-06-2022
+Majuli,2942,2468,3569,8979,"( Majuli | 8979 ), ( Ujani Majuli | 0 )",,"( Majuli | 169.26 ), ( Ujani Majuli | 15.19 )",22-06-2022
+Hailakandi,19025,19537,12837,51399,"( Algapur | 27555 ), ( Hailakandi | 13044 ), ( Lala | 10800 ), ( Katlicherra | 0 )",95,"( Algapur | 45.00 ), ( Hailakandi | 19.00 ), ( Lala | 31.00 ), ( Katlicherra | 0.00 )",22-06-2022
+Hojai,26242,19487,7781,53510,"( Hojai | 19036 ), ( Lanka | 6832 ), ( Doboka | 27642 )",1800,"( Hojai | 539.00 ), ( Lanka | 815.00 ), ( Doboka | 446.00 )",22-06-2022
+Biswanath,0,0,0,0,"( Gohpur | 0 ), ( Halem | 0 )",167,"( Gohpur | 0.00 ), ( Halem | 167.00 )",22-06-2022
+Bongaigaon,26071,20813,27658,74542,"( Manikpur | 0 ), ( Srijangram | 7570 ), ( Boitamari | 66972 )",0,"( Manikpur | 0.00 ), ( Srijangram | 0.00 ), ( Boitamari | 0.00 )",22-06-2022
+Cachar,91611,85154,55237,232002,"( Katigorah | 89156 ), ( Lakhipur | 20361 ), ( Silchar | 52850 ), ( Sonai | 64200 ), ( Udharbond | 5435 )",0,"( Katigorah | 0.00 ), ( Lakhipur | 0.00 ), ( Silchar | 0.00 ), ( Sonai | 0.00 ), ( Udharbond | 0.00 )",22-06-2022
+Chirang,716,734,966,2416,"( Sidli | 0 ), ( Bijni | 622 ), ( Bengtal | 1794 )",0,"( Sidli | 0.00 ), ( Bijni | 0.00 ), ( Bengtal | 0.00 )",22-06-2022
+Barpeta,464384,420819,244187,1129390,"( Baghbar | 310212 ), ( Barpeta | 145377 ), ( Sarthebari | 335837 ), ( Kalgachia | 173378 ), ( Barnagar | 10103 ), ( Chenga | 154483 )",27229,"( Baghbar | 18983.00 ), ( Barpeta | 869.00 ), ( Sarthebari | 2080.00 ), ( Kalgachia | 1823.50 ), ( Barnagar | 780.50 ), ( Chenga | 2693.00 )",22-06-2022
+Dhemaji,14764,11578,9177,35519,"( Jonai | 17982 ), ( Sissiborgaon | 17078 ), ( Dhemaji | 459 )",6602.5,"( Jonai | 5685.50 ), ( Sissiborgaon | 910.00 ), ( Dhemaji | 7.00 )",22-06-2022
+Dhubri,215063,198574,183516,597153,"( Dhubri | 63237 ), ( Bilasipara | 125503 ), ( Golakganj | 0 ), ( South Salmara Part | 265395 ), ( Athani | 143018 ), ( Gauripur | 0 ), ( Chapar | 0 ), ( Agamoni | 0 )",6376.7,"( Dhubri | 711.00 ), ( Bilasipara | 0.00 ), ( Golakganj | 189.00 ), ( South Salmara Part | 3769.00 ), ( Athani | 0.00 ), ( Gauripur | 695.10 ), ( Chapar | 1012.60 ), ( Agamoni | 0.00 )",22-06-2022
+Dibrugarh,1567,1240,1050,3857,( Chabua | 3857 ),2.5,( Chabua | 2.50 ),22-06-2022
+Goalpara,111409,93266,36161,240836,"( Matia | 11286 ), ( Lakhipur | 140349 ), ( Balijana | 89160 ), ( Rongjuli | 0 ), ( Dudhnoi | 41 )",944.4,"( Matia | 321.00 ), ( Lakhipur | 0.00 ), ( Balijana | 623.40 ), ( Rongjuli | 0.00 ), ( Dudhnoi | 0.00 )",22-06-2022
+Golaghat,9522,8952,2955,21429,"( Bokakhat | 21429 ), ( Khumtai | 0 )",124.5,"( Bokakhat | 108.50 ), ( Khumtai | 16.00 )",22-06-2022
+Darrang,194038,159344,62594,415976,"( Dalgaon | 77400 ), ( Patharighat | 75359 ), ( Sipajhar | 138210 ), ( Mangaldoi | 125007 )",9687.5,"( Dalgaon | 3795.50 ), ( Patharighat | 1400.00 ), ( Sipajhar | 1654.00 ), ( Mangaldoi | 2838.00 )",22-06-2022
+Karbi Anglong West,90,93,100,283,( Donkamokam | 283 ),0,( Donkamokam | 0.00 ),23-06-2022
+Karimganj,131896,103396,45381,280673,"( Nilambazar | 62318 ), ( RK Nagar | 51140 ), ( Badarpur | 43433 ), ( Patherkandi | 3411 ), ( Karimganj | 120371 )",3148,"( Nilambazar | 0.00 ), ( RK Nagar | 3148.00 ), ( Badarpur | 0.00 ), ( Patherkandi | 0.00 ), ( Karimganj | 0.00 )",23-06-2022
+Lakhimpur,11120,7701,8093,26914,"( North Lakhimpur | 3698 ), ( Nowboicha | 23216 ), ( Bihpuria | 0 ), ( Kadam | 0 )",0,"( North Lakhimpur | 0.00 ), ( Nowboicha | 0.00 ), ( Bihpuria | 0.00 ), ( Kadam | 0.00 )",23-06-2022
+Majuli,995,671,943,2609,"( Majuli | 2609 ), ( Ujani Majuli | 0 )",140.77,"( Majuli | 126.38 ), ( Ujani Majuli | 14.39 )",23-06-2022
+Morigaon,41980,39463,25040,106483,"( Bhuragaon | 26751 ), ( Morigaon | 70023 ), ( Mayong | 5941 ), ( Mikirbheta | 3768 )",,"( Bhuragaon | 721.00 ), ( Morigaon | 1100.00 ), ( Mayong | 13090.00 ), ( Mikirbheta | 109.00 )",23-06-2022
+South Salmara,60750,55459,60743,176952,"( Mankachar | 37769 ), ( South Salmara | 139183 )",,"( Mankachar | 199.00 ), ( South Salmara | 692.00 )",23-06-2022
+Sonitpur,6968,11424,7422,25814,"( Thelamara | 0 ), ( Dhekiajuli | 25814 ), ( Tezpur | 0 )",,"( Thelamara | 13.00 ), ( Dhekiajuli | 1205.00 ), ( Tezpur | 14.00 )",23-06-2022
+Tamulpur,4551,2764,1532,8847,"( Goreswar | 8722 ), ( Tamulpur | 125 )",,"( Goreswar | 0.00 ), ( Tamulpur | 125.00 )",23-06-2022
+Tinsukia,573,436,381,1390,"( Tinsukia | 376 ), ( Doomdooma | 1014 )",,"( Tinsukia | 29.23 ), ( Doomdooma | 20.20 )",23-06-2022
+Udalguri,2280,1530,940,4750,"( Udalguri | 0 ), ( Harisinga | 0 ), ( Khairabari | 0 ), ( Kalaigaon | 0 ), ( Mazbat | 4750 )",,"( Udalguri | 0.00 ), ( Harisinga | 0.00 ), ( Khairabari | 0.00 ), ( Kalaigaon | 0.00 ), ( Mazbat | 0.00 )",23-06-2022
+Kamrup (M),2656,2055,20,4731,"( Sonapur | 4731 ), ( Chandrapur | 0 )",899.5,"( Sonapur | 726.50 ), ( Chandrapur | 173.00 )",23-06-2022
+Nalbari,127989,117864,106208,352061,"( Ghograpar | 4180 ), ( Paschim Nalbari | 46329 ), ( Barbhag | 20300 ), ( Tihu | 1622 ), ( Barkhetri | 269330 ), ( Nalbari | 10300 )",,"( Ghograpar | 718.00 ), ( Paschim Nalbari | 554.00 ), ( Barbhag | 140.00 ), ( Tihu | 50.00 ), ( Barkhetri | 5019.50 ), ( Nalbari | 381.50 )",23-06-2022
+Kamrup,209655,134633,84878,429166,"( Rangia | 25850 ), ( Hajo | 164733 ), ( Chaygaon | 0 ), ( Nagarbera | 0 ), ( Kayan | 25857 ), ( Chamaria | 0 ), ( Goroimari | 0 ), ( Kamalpur | 188602 ), ( Palashbari | 2499 ), ( North Ghy | 21625 )",4361.25,"( Rangia | 698.50 ), ( Hajo | 750.00 ), ( Chaygaon | 84.00 ), ( Nagarbera | 220.00 ), ( Kayan | 344.50 ), ( Chamaria | 88.25 ), ( Goroimari | 700.00 ), ( Kamalpur | 1045.00 ), ( Palashbari | 256.00 ), ( North Ghy | 175.00 )",23-06-2022
+Nagaon,178859,167482,156967,503308,"( Nagaon | 99155 ), ( Kampur | 259500 ), ( Raha | 142645 ), ( Samaguri | 2008 ), ( Dhing | 0 ), ( Rupahi | 0 )",,"( Nagaon | 728.00 ), ( Kampur | 8320.00 ), ( Raha | 8012.45 ), ( Samaguri | 182.00 ), ( Dhing | 44.00 ), ( Rupahi | 21.00 )",23-06-2022
+Hailakandi,25525,19831,12576,57932,"( Algapur | 41255 ), ( Hailakandi | 7177 ), ( Katlicherra | 0 ), ( Lala | 9500 )",101,"( Algapur | 47.00 ), ( Hailakandi | 21.00 ), ( Katlicherra | 0.00 ), ( Lala | 33.00 )",23-06-2022
+Hojai,15363,11153,4191,30707,"( Hojai | 7436 ), ( Doboka | 18154 ), ( Lanka | 5117 )",1439,"( Hojai | 178.00 ), ( Doboka | 446.00 ), ( Lanka | 815.00 )",23-06-2022
+Bajali,107420,100630,22530,230580,"( Sarupeta | 69580 ), ( Bajali | 161000 )",1177,"( Sarupeta | 365.00 ), ( Bajali | 812.00 )",23-06-2022
+Baksa,8624,6308,5547,20479,"( Baska | 0 ), ( Barama | 0 ), ( Barnagar RC part | 20479 )",410,"( Baska | 0.00 ), ( Barama | 0.00 ), ( Barnagar RC part | 410.00 )",23-06-2022
+Barpeta,426119,379857,226585,1032561,"( Barpeta | 145377 ), ( Baghbar | 299349 ), ( Chenga | 150025 ), ( Barnagar | 13792 ), ( Sarthebari | 250640 ), ( Kalgachia | 173378 )",27240,"( Barpeta | 880.00 ), ( Baghbar | 18983.00 ), ( Chenga | 2693.00 ), ( Barnagar | 780.50 ), ( Sarthebari | 2080.00 ), ( Kalgachia | 1823.50 )",23-06-2022
+Bongaigaon,8990,7554,9759,26303,"( Boitamari | 22385 ), ( Manikpur | 0 ), ( Srijangram | 3918 )",0,"( Boitamari | 0.00 ), ( Manikpur | 0.00 ), ( Srijangram | 0.00 )",23-06-2022
+Cachar,105752,95992,70769,272513,"( Katigorah | 89156 ), ( Silchar | 89156 ), ( Sonai | 68100 ), ( Lakhipur | 20361 ), ( Udharbond | 5740 )",0,"( Katigorah | 0.00 ), ( Silchar | 0.00 ), ( Sonai | 0.00 ), ( Lakhipur | 0.00 ), ( Udharbond | 0.00 )",23-06-2022
+Chirang,293,351,174,818,"( Bijni | 561 ), ( Bengtal | 257 )",0,"( Bijni | 0.00 ), ( Bengtal | 0.00 )",23-06-2022
+Biswanath,0,0,0,0,"( Halem | 0 ), ( Gohpur | 0 )",93,"( Halem | 93.00 ), ( Gohpur | 0.00 )",23-06-2022
+Dhemaji,9621,7758,6681,24060,"( Jonai | 15459 ), ( Sissiborgaon | 6339 ), ( Dhemaji | 2262 )",4828.06,"( Jonai | 4021.50 ), ( Sissiborgaon | 787.56 ), ( Dhemaji | 19.00 )",23-06-2022
+Dhubri,151989,134764,113192,399945,"( Bilasipara | 77203 ), ( Dhubri | 40824 ), ( South Salmara Part | 265395 ), ( Athani | 15333 ), ( Golakganj | 0 ), ( Gauripur | 0 ), ( Agamoni | 1190 ), ( Chapar | 0 )",5281.1,"( Bilasipara | 0.00 ), ( Dhubri | 711.00 ), ( South Salmara Part | 3769.00 ), ( Athani | 0.00 ), ( Golakganj | 106.00 ), ( Gauripur | 695.10 ), ( Agamoni | 0.00 ), ( Chapar | 0.00 )",23-06-2022
+Dibrugarh,1567,1240,1050,3857,"( Chabua | 3857 ), ( Dibrugarh West | 0 )",2.5,"( Chabua | 2.50 ), ( Dibrugarh West | 0.00 )",23-06-2022
+Goalpara,77178,67592,35240,180010,"( Matia | 9211 ), ( Lakhipur | 98230 ), ( Balijana | 72569 ), ( Rongjuli | 0 )",906.2,"( Matia | 308.00 ), ( Lakhipur | 0.00 ), ( Balijana | 598.20 ), ( Rongjuli | 0.00 )",23-06-2022
+Golaghat,7866,6755,2177,16798,"( Bokakhat | 16798 ), ( Khumtai | 0 )",106,"( Bokakhat | 90.00 ), ( Khumtai | 16.00 )",23-06-2022
+Darrang,146677,121658,45169,313504,"( Mangaldoi | 112301 ), ( Sipajhar | 138210 ), ( Dalgaon | 2725 ), ( Patharighat | 60268 )",9248.5,"( Mangaldoi | 2838.00 ), ( Sipajhar | 1615.00 ), ( Dalgaon | 3795.50 ), ( Patharighat | 1000.00 )",23-06-2022
+Darrang,65488,63634,41629,170751,"( Sipajhar | 59152 ), ( Patharighat | 29572 ), ( Mangaldoi | 80600 ), ( Dalgaon | 1427 )",7472.21,"( Sipajhar | 1615.00 ), ( Patharighat | 703.50 ), ( Mangaldoi | 3418.00 ), ( Dalgaon | 1735.71 )",24-06-2022
+Kamrup (M),1166,780,5,1951,"( Sonapur | 1951 ), ( Chandrapur | 0 )",899.5,"( Sonapur | 726.50 ), ( Chandrapur | 173.00 )",24-06-2022
+Dhemaji,15644,14623,10101,40368,"( Jonai | 15459 ), ( Sissiborgaon | 13488 ), ( Gogamukh | 6453 ), ( Dhemaji | 4968 )",6351.06,"( Jonai | 4581.50 ), ( Sissiborgaon | 1717.56 ), ( Gogamukh | 0.00 ), ( Dhemaji | 52.00 )",24-06-2022
+Dhubri,68967,59225,56492,184684,"( Bilasipara | 42941 ), ( Dhubri | 12423 ), ( Gauripur | 0 ), ( Athani | 0 ), ( South Salmara Part | 129320 ), ( Agamoni | 0 )",4480,"( Bilasipara | 0.00 ), ( Dhubri | 711.00 ), ( Gauripur | 0.00 ), ( Athani | 0.00 ), ( South Salmara Part | 3769.00 ), ( Agamoni | 0.00 )",24-06-2022
+Goalpara,65836,46103,20159,132098,"( Matia | 4849 ), ( Lakhipur | 78109 ), ( Balijana | 49140 ), ( Rongjuli | 0 )",882.2,"( Matia | 284.00 ), ( Lakhipur | 0.00 ), ( Balijana | 598.20 ), ( Rongjuli | 0.00 )",24-06-2022
+Golaghat,3199,2988,1566,7753,"( Bokakhat | 7753 ), ( Khumtai | 0 )",81,"( Bokakhat | 65.00 ), ( Khumtai | 16.00 )",24-06-2022
+Hojai,4860,3243,1658,9761,"( Hojai | 2841 ), ( Doboka | 4860 ), ( Lanka | 2060 )",1071,"( Hojai | 117.00 ), ( Doboka | 139.00 ), ( Lanka | 815.00 )",24-06-2022
+Kamrup,196921,122523,82068,401512,"( Rangia | 12269 ), ( Hajo | 166700 ), ( Chamaria | 0 ), ( Chaygaon | 0 ), ( Kamalpur | 188602 ), ( Nagarbera | 0 ), ( Goroimari | 0 ), ( Kayan | 10628 ), ( Palashbari | 0 ), ( North Ghy | 23313 )",3885.44,"( Rangia | 654.24 ), ( Hajo | 781.00 ), ( Chamaria | 79.20 ), ( Chaygaon | 33.00 ), ( Kamalpur | 1045.00 ), ( Nagarbera | 200.00 ), ( Goroimari | 500.00 ), ( Kayan | 344.50 ), ( Palashbari | 46.00 ), ( North Ghy | 202.50 )",24-06-2022
+Karbi Anglong West,488,491,536,1515,( Donkamokam | 1515 ),0,( Donkamokam | 0.00 ),24-06-2022
+Sonitpur,4514,7147,4407,16068,"( Thelamara | 0 ), ( Dhekiajuli | 16068 ), ( Tezpur | 0 )",,"( Thelamara | 11.00 ), ( Dhekiajuli | 989.00 ), ( Tezpur | 6.00 )",24-06-2022
+Lakhimpur,8230,5808,4343,18381,"( North Lakhimpur | 3922 ), ( Nowboicha | 14125 ), ( Bihpuria | 0 ), ( Subansiri | 334 )",20,"( North Lakhimpur | 0.00 ), ( Nowboicha | 0.00 ), ( Bihpuria | 0.00 ), ( Subansiri | 20.00 )",24-06-2022
+Majuli,0,0,0,0,"( Ujani Majuli | 0 ), ( Majuli | 0 )",21.74,"( Ujani Majuli | 13.76 ), ( Majuli | 7.98 )",24-06-2022
+Morigaon,38105,34936,21126,94167,"( Bhuragaon | 10700 ), ( Morigaon | 70742 ), ( Mikirbheta | 6784 ), ( Mayong | 5941 )",11457,"( Bhuragaon | 721.00 ), ( Morigaon | 1200.00 ), ( Mikirbheta | 436.00 ), ( Mayong | 9100.00 )",24-06-2022
+Nagaon,180562,169138,158775,508475,"( Kampur | 259500 ), ( Nagaon | 101991 ), ( Raha | 146051 ), ( Samaguri | 933 ), ( Dhing | 0 ), ( Rupahi | 0 )",19067.14,"( Kampur | 8320.00 ), ( Nagaon | 728.00 ), ( Raha | 9834.14 ), ( Samaguri | 148.00 ), ( Dhing | 32.00 ), ( Rupahi | 5.00 )",24-06-2022
+Nalbari,42062,38177,27178,107417,"( Paschim Nalbari | 39518 ), ( Barbhag | 13063 ), ( Tihu | 2202 ), ( Barkhetri | 50184 ), ( Nalbari | 2450 )",,"( Paschim Nalbari | 554.00 ), ( Barbhag | 140.00 ), ( Tihu | 50.00 ), ( Barkhetri | 5019.50 ), ( Nalbari | 110.00 )",24-06-2022
+Chirang,182,234,127,543,( Bijni | 543 ),0,( Bijni | 0.00 ),24-06-2022
+South Salmara,52267,49448,32790,134505,"( Mankachar | 30565 ), ( South Salmara | 103940 )",,"( Mankachar | 138.00 ), ( South Salmara | 692.00 )",24-06-2022
+Tamulpur,11,10,4,25,( Tamulpur | 25 ),,( Tamulpur | 100.00 ),24-06-2022
+Udalguri,560,333,198,1091,"( Khairabari | 0 ), ( Harisinga | 0 ), ( Udalguri | 1048 ), ( Kalaigaon | 0 ), ( Mazbat | 43 )",,"( Khairabari | 0.00 ), ( Harisinga | 0.00 ), ( Udalguri | 0.00 ), ( Kalaigaon | 0.00 ), ( Mazbat | 0.00 )",24-06-2022
+Karimganj,105165,77523,33723,216411,"( RK Nagar | 51140 ), ( Badarpur | 44571 ), ( Nilambazar | 62318 ), ( Patherkandi | 1627 ), ( Karimganj | 56755 )",300,"( RK Nagar | 300.00 ), ( Badarpur | 0.00 ), ( Nilambazar | 0.00 ), ( Patherkandi | 0.00 ), ( Karimganj | 0.00 )",24-06-2022
+Cachar,107175,96064,73106,276345,"( Katigorah | 96130 ), ( Lakhipur | 15455 ), ( Silchar | 91050 ), ( Sonai | 68270 ), ( Udharbond | 5440 )",77.7,"( Katigorah | 0.00 ), ( Lakhipur | 77.70 ), ( Silchar | 0.00 ), ( Sonai | 0.00 ), ( Udharbond | 0.00 )",24-06-2022
+Hailakandi,10760,8443,7985,27188,"( Katlicherra | 0 ), ( Lala | 110 ), ( Algapur | 18518 ), ( Hailakandi | 8560 )",138,"( Katlicherra | 0.00 ), ( Lala | 42.00 ), ( Algapur | 59.00 ), ( Hailakandi | 37.00 )",24-06-2022
+Biswanath,0,0,0,0,( Halem | 0 ),63,( Halem | 63.00 ),24-06-2022
+Barpeta,353838,334675,188329,876842,"( Barpeta | 95034 ), ( Baghbar | 261212 ), ( Barnagar | 13792 ), ( Kalgachia | 111563 ), ( Chenga | 144601 ), ( Sarthebari | 250640 )",27017,"( Barpeta | 657.00 ), ( Baghbar | 18983.00 ), ( Barnagar | 780.50 ), ( Kalgachia | 1823.50 ), ( Chenga | 2693.00 ), ( Sarthebari | 2080.00 )",24-06-2022
+Baksa,12030,8152,5734,25916,"( Baska | 0 ), ( Barnagar RC part | 16874 ), ( Baganpara | 9042 ), ( Jalah | 0 )",410,"( Baska | 0.00 ), ( Barnagar RC part | 410.00 ), ( Baganpara | 0.00 ), ( Jalah | 0.00 )",24-06-2022
+Bajali,22389,21932,5081,49402,"( Sarupeta | 20040 ), ( Bajali | 29362 )",155,"( Sarupeta | 155.00 ), ( Bajali | 0.00 )",24-06-2022
+Bongaigaon,60,71,16,147,"( Manikpur | 0 ), ( Srijangram | 147 )",0,"( Manikpur | 0.00 ), ( Srijangram | 0.00 )",24-06-2022
+Biswanath,0,0,0,0,( Halem | 0 ),43,( Halem | 43.00 ),25-06-2022
+Cachar,107751,97236,72908,277895,"( Lakhipur | 12455 ), ( Katigorah | 96131 ), ( Udharbond | 4350 ), ( Sonai | 68270 ), ( Silchar | 96689 )",0,"( Lakhipur | 0.00 ), ( Katigorah | 0.00 ), ( Udharbond | 0.00 ), ( Sonai | 0.00 ), ( Silchar | 0.00 )",25-06-2022
+Chirang,182,234,127,543,( Bijni | 543 ),0,( Bijni | 0.00 ),25-06-2022
+Darrang,57474,53501,45105,156080,"( Dalgaon | 0 ), ( Patharighat | 21698 ), ( Sipajhar | 61459 ), ( Mangaldoi | 72923 )",6204.35,"( Dalgaon | 467.85 ), ( Patharighat | 703.50 ), ( Sipajhar | 1615.00 ), ( Mangaldoi | 3418.00 )",25-06-2022
+Dhemaji,8715,7943,4059,20717,"( Jonai | 3158 ), ( Sissiborgaon | 8593 ), ( Gogamukh | 6453 ), ( Dhemaji | 2513 )",4094,"( Jonai | 3205.00 ), ( Sissiborgaon | 789.00 ), ( Gogamukh | 65.00 ), ( Dhemaji | 35.00 )",25-06-2022
+Dhubri,20342,18143,14057,52542,"( South Salmara Part | 52542 ), ( Bilasipara | 0 ), ( Dhubri | 0 ), ( Athani | 0 )",3769,"( South Salmara Part | 3769.00 ), ( Bilasipara | 0.00 ), ( Dhubri | 0.00 ), ( Athani | 0.00 )",25-06-2022
+Goalpara,47433,37403,15335,100171,"( Lakhipur | 57898 ), ( Matia | 2820 ), ( Balijana | 39453 ), ( Rongjuli | 0 )",823.5,"( Lakhipur | 0.00 ), ( Matia | 255.00 ), ( Balijana | 568.50 ), ( Rongjuli | 0.00 )",25-06-2022
+Golaghat,1988,1155,783,3926,"( Bokakhat | 3926 ), ( Khumtai | 0 )",78,"( Bokakhat | 65.00 ), ( Khumtai | 13.00 )",25-06-2022
+Hailakandi,2755,2323,995,6073,"( Algapur | 0 ), ( Hailakandi | 4963 ), ( Lala | 1110 )",0,"( Algapur | 0.00 ), ( Hailakandi | 0.00 ), ( Lala | 0.00 )",25-06-2022
+Hojai,2598,1702,732,5032,"( Doboka | 3042 ), ( Hojai | 1391 ), ( Lanka | 599 )",392,"( Doboka | 40.00 ), ( Hojai | 52.00 ), ( Lanka | 300.00 )",25-06-2022
+Kamrup (M),537,405,2,944,"( Chandrapur | 0 ), ( Sonapur | 944 )",899,"( Chandrapur | 173.00 ), ( Sonapur | 726.00 )",25-06-2022
+Karbi Anglong West,577,585,594,1756,( Donkamokam | 1756 ),0,( Donkamokam | 0.00 ),25-06-2022
+Karimganj,96448,69626,29616,195690,"( RK Nagar | 51140 ), ( Nilambazar | 47324 ), ( Badarpur | 39977 ), ( Patherkandi | 494 ), ( Karimganj | 56755 )",300,"( RK Nagar | 300.00 ), ( Nilambazar | 0.00 ), ( Badarpur | 0.00 ), ( Patherkandi | 0.00 ), ( Karimganj | 0.00 )",25-06-2022
+Lakhimpur,5014,3839,4096,12949,"( Nowboicha | 10430 ), ( Subansiri | 2519 ), ( Bihpuria | 0 )",261,"( Nowboicha | 0.00 ), ( Subansiri | 261.00 ), ( Bihpuria | 0.00 )",25-06-2022
+Morigaon,37098,33748,20127,90973,"( Mikirbheta | 8940 ), ( Mayong | 5941 ), ( Bhuragaon | 5350 ), ( Morigaon | 70742 )",10936,"( Mikirbheta | 436.00 ), ( Mayong | 8620.00 ), ( Bhuragaon | 680.00 ), ( Morigaon | 1200.00 )",25-06-2022
+Nagaon,181799,170812,159024,511635,"( Kampur | 258000 ), ( Nagaon | 102141 ), ( Raha | 151494 ), ( Dhing | 0 )",18832.33,"( Kampur | 8250.00 ), ( Nagaon | 610.00 ), ( Raha | 9940.33 ), ( Dhing | 32.00 )",25-06-2022
+Nalbari,15743,14427,6527,36697,"( Paschim Nalbari | 22199 ), ( Tihu | 1245 ), ( Barbhag | 10453 ), ( Nalbari | 2800 )",923,"( Paschim Nalbari | 554.00 ), ( Tihu | 50.00 ), ( Barbhag | 139.00 ), ( Nalbari | 180.00 )",25-06-2022
+Sonitpur,1315,1897,1154,4366,"( Thelamara | 0 ), ( Dhekiajuli | 4366 )",571.5,"( Thelamara | 11.00 ), ( Dhekiajuli | 560.50 )",25-06-2022
+South Salmara,20777,5527,21787,48091,"( South Salmara | 31910 ), ( Mankachar | 16181 )",830,"( South Salmara | 692.00 ), ( Mankachar | 138.00 )",25-06-2022
+Tamulpur,2125,2027,979,5131,"( Goreswar | 5106 ), ( Tamulpur | 25 )",126.3,"( Goreswar | 0.00 ), ( Tamulpur | 126.30 )",25-06-2022
+Kamrup,105679,61514,29966,197159,"( Hajo | 168600 ), ( Rangia | 6531 ), ( Nagarbera | 0 ), ( Chamaria | 0 ), ( Chaygaon | 0 ), ( Kamalpur | 867 ), ( Palashbari | 0 ), ( North Ghy | 20211 ), ( Kayan | 950 )",3058.8,"( Hajo | 790.00 ), ( Rangia | 350.00 ), ( Nagarbera | 190.00 ), ( Chamaria | 85.80 ), ( Chaygaon | 33.00 ), ( Kamalpur | 1045.00 ), ( Palashbari | 46.00 ), ( North Ghy | 174.50 ), ( Kayan | 344.50 )",25-06-2022
+Barpeta,299505,282672,167782,749959,"( Barpeta | 83772 ), ( Barnagar | 9375 ), ( Baghbar | 226212 ), ( Kalgachia | 49402 ), ( Chenga | 130558 ), ( Sarthebari | 250640 )",26558.5,"( Barpeta | 670.00 ), ( Barnagar | 456.00 ), ( Baghbar | 18983.00 ), ( Kalgachia | 1676.50 ), ( Chenga | 2693.00 ), ( Sarthebari | 2080.00 )",25-06-2022
+Bajali,6107,5968,2149,14224,"( Sarupeta | 167 ), ( Bajali | 14057 )",1236,"( Sarupeta | 20.00 ), ( Bajali | 1216.00 )",25-06-2022
+Udalguri,400,300,234,934,"( Kalaigaon | 0 ), ( Harisinga | 0 ), ( Khairabari | 0 ), ( Mazbat | 934 )",0,"( Kalaigaon | 0.00 ), ( Harisinga | 0.00 ), ( Khairabari | 0.00 ), ( Mazbat | 0.00 )",25-06-2022
+Baksa,7504,5547,4451,17502,"( Baska | 0 ), ( Barnagar RC part | 15442 ), ( Barama | 0 ), ( Baganpara | 2060 )",410,"( Baska | 0.00 ), ( Barnagar RC part | 410.00 ), ( Barama | 0.00 ), ( Baganpara | 0.00 )",25-06-2022
+Baksa,5425,3941,3154,12520,"( Baska | 0 ), ( Barnagar RC part | 12520 )",410,"( Baska | 0.00 ), ( Barnagar RC part | 410.00 )",26-06-2022
+Chirang,182,234,127,543,( Bijni | 543 ),0,( Bijni | 0.00 ),26-06-2022
+Darrang,39364,36749,17315,93428,"( Dalgaon | 0 ), ( Mangaldoi | 24739 ), ( Patharighat | 10344 ), ( Sipajhar | 58345 )",5499.85,"( Dalgaon | 467.85 ), ( Mangaldoi | 3418.00 ), ( Patharighat | -1.00 ), ( Sipajhar | 1615.00 )",26-06-2022
+Dhemaji,7411,5247,2821,15479,"( Jonai | 0 ), ( Sissiborgaon | 8737 ), ( Gogamukh | 6453 ), ( Dhemaji | 289 )",2655.4,"( Jonai | 1836.40 ), ( Sissiborgaon | 750.00 ), ( Gogamukh | 60.00 ), ( Dhemaji | 9.00 )",26-06-2022
+Dhubri,5421,4534,4023,13978,"( Gauripur | 0 ), ( Dhubri | 0 ), ( South Salmara Part | 13978 ), ( Bilasipara | 0 ), ( Athani | 0 )",0,"( Gauripur | 0.00 ), ( Dhubri | 0.00 ), ( South Salmara Part | 0.00 ), ( Bilasipara | 0.00 ), ( Athani | 0.00 )",26-06-2022
+Dibrugarh,173,107,100,380,( Dibrugarh East | 380 ),0,( Dibrugarh East | 0.00 ),26-06-2022
+Nalbari,13693,12292,5588,31573,"( Paschim Nalbari | 22199 ), ( Barbhag | 8956 ), ( Tihu | 418 )",743,"( Paschim Nalbari | 554.00 ), ( Barbhag | 139.00 ), ( Tihu | 50.00 )",26-06-2022
+Nagaon,182143,171142,159493,512778,"( Raha | 151988 ), ( Nagaon | 102790 ), ( Kampur | 258000 )",18857.82,"( Raha | 9997.82 ), ( Nagaon | 610.00 ), ( Kampur | 8250.00 )",26-06-2022
+Morigaon,36737,33255,19585,89577,"( Mikirbheta | 10448 ), ( Mayong | 5941 ), ( Morigaon | 70742 ), ( Bhuragaon | 2446 )",11351,"( Mikirbheta | 436.00 ), ( Mayong | 8620.00 ), ( Morigaon | 1715.00 ), ( Bhuragaon | 580.00 )",26-06-2022
+Lakhimpur,5210,3860,3630,12700,"( North Lakhimpur | 385 ), ( Nowboicha | 10430 ), ( Bihpuria | 0 ), ( Subansiri | 1885 )",513,"( North Lakhimpur | 0.00 ), ( Nowboicha | 0.00 ), ( Bihpuria | 0.00 ), ( Subansiri | 513.00 )",26-06-2022
+Karimganj,73609,52786,28956,155351,"( Badarpur | 35711 ), ( Nilambazar | 40651 ), ( Patherkandi | 305 ), ( RK Nagar | 39140 ), ( Karimganj | 39544 )",3500,"( Badarpur | 0.00 ), ( Nilambazar | 0.00 ), ( Patherkandi | 0.00 ), ( RK Nagar | 3500.00 ), ( Karimganj | 0.00 )",26-06-2022
+Kamrup,105811,61901,31794,199506,"( Chamaria | 0 ), ( Hajo | 179600 ), ( Kamalpur | 253 ), ( Chaygaon | 0 ), ( Rangia | 6531 ), ( Kayan | 50 ), ( Palashbari | 0 ), ( North Ghy | 13072 )",2782.7,"( Chamaria | 75.20 ), ( Hajo | 790.00 ), ( Kamalpur | 1045.00 ), ( Chaygaon | 33.00 ), ( Rangia | 350.00 ), ( Kayan | 344.50 ), ( Palashbari | 46.00 ), ( North Ghy | 99.00 )",26-06-2022
+Kamrup (M),745,575,0,1320,"( Chandrapur | 0 ), ( Sonapur | 1320 )",899.5,"( Chandrapur | 173.00 ), ( Sonapur | 726.50 )",26-06-2022
+Golaghat,1288,798,232,2318,"( Bokakhat | 2318 ), ( Khumtai | 0 )",63,"( Bokakhat | 50.00 ), ( Khumtai | 13.00 )",26-06-2022
+Goalpara,15661,12601,3802,32064,"( Matia | 0 ), ( Rongjuli | 0 ), ( Lakhipur | 20723 ), ( Balijana | 11341 )",348,"( Matia | 195.00 ), ( Rongjuli | 0.00 ), ( Lakhipur | 0.00 ), ( Balijana | 153.00 )",26-06-2022
+Hailakandi,18067,15135,9771,42973,"( Hailakandi | 1324 ), ( Lala | 0 ), ( Algapur | 41649 )",0,"( Hailakandi | 0.00 ), ( Lala | 0.00 ), ( Algapur | 0.00 )",26-06-2022
+Cachar,107534,97036,72588,277158,"( Silchar | 96972 ), ( Sonai | 68500 ), ( Katigorah | 96131 ), ( Udharbond | 3500 ), ( Lakhipur | 12055 )",0,"( Silchar | 0.00 ), ( Sonai | 0.00 ), ( Katigorah | 0.00 ), ( Udharbond | 0.00 ), ( Lakhipur | 0.00 )",26-06-2022
+Biswanath,0,0,0,0,( Halem | 0 ),39,( Halem | 39.00 ),26-06-2022
+Barpeta,273717,267601,154299,695617,"( Barpeta | 83722 ), ( Barnagar | 8011 ), ( Kalgachia | 23102 ), ( Baghbar | 205912 ), ( Sarthebari | 250640 ), ( Chenga | 124230 )",26451.5,"( Barpeta | 670.00 ), ( Barnagar | 349.00 ), ( Kalgachia | 1676.50 ), ( Baghbar | 18983.00 ), ( Sarthebari | 2080.00 ), ( Chenga | 2693.00 )",26-06-2022
+Hojai,325,163,67,555,"( Lanka | 0 ), ( Hojai | 555 ), ( Doboka | 0 )",27,"( Lanka | 0.00 ), ( Hojai | 27.00 ), ( Doboka | 0.00 )",26-06-2022
+Karbi Anglong West,533,533,511,1577,( Donkamokam | 1577 ),0,( Donkamokam | 0.00 ),26-06-2022
+Bajali,1328,1168,319,2815,"( Sarupeta | 53 ), ( Bajali | 2762 )",9,"( Sarupeta | 9.00 ), ( Bajali | 0.00 )",26-06-2022
+Udalguri,553,391,299,1243,"( Kalaigaon | 0 ), ( Harisinga | 0 ), ( Udalguri | 309 ), ( Khairabari | 0 ), ( Mazbat | 934 )",0,"( Kalaigaon | 0.00 ), ( Harisinga | 0.00 ), ( Udalguri | 0.00 ), ( Khairabari | 0.00 ), ( Mazbat | 0.00 )",26-06-2022
+Tamulpur,1010,989,845,2844,( Goreswar | 2844 ),0,( Goreswar | 0.00 ),26-06-2022
+South Salmara,7258,5792,7255,20305,"( South Salmara | 4861 ), ( Mankachar | 15444 )",138,"( South Salmara | 0.00 ), ( Mankachar | 138.00 )",26-06-2022
+Sonitpur,865,1388,722,2975,( Dhekiajuli | 2975 ),419,( Dhekiajuli | 419.00 ),26-06-2022
+Nalbari,11268,11389,4657,27314,"( Paschim Nalbari | 18358 ), ( Barbhag | 8956 )",,"( Paschim Nalbari | 554.00 ), ( Barbhag | 139.00 )",27-06-2022
+Goalpara,7232,5878,2719,15829,"( Matia | 0 ), ( Balijana | 7504 ), ( Lakhipur | 8325 )",152,"( Matia | 54.00 ), ( Balijana | 98.00 ), ( Lakhipur | 0.00 )",27-06-2022
+Dhemaji,4468,4127,2376,10971,"( Sissiborgaon | 9305 ), ( Jonai | 1139 ), ( Dhemaji | 527 )",2009.7,"( Sissiborgaon | 150.00 ), ( Jonai | 1842.70 ), ( Dhemaji | 17.00 )",27-06-2022
+Darrang,25365,22637,7267,55269,"( Dalgaon | 0 ), ( Sipajhar | 20186 ), ( Patharighat | 10344 ), ( Mangaldoi | 24739 )",6498.85,"( Dalgaon | 465.85 ), ( Sipajhar | 1615.00 ), ( Patharighat | 1000.00 ), ( Mangaldoi | 3418.00 )",27-06-2022
+Chirang,381,424,263,1068,"( Sidli | 226 ), ( Bijni | 593 ), ( Bengtal | 249 )",0,"( Sidli | 0.00 ), ( Bijni | 0.00 ), ( Bengtal | 0.00 )",27-06-2022
+Cachar,193343,161066,122756,477165,"( Sonai | 92400 ), ( Udharbond | 3300 ), ( Silchar | 205002 ), ( Lakhipur | 22022 ), ( Katigorah | 154441 )",0,"( Sonai | 0.00 ), ( Udharbond | 0.00 ), ( Silchar | 0.00 ), ( Lakhipur | 0.00 ), ( Katigorah | 0.00 )",27-06-2022
+Bajali,1222,1166,212,2600,"( Sarupeta | 55 ), ( Bajali | 2545 )",10,"( Sarupeta | 10.00 ), ( Bajali | 0.00 )",27-06-2022
+Baksa,4578,3115,2699,10392,"( Barnagar RC part | 10392 ), ( Jalah | 0 )",410,"( Barnagar RC part | 410.00 ), ( Jalah | 0.00 )",27-06-2022
+Barpeta,246774,234669,133507,614950,"( Baghbar | 190527 ), ( Sarthebari | 250640 ), ( Barpeta | 53631 ), ( Chenga | 91352 ), ( Kalgachia | 23102 ), ( Barnagar | 5698 )",26958.5,"( Baghbar | 18983.00 ), ( Sarthebari | 2080.00 ), ( Barpeta | 550.00 ), ( Chenga | 3348.50 ), ( Kalgachia | 1648.00 ), ( Barnagar | 349.00 )",27-06-2022
+Tamulpur,1010,989,845,2844,( Goreswar | 2844 ),,( Goreswar | 0.00 ),27-06-2022
+Lakhimpur,2327,1303,1210,4840,"( Bihpuria | 0 ), ( Subansiri | 0 ), ( Nowboicha | 4830 ), ( Dhakuakhana | 10 )",,"( Bihpuria | 0.00 ), ( Subansiri | 0.00 ), ( Nowboicha | 0.00 ), ( Dhakuakhana | 0.00 )",27-06-2022
+Karimganj,63857,42664,20414,126935,"( Nilambazar | 21516 ), ( Badarpur | 30589 ), ( RK Nagar | 39140 ), ( Patherkandi | 190 ), ( Karimganj | 35500 )",3500,"( Nilambazar | 0.00 ), ( Badarpur | 0.00 ), ( RK Nagar | 3500.00 ), ( Patherkandi | 0.00 ), (
+Karimganj | 0.00 )",27-06-2022
+Udalguri,153,91,65,309,"( Udalguri | 309 ), ( Kalaigaon | 0 ), ( Harisinga | 0 ), ( Khairabari | 0 )",,"( Udalguri | 0.00 ), ( Kalaigaon | 0.00 ), ( Harisinga | 0.00 ), ( Khairabari | 0.00 )",27-06-2022
+Kamrup (M),745,510,0,1255,"( Chandrapur | 0 ), ( Sonapur | 1255 )",806.5,"( Chandrapur | 80.00 ), ( Sonapur | 726.50 )",27-06-2022
+Kamrup,104309,60420,30974,195703,"( Rangia | 2721 ), ( Hajo | 179600 ), ( Chamaria | 0 ), ( Kamalpur | 253 ), ( Kayan | 48 ), ( North Ghy | 13081 )",2442.2,"( Rangia | 110.50 ), ( Hajo | 790.00 ), ( Chamaria | 72.20 ), ( Kamalpur | 1045.00 ), ( Kayan | 344.50 ), ( North Ghy | 80.00 )",27-06-2022
+Hailakandi,363,293,67,723,"( Algapur | 0 ), ( Hailakandi | 723 ), ( Lala | 0 )",0,"( Algapur | 0.00 ), ( Hailakandi | 0.00 ), ( Lala | 0.00 )",27-06-2022
+Golaghat,0,0,0,0,"( Bokakhat | 0 ), ( Khumtai | 0 )",53,"( Bokakhat | 40.00 ), ( Khumtai | 13.00 )",27-06-2022
+Sonitpur,330,478,281,1089,( Dhekiajuli | 1089 ),,( Dhekiajuli | 299.00 ),27-06-2022
+Nagaon,182320,171201,159540,513061,"( Nagaon | 102790 ), ( Kampur | 258000 ), ( Raha | 152271 )",,"( Nagaon | 504.00 ), ( Kampur | 8250.00 ), ( Raha | 9999.14 )",27-06-2022
+Morigaon,37065,33382,19651,90098,"( Mikirbheta | 12963 ), ( Bhuragaon | 0 ), ( Mayong | 5941 ), ( Morigaon | 71194 )",,"( Mikirbheta | 692.00 ), ( Bhuragaon | 558.00 ), ( Mayong | 8620.00 ), ( Morigaon | 2200.00 )",27-06-2022
+Kamrup (M),745,510,0,1255,"( Chandrapur | 0 ), ( Sonapur | 1255 )",,"( Chandrapur | 40.00 ), ( Sonapur | 726.50 )",28-06-2022
+Kamrup,32006,18287,18629,68922,"( Rangia | 0 ), ( Chamaria | 0 ), ( Kamalpur | 253 ), ( Hajo | 60480 ), ( North Ghy | 8141 ), ( Kayan | 48 )",,"( Rangia | 95.00 ), ( Chamaria | 69.50 ), ( Kamalpur | 0.00 ), ( Hajo | 480.00 ), ( North Ghy | 21.00 ), ( Kayan | 344.50 )",28-06-2022
+Hojai,811,494,179,1484,( Hojai | 1484 ),,( Hojai | 54.00 ),28-06-2022
+Hailakandi,389,319,67,775,"( Lala | 0 ), ( Hailakandi | 775 ), ( Katlicherra | 0 ), ( Algapur | 0 )",,"( Lala | 0.00 ), ( Hailakandi | 0.00 ), ( Katlicherra | 0.00 ), ( Algapur | 0.00 )",28-06-2022
+Golaghat,0,0,0,0,"( Bokakhat | 0 ), ( Khumtai | 0 )",53,"( Bokakhat | 40.00 ), ( Khumtai | 13.00 )",28-06-2022
+Goalpara,7232,5878,2692,15802,"( Balijana | 7504 ), ( Lakhipur | 8298 )",98,"( Balijana | 98.00 ), ( Lakhipur | 0.00 )",28-06-2022
+Dibrugarh,1690,1335,1138,4163,"( Chabua | 3857 ), ( Moran | 306 )",7,"( Chabua | 3.00 ), ( Moran | 4.00 )",28-06-2022
+Lakhimpur,17382,12740,8377,38499,"( Subansiri | 0 ), ( North Lakhimpur | 10070 ), ( Nowboicha | 9231 ), ( Narayanpur | 13100 ), ( Dhakuakhana | 67 ), ( Bihpuria | 6031 ), ( Kadam | 0 )",,"( Subansiri | 739.40 ), ( North Lakhimpur | 0.00 ), ( Nowboicha | 0.00 ), ( Narayanpur | 38.00 ), ( Dhakuakhana | 55.00 ), ( Bihpuria | 68.95 ), ( Kadam | 71.25 )",28-06-2022
+Dhemaji,9278,7909,7413,24600,"( Sissiborgaon | 5978 ), ( Jonai | 17774 ), ( Dhemaji | 848 )",5189.5,"( Sissiborgaon | 975.00 ), ( Jonai | 4180.50 ), ( Dhemaji | 34.00 )",28-06-2022
+Nagaon,183790,172141,160891,516822,"( Nagaon | 102790 ), ( Raha | 156032 ), ( Kampur | 258000 )",,"( Nagaon | 500.00 ), ( Raha | 9999.62 ), ( Kampur | 8250.00 )",28-06-2022
+Nalbari,7350,6183,2260,15793,"( Paschim Nalbari | 7433 ), ( Barbhag | 8360 )",,"( Paschim Nalbari | 554.00 ), ( Barbhag | 139.00 )",28-06-2022
+Sonitpur,73,117,68,258,( Dhekiajuli | 258 ),,( Dhekiajuli | 226.00 ),28-06-2022
+Tamulpur,1100,1009,881,2990,( Goreswar | 2990 ),,( Goreswar | 0.00 ),28-06-2022
+Tinsukia,160,135,196,491,( Doomdooma | 491 ),,( Doomdooma | 7.00 ),28-06-2022
+Udalguri,153,91,65,309,"( Udalguri | 309 ), ( Harisinga | 0 ), ( Khairabari | 0 ), ( Kalaigaon | 0 )",,"( Udalguri | 0.00 ), ( Harisinga | 0.00 ), ( Khairabari | 0.00 ), ( Kalaigaon | 0.00 )",28-06-2022
+Karimganj,55545,32850,15963,104358,"( Nilambazar | 16940 ), ( RK Nagar | 28500 ), ( Badarpur | 28528 ), ( Patherkandi | 98 ), ( Karimganj | 30292 )",,"( Nilambazar | 0.00 ), ( RK Nagar | 0.00 ), ( Badarpur | 0.00 ), ( Patherkandi | 0.00 ), ( Karimganj | 0.00 )",28-06-2022
+Darrang,23775,21249,9836,54860,"( Mangaldoi | 22577 ), ( Dalgaon | 0 ), ( Sipajhar | 27055 ), ( Patharighat | 5228 )",5033,"( Mangaldoi | 3418.00 ), ( Dalgaon | 0.00 ), ( Sipajhar | 1615.00 ), ( Patharighat | 0.00 )",28-06-2022
+Morigaon,39164,35509,20353,95026,"( Mikirbheta | 15418 ), ( Mayong | 5941 ), ( Bhuragaon | 0 ), ( Morigaon | 73667 )",,"( Mikirbheta | 692.00 ), ( Mayong | 7326.00 ), ( Bhuragaon | 558.00 ), ( Morigaon | 2250.00 )",28-06-2022
+Cachar,325083,302114,234969,862166,"( Katigorah | 217613 ), ( Sonai | 118500 ), ( Udharbond | 53208 ), ( Silchar | 437145 ), ( Lakhipur | 35700 )",10630,"( Katigorah | 2718.74 ), ( Sonai | 2915.00 ), ( Udharbond | 1049.26 ), ( Silchar | 1922.00 ), ( Lakhipur | 2025.00 )",28-06-2022
+Chirang,1792,1724,573,4089,"( Bijni | 3406 ), ( Sidli | 446 ), ( Bengtal | 237 )",2444.9,"( Bijni | 2444.90 ), ( Sidli | 0.00 ), ( Bengtal | 0.00 )",28-06-2022
+Biswanath,27282,23430,12173,62885,"( Halem | 34568 ), ( Gohpur | 28181 ), ( Biswanath | 136 )",1878,"( Halem | 1083.00 ), ( Gohpur | 785.00 ), ( Biswanath | 10.00 )",28-06-2022
+Barpeta,223165,215698,134080,572943,"( Barpeta | 45731 ), ( Baghbar | 172727 ), ( Kalgachia | 19222 ), ( Chenga | 84623 ), ( Sarthebari | 250640 )",26684.5,"( Barpeta | 650.00 ), ( Baghbar | 18983.00 ), ( Kalgachia | 1623.00 ), ( Chenga | 3348.50 ), ( Sarthebari | 2080.00 )",28-06-2022
+Baksa,30,52,14,96,( Baska | 96 ),0,( Baska | 0.00 ),28-06-2022
+Bajali,15156,15182,3892,34230,"( Sarupeta | 31500 ), ( Bajali | 2730 )",115,"( Sarupeta | 115.00 ), ( Bajali | 0.00 )",28-06-2022
+Bongaigaon,4586,2490,3021,10097,"( Manikpur | 7155 ), ( Srijangram | 2942 )",236,"( Manikpur | 236.00 ), ( Srijangram | 0.00 )",28-06-2022
+Chirang,626,666,242,1534,"( Bijni | 1297 ), ( Bengtal | 237 )",2444.9,"( Bijni | 2444.90 ), ( Bengtal | 0.00 )",29-06-2022
+Karimganj,47139,27151,13647,87937,"( Nilambazar | 16940 ), ( Badarpur | 26530 ), ( RK Nagar | 26565 ), ( Patherkandi | 0 ), ( Karimganj | 17902 )",,"( Nilambazar | 0.00 ), ( Badarpur | 0.00 ), ( RK Nagar | 0.00 ), ( Patherkandi | 0.00 ), ( Karimganj | 0.00 )",29-06-2022
+Kamrup (M),745,575,0,1320,"( Chandrapur | 0 ), ( Dispur | 0 ), ( Sonapur | 1320 )",,"( Chandrapur | 0.00 ), ( Dispur | 0.00 ), ( Sonapur | 726.50 )",29-06-2022
+Udalguri,153,91,65,309,"( Udalguri | 309 ), ( Harisinga | 0 ), ( Khairabari | 0 ), ( Kalaigaon | 0 )",,"( Udalguri | 0.00 ), ( Harisinga | 0.00 ), ( Khairabari | 0.00 ), ( Kalaigaon | 0.00 )",29-06-2022
+Kamrup,34169,20098,14319,68586,"( Rangia | 0 ), ( Hajo | 49216 ), ( Chamaria | 0 ), ( Nagarbera | 0 ), ( Kayan | 48 ), ( North Ghy | 19322 )",,"( Rangia | 95.00 ), ( Hajo | 426.00 ), ( Chamaria | 52.80 ), ( Nagarbera | 180.00 ), ( Kayan | 39.00 ), ( North Ghy | 21.00 )",29-06-2022
+Hojai,701,404,206,1311,"( Lanka | 263 ), ( Hojai | 1048 )",,"( Lanka | 158.00 ), ( Hojai | 43.00 )",29-06-2022
+Hailakandi,138,123,55,316,"( Lala | 0 ), ( Katlicherra | 0 ), ( Algapur | 0 ), ( Hailakandi | 316 )",,"( Lala | 0.00 ), ( Katlicherra | 0.00 ), ( Algapur | 0.00 ), ( Hailakandi | 0.00 )",29-06-2022
+Golaghat,0,0,0,0,"( Bokakhat | 0 ), ( Khumtai | 0 )",,"( Bokakhat | 50.00 ), ( Khumtai | 13.00 )",29-06-2022
+Bajali,22836,23345,4138,50319,"( Sarupeta | 47920 ), ( Bajali | 2399 )",857,"( Sarupeta | 857.00 ), ( Bajali | 0.00 )",29-06-2022
+Barpeta,211560,204097,133515,549172,"( Barpeta | 45710 ), ( Baghbar | 148977 ), ( Chenga | 84623 ), ( Kalgachia | 19222 ), ( Sarthebari | 250640 )",26684.5,"( Barpeta | 650.00 ), ( Baghbar | 18983.00 ), ( Chenga | 3348.50 ), ( Kalgachia | 1623.00 ), ( Sarthebari | 2080.00 )",29-06-2022
+Biswanath,26635,24216,13776,64627,"( Biswanath | 318 ), ( Halem | 38643 ), ( Gohpur | 25666 )",1687,"( Biswanath | 11.00 ), ( Halem | 1178.00 ), ( Gohpur | 498.00 )",29-06-2022
+Lakhimpur,29524,25520,16323,71367,"( Narayanpur | 18653 ), ( Nowboicha | 16817 ), ( North Lakhimpur | 10070 ), ( Bihpuria | 20535 ), ( Dhakuakhana | 67 ), ( Subansiri | 5225 ), ( Kadam | 0 )",,"( Narayanpur | 346.50 ), ( Nowboicha | 2.30 ), ( North Lakhimpur | 0.00 ), ( Bihpuria | 75.65 ), ( Dhakuakhana | 55.00 ), ( Subansiri | 955.00 ), ( Kadam | 45.25 )",29-06-2022
+Goalpara,6981,5723,2662,15366,"( Balijana | 7504 ), ( Lakhipur | 7862 )",,"( Balijana | 98.00 ), ( Lakhipur | 0.00 )",29-06-2022
+Dibrugarh,1690,1335,1138,4163,"( Chabua | 3857 ), ( Moran | 306 )",7,"( Chabua | 3.00 ), ( Moran | 4.00 )",29-06-2022
+Dhubri,250,350,90,690,"( Golakganj | 0 ), ( Dhubri | 0 ), ( Gauripur | 0 ), ( Bilasipara | 0 ), ( Chapar | 690 ), ( Agamoni | 0 ), ( Athani | 0 )",15,"( Golakganj | 0.00 ), ( Dhubri | 0.00 ), ( Gauripur | 0.00 ), ( Bilasipara | 0.00 ), ( Chapar | 15.00 ), ( Agamoni | 0.00 ), ( Athani | 0.00 )",29-06-2022
+Dhemaji,37947,33926,26509,98382,"( Sissiborgaon | 26398 ), ( Gogamukh | 16493 ), ( Jonai | 49562 ), ( Dhemaji | 5929 )",7216.32,"( Sissiborgaon | 1738.62 ), ( Gogamukh | 70.00 ), ( Jonai | 5341.70 ), ( Dhemaji | 66.00 )",29-06-2022
+Darrang,23518,21662,9305,54485,"( Mangaldoi | 22577 ), ( Patharighat | 4535 ), ( Sipajhar | 27373 ), ( Dalgaon | 0 )",6533,"( Mangaldoi | 3418.00 ), ( Patharighat | 1500.00 ), ( Sipajhar | 1615.00 ), ( Dalgaon | 0.00 )",29-06-2022
+Cachar,559060,505762,366122,1430944,"( Silchar | 725306 ), ( Lakhipur | 133675 ), ( Sonai | 284513 ), ( Katigorah | 230435 ), ( Udharbond | 57015 )",10630,"( Silchar | 1922.00 ), ( Lakhipur | 2025.00 ), ( Sonai | 2915.00 ), ( Katigorah | 2718.74 ), ( Udharbond | 1049.26 )",29-06-2022
+Tamulpur,1215,1100,891,3206,"( Goreswar | 3206 ), ( Tamulpur | 0 )",,"( Goreswar | 0.00 ), ( Tamulpur | 525.00 )",29-06-2022
+Tinsukia,8984,7450,4816,21250,"( Sadiya | 6605 ), ( Tinsukia | 982 ), ( Doomdooma | 13663 )",,"( Sadiya | 16.00 ), ( Tinsukia | 64.50 ), ( Doomdooma | 272.50 )",29-06-2022
+Nalbari,1785,1525,829,4139,"( Paschim Nalbari | 3904 ), ( Barbhag | 235 )",,"( Paschim Nalbari | 554.00 ), ( Barbhag | 139.00 )",29-06-2022
+Majuli,0,0,0,0,"( Majuli | 0 ), ( Ujani Majuli | 0 )",,"( Majuli | 53.93 ), ( Ujani Majuli | 17.41 )",29-06-2022
+Morigaon,42844,39173,23572,105589,"( Mikirbheta | 16088 ), ( Mayong | 5941 ), ( Morigaon | 83560 ), ( Bhuragaon | 0 )",,"( Mikirbheta | 826.50 ), ( Mayong | 7326.00 ), ( Morigaon | 2600.00 ), ( Bhuragaon | 558.00 )",29-06-2022
+Nagaon,184889,173396,161089,519374,"( Kampur | 258000 ), ( Nagaon | 103200 ), ( Raha | 158174 ), ( Samaguri | 0 )",,"( Kampur | 8250.00 ), ( Nagaon | 504.00 ), ( Raha | 9999.70 ), ( Samaguri | 4.00 )",29-06-2022
+Sonitpur,48,82,40,170,( Dhekiajuli | 170 ),,( Dhekiajuli | 182.00 ),29-06-2022
+Kamrup (M),560,489,0,1049,"( Chandrapur | 0 ), ( Sonapur | 1049 )",,"( Chandrapur | 0.00 ), ( Sonapur | 726.50 )",30-06-2022
+Darrang,23398,21447,9205,54050,"( Dalgaon | 0 ), ( Patharighat | 4100 ), ( Mangaldoi | 22577 ), ( Sipajhar | 27373 )",6510,"( Dalgaon | 0.00 ), ( Patharighat | 1500.00 ), ( Mangaldoi | 3418.00 ), ( Sipajhar | 1592.00 )",30-06-2022
+Kamrup,20688,17071,4807,42566,"( Nagarbera | 0 ), ( Chamaria | 0 ), ( Hajo | 23196 ), ( Kayan | 48 ), ( North Ghy | 19322 )",,"( Nagarbera | 183.00 ), ( Chamaria | 52.20 ), ( Hajo | 356.00 ), ( Kayan | 37.00 ), ( North Ghy | 21.00 )",30-06-2022
+Tinsukia,10097,8714,5993,24804,"( Sadiya | 6605 ), ( Doomdooma | 14676 ), ( Tinsukia | 3523 )",,"( Sadiya | 16.00 ), ( Doomdooma | 269.16 ), ( Tinsukia | 63.50 )",30-06-2022
+Tamulpur,956,890,354,2200,( Goreswar | 2200 ),,( Goreswar | 0.00 ),30-06-2022
+Sonitpur,95,100,70,265,( Dhekiajuli | 265 ),,( Dhekiajuli | 221.00 ),30-06-2022
+Goalpara,3107,2573,1616,7296,"( Lakhipur | 2413 ), ( Balijana | 4883 )",39,"( Lakhipur | 0.00 ), ( Balijana | 39.00 )",30-06-2022
+Hojai,601,331,190,1122,"( Hojai | 859 ), ( Lanka | 263 )",,"( Hojai | 28.00 ), ( Lanka | 158.00 )",30-06-2022
+Barpeta,167055,141666,91781,400502,"( Sarthebari | 200640 ), ( Barpeta | 32194 ), ( Baghbar | 98974 ), ( Chenga | 49472 ), ( Kalgachia | 19222 )",16418,"( Sarthebari | 614.00 ), ( Barpeta | 650.00 ), ( Baghbar | 10183.00 ), ( Chenga | 3348.00 ), ( Kalgachia | 1623.00 )",30-06-2022
+Bajali,17287,14648,2587,34522,"( Sarupeta | 33130 ), ( Bajali | 1392 )",671,"( Sarupeta | 671.00 ), ( Bajali | 0.00 )",30-06-2022
+Dibrugarh,6555,5318,3368,15241,"( Chabua | 8037 ), ( Tingkhong | 270 ), ( Moran | 2047 ), ( Tengakhat | 1919 ), ( Dibrugarh East | 2493 ), ( Naharkatia | 475 )",77.83,"( Chabua | 7.60 ), ( Tingkhong | 4.20 ), ( Moran | 30.00 ), ( Tengakhat | 22.00 ), ( Dibrugarh East | 0.00 ), ( Naharkatia | 14.03 )",30-06-2022
+Dhemaji,39170,33544,25019,97733,"( Sissiborgaon | 19178 ), ( Gogamukh | 16713 ), ( Jonai | 58808 ), ( Dhemaji | 3034 )",8053.8,"( Sissiborgaon | 1512.00 ), ( Gogamukh | 71.00 ), ( Jonai | 6440.80 ), ( Dhemaji | 30.00 )",30-06-2022
+Lakhimpur,39018,34153,20925,94096,"( Subansiri | 19672 ), ( North Lakhimpur | 10070 ), ( Nowboicha | 9231 ), ( Narayanpur | 34522 ), ( Dhakuakhana | 773 ), ( Bihpuria | 19828 ), ( Kadam | 0 )",,"( Subansiri | 884.90 ), ( North Lakhimpur | 0.00 ), ( Nowboicha | 2.30 ), ( Narayanpur | 704.00 ), ( Dhakuakhana | 239.00 ), ( Bihpuria | 76.15 ), ( Kadam | 41.75 )",30-06-2022
+Majuli,0,0,0,0,"( Majuli | 0 ), ( Ujani Majuli | 0 )",,"( Majuli | 90.61 ), ( Ujani Majuli | 17.69 )",30-06-2022
+Morigaon,49961,46097,27311,123369,"( Mikirbheta | 16652 ), ( Bhuragaon | 0 ), ( Morigaon | 103868 ), ( Mayong | 2849 )",,"( Mikirbheta | 826.50 ), ( Bhuragaon | 782.00 ), ( Morigaon | 3400.00 ), ( Mayong | 4368.00 )",30-06-2022
+Udalguri,145,86,40,271,"( Udalguri | 271 ), ( Harisinga | 0 ), ( Kalaigaon | 0 )",,"( Udalguri | 0.00 ), ( Harisinga | 0.00 ), ( Kalaigaon | 0.00 )",30-06-2022
+Golaghat,0,0,0,0,"( Bokakhat | 0 ), ( Khumtai | 0 )",75.7,"( Bokakhat | 62.70 ), ( Khumtai | 13.00 )",30-06-2022
+Hailakandi,32,21,25,78,"( Algapur | 0 ), ( Lala | 0), ( Katlicherra | 0 ), ( Hailakandi | 78 )",0,"( Algapur | 0.00 ), ( Lala | 0.00 ), ( Katlicherra | 0.00 ), ( Hailakandi | 0.00 )",30-06-2022
+Chirang,302,346,215,863,"( Bengtal | 237 ), ( Bijni | 626 )",0,"( Bengtal | 0.00 ), ( Bijni | 0.00 )",30-06-2022
+Cachar,558060,503664,369928,1431652,"( Udharbond | 57723 ), ( Silchar | 725306 ), ( Katigorah | 230435 ), ( Sonai | 284513 ), ( Lakhipur | 133675 )",9870.26,"( Udharbond | 1049.26 ), ( Silchar | 1922.00 ), ( Katigorah | 1959.00 ), ( Sonai | 2915.00 ), ( Lakhipur | 2025.00 )",30-06-2022
+Biswanath,20134,19337,13057,52528,"( Gohpur | 11134 ), ( Halem | 41310 ), ( Biswanath | 84 )",2030,"( Gohpur | 712.00 ), ( Halem | 1310.00 ), ( Biswanath | 8.00 )",30-06-2022
+Nalbari,1044,957,379,2380,"( Paschim Nalbari | 2145 ), ( Barbhag | 235 )",,"( Paschim Nalbari | 0.00 ), ( Barbhag | 139.00 )",30-06-2022
+Nagaon,184921,173435,161107,519463,"( Nagaon | 103200 ), ( Kaliabor | 89 ), ( Samaguri | 0 ), ( Raha | 158174 ), ( Kampur | 258000 )",,"( Nagaon | 404.00 ), ( Kaliabor | 9.00 ), ( Samaguri | 4.00 ), ( Raha | 9999.70 ), ( Kampur | 8250.00 )",30-06-2022
+Karimganj,39113,23098,12232,74443,"( Nilambazar | 15933 ), ( RK Nagar | 20458 ), ( Badarpur | 20150 ), ( Karimganj | 17902 )",,"( Nilambazar | 0.00 ), ( RK Nagar | 0.00 ), ( Badarpur | 0.00 ), ( Karimganj | 0.00 )",30-06-2022
+Majuli,0,0,0,0,"( Majuli | 0 ), ( Ujani Majuli | 0 )",74.8,"( Majuli | 55.00 ), ( Ujani Majuli | 19.80 )",01-07-2022
+Biswanath,10148,8745,5559,24452,"( Gohpur | 6439 ), ( Halem | 18013 )",732,"( Gohpur | 366.00 ), ( Halem | 366.00 )",01-07-2022
+Barpeta,121455,105910,84296,311661,"( Barpeta | 37120 ), ( Baghbar | 98000 ), ( Sarthebari | 122952 ), ( Kalgachia | 19222 ), ( Chenga | 34367 ) ",8443.5,"( Barpeta | 650.00 ), ( Baghbar | 2712.00 ), ( Sarthebari | 432.00 ), ( Kalgachia | 1301.50 ), ( Chenga | 3348.00 )",01-07-2022
+Hailakandi,104393,78996,57292,240681,"( Lala | 0 ), ( Algapur | 190660 ), ( Katlicherra | 0 ), ( Hailakandi | 50021 )",361,"( Lala | 0.00 ), ( Algapur | 249.00 ), ( Katlicherra | 0.00 ), ( Hailakandi | 112.00 )",01-07-2022
+Cachar,544030,491695,369023,1404748,"( Sonai | 284513 ), ( Katigorah | 230435 ), ( Silchar | 725306 ), ( Lakhipur | 106771 ), ( Udharbond | 57723 )",9870.26,"( Sonai | 2915.00 ), ( Katigorah | 1959.00 ), ( Silchar | 1922.00 ), ( Lakhipur | 2025.00 ), ( Udharbond | 1049.26 )",01-07-2022
+Baksa,0,0,0,0,( Jalah | 0 ),614,( Jalah | 614.00 ),01-07-2022
+Bajali,668,775,312,1755,"( Sarupeta | 1280 ), ( Bajali | 475 )",35,"( Sarupeta | 35.00 ), ( Bajali | 0.00 )",01-07-2022
+Hojai,334,195,138,667,"( Lanka | 263 ), ( Hojai | 404 )",179,"( Lanka | 158.00 ), ( Hojai | 21.00 )",01-07-2022
+Kamrup,9444,7714,2898,20056,"( Nagarbera | 0 ), ( Chamaria | 0 ), ( Hajo | 1492 ), ( Kayan | 48 ), ( North Ghy | 18516 )",370.7,"( Nagarbera | 185.00 ), ( Chamaria | 25.70 ), ( Hajo | 100.00 ), ( Kayan | 30.00 ), ( North Ghy | 30.00 )",01-07-2022
+Golaghat,0,0,0,0,"( Bokakhat | 0 ), ( Khumtai | 0 )",92,"( Bokakhat | 70.00 ), ( Khumtai | 22.00 )",01-07-2022
+Chirang,315,357,225,897,"( Bijni | 648 ), ( Bengtal | 249 )",0,"( Bijni | 0.00 ), ( Bengtal | 0.00 )",01-07-2022
+Dibrugarh,8249,6717,4378,19344,"( Chabua | 8167 ), ( Tingkhong | 287 ), ( Dibrugarh East | 2111 ), ( Tengakhat | 2872 ), ( Naharkatia | 160 ), ( Moran | 3796 ), ( Dibrugarh West | 1951 )",530.09,"( Chabua | 41.00 ), ( Tingkhong | 28.13 ), ( Dibrugarh East | 0.00 ), ( Tengakhat | 57.00 ), ( Naharkatia | 262.37 ), ( Moran | 77.59 ), ( Dibrugarh West | 64.00 )",01-07-2022
+Lakhimpur,32549,29869,19153,81571,"( Narayanpur | 34522 ), ( Nowboicha | 4401 ), ( Subansiri | 9342 ), ( North Lakhimpur | 4769 ), ( Dhakuakhana | 832 ), ( Bihpuria | 27705 ), ( Kadam | 0 )",1749.8,"( Narayanpur | 704.00 ), ( Nowboicha | 0.00 ), ( Subansiri | 658.80 ), ( North Lakhimpur | 0.00 ), ( Dhakuakhana | 336.00 ), ( Bihpuria | 0.00 ), ( Kadam | 51.00 )",01-07-2022
+Dhemaji,36321,31406,23862,91589,"( Gogamukh | 16713 ), ( Jonai | 62335 ), ( Sissiborgaon | 11374 ), ( Dhemaji | 1167 )",7591.4,"( Gogamukh | 0.00 ), ( Jonai | 6319.40 ), ( Sissiborgaon | 1254.00 ), ( Dhemaji | 18.00 )",01-07-2022
+Darrang,17938,16329,5146,39413,"( Sipajhar | 13516 ), ( Mangaldoi | 22577 ), ( Dalgaon | 0 ), ( Patharighat | 3320 )",4918,"( Sipajhar | 0.00 ), ( Mangaldoi | 3418.00 ), ( Dalgaon | 0.00 ), ( Patharighat | 1500.00 )",01-07-2022
+Kamrup (M),2348,1589,389,4326,"( Sonapur | 1024 ), ( Chandrapur | 3302 )",812.5,"( Sonapur | 812.50 ), ( Chandrapur | 0.00 )",01-07-2022
+Karbi Anglong West,13697,13697,16038,43432,( Donkamokam | 43432 ),100,( Donkamokam | 100.00 ),01-07-2022
+Udalguri,98,58,58,214,"( Khairabari | 0 ), ( Harisinga | 0 ), ( Kalaigaon | 0 ), ( Udalguri | 214 )",,"( Khairabari | 0.00 ), ( Harisinga | 0.00 ), ( Kalaigaon | 0.00 ), ( Udalguri | 0.00 )",01-07-2022
+Tinsukia,5442,4486,3897,13825,"( Sadiya | 0 ), ( Tinsukia | 3693 ), ( Doomdooma | 10132 )",,"( Sadiya | 0.00 ), ( Tinsukia | 253.50 ), ( Doomdooma | 135.00 )",01-07-2022
+Tamulpur,705,650,511,1866,( Goreswar | 1866 ),,( Goreswar | 0.00 ),01-07-2022
+Sonitpur,2047,2428,2041,6516,"( Dhekiajuli | 5232 ), ( Thelamara | 246 ), ( Chariduar | 686 ), ( Tezpur | 352 )",,"( Dhekiajuli | 237.60 ), ( Thelamara | 5.00 ), ( Chariduar | 47.30 ), ( Tezpur | 12.00 )",01-07-2022
+Karimganj,22606,16159,7970,46735,"( Nilambazar | 11933 ), ( Badarpur | 11250 ), ( RK Nagar | 16858 ), ( Patherkandi | 0 ), ( Karimganj | 6694 )",41,"( Nilambazar | 0.00 ), ( Badarpur | 0.00 ), ( RK Nagar | 0.00 ), ( Patherkandi | 0.00 ), ( Karimganj | 41.00 )",01-07-2022
+Nalbari,552,476,153,1181,"( Paschim Nalbari | 946 ), ( Barbhag | 235 )",139,"( Paschim Nalbari | 0.00 ), ( Barbhag | 139.00 )",01-07-2022
+Nagaon,159165,149343,124283,432791,"( Kampur | 171183 ), ( Raha | 158174 ), ( Kaliabor | 133 ), ( Nagaon | 103200 ), ( Samaguri | 101 ), ( Rupahi | 0 )",17873.7,"( Kampur | 7191.00 ), ( Raha | 9999.70 ), ( Kaliabor | 12.00 ), ( Nagaon | 404.00 ), ( Samaguri | 129.00 ), ( Rupahi | 138.00 )",01-07-2022
+Morigaon,67604,64027,37289,168920,"( Morigaon | 123028 ), ( Mikirbheta | 18347 ), ( Bhuragaon | 26751 ), ( Mayong | 794 )",8031.5,"( Morigaon | 3400.00 ), ( Mikirbheta | 1344.50 ), ( Bhuragaon | 925.00 ), ( Mayong | 2362.00 )",01-07-2022
+Goalpara,3107,2573,1616,7296,"( Lakhipur | 2413 ), ( Balijana | 4883 )",39,"( Lakhipur | 0.00 ), ( Balijana | 39.00 )",01-07-2022
+Sivasagar,2675,2189,1605,6469,"( Sivsagar | 6 ), ( Demow | 6463 )",,"( Sivsagar | 2.00 ), ( Demow | 24.10 )",01-07-2022
+Cachar,482088,421238,328612,1231938,"( Udharbond | 50723 ), ( Silchar | 598925 ), ( Sonai | 265513 ), ( Lakhipur | 92771 ), ( Katigorah | 224006 )",0,"( Udharbond | 0.00 ), ( Silchar | 0.00 ), ( Sonai | 0.00 ), ( Lakhipur | 0.00 ), ( Katigorah | 0.00 )",02-07-2022
+Barpeta,83166,72929,64720,220815,"( Barpeta | 37120 ), ( Baghbar | 98000 ), ( Kalgachia | 19222 ), ( Chenga | 21588 ), ( Sarthebari | 44885 )",14172,"( Barpeta | 8825.50 ), ( Baghbar | 2712.00 ), ( Kalgachia | 1301.50 ), ( Chenga | 1319.00 ), ( Sarthebari | 14.00 )",02-07-2022
+Biswanath,1709,1413,801,3923,"( Gohpur | 580 ), ( Halem | 3343 ), ( Biswanath | 0 )",207,"( Gohpur | 109.00 ), ( Halem | 95.00 ), ( Biswanath | 3.00 )",02-07-2022
+Charaideo,26,14,10,50,( Sonari | 50 ),0,( Sonari | 0.00 ),02-07-2022
+Chirang,230,260,158,648,( Bijni | 648 ),0,( Bijni | 0.00 ),02-07-2022
+Darrang,17315,15928,5146,38389,"( Dalgaon | 0 ), ( Mangaldoi | 22577 ), ( Patharighat | 3320 ), ( Sipajhar | 12492 )",6501,"( Dalgaon | 0.00 ), ( Mangaldoi | 3418.00 ), ( Patharighat | 1500.00 ), ( Sipajhar | 1583.00 )",02-07-2022
+Dhemaji,8412,6976,6563,21951,"( Sissiborgaon | 5701 ), ( Jonai | 16250 )",375.9,"( Sissiborgaon | 65.00 ), ( Jonai | 310.90 )",02-07-2022
+Dibrugarh,6703,5264,3506,15473,"( Chabua | 2822 ), ( Moran | 4434 ), ( Dibrugarh West | 3217 ), ( Tingkhong | 312 ), ( Dibrugarh East | 1119 ), ( Naharkatia | 534 ), ( Tengakhat | 3035 )",607.24,"( Chabua | 12.00 ), ( Moran | 127.59 ), ( Dibrugarh West | 189.00 ), ( Tingkhong | 28.13 ), ( Dibrugarh East | 39.50 ), ( Naharkatia | 154.02 ), ( Tengakhat | 57.00 )",02-07-2022
+Goalpara,3107,2573,1616,7296,"( Lakhipur | 2413 ), ( Balijana | 4883 )",39,"( Lakhipur | 0.00 ), ( Balijana | 39.00 )",02-07-2022
+Golaghat,0,0,0,0,"( Bokakhat | 0 ), ( Khumtai | 0 )",92,"( Bokakhat | 70.00 ), ( Khumtai | 22.00 )",02-07-2022
+Hailakandi,17450,16000,9000,42450,"( Katlicherra | 0 ), ( Lala | 0 ), ( Hailakandi | 0 ), ( Algapur | 42450 )",0,"( Katlicherra | 0.00 ), ( Lala | 0.00 ), ( Hailakandi | 0.00 ), ( Algapur | 0.00 )",02-07-2022
+Kamrup (M),2266,1796,451,4513,"( Chandrapur | 3489 ), ( Sonapur | 1024 )",,"( Chandrapur | 0.00 ), ( Sonapur | 812.50 )",02-07-2022
+Bajali,668,774,291,1733,"( Bajali | 453 ), ( Sarupeta | 1280 )",0,"( Bajali | 0.00 ), ( Sarupeta | 0.00 )",02-07-2022
+Karimganj,14465,9463,4429,28357,"( Nilambazar | 6333 ), ( Karimganj | 6097 ), ( Badarpur | 9860 ), ( Patherkandi | 0 ), ( RK Nagar | 6067 )",,"( Nilambazar | 0.00 ), ( Karimganj | 894.00 ), ( Badarpur | 0.00 ), ( Patherkandi | 0.00 ), ( RK Nagar | 0.00 )",02-07-2022
+Hojai,367,189,149,705,"( Lanka | 263 ), ( Hojai | 442 )",,"( Lanka | 158.00 ), ( Hojai | 15.00 )",02-07-2022
+Majuli,0,0,0,0,"( Majuli | 0 ), ( Ujani Majuli | 0 )",,"( Majuli | 31.50 ), ( Ujani Majuli | 19.76 )",02-07-2022
+Morigaon,69704,66116,38029,173849,"( Mikirbheta | 18347 ), ( Morigaon | 127957 ), ( Bhuragaon | 26751 ), ( Mayong | 794 ), ( Laharighat | 0 )",,"( Mikirbheta | 1356.50 ), ( Morigaon | 3318.00 ), ( Bhuragaon | 925.00 ), ( Mayong | 2362.00 ), ( Laharighat | 46.15 )",02-07-2022
+Nagaon,137780,128214,112946,378940,"( Kaliabor | 78 ), ( Nagaon | 52505 ), ( Kampur | 171183 ), ( Raha | 155174 ), ( Samaguri | 0 ), ( Rupahi | 0 )",,"( Kaliabor | 5.00 ), ( Nagaon | 404.00 ), ( Kampur | 7191.00 ), ( Raha | 9900.20 ), ( Samaguri | 4.00 ), ( Rupahi | 83.00 )",02-07-2022
+Nalbari,836,765,237,1838,( Paschim Nalbari | 1838 ),,( Paschim Nalbari | 0.00 ),02-07-2022
+Sivasagar,2602,2257,1604,6463,( Demow | 6463 ),,( Demow | 24.40 ),02-07-2022
+Sonitpur,1999,2351,1855,6205,"( Thelamara | 0 ), ( Dhekiajuli | 5127 ), ( Chariduar | 354 ), ( Tezpur | 724 )",,"( Thelamara | 54.00 ), ( Dhekiajuli | 260.00 ), ( Chariduar | 31.63 ), ( Tezpur | 12.00 )",02-07-2022
+Tamulpur,998,865,412,2275,( Goreswar | 2275 ),,( Goreswar | 0.00 ),02-07-2022
+Tinsukia,547,507,323,1377,"( Margherita | 0 ), ( Tinsukia | 702 ), ( Doomdooma | 675 )",,"( Margherita | 0.00 ), ( Tinsukia | 18.00 ), ( Doomdooma | 26.20 )",02-07-2022
+Udalguri,153,91,65,309,"( Khairabari | 0 ), ( Harisinga | 0 ), ( Kalaigaon | 0 ), ( Udalguri | 309 )",,"( Khairabari | 0.00 ), ( Harisinga | 0.00 ), ( Kalaigaon | 0.00 ), ( Udalguri | 0.00 )",02-07-2022
+Lakhimpur,10198,9868,5833,25899,"( Subansiri | 0 ), ( North Lakhimpur | 4068 ), ( Narayanpur | 0 ), ( Nowboicha | 0 ), ( Dhakuakhana | 0 ), ( Bihpuria | 21831 )",,"( Subansiri | 60.00 ), ( North Lakhimpur | 0.00 ), ( Narayanpur | 0.00 ), ( Nowboicha | 0.00 ), ( Dhakuakhana | 539.00 ), ( Bihpuria | 0.00 )",02-07-2022
+Kamrup,1168,763,451,2382,"( Chamaria | 0 ), ( Hajo | 1427 ), ( North Ghy | 909 ), ( Kayan | 46 )",,"( Chamaria | 20.70 ), ( Hajo | 100.00 ), ( North Ghy | 18.50 ), ( Kayan | 30.00 )",02-07-2022
+Goalpara,3107,2573,1616,7296,"( Lakhipur | 2413 ), ( Balijana | 4883 )",39,"( Lakhipur | 0.00 ), ( Balijana | 39.00 )",03-07-2022
+Golaghat,0,0,0,0,"( Bokakhat | 0 ), ( Khumtai | 0 )",92,"( Bokakhat | 70.00 ), ( Khumtai | 22.00 )",03-07-2022
+Hailakandi,13320,11790,7540,32650,"( Lala | 0 ), ( Algapur | 32650 ), ( Katlicherra | 0 ), ( Hailakandi | 0 )",0,"( Lala | 0.00 ), ( Algapur | 0.00 ), ( Katlicherra | 0.00 ), ( Hailakandi | 0.00 )",03-07-2022
+Karimganj,14227,9541,4729,28497,"( Nilambazar | 6333 ), ( Karimganj | 5311 ), ( Badarpur | 9763 ), ( RK Nagar | 7090 )",0,"( Nilambazar | 0.00 ), ( Karimganj | 0.00 ), ( Badarpur | 0.00 ), ( RK Nagar | 0.00 )",03-07-2022
+Kamrup,896,647,278,1821,"( Hajo | 1027 ), ( North Ghy | 756 ), ( Kayan | 38 )",102.5,"( Hajo | 89.00 ), ( North Ghy | 13.50 ), ( Kayan | 0.00 )",03-07-2022
+Kamrup (M),2266,1796,451,4513,"( Sonapur | 1024 ), ( Chandrapur | 3489 )",810.5,"( Sonapur | 810.50 ), ( Chandrapur | 0.00 )",03-07-2022
+Dibrugarh,5836,4436,2589,12861,"( Dibrugarh West | 3408 ), ( Moran | 4266 ), ( Chabua | 2789 ), ( Tingkhong | 192 ), ( Dibrugarh East | 526 ), ( Naharkatia | 564 ), ( Tengakhat | 1116 )",276.97,"( Dibrugarh West | 0.00 ), ( Moran | 69.59 ), ( Chabua | 10.00 ), ( Tingkhong | 25.70 ), ( Dibrugarh East | 0.00 ), ( Naharkatia | 152.68 ), ( Tengakhat | 19.00 )",03-07-2022
+Lakhimpur,1475,955,894,3324,"( Subansiri | 0 ), ( Narayanpur | 0 ), ( Nowboicha | 3324 ), ( Bihpuria | 0 )",0,"( Subansiri | 0.00 ), ( Narayanpur | 0.00 ), ( Nowboicha | 0.00 ), ( Bihpuria | 0.00 )",03-07-2022
+Majuli,0,0,0,0,"( Majuli | 0 ), ( Ujani Majuli | 0 )",38.69,"( Majuli | 20.19 ), ( Ujani Majuli | 18.50 )",03-07-2022
+Hojai,324,144,81,549,"( Lanka | 91 ), ( Hojai | 458 )",114,"( Lanka | 100.00 ), ( Hojai | 14.00 )",03-07-2022
+Dhemaji,1590,1106,879,3575,( Sissiborgaon | 3575 ),83,( Sissiborgaon | 83.00 ),03-07-2022
+Nalbari,836,765,237,1838,( Paschim Nalbari | 1838 ),0,( Paschim Nalbari | 0.00 ),03-07-2022
+Chirang,206,238,136,580,( Bijni | 580 ),0,( Bijni | 0.00 ),03-07-2022
+Cachar,389412,347396,283164,1019972,"( Katigorah | 224006 ), ( Lakhipur | 92771 ), ( Udharbond | 46723 ), ( Sonai | 117547 ), ( Silchar | 538925 )",0,"( Katigorah | 0.00 ), ( Lakhipur | 0.00 ), ( Udharbond | 0.00 ), ( Sonai | 0.00 ), ( Silchar | 0.00 )",03-07-2022
+Biswanath,1091,917,569,2577,( Halem | 2577 ),73,( Halem | 73.00 ),03-07-2022
+Sivasagar,425,337,175,937,"( Demow | 937 ), ( Amguri | 0 )",26.9,"( Demow | 17.90 ), ( Amguri | 9.00 )",03-07-2022
+Sonitpur,1351,1732,1484,4567,"( Tezpur | 372 ), ( Thelamara | 0 ), ( Dhekiajuli | 4195 )",257.5,"( Tezpur | 10.50 ), ( Thelamara | 5.00 ), ( Dhekiajuli | 242.00 )",03-07-2022
+Tamulpur,845,726,455,2026,( Goreswar | 2026 ),0,( Goreswar | 0.00 ),03-07-2022
+Tinsukia,25,38,17,80,"( Tinsukia | 40 ), ( Doomdooma | 40 )",7.6,"( Tinsukia | 4.00 ), ( Doomdooma | 3.60 )",03-07-2022
+Udalguri,503,241,165,909,"( Udalguri | 309 ), ( Khairabari | 0 ), ( Harisinga | 0 ), ( Kalaigaon | 0 ), ( Mazbat | 600 )",0,"( Udalguri | 0.00 ), ( Khairabari | 0.00 ), ( Harisinga | 0.00 ), ( Kalaigaon | 0.00 ), ( Mazbat | 0.00 )",03-07-2022
+Barpeta,46260,40609,48939,135808,"( Barpeta | 28507 ), ( Kalgachia | 19222 ), ( Chenga | 10469 ), ( Baghbar | 77610 )",14158,"( Barpeta | 8825.50 ), ( Kalgachia | 1301.50 ), ( Chenga | 1319.00 ), ( Baghbar | 2712.00 )",03-07-2022
+Bajali,455,570,255,1280,( Sarupeta | 1280 ),0,( Sarupeta | 0.00 ),03-07-2022
+Nagaon,136760,126671,112266,375697,"( Nagaon | 51280 ), ( Samaguri | 0 ), ( Raha | 153234 ), ( Kampur | 171183 ), ( Rupahi | 0 )",17299.56,"( Nagaon | 350.00 ), ( Samaguri | 4.00 ), ( Raha | 9724.56 ), ( Kampur | 7191.00 ), ( Rupahi | 30.00 )",03-07-2022
+Darrang,8368,7807,2319,18494,"( Patharighat | 3181 ), ( Mangaldoi | 11355 ), ( Sipajhar | 3958 )",4918,"( Patharighat | 1500.00 ), ( Mangaldoi | 3418.00 ), ( Sipajhar | 0.00 )",03-07-2022
+Morigaon,70415,66798,38487,175700,"( Mikirbheta | 18347 ), ( Mayong | 794 ), ( Bhuragaon | 26751 ), ( Morigaon | 129808 ), ( Laharighat | 0 )",8901.65,"( Mikirbheta | 1356.50 ), ( Mayong | 3324.00 ), ( Bhuragaon | 925.00 ), ( Morigaon | 3250.00 ), ( Laharighat | 46.15 )",03-07-2022
+Nagaon,131980,121912,109437,363329,"( Nagaon | 41652 ), ( Kampur | 171183 ), ( Samaguri | 0 ), ( Raha | 150494 )",,"( Nagaon | 320.00 ), ( Kampur | 7191.00 ), ( Samaguri | 4.00 ), ( Raha | 9035.11 )",04-07-2022
+Bajali,455,570,255,1280,( Sarupeta | 1280 ),0,( Sarupeta | 0.00 ),04-07-2022
+Sonitpur,330,635,411,1376,"( Dhekiajuli | 1376 ), ( Chariduar | 0 ), ( Tezpur | 0 )",,"( Dhekiajuli | 191.00 ), ( Chariduar | 20.00 ), ( Tezpur | 10.00 )",04-07-2022
+Sivasagar,1520,1380,806,3706,( Demow | 3706 ),,( Demow | 22.80 ),04-07-2022
+Barpeta,12632,12666,30723,56021,"( Barpeta | 8498 ), ( Baghbar | 47523 ), ( Kalgachia | 0 )",12113,"( Barpeta | 8825.50 ), ( Baghbar | 2127.00 ), ( Kalgachia | 1160.50 )",04-07-2022
+Biswanath,691,527,216,1434,( Halem | 1434 ),31.5,( Halem | 31.50 ),04-07-2022
+Cachar,243783,229355,195770,668908,"( Katigorah | 224006 ), ( Silchar | 255748 ), ( Udharbond | 11457 ), ( Sonai | 117547 ), ( Lakhipur | 60150 )",0,"( Katigorah | 0.00 ), ( Silchar | 0.00 ), ( Udharbond | 0.00 ), ( Sonai | 0.00 ), ( Lakhipur | 0.00 )",04-07-2022
+Chirang,206,238,136,580,( Bijni | 580 ),0,( Bijni | 0.00 ),04-07-2022
+Darrang,8368,7707,2314,18389,"( Patharighat | 3076 ), ( Dalgaon | 0 ), ( Sipajhar | 3958 ), ( Mangaldoi | 11355 )",6511,"( Patharighat | 1500.00 ), ( Dalgaon | 0.00 ), ( Sipajhar | 1593.00 ), ( Mangaldoi | 3418.00 )",04-07-2022
+Dibrugarh,5360,3557,1954,10871,"( Moran | 2265 ), ( Chabua | 0 ), ( Dibrugarh West | 7440 ), ( Tingkhong | 37 ), ( Dibrugarh East | 526 ), ( Tengakhat | 163 ), ( Naharkatia | 440 )",304.11,"( Moran | 26.19 ), ( Chabua | 0.00 ), ( Dibrugarh West | 175.89 ), ( Tingkhong | 16.20 ), ( Dibrugarh East | 0.00 ), ( Tengakhat | 0.00 ), ( Naharkatia | 85.83 )",04-07-2022
+Goalpara,1420,1363,1242,4025,( Balijana | 4025 ),25,( Balijana | 25.00 ),04-07-2022
+Golaghat,0,0,0,0,"( Bokakhat | 0 ), ( Khumtai | 0 )",81,"( Bokakhat | 63.00 ), ( Khumtai | 18.00 )",04-07-2022
+Hailakandi,11700,10400,6654,28754,"( Lala | 0 ), ( Katlicherra | 0 ), ( Hailakandi | 0 ), ( Algapur | 28754 )",0,"( Lala | 0.00 ), ( Katlicherra | 0.00 ), ( Hailakandi | 0.00 ), ( Algapur | 0.00 )",04-07-2022
+Hojai,382,210,153,745,"( Lanka | 263 ), ( Hojai | 482 )",174,"( Lanka | 158.00 ), ( Hojai | 16.00 )",04-07-2022
+Kamrup,210,166,58,434,"( Hajo | 296 ), ( Kayan | 38 ), ( North Ghy | 100 )",89,"( Hajo | 87.00 ), ( Kayan | 0.00 ), ( North Ghy | 2.00 )",04-07-2022
+Tamulpur,806,745,408,1959,"( Goreswar | 1959 ), ( Tamulpur | 0 )",,"( Goreswar | 0.00 ), ( Tamulpur | 0.00 )",04-07-2022
+Kamrup (M),1119,785,96,2000,"( Chandrapur | 1118 ), ( Sonapur | 882 )",812.5,"( Chandrapur | 0.00 ), ( Sonapur | 812.50 )",04-07-2022
+Lakhimpur,1525,658,321,2504,"( Subansiri | 0 ), ( North Lakhimpur | 2504 ), ( Bihpuria | 0 )",0,"( Subansiri | 0.00 ), ( North Lakhimpur | 0.00 ",04-07-2022
+Nalbari,837,765,237,1839,( Paschim Nalbari | 1839 ),,( Paschim Nalbari | 0.00 ),04-07-2022
+Karimganj,12627,8012,3428,24067,"( Karimganj | 4967 ), ( Nilambazar | 6333 ), ( Badarpur | 9690 ), ( RK Nagar | 3077 )",0,"( Karimganj | 0.00 ), ( Nilambazar | 0.00 ), ( Badarpur | 0.00 ), ( RK Nagar | 0.00 )",04-07-2022
+Udalguri,153,91,65,309,"( Udalguri | 309 ), ( Harisinga | 0 ), ( Kalaigaon | 0 )",,"( Udalguri | 0.00 ), ( Harisinga | 0.00 ), ( Kalaigaon | 0.00 )",04-07-2022
+Morigaon,72201,67858,39074,179133,"( Mikirbheta | 18546 ), ( Mayong | 794 ), ( Bhuragaon | 26751 ), ( Morigaon | 133042 ), ( Laharighat | 0 )",,"( Mikirbheta | 1771.50 ), ( Mayong | 3324.00 ), ( Bhuragaon | 925.00 ), ( Morigaon | 750.00 ), ( Laharighat | 46.15 )",04-07-2022
+Majuli,0,0,0,0,"( Majuli | 0 ), ( Ujani Majuli | 0 )",,"( Majuli | 10.26 ), ( Ujani Majuli | 17.19 )",04-07-2022
+Biswanath,2361,1965,503,4829,"( Gohpur | 2737 ), ( Halem | 2033 ), ( Biswanath | 59 )",294.5,"( Gohpur | 275.00 ), ( Halem | 19.50 ), ( Biswanath | 0.00 )",05-07-2022
+Hailakandi,6540,4355,3480,14375,"( Hailakandi | 0 ), ( Lala | 0 ), ( Katlicherra | 0 ), ( Algapur | 14375 )",0,"( Hailakandi | 0.00 ), ( Lala | 0.00 ), ( Katlicherra | 0.00 ), ( Algapur | 0.00 )",05-07-2022
+Golaghat,0,0,0,0,"( Bokakhat | 0 ), ( Khumtai | 0 )",60.5,"( Bokakhat | 57.00 ), ( Khumtai | 3.50 )",05-07-2022
+Goalpara,845,706,512,2063,( Balijana | 2063 ),25,( Balijana | 25.00 ),05-07-2022
+Darrang,6135,5818,826,12779,"( Patharighat | 1424 ), ( Mangaldoi | 11355 ), ( Sipajhar | 0 ), ( Dalgaon | 0 )",6511,"( Patharighat | 1500.00 ), ( Mangaldoi | 3418.00 ), ( Sipajhar | 1593.00 ), ( Dalgaon | 0.00 )",05-07-2022
+Sonitpur,,,,,( Dhekiajuli | 0 ),,( Dhekiajuli | 144.00 ),05-07-2022
+Bajali,455,570,255,1280,( Sarupeta | 1280 ),0,( Sarupeta | 0.00 ),05-07-2022
+Cachar,231783,216355,183470,631608,"( Udharbond | 8157 ), ( Sonai | 117547 ), ( Lakhipur | 60150 ), ( Silchar | 221748 ), ( Katigorah | 224006 )",0,"( Udharbond | 0.00 ), ( Sonai | 0.00 ), ( Lakhipur | 0.00 ), ( Silchar | 0.00 ), ( Katigorah | 0.00 )",05-07-2022
+Chirang,173,210,130,513,"( Bengtal | 0 ), ( Bijni | 513 )",0,"( Bengtal | 0.00 ), ( Bijni | 0.00 )",05-07-2022
+Barpeta,6701,7906,4767,19374,"( Barpeta | 850 ), ( Baghbar | 18524 ), ( Kalgachia | 0 )",2365.5,"( Barpeta | 650.00 ), ( Baghbar | 1127.00 ), ( Kalgachia | 588.50 )",05-07-2022
+Dibrugarh,2793,1374,877,5044,"( Moran | 1359 ), ( Chabua | 0 ), ( Tingkhong | 37 ), ( Dibrugarh West | 3461 ), ( Dibrugarh East | 187 ), ( Naharkatia | 0 )",146.21,"( Moran | 7.53 ), ( Chabua | 0.00 ), ( Tingkhong | 0.00 ), ( Dibrugarh West | 112.63 ), ( Dibrugarh East | 0.00 ), ( Naharkatia | 26.05 )",05-07-2022
+Sivasagar,1500,1219,1185,3904,"( Sivsagar | 104 ), ( Demow | 3800 )",36,"( Sivsagar | 5.00 ), ( Demow | 31.00 )",05-07-2022
+Kamrup,54,61,23,138,"( Kayan | 38 ), ( North Ghy | 100 )",2,"( Kayan | 0.00 ), ( North Ghy | 2.00 )",05-07-2022
+Kamrup (M),684,437,68,1189,"( Chandrapur | 861 ), ( Sonapur | 328 )",0,"( Chandrapur | 0.00 ), ( Sonapur | 0.00 )",05-07-2022
+Karimganj,10880,6404,2951,20235,"( Nilambazar | 6333 ), ( Karimganj | 4262 ), ( RK Nagar | 2028 ), ( Badarpur | 7612 ), ( Patherkandi | 0 )",0,"( Nilambazar | 0.00 ), ( Karimganj | 0.00 ), ( RK Nagar | 0.00 ), ( Badarpur | 0.00 ), ( Patherkandi | 0.00 )",05-07-2022
+Morigaon,67245,62856,34811,164912,"( Mikirbheta | 18546 ), ( Morigaon | 133042 ), ( Mayong | 794 ), ( Bhuragaon | 12530 )",5758.5,"( Mikirbheta | 1771.50 ), ( Morigaon | 700.00 ), ( Mayong | 2362.00 ), ( Bhuragaon | 925.00 )",05-07-2022
+Nagaon,87275,80734,64854,232863,"( Nagaon | 38708 ), ( Samaguri | 0 ), ( Raha | 148962 ), ( Kampur | 45193 )",14438.02,"( Nagaon | 320.00 ), ( Samaguri | 3.00 ), ( Raha | 8925.02 ), ( Kampur | 5190.00 )",05-07-2022
+Tamulpur,,,,,( Goreswar | 1718 ),,( Goreswar | 0.00 ),05-07-2022
+Sivasagar,1496,1223,1185,3904,"( Sivsagar | 104 ), ( Demow | 3800 )",43.8,"( Sivsagar | 2.00 ), ( Demow | 41.80 )",06-07-2022
+Sonitpur,0,0,0,0,( Dhekiajuli | 0 ),119,( Dhekiajuli | 119.00 ),06-07-2022
+Tamulpur,545,402,105,1052,"( Goreswar | 1052 ), ( Tamulpur | 0 )",0,"( Goreswar | 0.00 ), ( Tamulpur | 0.00 )",06-07-2022
+Lakhimpur,17,15,8,40,( Subansiri | 40 ),5,( Subansiri | 5.00 ),06-07-2022
+Karimganj,9300,5922,2608,17830,"( Nilambazar | 6333 ), ( RK Nagar | 1165 ), ( Karimganj | 3959 ), ( Badarpur | 6373 )",0,"( Nilambazar | 0.00 ), ( RK Nagar | 0.00 ), ( Karimganj | 0.00 ), ( Badarpur | 0.00 )",06-07-2022
+Kamrup (M),594,347,68,1009,"( Sonapur | 148 ), ( Chandrapur | 861 )",0,"( Sonapur | 0.00 ), ( Chandrapur | 0.00 )",06-07-2022
+Kamrup,32,42,21,95,"( Kayan | 38 ), ( North Ghy | 57 )",2,"( Kayan | 0.00 ), ( North Ghy | 2.00 )",06-07-2022
+Hailakandi,4540,3325,1760,9625,"( Algapur | 9625 ), ( Lala | 0 ), ( Katlicherra | 0 ), ( Hailakandi | 0 )",0,"( Algapur | 0.00 ), ( Lala | 0.00 ), ( Katlicherra | 0.00 ), ( Hailakandi | 0.00 )",06-07-2022
+Dhemaji,5071,4595,4067,13733,( Jonai | 13733 ),440.85,( Jonai | 440.85 ),06-07-2022
+Dibrugarh,1480,1080,234,2794,"( Moran | 1359 ), ( Chabua | 0 ), ( Dibrugarh East | 143 ), ( Dibrugarh West | 1292 ), ( Naharkatia | 0 )",18.78,"( Moran | 5.93 ), ( Chabua | 0.00 ), ( Dibrugarh East | 0.00 ), ( Dibrugarh West | 0.00 ), ( Naharkatia | 12.85 )",06-07-2022
+Nagaon,70199,66700,52548,189447,"( Kampur | 26525 ), ( Samaguri | 0 ), ( Nagaon | 17375 ), ( Raha | 145547 )",10806.04,"( Kampur | 2590.00 ), ( Samaguri | 2.50 ), ( Nagaon | 201.00 ), ( Raha | 8012.54 )",06-07-2022
+Darrang,230,245,135,610,"( Patharighat | 610 ), ( Dalgaon | 0 ), ( Mangaldoi | 0 ), ( Sipajhar | 0 )",1200,"( Patharighat | 1200.00 ), ( Dalgaon | 0.00 ), ( Mangaldoi | 0.00 ), ( Sipajhar | 0.00 )",06-07-2022
+Bajali,205,225,45,475,( Sarupeta | 475 ),0,( Sarupeta | 0.00 ),06-07-2022
+Barpeta,0,0,0,0,( Kalgachia | 0 ),181,( Kalgachia | 181.00 ),06-07-2022
+Cachar,217109,203613,149140,569862,"( Silchar | 218238 ), ( Katigorah | 213185 ), ( Sonai | 81739 ), ( Lakhipur | 50150 ), ( Udharbond | 6550 )",0,"( Silchar | 0.00 ), ( Katigorah | 0.00 ), ( Sonai | 0.00 ), ( Lakhipur | 0.00 ), ( Udharbond | 0.00 )",06-07-2022
+Chirang,65,55,33,153,( Bijni | 153 ),0,( Bijni | 0.00 ),06-07-2022
+Golaghat,0,0,0,0,"( Bokakhat | 0 ), ( Khumtai | 0 )",52.5,"( Bokakhat | 49.00 ), ( Khumtai | 3.50 )",06-07-2022
+Morigaon,64595,60177,32817,157589,"( Mikirbheta | 18546 ), ( Mayong | 331 ), ( Morigaon | 133042 ), ( Bhuragaon | 5670 )",6720.5,"( Mikirbheta | 1771.50 ), ( Mayong | 3324.00 ), ( Morigaon | 700.00 ), ( Bhuragaon | 925.00 )",06-07-2022
+Morigaon,62437,58141,31264,151842,"( Mikirbheta | 18546 ), ( Mayong | 254 ), ( Bhuragaon | 0 ), ( Morigaon | 133042 )",6425.5,"( Mikirbheta | 1771.50 ), ( Mayong | 3324.00 ), ( Bhuragaon | 650.00 ), ( Morigaon | 680.00 )",07-07-2022
+Cachar,214559,201363,147390,563312,"( Lakhipur | 50150 ), ( Silchar | 218238 ), ( Sonai | 81739 ), ( Katigorah | 213185 )",0,"( Lakhipur | 0.00 ), ( Silchar | 0.00 ), ( Sonai | 0.00 ), ( Katigorah | 0.00 )",07-07-2022
+Bajali,205,225,45,475,( Sarupeta | 475 ),0,( Sarupeta | 0.00 ),07-07-2022
+Tamulpur,545,402,105,1052,( Goreswar | 1052 ),0,( Goreswar | 0.00 ),07-07-2022
+Sivasagar,1988,1644,1708,5340,"( Sivsagar | 296 ), ( Demow | 5044 )",40,"( Sivsagar | 2.00 ), ( Demow | 38.00 )",07-07-2022
+Karimganj,8871,5615,2463,16949,"( RK Nagar | 1165 ), ( Karimganj | 3542 ), ( Nilambazar | 6234 ), ( Badarpur | 6008 )",0,"( RK Nagar | 0.00 ), ( Karimganj | 0.00 ), ( Nilambazar | 0.00 ), ( Badarpur | 0.00 )",07-07-2022
+Kamrup,32,42,21,95,"( Kamalpur | 0 ), ( Kayan | 38 ), ( North Ghy | 57 )",2,"( Kamalpur | 0.00 ), ( Kayan | 0.00 ), ( North Ghy | 2.00 )",07-07-2022
+Nagaon,57629,53583,45519,156731,"( Kampur | 6416 ), ( Nagaon | 8253 ), ( Raha | 142062 )",9351.24,"( Kampur | 1250.00 ), ( Nagaon | 102.00 ), ( Raha | 7999.24 )",07-07-2022
+Golaghat,0,0,0,0,( Bokakhat | 0 ),37,( Bokakhat | 37.00 ),07-07-2022
+Dibrugarh,1192,881,171,2244,"( Moran | 922 ), ( Dibrugarh West | 1292 ), ( Dibrugarh East | 30 ), ( Naharkatia | 0 )",12.99,"( Moran | 5.93 ), ( Dibrugarh West | 0.00 ), ( Dibrugarh East | 0.00 ), ( Naharkatia | 7.06 )",07-07-2022
+Darrang,215,230,102,547,"( Patharighat | 547 ), ( Sipajhar | 0 )",1200,"( Patharighat | 1200.00 ), ( Sipajhar | 0.00 )",07-07-2022
+Chirang,65,55,33,153,( Bijni | 153 ),0,( Bijni | 0.00 ),07-07-2022
+Hailakandi,3130,2460,1670,7260,"( Algapur | 7260 ), ( Lala | 0 ), ( Katlicherra | 0 ), ( Hailakandi | 0 )",0,"( Algapur | 0.00 ), ( Lala | 0.00 ), ( Katlicherra | 0.00 ), ( Hailakandi | 0.00 )",07-07-2022
+Morigaon,62391,58110,31203,151704,"( Mikirbheta | 18546 ), ( Mayong | 158 ), ( Bhuragaon | 0 ), ( Morigaon | 133000 )",5496.5,"( Mikirbheta | 1771.50 ), ( Mayong | 2525.00 ), ( Bhuragaon | 560.00 ), ( Morigaon | 640.00 )",08-07-2022
+Tamulpur,545,402,105,1052,( Goreswar | 1052 ),853,( Goreswar | 853.00 ),08-07-2022
+Sivasagar,1449,1142,973,3564,( Demow | 3564 ),32.53,( Demow | 32.53 ),08-07-2022
+Nagaon,53008,50033,41823,144864,"( Nagaon | 7074 ), ( Raha | 137790 )",7870.22,"( Nagaon | 85.00 ), ( Raha | 7785.22 )",08-07-2022
+Kamrup,34,42,17,93,"( Kayan | 38 ), ( North Ghy | 55 )",2,"( Kayan | 0.00 ), ( North Ghy | 2.00 )",08-07-2022
+Cachar,214559,20136,147390,563312,"( Sonai | 81739 ), ( Silchar | 218238 ), ( Lakhipur | 50150 ), ( Katigorah | 213185 )",0,"( Sonai | 0.00 ), ( Silchar | 0.00 ), ( Lakhipur | 0.00 ), ( Katigorah | 0.00 )",08-07-2022
+Hailakandi,3150,2225,1345,6720,"( Lala | 0 ), ( Hailakandi | 0 ), ( Katlicherra | 0 ), ( Algapur | 6720 )",0,"( Lala | 0.00 ), ( Hailakandi | 0.00 ), ( Katlicherra | 0.00 ), ( Algapur | 0.00 )",08-07-2022
+Golaghat,0,0,0,0,( Bokakhat | 0 ),29,( Bokakhat | 29.00 ),08-07-2022
+Dibrugarh,723,483,86,1292,"( Moran | 0 ), ( Dibrugarh West | 1292 ), ( Naharkatia | 0 )",6.51,"( Moran | 3.06 ), ( Dibrugarh West | 0.00 ), ( Naharkatia | 3.45 )",08-07-2022
+Chirang,65,55,33,153,( Bijni | 153 ),0,( Bijni | 0.00 ),08-07-2022
+Bajali,155,165,35,355,( Sarupeta | 355 ),0,( Sarupeta | 0.00 ),08-07-2022
+Hojai,0,0,0,0,"( Doboka | 0 ), ( Hojai | 0 )",113,"( Doboka | 75.00 ), ( Hojai | 38.00 )",08-07-2022
+Karimganj,8113,4962,1993,15068,"( Nilambazar | 6234 ), ( Karimganj | 3171 ), ( Badarpur | 5663 ), ( Patherkandi | 0 )",0,"( Nilambazar | 0.00 ), ( Karimganj | 0.00 ), ( Badarpur | 0.00 ), ( Patherkandi | 0.00 )",08-07-2022
+Bajali,114,93,44,251,( Sarupeta | 251 ),0,( Sarupeta | 0.00 ),10-07-2022
+Nagaon,15428,12547,6748,34723,( Raha | 34723 ),3472.01,( Raha | 3472.01 ),10-07-2022
+Cachar,131259,124574,100127,355960,"( Silchar | 210938 ), ( Sonai | 16172 ), ( Lakhipur | 50150 ), ( Katigorah | 78700 )",0,"( Silchar | 0.00 ), ( Sonai | 0.00 ), ( Lakhipur | 0.00 ), ( Katigorah | 0.00 )",10-07-2022
+Chirang,65,55,33,153,( Bijni | 153 ),0,( Bijni | 0.00 ),10-07-2022
+Golaghat,0,0,0,0,( Bokakhat | 0 ),21,( Bokakhat | 21.00 ),10-07-2022
+Hailakandi,1350,125,740,2215,"( Lala | 0 ), ( Hailakandi | 0 ), ( Algapur | 2215 ), ( Katlicherra | 0 )",0,"( Lala | 0.00 ), ( Hailakandi | 0.00 ), ( Algapur | 0.00 ), ( Katlicherra | 0.00 )",10-07-2022
+Tamulpur,545,402,105,1052,( Goreswar | 1052 ),0,( Goreswar | 0.00 ),10-07-2022
+Sivasagar,507,438,285,1230,"( Sivsagar | 0 ), ( Demow | 1230 )",15.4,"( Sivsagar | 0.00 ), ( Demow | 15.40 )",10-07-2022
+Biswanath,491,362,197,1050,( Halem | 1050 ),12.5,( Halem | 12.50 ),10-07-2022
+Morigaon,58666,55888,28108,142662,"( Morigaon | 124116 ), ( Mayong | 0 ), ( Mikirbheta | 18546 ), ( Bhuragaon | 0 )",3847.5,"( Morigaon | 620.00 ), ( Mayong | 1100.00 ), ( Mikirbheta | 1771.50 ), ( Bhuragaon | 356.00 )",10-07-2022
+Kamrup,19,15,4,38,( Kayan | 38 ),0,( Kayan | 0.00 ),10-07-2022
+Hailakandi,790,560,455,1805,"( Katlicherra | 0 ), ( Hailakandi | 0 ), ( Algapur | 1805 ), ( Lala | 0 )",,"( Katlicherra | 0.00 ), ( Hailakandi | 0.00 ), ( Algapur | 0.00 ), ( Lala | 0.00 )",11-07-2022
+Kamrup,19,15,4,38,( Kayan | 38 ),,( Kayan | 0.00 ),11-07-2022
+Nagaon,10542,8234,5749,24525,( Raha | 24525 ),,( Raha | 3021.56 ),11-07-2022
+Golaghat,0,0,0,0,( Bokakhat | 0 ),,( Bokakhat | 18.00 ),11-07-2022
+Chirang,65,55,33,153,( Bijni | 153 ),,( Bijni | 0.00 ),11-07-2022
+Morigaon,58266,55388,28058,141712,"( Mayong | 0 ), ( Morigaon | 123166 ), ( Mikirbheta | 18546 )",,"( Mayong | 0.00 ), ( Morigaon | 600.00 ), ( Mikirbheta | 1771.50 )",11-07-2022
+Sivasagar,389,346,198,933,( Demow | 933 ),,( Demow | 11.24 ),11-07-2022
+Cachar,74153,71750,62104,208007,"( Udharbond | 0 ), ( Silchar | 152938 ), ( Katigorah | 52890 ), ( Sonai | 0 ), ( Lakhipur | 2179 )",0,"( Udharbond | 0.00 ), ( Silchar | 0.00 ), (
+Katigorah | 0.00 ), (
+Sonai | 0.00 ), (
+Lakhipur | 0.00 )",11-07-2022
+Biswanath,319,281,162,762,( Halem | 762 ),8.9,( Halem | 8.90 ),11-07-2022
+Tamulpur,545,402,105,1052,( Goreswar | 1052 ),,( Goreswar | 0.00 ),11-07-2022
+Bajali,114,93,44,251,( Sarupeta | 251 ),0,( Sarupeta | 0.00 ),11-07-2022
+Cachar,60178,58206,49745,168129,"( Silchar | 118810 ), ( Lakhipur | 1085 ), ( Katigorah | 48234 )",0,"( Silchar | 0.00 ), ( Lakhipur | 0.00 ), ( Katigorah | 0.00 )",12-07-2022
+Chirang,65,55,33,153,( Bijni | 153 ),0,( Bijni | 0.00 ),12-07-2022
+Golaghat,0,0,0,0,( Bokakhat | 0 ),15,( Bokakhat | 15.00 ),12-07-2022
+Hailakandi,760,695,376,1831,"( Algapur | 1831 ), ( Lala | 0 ), ( Hailakandi | 0 )",0,"( Algapur | 0.00 ), ( Lala | 0.00 ), ( Hailakandi | 0.00 )",12-07-2022
+Morigaon,47359,44942,20942,113243,"( Mikirbheta | 3370 ), ( Morigaon | 109873 )",590,"( Mikirbheta | 0.00 ), ( Morigaon | 590.00 )",12-07-2022
+Nagaon,3137,2280,2039,7456,( Raha | 7456 ),905.32,( Raha | 905.32 ),12-07-2022
+Sivasagar,169,148,88,405,( Demow | 405 ),4.6,( Demow | 4.60 ),12-07-2022
+Tamulpur,545,402,105,1052,( Goreswar | 1052 ),0,( Goreswar | 0.00 ),12-07-2022
+Golaghat,0,0,0,0,( Bokakhat | 0 ),10,( Bokakhat | 10.00 ),13-07-2022
+Chirang,65,55,33,153,( Bijni | 153 ),0,( Bijni | 0.00 ),13-07-2022
+Morigaon,42127,41078,17859,101064,( Morigaon | 101064 ),550,( Morigaon | 550.00 ),13-07-2022
+Nagaon,303,116,38,457,"( Kampur | 0 ), ( Raha | 457 )",91.4,"( Kampur | 0.00 ), ( Raha | 91.40 )",13-07-2022
+Tamulpur,545,402,105,1052,( Goreswar | 1052 ),0,( Goreswar | 0.00 ),13-07-2022
+Cachar,56178,51506,39888,147572,"( Katigorah | 48234 ), ( Lakhipur | 1085 ), ( Silchar | 98253 )",0,"( Katigorah | 0.00 ), ( Lakhipur | 0.00 ), ( Silchar | 0.00 )",13-07-2022
+Golaghat,0,0,0,0,( Bokakhat | 0 ),7,( Bokakhat | 7.00 ),14-07-2022
+Morigaon,39986,38078,14789,92853,( Morigaon | 92853 ),520,( Morigaon | 520.00 ),14-07-2022
+Tamulpur,545,402,105,1052,( Goreswar | 1052 ),0,( Goreswar | 0.00 ),14-07-2022
+Cachar,50780,46118,37589,134487,"( Silchar | 98253 ), ( Katigorah | 36234 )",0,"( Silchar | 0.00 ), ( Katigorah | 0.00 )",14-07-2022
+Chirang,65,55,33,153,( Bijni | 153 ),0,( Bijni | 0.00 ),14-07-2022
+Morigaon,38127,36007,15289,89423,"( Bhuragaon | 0 ), ( Morigaon | 89423 ), ( Mikirbheta | 0 )",430,"( Bhuragaon | 0.00 ), ( Morigaon | 430.00 ), ( Mikirbheta | 0.00 )",15-07-2022
+Karimganj,0,0,0,0,"( Karimganj | 0 ), ( Badarpur | 0 ), ( Nilambazar | 0 ), ( RK Nagar | 0 )",445.46,"( Karimganj | 0.00 ), ( Badarpur | 196.66 ), ( Nilambazar | 248.80 ), ( RK Nagar | 0.00 )",15-07-2022
+Cachar,45932,40298,33888,120118,"( Katigorah | 21865 ), ( Silchar | 98253 )",0,"( Katigorah | 0.00 ), ( Silchar | 0.00 )",15-07-2022
+Tamulpur,545,,,,( Goreswar | 1052 ),,( Goreswar | 0.00 ),15-07-2022
+Chirang,65,55,33,153,( Bijni | 153 ),0,( Bijni | 0.00 ),15-07-2022
+Cachar,26972,21878,15767,64617,"( Silchar | 45845 ), ( Katigorah | 18772 )",0,"( Silchar | 0.00 ), ( Katigorah | 0.00 )",16-07-2022
+Chirang,65,55,33,153,( Bijni | 153 ),0,( Bijni | 0.00 ),16-07-2022
+Tamulpur,545,402,105,1052,( Goreswar | 1052 ),0,( Goreswar | 0.00 ),16-07-2022
+Morigaon,35127,34007,13689,82823,( Morigaon | 82823 ),400,( Morigaon | 400.00 ),16-07-2022
+Tamulpur,545,402,105,1052,( Goreswar | 1052 ),0,( Goreswar | 0.00 ),17-07-2022
+Morigaon,25211,24000,8542,57753,( Morigaon | 57753 ),320,( Morigaon | 320.00 ),17-07-2022
+Cachar,12457,10258,6213,28928,"( Silchar | 15366 ), ( Katigorah | 13562 )",0,"( Silchar | 0.00 ), ( Katigorah | 0.00 )",17-07-2022
+Biswanath,1425,1297,420,3142,"( Halem | 1176 ), ( Gohpur | 1966 )",186.3,"( Halem | 11.30 ), ( Gohpur | 175.00 )",17-07-2022
+Morigaon,15112,13978,6452,35542,( Morigaon | 35542 ),278,( Morigaon | 278.00 ),18-07-2022
+Biswanath,752,610,159,1521,"( Gohpur | 1075 ), ( Halem | 446 )",104.2,"( Gohpur | 96.00 ), ( Halem | 8.20 )",18-07-2022
+Cachar,8857,7558,4153,20568,"( Silchar | 13266 ), ( Katigorah | 7302 )",0,"( Silchar | 0.00 ), ( Katigorah | 0.00 )",18-07-2022
+Tamulpur,457,345,90,892,( Goreswar | 892 ),0,( Goreswar | 0.00 ),18-07-2022
+Tamulpur,457,345,90,892,( Goreswar | 892 ),0,( Goreswar | 0.00 ),19-07-2022
+Morigaon,4145,2958,1200,8303,( Morigaon | 8303 ),270,( Morigaon | 270.00 ),19-07-2022
+Cachar,5795,5191,2907,13893,"( Silchar | 6591 ), ( Katigorah | 7302 )",0,"( Silchar | 0.00 ), ( Katigorah | 0.00 )",19-07-2022
+Tamulpur,457,345,90,892,( Goreswar | 892 ),0,( Goreswar | 0.00 ),20-07-2022
+Tinsukia,580,687,70,1337,( Sadiya | 1337 ),0,( Sadiya | 0.00 ),20-07-2022
+Morigaon,2009,1682,825,4516,( Morigaon | 4516 ),250,( Morigaon | 250.00 ),20-07-2022
+Cachar,3900,3321,2496,9717,"( Katigorah | 3126 ), ( Silchar | 6591 )",0,"( Katigorah | 0.00 ), ( Silchar | 0.00 )",20-07-2022
+Tinsukia,46,50,36,132,"( Sadiya | 0 ), ( Tinsukia | 132 )",2,"( Sadiya | 0.00 ), ( Tinsukia | 2.00 )",21-07-2022
+Tamulpur,457,345,90,892,( Goreswar | 892 ),0,( Goreswar | 0.00 ),21-07-2022
+Morigaon,1582,1282,678,3542,"( Mikirbheta | 0 ), ( Morigaon | 3542 )",235,"( Mikirbheta | 0.00 ), ( Morigaon | 235.00 )",21-07-2022
+Cachar,5186,4851,2610,12647,"( Silchar | 5990 ), ( Katigorah | 6657 )",0,"( Silchar | 0.00 ), ( Katigorah | 0.00 )",21-07-2022
+Tamulpur,457,345,90,892,( Goreswar | 892 ),0,( Goreswar | 0.00 ),22-07-2022
+Morigaon,1232,989,374,2595,( Morigaon | 2595 ),210,( Morigaon | 210.00 ),22-07-2022
+Cachar,2909,2309,1417,6635,"( Silchar | 4317 ), ( Katigorah | 2318 )",0,"( Silchar | 0.00 ), ( Katigorah | 0.00 )",22-07-2022
+Morigaon,1132,889,274,2295,( Morigaon | 2295 ),200,( Morigaon | 200.00 ),23-07-2022
+Tamulpur,457,345,90,892,( Goreswar | 892 ),0,( Goreswar | 0.00 ),23-07-2022
+Cachar,2229,1540,764,4533,"( Silchar | 2366 ), ( Katigorah | 2167 )",0,"( Silchar | 0.00 ), ( Katigorah | 0.00 )",23-07-2022
+Cachar,1109,650,408,2167,( Katigorah | 2167 ),0,( Katigorah | 0.00 ),24-07-2022
+Morigaon,1100,800,210,2110,( Morigaon | 2110 ),196,( Morigaon | 196.00 ),24-07-2022
+Tamulpur,457,345,90,892,( Goreswar | 892 ),0,( Goreswar | 0.00 ),24-07-2022
+Morigaon,877,720,198,1795,( Morigaon | 1795 ),186,( Morigaon | 186.00 ),25-07-2022
+Tamulpur,457,345,90,892,( Goreswar | 892 ),0,( Goreswar | 0.00 ),25-07-2022
+Cachar,1109,650,408,2167,( Katigorah | 2167 ),0,( Katigorah | 0.00 ),25-07-2022
+Cachar,1109,650,408,2167,( Katigorah | 2167 ),0,( Katigorah | 0.00 ),26-07-2022
+Morigaon,732,588,178,1498,( Morigaon | 1498 ),176,( Morigaon | 176.00 ),26-07-2022
+Tamulpur,457,345,90,892,( Goreswar | 892 ),0,( Goreswar | 0.00 ),26-07-2022
+Morigaon,145,88,34,267,( Morigaon | 267 ),144,( Morigaon | 144.00 ),27-07-2022
+Tamulpur,457,345,90,892,( Goreswar | 892 ),0,( Goreswar | 0.00 ),27-07-2022
+Charaideo,1866,1245,1206,4317,"( Sonari | 1567 ), ( Sapekhati | 2750 )",104,"( Sonari | 86.00 ), ( Sapekhati | 18.00 )",27-07-2022
+Tamulpur,457,345,90,892,( Goreswar | 892 ),0,( Goreswar | 0.00 ),28-07-2022
+Morigaon,55,35,33,123,( Morigaon | 123 ),98,( Morigaon | 98.00 ),28-07-2022
+Charaideo,2810,2234,1770,6814,"( Sonari | 6056 ), ( Sapekhati | 758 )",0,"( Sonari | 0.00 ), ( Sapekhati | 0.00 )",28-07-2022
+Morigaon,50,35,30,115,"( Mayong | 0 ), ( Morigaon | 115 )",75,"( Mayong | 0.00 ), ( Morigaon | 75.00 )",29-07-2022
+Tamulpur,195,153,57,405,( Goreswar | 405 ),0,( Goreswar | 0.00 ),29-07-2022
+Charaideo,612,433,425,1470,( Sonari | 1470 ),0,( Sonari | 0.00 ),29-07-2022
+Dhemaji,715,687,686,2088,( Dhemaji | 2088 ),141,( Dhemaji | 141.00 ),30-07-2022
+Tamulpur,195,153,57,405,( Goreswar | 405 ),0,( Goreswar | 0.00 ),30-07-2022
+Morigaon,27,28,21,76,( Morigaon | 76 ),60,( Morigaon | 60.00 ),30-07-2022
+Dhemaji,6099,6084,2694,14877,"( Dhemaji | 2335 ), ( Gogamukh | 12542 )",381,"( Dhemaji | 181.00 ), ( Gogamukh | 200.00 )",31-07-2022
+Jorhat,39,45,28,112,"( Titabor | 0 ), ( Teok | 112 )",98.7,"( Titabor | 20.00 ), ( Teok | 78.70 )",31-07-2022
+Lakhimpur,14,16,5,35,( Subansiri | 35 ),20,( Subansiri | 20.00 ),31-07-2022
+Tamulpur,195,153,57,405,( Goreswar | 405 ),0,( Goreswar | 0.00 ),31-07-2022
+Morigaon,27,28,21,76,( Morigaon | 76 ),55,( Morigaon | 55.00 ),31-07-2022
+Udalguri,817,,,,"( Khairabari | 1310 ), (Harisinga | 277 )",,"( Khairabari | 0.00 ), (
+Harisinga | 0.00 )",01-08-2022
+Tamulpur,294,215,87,596,"( Goreswar | 425 ), ( Tamulpur | 171 )",98.08,"( Goreswar | 78.00 ), ( Tamulpur | 20.08 )",01-08-2022
+Lakhimpur,1750,1645,835,4230,( Subansiri | 4230 ),109,( Subansiri | 109.00 ),01-08-2022
+Jorhat,39,45,28,112,"( Titabor | 0 ), ( Teok | 112 )",12,"( Titabor | 12.00 ), ( Teok | 0.00 )",01-08-2022
+Dhemaji,9699,9554,4927,24180,"( Sissiborgaon | 1127 ), ( Dhemaji | 4010 ), ( Gogamukh | 19043 )",4443,"( Sissiborgaon | 375.00 ), ( Dhemaji | 197.00 ), ( Gogamukh | 3871.00 )",01-08-2022
+Darrang,155,143,56,354,( Sipajhar | 354 ),0,( Sipajhar | 0.00 ),01-08-2022
+Chirang,1092,1072,1789,3953,"( Sidli | 568 ), ( Bengtal | 2988 ), ( Bijni | 397 )",9.2,"( Sidli | 0.00 ), ( Bengtal | 9.20 ), ( Bijni | 0.00 )",01-08-2022
+Nalbari,385,262,47,694,( Tihu | 694 ),12,( Tihu | 12.00 ),01-08-2022
+Bajali,38,33,10,81,"( Sarupeta | 40 ), ( Bajali | 41 )",0,"( Sarupeta | 0.00 ), ( Bajali | 0.00 )",01-08-2022
+Baksa,0,0,0,0,( Baska | 0 ),14,( Baska | 14.00 ),02-08-2022
+Udalguri,886,740,207,1833,"( Khairabari | 1450 ), ( Harisinga | 383 )",119,"( Khairabari | 65.00 ), ( Harisinga | 54.00 )",02-08-2022
+Tamulpur,204,160,61,425,( Goreswar | 425 ),19.32,( Goreswar | 19.32 ),02-08-2022
+Lakhimpur,450,365,238,1053,( Subansiri | 1053 ),130,( Subansiri | 130.00 ),02-08-2022
+Dhemaji,9105,9096,4501,22702,"( Dhemaji | 2713 ), ( Gogamukh | 19989 )",4041,"( Dhemaji | 170.00 ), ( Gogamukh | 3871.00 )",02-08-2022
+Darrang,55,47,31,133,"( Mangaldoi | 0 ), ( Sipajhar | 133 )",0,"( Mangaldoi | 0.00 ), ( Sipajhar | 0.00 )",02-08-2022
+Chirang,853,855,1521,3229,"( Bengtal | 2988 ), ( Bijni | 241 )",0,"( Bengtal | 0.00 ), ( Bijni | 0.00 )",02-08-2022
+Bajali,3447,2990,789,7226,"( Sarupeta | 5804 ), ( Bajali | 1422 )",0,"( Sarupeta | 0.00 ), ( Bajali | 0.00 )",02-08-2022
+Bajali,130,185,67,382,( Sarupeta | 382 ),0,( Sarupeta | 0.00 ),03-08-2022
+Dhemaji,8464,8470,3756,20690,"( Gogamukh | 20038 ), ( Dhemaji | 652 )",3896,"( Gogamukh | 3871.00 ), ( Dhemaji | 25.00 )",03-08-2022
+Dhubri,0,0,0,0,( Agamoni | 0 ),35.5,( Agamoni | 35.50 ),03-08-2022
+Tamulpur,204,160,61,425,( Goreswar | 425 ),0,( Goreswar | 0.00 ),03-08-2022
+Jorhat,0,0,0,0,( Titabor | 0 ),10,( Titabor | 10.00 ),03-08-2022
+Chirang,92,81,50,223,( Bijni | 223 ),0,( Bijni | 0.00 ),03-08-2022
+Kamrup,0,0,0,0,( Palashbari | 0 ),435,( Palashbari | 435.00 ),03-08-2022
+Udalguri,709,555,174,1438,"( Udalguri | 0 ), ( Khairabari | 1057 ), ( Harisinga | 381 )",54,"( Udalguri | 0.00 ), ( Khairabari | 0.00 ), ( Harisinga | 54.00 )",03-08-2022
+Darrang,0,0,0,0,"( Mangaldoi | 0 ), ( Sipajhar | 0 )",574,"( Mangaldoi | 256.00 ), ( Sipajhar | 318.00 )",03-08-2022
+Dhemaji,0,0,0,0,( Dhemaji | 0 ),10,( Dhemaji | 10.00 ),04-08-2022
+Darrang,0,0,0,0,( Mangaldoi | 0 ),256,( Mangaldoi | 256.00 ),04-08-2022
+Chirang,92,81,50,223,( Bijni | 223 ),0,( Bijni | 0.00 ),04-08-2022
+Tamulpur,204,160,61,425,( Goreswar | 425 ),0,( Goreswar | 0.00 ),04-08-2022
+Udalguri,549,471,143,1163,"( Khairabari | 782 ), ( Harisinga | 381 )",54,"( Khairabari | 0.00 ), ( Harisinga | 54.00 )",04-08-2022
+Bajali,130,185,67,382,( Sarupeta | 382 ),0,( Sarupeta | 0.00 ),04-08-2022
+Udalguri,317,275,102,694,"( Harisinga | 332 ), ( Khairabari | 362 )",0,"( Harisinga | 0.00 ), ( Khairabari | 0.00 )",05-08-2022
+Tamulpur,204,160,61,425,( Goreswar | 425 ),0,( Goreswar | 0.00 ),05-08-2022
+Dhemaji,0,0,0,0,( Dhemaji | 0 ),10,( Dhemaji | 10.00 ),05-08-2022
+Tamulpur,204,160,61,425,( Goreswar | 425 ),0,( Goreswar | 0.00 ),06-08-2022
+Udalguri,125,146,61,332,"( Khairabari | 0 ), ( Harisinga | 332 )",0,"( Khairabari | 0.00 ), ( Harisinga | 0.00 )",06-08-2022
+Tamulpur,204,160,61,425,( Goreswar | 425 ),0,( Goreswar | 0.00 ),07-08-2022
+Tamulpur,204,160,61,425,( Goreswar | 425 ),0,( Goreswar | 0.00 ),08-08-2022
+Udalguri,0,0,0,0,"( Harisinga | 0 ), ( Khairabari | 0 ), ( Kalaigaon | 0 )",75,"( Harisinga | 0.00 ), ( Khairabari | 0.00 ), ( Kalaigaon | 75.00 )",08-08-2022
+Tamulpur,204,160,61,425,( Goreswar | 425 ),0,( Goreswar | 0.00 ),09-08-2022
+Udalguri,30,35,20,85,"( Khairabari | 0 ), ( Harisinga | 85 )",0,"( Khairabari | 0.00 ), ( Harisinga | 0.00 )",09-08-2022
+Tamulpur,204,160,61,425,( Goreswar | 425 ),0,( Goreswar | 0.00 ),10-08-2022
+Udalguri,30,35,20,85,"( Khairabari | 0 ), ( Harisinga | 85 )",0,"( Khairabari | 0.00 ), ( Harisinga | 0.00 )",10-08-2022
+Udalguri,30,35,20,85,"( Khairabari | 0 ), ( Harisinga | 85 )",0,"( Khairabari | 0.00 ), ( Harisinga | 0.00 )",11-08-2022
+Tamulpur,204,160,61,425,( Goreswar | 425 ),0,( Goreswar | 0.00 ),11-08-2022
+Jorhat,0,0,0,0,( Titabor | 0 ),15,( Titabor | 15.00 ),11-08-2022
+Tamulpur,204,160,61,425,( Goreswar | 425 ),0,( Goreswar | 0.00 ),12-08-2022
+Tamulpur,204,160,61,425,( Goreswar | 425 ),0,( Goreswar | 0.00 ),13-08-2022
+Tamulpur,109,91,50,250,( Goreswar | 250 ),0,( Goreswar | 0.00 ),14-08-2022
+Tamulpur,109,91,50,250,( Goreswar | 250 ),0,( Goreswar | 0.00 ),15-08-2022
+Tamulpur,109,91,50,250,( Goreswar | 250 ),0,( Goreswar | 0.00 ),16-08-2022
+Tamulpur,109,91,50,250,( Goreswar | 250 ),0,( Goreswar | 0.00 ),17-08-2022
+Tamulpur,109,91,50,250,( Goreswar | 250 ),0,( Goreswar | 0.00 ),18-08-2022
+Karbi Anglong West,675,675,723,2073,( Donkamokam | 2073 ),0,( Donkamokam | 0.00 ),23-08-2022
+Tinsukia,205,157,133,495,( Margherita | 495 ),0,( Margherita | 0.00 ),23-08-2022
+Dhemaji,255,279,123,657,( Sissiborgaon | 657 ),5.5,( Sissiborgaon | 5.50 ),25-08-2022
+Dhemaji,979,803,712,2494,( Sissiborgaon | 2494 ),682,( Sissiborgaon | 682.00 ),30-08-2022
+Dhemaji,1100,900,480,2480,( Sissiborgaon | 2480 ),291,( Sissiborgaon | 291.00 ),03-09-2022
+Dhemaji,979,803,721,2503,( Sissiborgaon | 2503 ),307,( Sissiborgaon | 307.00 ),04-09-2022
+Dhemaji,1289,1124,823,3236,"( Sissiborgaon | 2503 ), ( Dhemaji | 733 )",317,"( Sissiborgaon | 307.00 ), ( Dhemaji | 10.00 )",05-09-2022
+Chirang,1,2,2,5,( Bengtal | 5 ),0,( Bengtal | 0.00 ),05-09-2022
+Dhemaji,312,309,103,724,"( Dhemaji | 724 ), ( Jonai | 0 )",30,"( Dhemaji | 10.00 ), ( Jonai | 20.00 )",06-09-2022
+Nagaon,0,0,0,0,( Samaguri | 0 ),6,( Samaguri | 6.00 ),07-09-2022
+Dhemaji,347,320,372,1039,"( Dhemaji | 223 ), ( Jonai | 816 )",132,"( Dhemaji | 5.00 ), ( Jonai | 127.00 )",07-09-2022
+Nagaon,0,0,0,0,( Samaguri | 0 ),4,( Samaguri | 4.00 ),08-09-2022
+Morigaon,0,0,0,0,( Mayong | 0 ),17.5,( Mayong | 17.50 ),08-09-2022
+Dhemaji,251,219,346,816,"( Dhemaji | 0 ), ( Jonai | 816 )",132,"( Dhemaji | 5.00 ), ( Jonai | 127.00 )",08-09-2022
+Morigaon,0,0,0,0,( Mayong | 0 ),23,( Mayong | 23.00 ),09-09-2022
+Dhemaji,251,219,346,816,( Jonai | 816 ),127,( Jonai | 127.00 ),09-09-2022
+Dhemaji,251,219,346,816,( Jonai | 816 ),127,( Jonai | 127.00 ),10-09-2022
+Golaghat,547,558,282,1387,( Golaghat | 1387 ),10,( Golaghat | 10.00 ),13-09-2022
+Golaghat,547,558,282,1387,( Golaghat | 1387 ),10,( Golaghat | 10.00 ),14-09-2022
+Dhemaji,95,86,84,265,( Jonai | 265 ),443,( Jonai | 443.00 ),16-09-2022
+Dhemaji,0,0,0,0,( Jonai | 0 ),22,( Jonai | 22.00 ),17-09-2022
+Dhemaji,525,350,108,983,"( Sissiborgaon | 983 ), ( Jonai | 0 )",170,"( Sissiborgaon | 150.00 ), ( Jonai | 20.00 )",24-09-2022
+Dhemaji,95,86,84,265,( Jonai | 265 ),104,( Jonai | 104.00 ),07-10-2022
+Karbi Anglong,0,0,0,0,( Phuloni | 0 ),96.31,( Phuloni | 96.31 ),08-10-2022
+Lakhimpur,178,144,148,470,( Bihpuria | 470 ),0,( Bihpuria | 0.00 ),09-10-2022
+Dhemaji,2988,2435,1476,6899,"( Sissiborgaon | 4469 ), ( Jonai | 2430 )",712,"( Sissiborgaon | 480.00 ), ( Jonai | 232.00 )",10-10-2022
+Dibrugarh,1567,1240,1050,3857,( Chabua | 3857 ),0,( Chabua | 0.00 ),10-10-2022
+Lakhimpur,5407,4278,3152,12837,"( Nowboicha | 11563 ), ( North Lakhimpur | 1091 ), ( Bihpuria | 183 )",0,"( Nowboicha | 0.00 ), ( North Lakhimpur | 0.00 ), ( Bihpuria | 0.00 )",10-10-2022
+Dhemaji,6126,5210,3748,15084,"( Dhemaji | 4974 ), ( Jonai | 3501 ), ( Sissiborgaon | 6609 )",1265,"( Dhemaji | 120.00 ), ( Jonai | 325.00 ), ( Sissiborgaon | 820.00 )",11-10-2022
+Dibrugarh,1567,1240,1050,3857,( Chabua | 3857 ),0,( Chabua | 0.00 ),11-10-2022
+Lakhimpur,6393,4922,3580,14895,"( North Lakhimpur | 3162 ), ( Nowboicha | 11499 ), ( Bihpuria | 83 ), ( Subansiri | 151 )",35,"( North Lakhimpur | 10.00 ), ( Nowboicha | 0.00 ), ( Bihpuria | 0.00 ), ( Subansiri | 25.00 )",11-10-2022
+Dibrugarh,1567,1240,1050,3857,( Chabua | 3857 ),0,( Chabua | 0.00 ),12-10-2022
+Dhemaji,16199,14690,7885,38774,"( Dhemaji | 7167 ), ( Jonai | 11687 ), ( Sissiborgaon | 12905 ), ( Gogamukh | 7015 )",2838.4,"( Dhemaji | 120.00 ), ( Jonai | 1085.40 ), ( Sissiborgaon | 1433.00 ), ( Gogamukh | 200.00 )",12-10-2022
+Golaghat,0,0,0,0,( Bokakhat | 0 ),15,( Bokakhat | 15.00 ),12-10-2022
+Lakhimpur,11348,9124,6647,27119,"( North Lakhimpur | 7439 ), ( Nowboicha | 16914 ), ( Bihpuria | 2615 ), ( Subansiri | 151 )",63,"( North Lakhimpur | 40.00 ), ( Nowboicha | 0.00 ), ( Bihpuria | 0.00 ), ( Subansiri | 23.00 )",12-10-2022
+Nagaon,0,0,0,0,( Kampur | 0 ),105,( Kampur | 105.00 ),12-10-2022
+Nagaon,0,0,0,0,( Kampur | 0 ),,( Kampur | 105.00 ),13-10-2022
+Majuli,0,0,0,0,"( Majuli | 0 ), ( Ujani Majuli | 0 )",,"( Majuli | 452.00 ), ( Ujani Majuli | 271.69 )",13-10-2022
+Lakhimpur,15399,12724,8934,37057,"( Subansiri | 707 ), ( Nowboicha | 28655 ), ( Dhakuakhana | 0 ), ( North Lakhimpur | 7439 ), ( Bihpuria | 256 )",686,"( Subansiri | 35.00 ), ( Nowboicha | 0.00 ), ( Dhakuakhana |
+126.00 ), ( North
+Lakhimpur | 40.00
+), ( Bihpuria |
+485.00 )",13-10-2022
+Jorhat,0,0,0,0,"( Jorhat West | 0 ), ( Teok | 0 )",89.5,"( Jorhat West | 57.00 ), ( Teok | 32.50 )",13-10-2022
+Golaghat,0,0,0,0,"( Bokakhat | 0 ), ( Dergaon | 0 ), ( Khumtai | 0 )",753.09,"( Bokakhat | 663.50 ), ( Dergaon | 69.00 ), ( Khumtai | 20.59 )",13-10-2022
+Dibrugarh,1567,1240,1050,3857,( Chabua | 3857 ),0,( Chabua | 0.00 ),13-10-2022
+Dhemaji,4299,4123,1500,9922,"( Jonai | 816 ), ( Gogamukh | 7015 ), ( Sissiborgaon | 887 ), ( Dhemaji | 1204 )",1354.9,"( Jonai | 855.90 ), ( Gogamukh | 200.00 ), ( Sissiborgaon | 243.00 ), ( Dhemaji | 56.00 )",13-10-2022
+Darrang,0,0,0,0,( Sipajhar | 0 ),70,( Sipajhar | 70.00 ),13-10-2022
+Majuli,0,0,0,0,"( Ujani Majuli | 0 ), ( Majuli | 0 )",,"( Ujani Majuli | 272.69 ), ( Majuli | 308.50 )",14-10-2022
+Nagaon,0,0,0,0,"( Nagaon | 0 ), ( Kampur | 0 )",,"( Nagaon | 174.00 ), ( Kampur | 105.00 )",14-10-2022
+Tinsukia,985,848,833,2666,( Tinsukia | 2666 ),,( Tinsukia | 238.00 ),14-10-2022
+Lakhimpur,10848,8967,6241,26056,"( Subansiri | 37 ), ( North Lakhimpur | 7439 ), ( Nowboicha | 18580 ), ( Narayanpur | 0 ), ( Dhakuakhana | 0 ), ( Bihpuria | 0 )",,"( Subansiri | 20.00 ), ( North Lakhimpur | 0.00 ), ( Nowboicha | 0.00 ), ( Narayanpur | 293.00 ), ( Dhakuakhana | 400.00 ), ( Bihpuria | 1381.50 )",14-10-2022
+Kokrajhar,0,0,0,0,( Bagribari | 0 ),,( Bagribari | 259.63 ),14-10-2022
+Jorhat,0,0,0,0,( Jorhat West | 0 ),,( Jorhat West | 103.00 ),14-10-2022
+Dibrugarh,1567,1240,1050,3857,"( Chabua | 3857 ), ( Dibrugarh West | 0 )",65,"( Chabua | 25.00 ), ( Dibrugarh West | 40.00 )",14-10-2022
+Golaghat,0,0,0,0,"( Dergaon | 0 ), ( Bokakhat | 0 ), ( Khumtai | 0 )",,"( Dergaon | 69.00 ), ( Bokakhat | 663.50 ), ( Khumtai | 20.59 )",14-10-2022
+Dhemaji,3730,3630,1348,8708,"( Dhemaji | 507 ), ( Sissiborgaon | 370 ), ( Gogamukh | 7015 ), ( Jonai | 816 )",2250.4,"( Dhemaji | 16.00 ), ( Sissiborgaon | 15.00 ), ( Gogamukh | 100.00 ), ( Jonai | 2119.40 )",14-10-2022
+Darrang,0,0,0,0,( Sipajhar | 0 ),110,( Sipajhar | 110.00 ),14-10-2022
+Dhubri,0,0,0,0,"( Chapar | 0 ), ( Bilasipara | 0 )",283.5,"( Chapar | 283.50 ), ( Bilasipara | 0.00 )",14-10-2022
+Majuli,0,0,0,0,"( Majuli | 0 ), ( Ujani Majuli | 0 )",,"( Majuli | 245.80 ), ( Ujani Majuli | 121.57 )",15-10-2022
+Darrang,0,0,0,0,( Sipajhar | 0 ),,( Sipajhar | 116.00 ),15-10-2022
+Golaghat,0,0,0,0,"( Dergaon | 0 ), ( Bokakhat | 0 ), ( Khumtai | 0 )",,"( Dergaon | 57.50 ), ( Bokakhat | 587.00 ), ( Khumtai | 20.59 )",15-10-2022
+Dhubri,0,0,0,0,"( Chapar | 0 ), ( Bilasipara | 0 ), ( South Salmara Part | 0 )",,"( Chapar | 624.00 ), ( Bilasipara | 237.00 ), ( South Salmara Part | 521.00 )",15-10-2022
+Morigaon,0,0,0,0,( Mayong | 0 ) ,,( Mayong | 733.00 ),15-10-2022
+Nagaon,0,0,0,0,"( Dhing | 0 ), ( Nagaon | 0 ), ( Rupahi | 0 )",,"( Dhing | 462.00 ), ( Nagaon | 173.00 ), ( Rupahi | 92.00 )",15-10-2022
+South Salmara,0,0,0,0,( South Salmara | 0 ),,( South Salmara | 436.00 ),15-10-2022
+Dhemaji,0,0,0,0,( Jonai | 0 ),,( Jonai | 2059.40 ),15-10-2022
+Darrang,0,0,0,0,( Sipajhar | 0 ),116,( Sipajhar | 116.00 ),16-10-2022
+Nagaon,0,0,0,0,"( Rupahi | 0 ), ( Dhing | 0 )",498,"( Rupahi | 36.00 ), ( Dhing | 462.00 )",16-10-2022
+Golaghat,0,0,0,0,"( Bokakhat | 0 ), ( Khumtai | 0 )",505.59,"( Bokakhat | 485.00 ), ( Khumtai | 20.59 )",16-10-2022
+Majuli,0,0,0,0,"( Majuli | 0 ), ( Ujani Majuli | 0 )",191.73,"( Majuli | 148.00 ), ( Ujani Majuli | 43.73 )",16-10-2022
+Darrang,0,0,0,0,( Sipajhar | 0 ),116,( Sipajhar | 116.00 ),17-10-2022
+Golaghat,0,0,0,0,"( Bokakhat | 0 ), ( Khumtai | 0 )",325,"( Bokakhat | 321.00 ), ( Khumtai | 4.00 )",17-10-2022
+Nagaon,0,0,0,0,( Dhing | 0 ),229,( Dhing | 229.00 ),17-10-2022
+Golaghat,0,0,0,0,"( Bokakhat | 0 ), ( Khumtai | 0 )",229,"( Bokakhat | 225.00 ), ( Khumtai | 4.00 )",18-10-2022
+Golaghat,0,0,0,0,( Bokakhat | 0 ),101,( Bokakhat | 101.00 ),19-10-2022
+Golaghat,0,0,0,0,( Bokakhat | 0 ),50,( Bokakhat | 50.00 ),20-10-2022
+Cachar,,,,,"( Udharbond | 3910 ), (
+Sonai | 18775 ), (
+Lakhipur | 18906 ), (
+Silchar | 30099 ), (
+Katigorah | 78305 )",,"( Udharbond | 146.00 ),
+( Sonai | 1103.80 ), (
+Lakhipur | 207.00 ), (
+Silchar | 1174.00 ), (
+Katigorah | 2151.00 )",26-05-2022
+Dima-Hasao,,,,,( Haflong | 1780 ),,( Haflong | 131.35 ) ,26-05-2022
+Goalpara,,,,,"( Lakhipur | 0 ), (
+Balijana | 0 ), (
+Rongjuli | 0 ), (
+Dudhnoi | 0 ), ( Matia |
+0 )",,"( Lakhipur | 3421.00 ),
+( Balijana | 1482.00 ), (
+Rongjuli | 324.00 ), (
+Dudhnoi | 70.00 ), (
+Matia | 576.00 )",26-05-2022
+Golaghat,,,,,"( Bokakhat | 0 ), (
+Khumtai | 0 )",,"( Bokakhat | 5.00 ), (
+Khumtai | 17.00 )",26-05-2022
+Hojai,,,,,"( Doboka | 0 ), ( Hojai |
+95 ) ",,"( Doboka | 0.00 ), (
+Hojai | 12.00 )",26-05-2022
+Kamrup,,,,,"( Chamaria | 0 ), ( Boko
+| 0 ), ( Kamalpur | 0 ), (
+Hajo | 0 ), ( Rangia | 0 )",,"( Chamaria | 1250.00 ),
+( Boko | 48.00 ), (
+Kamalpur | 52.10 ), (
+Hajo | 1055.00 ), (
+Rangia | 12.50 )",26-05-2022
+Kamrup (M),,,,,"( Chandrapur | 0 ), (
+Sonapur | 0 )",,"( Chandrapur | 948.00 ),
+( Sonapur | 132.50 )",26-05-2022
+Karbi Anglong West,,,,,( Donkamokam | 55 ),,( Donkamokam | 0.00 ),26-05-2022
+Morigaon,,,,,"( Mayong | 0 ), (
+Morigaon | 41036 )",,"( Mayong | 10252.00 ),
+( Morigaon | 4297.33 )",26-05-2022
+Nagaon,,,,,"( Nagaon | 30370 ), (
+Kampur | 222379 ), (
+Raha | 115439 )",,"( Nagaon | 4232.50 ), (
+Kampur | 7100.00 ), (
+Raha | 6932.14 )",26-05-2022
+Sonitpur,,,,,( Dhekiajuli | 0 ),,( Dhekiajuli | 6.90 ),26-05-2022
+Hojai,,,,,( Doboka | 57 ),,( Doboka | 26.00 ),22-08-2022
+Bajali,,,,,"( Sarupeta | 251 ), (
+Bajali | 435 )",,"( Sarupeta | 0.00 ), (
+Bajali | 0.00 )",09-07-2022
+Cachar,,,,,"( Silchar | 218238 ), (
+Sonai | 81739 ), (
+Lakhipur | 50150 ), (
+Katigorah | 78700 )",,"( Silchar | 0.00 ), (
+Sonai | 0.00 ), (
+Lakhipur | 0.00 ), (
+Katigorah | 0.00 )",09-07-2022
+Chirang,,,,,( Bijni | 153 ),,( Bijni | 0.00 ),09-07-2022
+Dibrugarh,,,,,"( Dibrugarh West | 645
+), ( Moran | 0 )",,"( Dibrugarh West | 0.00
+), ( Moran | 3.06 )",09-07-2022
+Golaghat,,,,,( Bokakhat | 0 ),,( Bokakhat | 23.00 ),09-07-2022
+Hailakandi,,,,,"( Lala | 0 ), ( Algapur |
+5950 ), ( Katlicherra | 0
+), ( Hailakandi | 0 )",,"( Lala | 0.00 ), (
+Algapur | 0.00 ), (
+Katlicherra | 0.00 ), (
+Hailakandi | 0.00 )",09-07-2022
+Hojai,,,,,"( Doboka | 0 ), ( Hojai |
+0 ) ",,"( Doboka | 75.00 ), (
+Hojai | 32.70 )",09-07-2022
+Kamrup,,,,,"( North Ghy | 0 ), (
+Kayan | 38 )",,"( North Ghy | 0.00 ), (
+Kayan | 0.00 )",09-07-2022
+Karimganj,,,,,"( Nilambazar | 3337 ), (
+Karimganj | 2198 ), (
+Badarpur | 4800 )",,"( Nilambazar | 0.00 ), (
+Karimganj | 0.00 ), (
+Badarpur | 0.00 )",09-07-2022
+Morigaon,,,,,"( Mikirbheta | 18546 ), (
+Mayong | 106 ), (
+Morigaon | 124770 ), (
+Bhuragaon | 0 )",,"( Mikirbheta | 1771.50
+), ( Mayong | 2525.00 ),
+( Morigaon | 635.00 ), (
+Bhuragaon | 356.00 )",09-07-2022
+Nagaon,,,,,( Raha | 34723 ),,( Raha | 3472.01 ),09-07-2022
+Sivsagar,,,,,( Demow | 2043 ),,( Demow | 19.60 ),09-07-2022
+Tamulpur,,,,,( Goreswar | 1052 ),,( Goreswar | 0.00 ),09-07-2022

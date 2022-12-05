@@ -1,0 +1,187 @@
+,revenue_ci,district
+0,Gossaigaon (Pt),KOKRAJHAR
+1,Bhawraguri,KOKRAJHAR
+2,Dotoma,KOKRAJHAR
+3,Kokrajhar (Pt),KOKRAJHAR
+4,Bagribari (Pt),KOKRAJHAR
+5,Golokganj (Pt),KOKRAJHAR
+6,Dhubri (Pt),KOKRAJHAR
+7,Chapar (Pt),KOKRAJHAR
+8,Bagribari (Pt),DHUBRI
+9,Agamoni,DHUBRI
+10,Golakganj (Pt),DHUBRI
+11,Dhubri (Pt),DHUBRI
+12,Bilasipara (Pt),DHUBRI
+13,Chapar (Pt),DHUBRI
+14,Lakhipur,GOALPARA
+15,Balijana,GOALPARA
+16,Matia,GOALPARA
+17,Dudhnoi,GOALPARA
+18,Rangjuli,GOALPARA
+19,Kalgachia,BARPETA
+20,Baghbor,BARPETA
+21,Barpeta,BARPETA
+22,Sarthebari,BARPETA
+23,Bajali (Pt),BAJALI
+24,Jalah (Pt),BAJALI
+25,Bhuragaon,MORIGAON
+26,Laharighat,MORIGAON
+27,Morigaon,MORIGAON
+28,Mikirbheta,MORIGAON
+29,Kaliabor,NAGAON
+30,Phuloni,K.ANGLONG
+31,Samaguri,NAGAON
+32,Rupahi,NAGAON
+33,Dhing,NAGAON
+34,Nagaon,NAGAON
+35,Raha,NAGAON
+36,Kampur,NAGAON
+37,Dhekiajuli (Pt),SONITPUR
+38,Chariduar,SONITPUR
+39,Tezpur,SONITPUR
+40,Na-Duar,SONITPUR
+41,Narayanpur,LAKHIMPUR
+42,Bihpuria,LAKHIMPUR
+43,Nowboicha,LAKHIMPUR
+44,Kadam,LAKHIMPUR
+45,North Lakhimpur,LAKHIMPUR
+46,Dhakuakhana (Pt-I),LAKHIMPUR
+47,Subansiri (Pt-I),LAKHIMPUR
+48,Dhakuakhana (Pt-II),DHEMAJI
+49,Subansiri (Pt-II),DHEMAJI
+50,Dhemaji,DHEMAJI
+51,Sissiborgaon,DHEMAJI
+52,Jonai,DHEMAJI
+53,Gogamukh,DHEMAJI
+54,Sadiya,TINSUKIA
+55,Doom Dooma,TINSUKIA
+56,Tinsukia,TINSUKIA
+57,Margherita,TINSUKIA
+58,Dibrugarh West,DIBRUGARH
+59,Dibrugarh East,DIBRUGARH
+60,Chabua,DIBRUGARH
+61,Tengakhat,DIBRUGARH
+62,Moran,DIBRUGARH
+63,Tingkhong,DIBRUGARH
+64,Naharkatia,DIBRUGARH
+65,Demow,SIVASAGAR
+66,Sivsagar,SIVASAGAR
+67,Amguri,SIVASAGAR
+68,Nazira,SIVASAGAR
+69,Jorhat West,JORHAT
+70,Jorhat East,JORHAT
+71,Teok,JORHAT
+72,Sarupathar,JORHAT
+73,Mariani,JORHAT
+74,Bokakhat,GOLAGHAT
+75,Khumtai,GOLAGHAT
+76,Dergaon,GOLAGHAT
+77,Golaghat,GOLAGHAT
+78,Morangi,GOLAGHAT
+79,Sarupathar,GOLAGHAT
+80,Diphu,K.ANGLONG
+81,Silonijan,K.ANGLONG
+82,Umrangso,DIMA-HASAO
+83,Haflong,DIMA-HASAO
+84,Mahur,DIMA-HASAO
+85,Maibong,DIMA-HASAO
+86,Katigorah,CACHAR
+87,Silchar,CACHAR
+88,Udharbond,CACHAR
+89,Sonai,CACHAR
+90,Lakhipur,CACHAR
+91,Karimganj,KARIMGANJ
+92,Badarpur,KARIMGANJ
+93,Nilambazar,KARIMGANJ
+94,Patherkandi,KARIMGANJ
+95,RK Nagar,KARIMGANJ
+96,Ramkrishna Nagar,HAILAKANDI
+97,Algapur,HAILAKANDI
+98,Lala,HAILAKANDI
+99,Katlicherra,HAILAKANDI
+100,"Bongaigaon
+(Pt)",BONGAIGAON
+101,Boitamari,BONGAIGAON
+102,Srijangram,BONGAIGAON
+103,Sidli (Pt-II),BONGAIGAON
+104,Bijni (Pt),BONGAIGAON
+105,Kokrajhar (Pt),CHIRANG
+106,Barnagar (Pt),CHIRANG
+107,Bengtal,CHIRANG
+108,Sidli (Pt),CHIRANG
+109,Bijni (Pt),CHIRANG
+110,"Rangia
+(Pt)",KAMRUP
+111,Kayan,KAMRUP
+112,Kamalpur,KAMRUP
+113,Hajo,KAMRUP
+114,Chhaygaon,KAMRUP
+115,Goroimari,KAMRUP
+116,Chamaria,KAMRUP
+117,Nagarbera,KAMRUP
+118,Boko,KAMRUP
+119,"North
+Guwahati",KAMRUP
+120,Jalah (Pt),KAMRUP
+121,Guwahati,KAMRUP (M)
+122,Sonapur,KAMRUP (M)
+123,Chandrapur,KAMRUP (M)
+124,"Tihu
+(Pt)",NALBARI
+125,"Pachim
+Nalbari",NALBARI
+126,Barkhetri,NALBARI
+127,Barbhag,NALBARI
+128,Nalbari,NALBARI
+129,Banekuchi,NALBARI
+130,Ghograpar (Pt),NALBARI
+131,Ghograpar (Pt),NALBARI
+132,Baganpara (Pt),NALBARI
+133,Barnagar (Pt),BAKSA
+134,Ghograpar (Pt),BAKSA
+135,Jalah (Pt),BAKSA
+136,Barama,BAKSA
+137,Rangia (Pt),TAMULPUR
+138,Pathorighat (Pt),TAMULPUR
+139,Khoirabari (Pt),DARRANG
+140,Patharighat (Pt),DARRANG
+141,Sipajhar,DARRANG
+142,Dhekiajuli (Pt),UDALGURI
+143,Khoirabari (Pt),UDALGURI
+144,Pathorighat (Pt),UDALGURI
+145,Mangaldoi (Pt),UDALGURI
+146,Dalgaon (Pt),UDALGURI
+147,Harisinga,UDALGURI
+148,Udalguri,UDALGURI
+149,Mazbat,UDALGURI
+150,Sonari,CHARAIDEO
+151,Mahmora,CHARAIDEO
+152,Biswanath,BISWANATH
+153,Halem,BISWANATH
+154,Gohpur,BISWANATH
+155,Hojai,HOJAI
+156,Doboka,HOJAI
+157,Lanka,HOJAI
+158,Donkamokam,KARBI ANGLONG WEST
+159,South Salmara,SOUTH SALMARA
+160,Mankachar,SOUTH SALMARA
+161,Majuli,MAJULI
+162,Bajali (Pt),TAMULPUR
+163,Goreswar (Pt),TAMULPUR
+164,Baganpara (Pt),BAKSA
+165,Tamulpur,TAMULPUR
+166,Baska,BAKSA
+167,Sarupeta (Pt),BAKSA
+168,Barnagar (Pt),BARPETA
+169,Sarupeta (Pt),BARPETA
+170,Chenga,BARPETA
+171,North Guwahati (Pt),KAMRUP (M)
+172,Kalaigaon (Pt),UDALGURI
+173,Mangaldoi (Pt),DARRANG
+174,Dalgaon (Pt),DARRANG
+175,Mayong,MORIGAON
+176,Palasbari,KAMRUP
+177,Azara,KAMRUP
+178,Gossaigaon (Pt),DHUBRI
+179,Ujani Majuli,MAJULI
+180,Sapekhati,CHARAIDEO

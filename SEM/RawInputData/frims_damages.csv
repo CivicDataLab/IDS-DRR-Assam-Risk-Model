@@ -1,0 +1,901 @@
+object_id,district,revenue_cr,yr,,population_affected,crop_area_affected,relief_camp_opened,relief_distribution_center,inmates,human_lives_lost,embank_breaches,embank_affected,roads_dam,bridges_dam,erosion,landslide,URBAN_FLOODS,embankment_total
+110,Dhubri,Agamoni,2018,Dhubri2018,0,0,0,0,0,0,,,0,0,,,,0
+194,Hailakandi,Algapur,2018,Hailakandi2018,134479,756,23,0,110000,0,,,45,0,,,,5
+167,Sivasagar,Amguri,2018,Sivasagar2018,1200,300,0,0,341,0,,,11,0,,,,1
+273,Kamrup,Azara,2018,Kamrup2018,0,0,0,0,0,0,,,0,0,,,,0
+190,Karimganj,Badarpur,2018,Karimganj2018,7035,39.02,4,22,362,1,,,12,2,,,,9
+260,Baksa,Baganpara,2018,Baksa2018,0,0,0,0,0,0,,,0,0,,,,0
+230,Nalbari,Baganpara,2018,Nalbari2018,0,0,0,0,0,0,,,8,1,,,,0
+121,Barpeta,Baghbor,2018,Barpeta2018,0,0,0,0,0,0,,,71,20,,,,10
+109,Dhubri,Bagribari,2018,Dhubri2018,0,0,0,0,0,0,,,0,0,,,,0
+105,Kokrajhar,Bagribari,2018,Kokrajhar2018,0,0,0,0,0,0,,,6,2,,,,3
+258,Baksa,Bajali,2018,Baksa2018,0,0,0,0,0,0,,,0,0,,,,0
+124,Barpeta,Bajali,2018,Barpeta2018,725,1065,0,0,0,0,,,71,20,,,,10
+116,Goalpara,Balijana,2018,Goalpara2018,0,0,0,0,0,0,,,0,0,,,,0
+227,Nalbari,Banekuchi,2018,Nalbari2018,950,10,0,0,0,0,,,8,1,,,,0
+234,Baksa,Barama,2018,Baksa2018,0,0,0,0,0,0,,,0,0,,,,0
+225,Nalbari,Barbhag,2018,Nalbari2018,0,0,0,0,0,0,,,8,1,,,,0
+224,Nalbari,Barkhetri,2018,Nalbari2018,0,0,0,0,0,0,,,8,1,,,,0
+231,Baksa,Barnagar,2018,Baksa2018,0,0,0,0,0,0,,,0,0,,,,0
+264,Barpeta,Barnagar,2018,Barpeta2018,5300,0,0,0,0,0,,,71,20,,,,10
+204,Chirang,Barnagar,2018,Chirang2018,0,0,0,0,0,0,,,0,0,,,,0
+122,Barpeta,Barpeta,2018,Barpeta2018,3700,20,0,0,0,0,,,71,20,,,,10
+262,Baksa,Baska,2018,Baksa2018,0,0,0,0,0,0,,,0,0,,,,0
+205,Chirang,Bengtal,2018,Chirang2018,0,0,0,0,0,0,,,0,0,,,,0
+102,Kokrajhar,Bhawraguri,2018,Kokrajhar2018,0,0,0,0,0,0,,,6,2,,,,3
+126,Morigaon,Bhuragaon,2018,Morigaon2018,0,0,0,0,0,0,,,24,0,,,,0
+142,Lakhimpur,Bihpuria,2018,Lakhimpur2018,3135,1196,0,0,0,0,,,50,31,,,,9
+207,Chirang,Bijni,2018,Chirang2018,0,0,2,1,0,0,,,0,0,,,,0
+113,Dhubri,Bilasipara,2018,Dhubri2018,0,0,0,0,0,0,,,0,0,,,,0
+249,Biswanath,Biswanath,2018,Biswanath2018,0,0,0,0,0,0,,,13,0,,,,14
+199,Bongaigaon,Boitamari,2018,Bongaigaon2018,0,0,0,0,0,0,,,16,8,,,,0
+172,Golaghat,Bokakhat,2018,Golaghat2018,36500,2512,5,41,600,3,,,22,3,,,,0
+216,Kamrup,Boko,2018,Kamrup2018,0,0,0,0,0,0,,,0,0,,,,0
+198,Bongaigaon,Bongaigaon,2018,Bongaigaon2018,0,0,0,0,0,0,,,16,8,,,,0
+160,Dibrugarh,Chabua,2018,Dibrugarh2018,6442,1.61,0,0,0,0,,,0,0,,,,0
+214,Kamrup,Chamaria,2018,Kamrup2018,0,0,0,0,0,0,,,0,0,,,,0
+221,Kamrup Metropolitan,Chandrapur,2018,Kamrup Metropolitan2018,0,0,0,0,0,0,,,0,0,,,,0
+114,Dhubri,Chapar,2018,Dhubri2018,0,0,0,0,0,0,,,0,0,,,,0
+108,Kokrajhar,Chapar,2018,Kokrajhar2018,0,0,0,0,0,0,,,6,2,,,,3
+138,Sonitpur,Chariduar,2018,Sonitpur2018,0,0,0,0,0,0,,,0,0,,,,0
+266,Barpeta,Chenga,2018,Barpeta2018,0,0,0,0,0,0,,,71,20,,,,10
+212,Kamrup,Chhaygaon,2018,Kamrup2018,0,0,0,0,0,0,,,0,0,,,,0
+270,Darrang,Dalgaon,2018,Darrang2018,0,418.26,0,0,0,0,,,2,0,,,,6
+244,Udalguri,Dalgaon,2018,Udalguri2018,0,0,0,0,0,0,,,10,2,,,,0
+165,Sivasagar,Demow,2018,Sivasagar2018,0,0,0,0,0,0,,,11,0,,,,1
+174,Golaghat,Dergaon,2018,Golaghat2018,0,93,0,0,0,0,,,22,3,,,,0
+148,Dhemaji,Dhakuakhana,2018,Dhemaji2018,0,0,0,0,0,0,,,3,2,,,,1
+146,Lakhimpur,Dhakuakhana,2018,Lakhimpur2018,0,0,0,0,0,0,,,50,31,,,,9
+137,Sonitpur,Dhekiajuli,2018,Sonitpur2018,0,0,0,0,0,0,,,0,0,,,,0
+240,Udalguri,Dhekiajuli,2018,Udalguri2018,0,0,0,0,0,0,,,10,2,,,,0
+150,Dhemaji,Dhemaji,2018,Dhemaji2018,3245,1325,1,0,357,1,,,3,2,,,,1
+133,Nagaon,Dhing,2018,Nagaon2018,0,0,0,0,0,0,,,0,1,,,,0
+112,Dhubri,Dhubri,2018,Dhubri2018,0,0,0,0,0,0,,,0,0,,,,0
+107,Kokrajhar,Dhubri,2018,Kokrajhar2018,0,0,0,0,0,0,,,6,2,,,,3
+159,Dibrugarh,Dibrugarh East,2018,Dibrugarh2018,0,0,0,0,0,0,,,0,0,,,,0
+158,Dibrugarh,Dibrugarh West,2018,Dibrugarh2018,6442,92,0,0,0,0,,,0,0,,,,0
+178,Karbi Anglong,Diphu,2018,Karbi Anglong2018,110,0,0,0,0,1,,,0,0,,,,0
+253,Hojai,Doboka,2018,Hojai2018,0,45,2,2,0,0,,,0,1,,,,11
+255,Karbi Anglong,Donkamokam,2018,Karbi Anglong2018,0,0,0,0,0,0,,,0,0,,,,0
+155,Tinsukia,Doom Dooma,2018,Tinsukia2018,0,0,0,0,0,0,,,0,0,,,,0
+103,Kokrajhar,Dotoma,2018,Kokrajhar2018,0,0,0,0,0,2,,,6,2,,,,3
+118,Goalpara,Dudhnoi,2018,Goalpara2018,0,0,0,0,0,0,,,0,0,,,,0
+232,Baksa,Ghograpar,2018,Baksa2018,0,0,0,0,0,0,,,0,0,,,,0
+228,Nalbari,Ghograpar,2018,Nalbari2018,0,0,0,0,0,0,,,8,1,,,,0
+153,Dhemaji,Gogamukh,2018,Dhemaji2018,26761,3438,1,5,41,2,,,3,2,,,,1
+251,Biswanath,Gohpur,2018,Biswanath2018,0,73.5,0,4,0,0,,,13,0,,,,14
+175,Golaghat,Golaghat,2018,Golaghat2018,6000,625,16,3,5432,0,,,22,3,,,,0
+111,Dhubri,Golakganj,2018,Dhubri2018,0,0,0,0,0,0,,,0,0,,,,0
+106,Kokrajhar,Golokganj,2018,Kokrajhar2018,0,0,0,0,0,0,,,6,2,,,,3
+259,Baksa,Goreswar,2018,Baksa2018,0,0,0,0,0,0,,,0,0,,,,0
+213,Kamrup,Goroimari,2018,Kamrup2018,0,0,0,0,0,0,,,0,0,,,,0
+274,Dhubri,Gossaigaon,2018,Dhubri2018,0,0,0,0,0,0,,,0,0,,,,0
+101,Kokrajhar,Gossaigaon,2018,Kokrajhar2018,0,0,0,0,0,0,,,6,2,,,,3
+219,Kamrup Metropolitan,Guwahati,2018,Kamrup Metropolitan2018,0,0,0,0,0,0,,,0,0,,,,0
+181,Dima Hasao,Haflong,2018,Dima Hasao2018,0,0,0,0,0,0,,,8,5,,,,0
+195,Hailakandi,Hailakandi,2018,Hailakandi2018,55635,533.35,28,0,10035,1,,,45,0,,,,5
+211,Kamrup,Hajo,2018,Kamrup2018,0,0,0,0,0,0,,,0,0,,,,0
+250,Biswanath,Halem,2018,Biswanath2018,0,178,0,0,0,1,,,13,0,,,,14
+245,Udalguri,Harisinga,2018,Udalguri2018,0,0,0,0,0,1,,,10,2,,,,0
+252,Hojai,Hojai,2018,Hojai2018,0,701,0,0,0,0,,,0,1,,,,11
+233,Baksa,Jalah,2018,Baksa2018,0,0,0,0,0,0,,,0,0,,,,0
+125,Barpeta,Jalah,2018,Barpeta2018,0,0,0,0,0,0,,,71,20,,,,10
+218,Kamrup,Jalah,2018,Kamrup2018,0,0,0,0,0,0,,,0,0,,,,0
+152,Dhemaji,Jonai,2018,Dhemaji2018,57962,6015,3,2,585,0,,,3,2,,,,1
+277,Jorhat,Jorhat East,2018,Jorhat2018,0,0,0,0,0,0,,,7,1,,,,2
+276,Jorhat,Jorhat West,2018,Jorhat2018,0,0,0,0,0,0,,,7,1,,,,2
+144,Lakhimpur,Kadam,2018,Lakhimpur2018,13005,375,0,0,0,1,,,50,31,,,,9
+268,Darrang,Kalaigaon,2018,Darrang2018,0,0,0,0,0,0,,,2,0,,,,6
+120,Barpeta,Kalgachia,2018,Barpeta2018,4830,40,0,0,0,0,,,71,20,,,,10
+130,Nagaon,Kaliabor,2018,Nagaon2018,0,0,0,0,0,0,,,0,1,,,,0
+210,Kamrup,Kamalpur,2018,Kamrup2018,0,0,0,0,0,0,,,0,0,,,,0
+136,Nagaon,Kampur,2018,Nagaon2018,1750,613.1,1,1,63,0,,,0,1,,,,0
+189,Karimganj,Karimganj,2018,Karimganj2018,56100,53.2,9,55,4700,0,,,12,2,,,,9
+184,Cachar,Katigorah,2018,Cachar2018,0,0,0,0,0,1,,,8,3,,,,1
+197,Hailakandi,Katlicherra,2018,Hailakandi2018,0,522.5,51,0,0,0,,,45,0,,,,5
+209,Kamrup,Kayan,2018,Kamrup2018,0,0,0,0,0,0,,,0,0,,,,0
+237,Darrang,Khoirabari,2018,Darrang2018,0,0,0,0,0,0,,,2,0,,,,6
+241,Udalguri,Khoirabari,2018,Udalguri2018,150,0,0,0,0,0,,,10,2,,,,0
+173,Golaghat,Khumtai,2018,Golaghat2018,21007,860.16,11,0,1960,0,,,22,3,,,,0
+203,Chirang,Kokrajhar,2018,Chirang2018,0,0,0,0,0,0,,,0,0,,,,0
+104,Kokrajhar,Kokrajhar,2018,Kokrajhar2018,0,0,0,0,0,0,,,6,2,,,,3
+127,Morigaon,Laharighat,2018,Morigaon2018,0,0,0,0,0,0,,,24,0,,,,0
+188,Cachar,Lakhipur,2018,Cachar2018,0,0,4,0,0,2,,,8,3,,,,1
+115,Goalpara,Lakhipur,2018,Goalpara2018,0,0,0,0,0,0,,,0,0,,,,0
+196,Hailakandi,Lala,2018,Hailakandi2018,59920,1097.72,20,0,34879,1,,,45,0,,,,5
+254,Hojai,Lanka,2018,Hojai2018,0,30,1,1,0,2,,,0,1,,,,11
+248,Charaideo,Mahmora,2018,Charaideo2018,0,509.38,0,5,0,1,,,3,1,,,,0
+182,Dima Hasao,Mahur,2018,Dima Hasao2018,0,0,0,0,0,0,,,8,5,,,,0
+183,Dima Hasao,Maibong,2018,Dima Hasao2018,0,0,0,0,0,0,,,8,5,,,,0
+281,Majuli,Majuli,2018,Majuli2018,0,3173,0,0,0,0,,,2,0,,,,0
+269,Darrang,Mangaldoi,2018,Darrang2018,3982,494.5,0,0,0,0,,,2,0,,,,6
+243,Udalguri,Mangaldoi,2018,Udalguri2018,0,0,0,0,0,0,,,10,2,,,,0
+202,Bongaigaon,Manikpur,2018,Bongaigaon2018,0,0,0,0,0,0,,,16,8,,,,0
+257,South Salmara,Mankachar,2018,South Salmara2018,0,0,0,0,0,0,,,0,0,,,,0
+157,Tinsukia,Margherita,2018,Tinsukia2018,0,0,0,0,0,0,,,0,0,,,,0
+171,Jorhat,Mariani,2018,Jorhat2018,0,0,0,0,0,0,,,7,1,,,,2
+117,Goalpara,Matia,2018,Goalpara2018,0,0,0,0,0,0,,,0,0,,,,0
+271,Morigaon,Mayong,2018,Morigaon2018,0,0,0,0,0,0,,,24,0,,,,0
+247,Udalguri,Mazbat,2018,Udalguri2018,7000,0,0,0,0,1,,,10,2,,,,0
+129,Morigaon,Mikirbheta,2018,Morigaon2018,0,0,0,0,0,0,,,24,0,,,,0
+162,Dibrugarh,Moran,2018,Dibrugarh2018,0,0,0,0,0,0,,,0,0,,,,0
+176,Golaghat,Morangi,2018,Golaghat2018,15502,1981.6,21,0,8062,0,,,22,3,,,,0
+128,Morigaon,Morigaon,2018,Morigaon2018,0,0,0,0,0,0,,,24,0,,,,0
+140,Sonitpur,Naduar,2018,Sonitpur2018,0,0,0,0,0,0,,,0,0,,,,0
+134,Nagaon,Nagaon,2018,Nagaon2018,0,99,0,0,0,0,,,0,1,,,,0
+215,Kamrup,Nagarbera,2018,Kamrup2018,0,0,0,0,0,0,,,0,0,,,,0
+164,Dibrugarh,Naharkatia,2018,Dibrugarh2018,0,0,0,0,0,0,,,0,0,,,,0
+226,Nalbari,Nalbari,2018,Nalbari2018,0,0,0,0,0,0,,,8,1,,,,0
+141,Lakhimpur,Narayanpur,2018,Lakhimpur2018,437,80,0,0,0,0,,,50,31,,,,9
+168,Sivasagar,Nazira,2018,Sivasagar2018,10266,141.5,2,14,0,0,,,11,0,,,,1
+191,Karimganj,Nilambazar,2018,Karimganj2018,66023,284.58,0,56,0,1,,,12,2,,,,9
+217,Kamrup,North Guwahati,2018,Kamrup2018,0,0,0,0,0,0,,,0,0,,,,0
+267,Kamrup Metropolitan,North Guwahati,2018,Kamrup Metropolitan2018,0,0,0,0,0,0,,,0,0,,,,0
+145,Lakhimpur,North Lakhimpur,2018,Lakhimpur2018,3020,288,0,0,0,0,,,50,31,,,,9
+143,Lakhimpur,Nowboicha,2018,Lakhimpur2018,0,530,0,0,0,0,,,50,31,,,,9
+223,Nalbari,Pachim Nalbari,2018,Nalbari2018,1353,450.27,0,0,0,0,,,8,1,,,,0
+272,Kamrup,Palasbari,2018,Kamrup2018,0,0,0,0,0,0,,,0,0,,,,0
+238,Darrang,Patharighat,2018,Darrang2018,0,0,0,0,0,0,,,2,0,,,,6
+192,Karimganj,Patherkandi,2018,Karimganj2018,107006,338.6,54,94,10110,5,,,12,2,,,,9
+236,Baksa,Pathorighat,2018,Baksa2018,0,0,0,0,0,0,,,0,0,,,,0
+242,Udalguri,Pathorighat,2018,Udalguri2018,0,0,0,0,0,0,,,10,2,,,,0
+275,Karbi Anglong,Phuloni,2018,Karbi Anglong2018,7389,367.68 Approx.,0,0,0,0,,,0,0,,,,0
+135,Nagaon,Raha,2018,Nagaon2018,0,12.5,0,0,0,0,,,0,1,,,,0
+235,Baksa,Rangia,2018,Baksa2018,0,0,0,0,0,0,,,0,0,,,,0
+208,Kamrup,Rangia,2018,Kamrup2018,0,0,0,0,0,0,,,0,0,,,,0
+119,Goalpara,Rangjuli,2018,Goalpara2018,0,0,0,0,0,0,,,0,0,,,,0
+193,Karimganj,RK Nagar,2018,Karimganj2018,0,0,0,0,0,0,,,12,2,,,,9
+132,Nagaon,Rupahi,2018,Nagaon2018,0,0,0,0,0,0,,,0,1,,,,0
+154,Tinsukia,Sadiya,2018,Tinsukia2018,0,0,0,0,0,0,,,0,0,,,,0
+131,Nagaon,Samaguri,2018,Nagaon2018,1712,116.58,0,0,0,0,,,0,1,,,,0
+278,Charaideo,Sapekhati,2018,Charaideo2018,0,87.1,0,4,0,1,,,3,1,,,,0
+123,Barpeta,Sarthebari,2018,Barpeta2018,24534,1716,0,3,0,0,,,71,20,,,,10
+177,Golaghat,Sarupathar,2018,Golaghat2018,0,699,8,8,0,1,,,22,3,,,,0
+263,Baksa,Sarupeta,2018,Baksa2018,0,0,0,0,0,0,,,0,0,,,,0
+265,Barpeta,Sarupeta,2018,Barpeta2018,940,90,0,0,0,0,,,71,20,,,,10
+201,Bongaigaon,Sidli,2018,Bongaigaon2018,0,0,0,0,0,0,,,16,8,,,,0
+206,Chirang,Sidli,2018,Chirang2018,0,0,0,2,0,0,,,0,0,,,,0
+185,Cachar,Silchar,2018,Cachar2018,0,0,0,0,0,0,,,8,3,,,,1
+179,Karbi Anglong,Silonijan,2018,Karbi Anglong2018,0,20 Approx.,0,0,0,0,,,0,0,,,,0
+239,Darrang,Sipajhar,2018,Darrang2018,0,0,0,0,0,0,,,2,0,,,,6
+151,Dhemaji,Sissiborgaon,2018,Dhemaji2018,0,3145,0,0,0,0,,,3,2,,,,1
+166,Sivasagar,Sivsagar,2018,Sivasagar2018,0,400,0,0,0,0,,,11,0,,,,1
+187,Cachar,Sonai,2018,Cachar2018,8900,0,5,2,1320,0,,,8,3,,,,1
+220,Kamrup Metropolitan,Sonapur,2018,Kamrup Metropolitan2018,0,0,0,0,0,0,,,0,0,,,,0
+279,Charaideo,Sonari,2018,Charaideo2018,0,945,3,4,0,0,,,3,1,,,,0
+256,South Salmara,South Salmara,2018,South Salmara2018,0,0,0,0,0,0,,,0,0,,,,0
+200,Bongaigaon,Srijangram,2018,Bongaigaon2018,0,0,0,0,0,0,,,16,8,,,,0
+149,Dhemaji,Subansiri,2018,Dhemaji2018,0,0,0,0,0,0,,,3,2,,,,1
+147,Lakhimpur,Subansiri,2018,Lakhimpur2018,0,208,1,6,0,0,,,50,31,,,,9
+261,Baksa,Tamulpur,2018,Baksa2018,0,0,0,0,0,0,,,0,0,,,,0
+161,Dibrugarh,Tengakhat,2018,Dibrugarh2018,351,0,3,0,351,0,,,0,0,,,,0
+169,Jorhat,Teok,2018,Jorhat2018,1200,47,0,0,0,0,,,7,1,,,,2
+139,Sonitpur,Tezpur,2018,Sonitpur2018,97,0,0,1,0,0,,,0,0,,,,0
+222,Nalbari,Tihu,2018,Nalbari2018,0,700,0,0,0,0,,,8,1,,,,0
+163,Dibrugarh,Tingkhong,2018,Dibrugarh2018,0,0,0,0,0,0,,,0,0,,,,0
+156,Tinsukia,Tinsukia,2018,Tinsukia2018,336,0,0,1,0,0,,,0,0,,,,0
+170,Jorhat,Titabor,2018,Jorhat2018,625,200,0,1,0,0,,,7,1,,,,2
+246,Udalguri,Udalguri,2018,Udalguri2018,64,10,0,0,0,0,,,10,2,,,,0
+186,Cachar,Udharbond,2018,Cachar2018,0,0,0,0,0,2,,,8,3,,,,1
+280,Majuli,Ujani Majuli,2018,Majuli2018,0,0,0,0,0,0,,,2,0,,,,0
+180,Dima Hasao,Umrangso,2018,Dima Hasao2018,0,0,0,0,0,0,,,8,5,,,,0
+110,Dhubri,Agamoni,2019,Dhubri2019,0,1753,0,0,0,2,,,0,7,,,,0
+194,Hailakandi,Algapur,2019,Hailakandi2019,1230,484,0,0,0,0,,,57,0,,,,0
+167,Sivasagar,Amguri,2019,Sivasagar2019,0,0,0,0,0,0,,,0,0,,,,39
+273,Kamrup,Azara,2019,Kamrup2019,0,0,0,0,0,0,,,24,3,,,,30
+190,Karimganj,Badarpur,2019,Karimganj2019,0,0,0,0,0,0,,,7,1,,,,3
+260,Baksa,Baganpara,2019,Baksa2019,12500,1800,9,3,5676,0,,,161,6,,,,10
+230,Nalbari,Baganpara,2019,Nalbari2019,0,0,0,0,0,0,,,87,4,,,,9
+121,Barpeta,Baghbor,2019,Barpeta2019,0,3806.5,0,0,0,2,,,494,71,,,,51
+109,Dhubri,Bagribari,2019,Dhubri2019,0,0,0,0,0,0,,,0,7,,,,0
+105,Kokrajhar,Bagribari,2019,Kokrajhar2019,87514,744.13,42,8,21672,0,,,0,9,,,,0
+258,Baksa,Bajali,2019,Baksa2019,0,0,0,0,0,0,,,161,6,,,,10
+124,Barpeta,Bajali,2019,Barpeta2019,48675,4635,0,58,0,3,,,494,71,,,,51
+116,Goalpara,Balijana,2019,Goalpara2019,0,2178,20,0,0,0,,,4,2,,,,0
+227,Nalbari,Banekuchi,2019,Nalbari2019,20000,1700,10,10,3087,0,,,87,4,,,,9
+234,Baksa,Barama,2019,Baksa2019,0,1200,0,0,0,1,,,161,6,,,,10
+225,Nalbari,Barbhag,2019,Nalbari2019,33689,709.04,0,14,0,0,,,87,4,,,,9
+224,Nalbari,Barkhetri,2019,Nalbari2019,109578,2745,0,26,0,0,,,87,4,,,,9
+231,Baksa,Barnagar,2019,Baksa2019,0,0,0,0,0,0,,,161,6,,,,10
+264,Barpeta,Barnagar,2019,Barpeta2019,39242,1747,0,0,0,0,,,494,71,,,,51
+204,Chirang,Barnagar,2019,Chirang2019,0,0,0,0,0,0,,,0,0,,,,0
+122,Barpeta,Barpeta,2019,Barpeta2019,470000,3021.5,152,4,23700,5,,,494,71,,,,51
+262,Baksa,Baska,2019,Baksa2019,0,48.16,0,0,0,0,,,161,6,,,,10
+205,Chirang,Bengtal,2019,Chirang2019,0,0,0,0,0,0,,,0,0,,,,0
+102,Kokrajhar,Bhawraguri,2019,Kokrajhar2019,0,311,0,0,0,0,,,0,9,,,,0
+126,Morigaon,Bhuragaon,2019,Morigaon2019,0,12413,6,14,0,4,,,16,5,,,,5
+142,Lakhimpur,Bihpuria,2019,Lakhimpur2019,24672,2397.87,1,6,117,0,,,31,29,,,,0
+207,Chirang,Bijni,2019,Chirang2019,0,6328.1,18,0,0,0,,,0,0,,,,0
+113,Dhubri,Bilasipara,2019,Dhubri2019,138291,3425,63,0,32965,2,,,0,7,,,,0
+249,Biswanath,Biswanath,2019,Biswanath2019,0,134,0,11,0,0,,,3,0,,,,26
+199,Bongaigaon,Boitamari,2019,Bongaigaon2019,73912,1002,9,0,4831,0,,,75,31,,,,18
+172,Golaghat,Bokakhat,2019,Golaghat2019,84280,2260,24,104,5,5,,,51,3,,,,0
+216,Kamrup,Boko,2019,Kamrup2019,0,0,0,0,0,0,,,24,3,,,,30
+198,Bongaigaon,Bongaigaon,2019,Bongaigaon2019,27000,0,5,1,1785,0,,,75,31,,,,18
+160,Dibrugarh,Chabua,2019,Dibrugarh2019,10205,302,2,0,0,0,,,0,0,,,,0
+214,Kamrup,Chamaria,2019,Kamrup2019,0,945.16,0,0,0,0,,,24,3,,,,30
+221,Kamrup Metropolitan,Chandrapur,2019,Kamrup Metropolitan2019,0,0,0,0,0,0,,,0,0,,,,0
+114,Dhubri,Chapar,2019,Dhubri2019,104156,2562,25,12,5165,0,,,0,7,,,,0
+108,Kokrajhar,Chapar,2019,Kokrajhar2019,0,0,0,0,0,0,,,0,9,,,,0
+138,Sonitpur,Chariduar,2019,Sonitpur2019,7175,159.52,1,4,0,0,,,0,30,,,,0
+266,Barpeta,Chenga,2019,Barpeta2019,155970,3064,27,40,7464,1,,,494,71,,,,51
+212,Kamrup,Chhaygaon,2019,Kamrup2019,0,75,0,0,0,0,,,24,3,,,,30
+270,Darrang,Dalgaon,2019,Darrang2019,0,4451,0,25,0,0,,,30,0,,,,21
+244,Udalguri,Dalgaon,2019,Udalguri2019,0,0,0,0,0,0,,,52,13,,,,0
+165,Sivasagar,Demow,2019,Sivasagar2019,0,92,0,0,0,0,,,0,0,,,,39
+174,Golaghat,Dergaon,2019,Golaghat2019,13670,700,1,0,0,0,,,51,3,,,,0
+148,Dhemaji,Dhakuakhana,2019,Dhemaji2019,0,0,0,0,0,0,,,24,7,,,,20
+146,Lakhimpur,Dhakuakhana,2019,Lakhimpur2019,4335,552,0,7,0,0,,,31,29,,,,0
+137,Sonitpur,Dhekiajuli,2019,Sonitpur2019,29145,20556.2,15,5,3150,1,,,0,30,,,,0
+240,Udalguri,Dhekiajuli,2019,Udalguri2019,0,0,0,0,0,0,,,52,13,,,,0
+150,Dhemaji,Dhemaji,2019,Dhemaji2019,8820,686,0,5,0,4,,,24,7,,,,20
+133,Nagaon,Dhing,2019,Nagaon2019,27598,2107,3,3,668,0,,,29,0,,,,9
+112,Dhubri,Dhubri,2019,Dhubri2019,251288,1138.5,32,16,9924,1,,,0,7,,,,0
+107,Kokrajhar,Dhubri,2019,Kokrajhar2019,0,0,0,0,0,0,,,0,9,,,,0
+159,Dibrugarh,Dibrugarh East,2019,Dibrugarh2019,5804,128,6,6,0,0,,,0,0,,,,0
+158,Dibrugarh,Dibrugarh West,2019,Dibrugarh2019,44753,3850,6,0,0,0,,,0,0,,,,0
+178,Karbi Anglong,Diphu,2019,Karbi Anglong2019,3085,0,0,0,3085,0,,,77,2,,,,0
+253,Hojai,Doboka,2019,Hojai2019,0,2519,0,0,0,0,,,0,5,,,,8
+255,West Karbi Anglong,Donkamokam,2019,West Karbi Anglong2019,0,6,0,0,0,0,,,#N/A,#N/A,,,,#N/A
+155,Tinsukia,Doom Dooma,2019,Tinsukia2019,17029,653,10,1,0,0,,,0,0,,,,1
+103,Kokrajhar,Dotoma,2019,Kokrajhar2019,0,1268.3,0,0,0,1,,,0,9,,,,0
+118,Goalpara,Dudhnoi,2019,Goalpara2019,0,0,0,0,0,0,,,4,2,,,,0
+232,Baksa,Ghograpar,2019,Baksa2019,0,0,0,0,0,0,,,161,6,,,,10
+228,Nalbari,Ghograpar,2019,Nalbari2019,6725,550,8,7,1655,0,,,87,4,,,,9
+153,Dhemaji,Gogamukh,2019,Dhemaji2019,26947,758,0,3,0,1,,,24,7,,,,20
+251,Biswanath,Gohpur,2019,Biswanath2019,0,935,0,4,0,1,,,3,0,,,,26
+175,Golaghat,Golaghat,2019,Golaghat2019,0,115,1,4,0,0,,,51,3,,,,0
+111,Dhubri,Golakganj,2019,Dhubri2019,0,1338,0,0,0,0,,,0,7,,,,0
+106,Kokrajhar,Golokganj,2019,Kokrajhar2019,0,0,0,0,0,0,,,0,9,,,,0
+259,Baksa,Goreswar,2019,Baksa2019,2100,0,4,0,1810,0,,,161,6,,,,10
+213,Kamrup,Goroimari,2019,Kamrup2019,0,160,10,10,0,0,,,24,3,,,,30
+274,Dhubri,Gossaigaon,2019,Dhubri2019,0,0,0,0,0,0,,,0,7,,,,0
+101,Kokrajhar,Gossaigaon,2019,Kokrajhar2019,55737,1098.1,6,12,5901,0,,,0,9,,,,0
+219,Kamrup Metropolitan,Guwahati,2019,Kamrup Metropolitan2019,0,0,0,0,0,0,,,0,0,,,,0
+181,Dima Hasao,Haflong,2019,Dima Hasao2019,0,0,0,0,0,1,,,15,3,,,,0
+195,Hailakandi,Hailakandi,2019,Hailakandi2019,550,672.5,0,0,0,0,,,57,0,,,,0
+211,Kamrup,Hajo,2019,Kamrup2019,0,1620,0,6,0,0,,,24,3,,,,30
+250,Biswanath,Halem,2019,Biswanath2019,0,850,4,7,0,3,,,3,0,,,,26
+245,Udalguri,Harisinga,2019,Udalguri2019,0,0,0,0,0,0,,,52,13,,,,0
+252,Hojai,Hojai,2019,Hojai2019,0,9692,5,48,0,0,,,0,5,,,,8
+233,Baksa,Jalah,2019,Baksa2019,5240,9602,8,0,3399,1,,,161,6,,,,10
+125,Barpeta,Jalah,2019,Barpeta2019,0,0,0,0,0,0,,,494,71,,,,51
+218,Kamrup,Jalah,2019,Kamrup2019,0,0,0,0,0,0,,,24,3,,,,30
+152,Dhemaji,Jonai,2019,Dhemaji2019,86203,6120,3,4,160,0,,,24,7,,,,20
+277,Jorhat,Jorhat East,2019,Jorhat2019,12264,366,2,0,0,0,,,59,1,,,,19
+276,Jorhat,Jorhat West,2019,Jorhat2019,34617,1633,6,4,0,1,,,59,1,,,,19
+144,Lakhimpur,Kadam,2019,Lakhimpur2019,440,836,0,0,0,0,,,31,29,,,,0
+268,Darrang,Kalaigaon,2019,Darrang2019,0,0,0,0,0,0,,,30,0,,,,21
+120,Barpeta,Kalgachia,2019,Barpeta2019,258423,1839,11,24,3001,2,,,494,71,,,,51
+130,Nagaon,Kaliabor,2019,Nagaon2019,18650,592.5,14,9,2602,1,,,29,0,,,,9
+210,Kamrup,Kamalpur,2019,Kamrup2019,0,797,0,7,0,0,,,24,3,,,,30
+136,Nagaon,Kampur,2019,Nagaon2019,13020,3792,7,10,8973,1,,,29,0,,,,9
+189,Karimganj,Karimganj,2019,Karimganj2019,0,0,0,0,0,0,,,7,1,,,,3
+184,Cachar,Katigorah,2019,Cachar2019,0,249,0,0,0,1,,,0,4,,,,2
+197,Hailakandi,Katlicherra,2019,Hailakandi2019,0,305,0,0,0,1,,,57,0,,,,0
+209,Kamrup,Kayan,2019,Kamrup2019,0,1025,0,0,0,0,,,24,3,,,,30
+237,Darrang,Khoirabari,2019,Darrang2019,0,0,0,0,0,0,,,30,0,,,,21
+241,Udalguri,Khoirabari,2019,Udalguri2019,0,0,0,0,0,0,,,52,13,,,,0
+173,Golaghat,Khumtai,2019,Golaghat2019,32820,2100.23,6,3,0,0,,,51,3,,,,0
+203,Chirang,Kokrajhar,2019,Chirang2019,0,0,0,0,0,0,,,0,0,,,,0
+104,Kokrajhar,Kokrajhar,2019,Kokrajhar2019,54053,2345.93,46,40,27224,0,,,0,9,,,,0
+127,Morigaon,Laharighat,2019,Morigaon2019,0,4047,5,8,0,4,,,16,5,,,,5
+188,Cachar,Lakhipur,2019,Cachar2019,0,0,3,0,0,1,,,0,4,,,,2
+115,Goalpara,Lakhipur,2019,Goalpara2019,0,5030,12,0,0,0,,,4,2,,,,0
+196,Hailakandi,Lala,2019,Hailakandi2019,550,488,0,0,0,0,,,57,0,,,,0
+254,Hojai,Lanka,2019,Hojai2019,0,123,0,0,0,0,,,0,5,,,,8
+248,Charaideo,Mahmora,2019,Charaideo2019,0,497,0,9,0,0,,,1,2,,,,0
+182,Dima Hasao,Mahur,2019,Dima Hasao2019,0,0,0,0,0,0,,,15,3,,,,0
+183,Dima Hasao,Maibong,2019,Dima Hasao2019,0,0,0,0,0,0,,,15,3,,,,0
+281,Majuli,Majuli,2019,Majuli2019,0,2367,6,69,0,0,,,6,3,,,,0
+269,Darrang,Mangaldoi,2019,Darrang2019,59280,6300,13,5,10847,0,,,30,0,,,,21
+243,Udalguri,Mangaldoi,2019,Udalguri2019,0,0,0,0,0,0,,,52,13,,,,0
+202,Bongaigaon,Manikpur,2019,Bongaigaon2019,0,0,0,0,0,0,,,75,31,,,,18
+257,South Salmara,Mankachar,2019,South Salmara2019,0,14212,0,0,0,0,,,0,1,,,,0
+157,Tinsukia,Margherita,2019,Tinsukia2019,0,0,0,0,0,0,,,0,0,,,,1
+171,Jorhat,Mariani,2019,Jorhat2019,0,0,0,0,0,0,,,59,1,,,,19
+117,Goalpara,Matia,2019,Goalpara2019,0,2411.7,26,0,0,2,,,4,2,,,,0
+271,Morigaon,Mayong,2019,Morigaon2019,0,34421,24,16,0,14,,,16,5,,,,5
+247,Udalguri,Mazbat,2019,Udalguri2019,3155,0,0,4,0,0,,,52,13,,,,0
+129,Morigaon,Mikirbheta,2019,Morigaon2019,0,399,0,0,0,0,,,16,5,,,,5
+162,Dibrugarh,Moran,2019,Dibrugarh2019,3333,184.85,0,7,0,0,,,0,0,,,,0
+176,Golaghat,Morangi,2019,Golaghat2019,600,0,1,0,0,0,,,51,3,,,,0
+128,Morigaon,Morigaon,2019,Morigaon2019,0,9771,1,0,0,4,,,16,5,,,,5
+140,Sonitpur,Naduar,2019,Sonitpur2019,0,1491.5,0,0,0,1,,,0,30,,,,0
+134,Nagaon,Nagaon,2019,Nagaon2019,0,0,0,0,0,0,,,29,0,,,,9
+215,Kamrup,Nagarbera,2019,Kamrup2019,0,5500,25,33,0,0,,,24,3,,,,30
+164,Dibrugarh,Naharkatia,2019,Dibrugarh2019,0,211,0,0,0,0,,,0,0,,,,0
+226,Nalbari,Nalbari,2019,Nalbari2019,31450,700,10,8,4842,0,,,87,4,,,,9
+141,Lakhimpur,Narayanpur,2019,Lakhimpur2019,19000,400,0,4,0,0,,,31,29,,,,0
+168,Sivasagar,Nazira,2019,Sivasagar2019,0,0,0,0,0,0,,,0,0,,,,39
+191,Karimganj,Nilambazar,2019,Karimganj2019,130,54.9,0,0,0,0,,,7,1,,,,3
+217,Kamrup,North Guwahati,2019,Kamrup2019,0,24,0,0,0,0,,,24,3,,,,30
+267,Kamrup Metropolitan,North Guwahati,2019,Kamrup Metropolitan2019,0,0,0,0,0,0,,,0,0,,,,0
+145,Lakhimpur,North Lakhimpur,2019,Lakhimpur2019,44423,1980,1,8,45,0,,,31,29,,,,0
+143,Lakhimpur,Nowboicha,2019,Lakhimpur2019,0,1444.7,0,0,0,0,,,31,29,,,,0
+223,Nalbari,Pachim Nalbari,2019,Nalbari2019,27207,1064,10,8,6375,1,,,87,4,,,,9
+272,Kamrup,Palasbari,2019,Kamrup2019,0,26,13,10,0,0,,,24,3,,,,30
+238,Darrang,Patharighat,2019,Darrang2019,15949,4812,0,7,0,0,,,30,0,,,,21
+192,Karimganj,Patherkandi,2019,Karimganj2019,40650,96.25,1,52,25,0,,,7,1,,,,3
+236,Baksa,Pathorighat,2019,Baksa2019,0,0,0,0,0,0,,,161,6,,,,10
+242,Udalguri,Pathorighat,2019,Udalguri2019,0,0,0,0,0,0,,,52,13,,,,0
+275,Karbi Anglong,Phuloni,2019,Karbi Anglong2019,937,0,4,0,911,0,,,77,2,,,,0
+135,Nagaon,Raha,2019,Nagaon2019,38603,225.5,0,34,0,1,,,29,0,,,,9
+235,Baksa,Rangia,2019,Baksa2019,0,0,0,0,0,0,,,161,6,,,,10
+208,Kamrup,Rangia,2019,Kamrup2019,0,314.5,3,0,0,1,,,24,3,,,,30
+119,Goalpara,Rangjuli,2019,Goalpara2019,0,3751,0,0,0,1,,,4,2,,,,0
+193,Karimganj,RK Nagar,2019,Karimganj2019,0,171.3,0,0,0,0,,,7,1,,,,3
+132,Nagaon,Rupahi,2019,Nagaon2019,12988,223,0,1,0,0,,,29,0,,,,9
+154,Tinsukia,Sadiya,2019,Tinsukia2019,4845,426,0,17,0,0,,,0,0,,,,1
+131,Nagaon,Samaguri,2019,Nagaon2019,14404,323,0,5,0,0,,,29,0,,,,9
+278,Charaideo,Sapekhati,2019,Charaideo2019,0,0,1,0,0,0,,,1,2,,,,0
+123,Barpeta,Sarthebari,2019,Barpeta2019,244880,2561,39,10,5651,1,,,494,71,,,,51
+177,Golaghat,Sarupathar,2019,Golaghat2019,0,1532,0,0,0,0,,,51,3,,,,0
+263,Baksa,Sarupeta,2019,Baksa2019,0,0,0,0,0,0,,,161,6,,,,10
+265,Barpeta,Sarupeta,2019,Barpeta2019,280000,2752,3,2,270,2,,,494,71,,,,51
+201,Bongaigaon,Sidli,2019,Bongaigaon2019,0,0,0,0,0,0,,,75,31,,,,18
+206,Chirang,Sidli,2019,Chirang2019,0,0,0,8,0,0,,,0,0,,,,0
+185,Cachar,Silchar,2019,Cachar2019,0,0,0,0,0,0,,,0,4,,,,2
+179,Karbi Anglong,Silonijan,2019,Karbi Anglong2019,0,0,11,0,0,1,,,77,2,,,,0
+239,Darrang,Sipajhar,2019,Darrang2019,60000,3801,1,7,142,0,,,30,0,,,,21
+151,Dhemaji,Sissiborgaon,2019,Dhemaji2019,0,2715,0,0,0,2,,,24,7,,,,20
+166,Sivasagar,Sivsagar,2019,Sivasagar2019,0,401,0,0,0,0,,,0,0,,,,39
+187,Cachar,Sonai,2019,Cachar2019,0,0,0,0,0,0,,,0,4,,,,2
+220,Kamrup Metropolitan,Sonapur,2019,Kamrup Metropolitan2019,0,0,0,0,0,1,,,0,0,,,,0
+279,Charaideo,Sonari,2019,Charaideo2019,0,250,1,0,0,0,,,1,2,,,,0
+256,South Salmara,South Salmara,2019,South Salmara2019,0,1377,0,0,0,0,,,0,1,,,,0
+200,Bongaigaon,Srijangram,2019,Bongaigaon2019,0,7861.3,5,59,0,1,,,75,31,,,,18
+149,Dhemaji,Subansiri,2019,Dhemaji2019,0,0,0,0,0,0,,,24,7,,,,20
+147,Lakhimpur,Subansiri,2019,Lakhimpur2019,0,298,0,10,0,0,,,31,29,,,,0
+261,Baksa,Tamulpur,2019,Baksa2019,200,0,1,0,162,1,,,161,6,,,,10
+161,Dibrugarh,Tengakhat,2019,Dibrugarh2019,1030,342.5,0,1,0,0,,,0,0,,,,0
+169,Jorhat,Teok,2019,Jorhat2019,17211,367.6,7,15,0,1,,,59,1,,,,19
+139,Sonitpur,Tezpur,2019,Sonitpur2019,64634,2301.86,21,0,53753,0,,,0,30,,,,0
+222,Nalbari,Tihu,2019,Nalbari2019,0,1893.5,4,5,0,1,,,87,4,,,,9
+163,Dibrugarh,Tingkhong,2019,Dibrugarh2019,588,231,0,2,0,0,,,0,0,,,,0
+156,Tinsukia,Tinsukia,2019,Tinsukia2019,16127,97,6,17,0,0,,,0,0,,,,1
+170,Jorhat,Titabor,2019,Jorhat2019,1800,900,5,5,0,0,,,59,1,,,,19
+246,Udalguri,Udalguri,2019,Udalguri2019,0,0,0,0,0,3,,,52,13,,,,0
+186,Cachar,Udharbond,2019,Cachar2019,0,57,0,0,0,0,,,0,4,,,,2
+280,Majuli,Ujani Majuli,2019,Majuli2019,0,0,0,0,0,0,,,6,3,,,,0
+180,Dima Hasao,Umrangso,2019,Dima Hasao2019,0,0,0,0,0,0,,,15,3,,,,0
+110,Dhubri,Agamoni,2020,Dhubri2020,0,0,0,0,0,0,,,126,9,,,,2
+194,Hailakandi,Algapur,2020,Hailakandi2020,0,0,0,0,0,0,,,5,0,,,,0
+167,Sivasagar,Amguri,2020,Sivasagar2020,0,0,0,0,0,0,,,64,3,,,,8
+273,Kamrup,Azara,2020,Kamrup2020,0,0,0,0,0,0,,,13,0,,,,6
+190,Karimganj,Badarpur,2020,Karimganj2020,0,0,0,0,0,0,,,14,0,,,,4
+260,Baksa,Baganpara,2020,Baksa2020,0,0,0,0,0,1,,,4,2,,,,10
+230,Nalbari,Baganpara,2020,Nalbari2020,0,0,0,0,0,0,,,83,1,,,,4
+121,Barpeta,Baghbor,2020,Barpeta2020,0,19830,0,0,0,5,,,354,29,,,,12
+109,Dhubri,Bagribari,2020,Dhubri2020,0,0,0,0,0,0,,,126,9,,,,2
+105,Kokrajhar,Bagribari,2020,Kokrajhar2020,24575,694.5,11,0,3393,0,,,90,28,,,,30
+258,Baksa,Bajali,2020,Baksa2020,0,0,0,0,0,0,,,4,2,,,,10
+124,Barpeta,Bajali,2020,Barpeta2020,75000,5312,11,34,1234,1,,,354,29,,,,12
+116,Goalpara,Balijana,2020,Goalpara2020,120328,5479.5,20,0,10832,2,,,0,2,,,,2
+227,Nalbari,Banekuchi,2020,Nalbari2020,384,124,0,0,0,0,,,83,1,,,,4
+234,Baksa,Barama,2020,Baksa2020,0,0,0,0,0,0,,,4,2,,,,10
+225,Nalbari,Barbhag,2020,Nalbari2020,9727,260,0,0,0,0,,,83,1,,,,4
+224,Nalbari,Barkhetri,2020,Nalbari2020,117060,3003,0,0,0,0,,,83,1,,,,4
+231,Baksa,Barnagar,2020,Baksa2020,0,0,0,0,0,0,,,4,2,,,,10
+264,Barpeta,Barnagar,2020,Barpeta2020,10488,350,0,14,0,0,,,354,29,,,,12
+204,Chirang,Barnagar,2020,Chirang2020,0,0,0,0,0,0,,,79,34,,,,6
+122,Barpeta,Barpeta,2020,Barpeta2020,110300,4250,54,13,6599,2,,,354,29,,,,12
+262,Baksa,Baska,2020,Baksa2020,0,139.5,0,0,0,0,,,4,2,,,,10
+205,Chirang,Bengtal,2020,Chirang2020,0,0,0,0,0,0,,,79,34,,,,6
+102,Kokrajhar,Bhawraguri,2020,Kokrajhar2020,0,265,0,0,0,0,,,90,28,,,,30
+126,Morigaon,Bhuragaon,2020,Morigaon2020,97701,1230,0,8,0,2,,,27,1,,,,0
+142,Lakhimpur,Bihpuria,2020,Lakhimpur2020,49996,1201.1,0,7,0,0,,,79,23,,,,18
+207,Chirang,Bijni,2020,Chirang2020,0,6004.04,0,2,0,0,,,79,34,,,,6
+113,Dhubri,Bilasipara,2020,Dhubri2020,124265,3157,4,0,429,1,,,126,9,,,,2
+249,Biswanath,Biswanath,2020,Biswanath2020,0,0,1,0,0,0,,,18,4,,,,21
+199,Bongaigaon,Boitamari,2020,Bongaigaon2020,50042,552,6,48,1122,1,,,81,15,,,,15
+172,Golaghat,Bokakhat,2020,Golaghat2020,81600,1616,21,96,4127,5,,,9,0,,,,2
+216,Kamrup,Boko,2020,Kamrup2020,0,0,0,0,0,0,,,13,0,,,,6
+198,Bongaigaon,Bongaigaon,2020,Bongaigaon2020,800,69,4,1,666,0,,,81,15,,,,15
+160,Dibrugarh,Chabua,2020,Dibrugarh2020,17156,1551,8,6,1324,0,,,132,6,,,,17
+214,Kamrup,Chamaria,2020,Kamrup2020,10000,315,1,0,110,1,,,13,0,,,,6
+221,Kamrup Metropolitan,Chandrapur,2020,Kamrup Metropolitan2020,0,0,0,0,0,0,,,0,0,,,,0
+114,Dhubri,Chapar,2020,Dhubri2020,63627,2228,16,0,1489,1,,,126,9,,,,2
+108,Kokrajhar,Chapar,2020,Kokrajhar2020,0,0,0,0,0,0,,,90,28,,,,30
+138,Sonitpur,Chariduar,2020,Sonitpur2020,5000,308,0,0,0,0,,,2,4,,,,1
+266,Barpeta,Chenga,2020,Barpeta2020,178000,3386,11,9,520,2,,,354,29,,,,12
+212,Kamrup,Chhaygaon,2020,Kamrup2020,24095,66,0,0,0,0,,,13,0,,,,6
+270,Darrang,Dalgaon,2020,Darrang2020,0,5236,0,0,0,0,,,103,3,,,,5
+244,Udalguri,Dalgaon,2020,Udalguri2020,0,0,0,0,0,0,,,94,12,,,,48
+165,Sivasagar,Demow,2020,Sivasagar2020,0,1278,0,0,0,1,,,64,3,,,,8
+174,Golaghat,Dergaon,2020,Golaghat2020,8453,300,1,2,19,0,,,9,0,,,,2
+148,Dhemaji,Dhakuakhana,2020,Dhemaji2020,0,0,0,0,0,0,,,113,1,,,,2
+146,Lakhimpur,Dhakuakhana,2020,Lakhimpur2020,9017,797.5,0,7,0,0,,,79,23,,,,18
+137,Sonitpur,Dhekiajuli,2020,Sonitpur2020,37055,1215,0,13 Na-duar- 09,0,0,,,2,4,,,,1
+240,Udalguri,Dhekiajuli,2020,Udalguri2020,0,0,0,0,0,0,,,94,12,,,,48
+150,Dhemaji,Dhemaji,2020,Dhemaji2020,15100,2675,3,8,500,1,,,113,1,,,,2
+133,Nagaon,Dhing,2020,Nagaon2020,23857,782,0,18,0,0,,,182,1,,,,7
+112,Dhubri,Dhubri,2020,Dhubri2020,207014,1133.5,19,18,2389,0,,,126,9,,,,2
+107,Kokrajhar,Dhubri,2020,Kokrajhar2020,0,0,0,0,0,0,,,90,28,,,,30
+159,Dibrugarh,Dibrugarh East,2020,Dibrugarh2020,16872,1207,11,34,1780,3,,,132,6,,,,17
+158,Dibrugarh,Dibrugarh West,2020,Dibrugarh2020,28713,2280,6,0,792,1,,,132,6,,,,17
+178,Karbi Anglong,Diphu,2020,Karbi Anglong2020,0,0,0,0,0,0,,,0,0,,,,0
+253,Hojai,Doboka,2020,Hojai2020,0,0,23,0,0,1,,,15,0,,,,4
+255,Karbi Anglong,Donkamokam,2020,Karbi Anglong2020,0,0,0,0,0,1,,,0,0,,,,0
+155,Tinsukia,Doom Dooma,2020,Tinsukia2020,44629,0,20,47,6382,1,,,2,2,,,,1
+103,Kokrajhar,Dotoma,2020,Kokrajhar2020,0,736,0,0,0,0,,,90,28,,,,30
+118,Goalpara,Dudhnoi,2020,Goalpara2020,0,0,0,0,0,0,,,0,2,,,,2
+232,Baksa,Ghograpar,2020,Baksa2020,0,0,0,0,0,0,,,4,2,,,,10
+228,Nalbari,Ghograpar,2020,Nalbari2020,5237,240,0,0,0,0,,,83,1,,,,4
+153,Dhemaji,Gogamukh,2020,Dhemaji2020,8703,1086,0,0,0,0,,,113,1,,,,2
+251,Biswanath,Gohpur,2020,Biswanath2020,0,1800,0,5,0,0,,,18,4,,,,21
+175,Golaghat,Golaghat,2020,Golaghat2020,27,0,0,0,0,0,,,9,0,,,,2
+111,Dhubri,Golakganj,2020,Dhubri2020,0,1298,0,0,0,0,,,126,9,,,,2
+106,Kokrajhar,Golokganj,2020,Kokrajhar2020,0,0,0,0,0,0,,,90,28,,,,30
+259,Baksa,Goreswar,2020,Baksa2020,37466,2152.85,19,4,37466,0,,,4,2,,,,10
+213,Kamrup,Goroimari,2020,Kamrup2020,3350,57,0,0,0,0,,,13,0,,,,6
+274,Dhubri,Gossaigaon,2020,Dhubri2020,0,0,0,0,0,0,,,126,9,,,,2
+101,Kokrajhar,Gossaigaon,2020,Kokrajhar2020,2,0,0,0,0,1,,,90,28,,,,30
+219,Kamrup Metropolitan,Guwahati,2020,Kamrup Metropolitan2020,197,0,0,0,0,0,,,0,0,,,,0
+181,Dima Hasao,Haflong,2020,Dima Hasao2020,0,0,0,0,0,0,,,3,1,,,,0
+195,Hailakandi,Hailakandi,2020,Hailakandi2020,0,0,0,0,0,0,,,5,0,,,,0
+211,Kamrup,Hajo,2020,Kamrup2020,38500,948.1,0,0,0,0,,,13,0,,,,6
+250,Biswanath,Halem,2020,Biswanath2020,0,2550,3,17,0,1,,,18,4,,,,21
+245,Udalguri,Harisinga,2020,Udalguri2020,1076,55,0,3,0,0,,,94,12,,,,48
+252,Hojai,Hojai,2020,Hojai2020,0,5378,24,82,0,0,,,15,0,,,,4
+233,Baksa,Jalah,2020,Baksa2020,1392,723,4,0,1317,0,,,4,2,,,,10
+125,Barpeta,Jalah,2020,Barpeta2020,0,0,0,0,0,0,,,354,29,,,,12
+218,Kamrup,Jalah,2020,Kamrup2020,0,0,0,0,0,0,,,13,0,,,,6
+152,Dhemaji,Jonai,2020,Dhemaji2020,82781,28527,4,6,422,1,,,113,1,,,,2
+277,Jorhat,Jorhat East,2020,Jorhat2020,13265,240.9,3,14,80,0,,,7,0,,,,7
+276,Jorhat,Jorhat West,2020,Jorhat2020,24658,115.6,0,4,0,0,,,7,0,,,,7
+144,Lakhimpur,Kadam,2020,Lakhimpur2020,2390,373,0,1,0,0,,,79,23,,,,18
+268,Darrang,Kalaigaon,2020,Darrang2020,0,0,0,0,0,0,,,103,3,,,,5
+120,Barpeta,Kalgachia,2020,Barpeta2020,248523,1575,0,61,0,4,,,354,29,,,,12
+130,Nagaon,Kaliabor,2020,Nagaon2020,27725,774,0,19,0,3,,,182,1,,,,7
+210,Kamrup,Kamalpur,2020,Kamrup2020,710,585,0,0,0,0,,,13,0,,,,6
+136,Nagaon,Kampur,2020,Nagaon2020,161629,5376,0,0,0,5,,,182,1,,,,7
+189,Karimganj,Karimganj,2020,Karimganj2020,0,0,0,0,0,0,,,14,0,,,,4
+184,Cachar,Katigorah,2020,Cachar2020,0,0,0,0,0,0,,,10,4,,,,0
+197,Hailakandi,Katlicherra,2020,Hailakandi2020,0,0,0,0,0,0,,,5,0,,,,0
+209,Kamrup,Kayan,2020,Kamrup2020,0,796,0,0,0,0,,,13,0,,,,6
+237,Darrang,Khoirabari,2020,Darrang2020,0,0,0,0,0,0,,,103,3,,,,5
+241,Udalguri,Khoirabari,2020,Udalguri2020,300,8.02,0,0,0,0,,,94,12,,,,48
+173,Golaghat,Khumtai,2020,Golaghat2020,34750,680.55,1,6,23,1,,,9,0,,,,2
+203,Chirang,Kokrajhar,2020,Chirang2020,0,0,0,0,0,0,,,79,34,,,,6
+104,Kokrajhar,Kokrajhar,2020,Kokrajhar2020,22390,1079.5,7,34,2297,1,,,90,28,,,,30
+127,Morigaon,Laharighat,2020,Morigaon2020,2290,632,0,0,0,1,,,27,1,,,,0
+188,Cachar,Lakhipur,2020,Cachar2020,0,0,0,0,0,0,,,10,4,,,,0
+115,Goalpara,Lakhipur,2020,Goalpara2020,287364,11987,63,0,15170,3,,,0,2,,,,2
+196,Hailakandi,Lala,2020,Hailakandi2020,0,0,0,0,0,0,,,5,0,,,,0
+254,Hojai,Lanka,2020,Hojai2020,0,901,7,0,0,0,,,15,0,,,,4
+248,Charaideo,Mahmora,2020,Charaideo2020,0,0,0,0,0,0,,,1,1,,,,1
+182,Dima Hasao,Mahur,2020,Dima Hasao2020,0,0,0,0,0,0,,,3,1,,,,0
+183,Dima Hasao,Maibong,2020,Dima Hasao2020,0,0,0,0,0,0,,,3,1,,,,0
+281,Majuli,Majuli,2020,Majuli2020,0,3970,7,0,0,0,,,62,11,,,,5
+269,Darrang,Mangaldoi,2020,Darrang2020,61342,4679.5,4,20,1278,1,,,103,3,,,,5
+243,Udalguri,Mangaldoi,2020,Udalguri2020,0,0,0,0,0,0,,,94,12,,,,48
+202,Bongaigaon,Manikpur,2020,Bongaigaon2020,0,2615.66,7,32,0,3,,,81,15,,,,15
+257,South Salmara,Mankachar,2020,South Salmara2020,0,630,0,38,0,1,,,0,0,,,,0
+157,Tinsukia,Margherita,2020,Tinsukia2020,12000,1431,0,0,0,0,,,2,2,,,,1
+171,Jorhat,Mariani,2020,Jorhat2020,0,0,0,0,0,0,,,7,0,,,,7
+117,Goalpara,Matia,2020,Goalpara2020,60258,2296.5,34,0,7481,5,,,0,2,,,,2
+271,Morigaon,Mayong,2020,Morigaon2020,237070,33541,0,90,0,8,,,27,1,,,,0
+247,Udalguri,Mazbat,2020,Udalguri2020,0,0,0,2,0,0,,,94,12,,,,48
+129,Morigaon,Mikirbheta,2020,Morigaon2020,4766,801.06,0,0,0,1,,,27,1,,,,0
+162,Dibrugarh,Moran,2020,Dibrugarh2020,5758,422,0,6,0,1,,,132,6,,,,17
+176,Golaghat,Morangi,2020,Golaghat2020,0,0,0,0,0,0,,,9,0,,,,2
+128,Morigaon,Morigaon,2020,Morigaon2020,0,7758,0,9,0,3,,,27,1,,,,0
+140,Sonitpur,Naduar,2020,Sonitpur2020,0,974.85,0,0,0,1,,,2,4,,,,1
+134,Nagaon,Nagaon,2020,Nagaon2020,3371,0,0,9,0,0,,,182,1,,,,7
+215,Kamrup,Nagarbera,2020,Kamrup2020,65000,400,24,16,6000,1,,,13,0,,,,6
+164,Dibrugarh,Naharkatia,2020,Dibrugarh2020,0,136.63,0,0,0,0,,,132,6,,,,17
+226,Nalbari,Nalbari,2020,Nalbari2020,10000,0,6,3,0,0,,,83,1,,,,4
+141,Lakhimpur,Narayanpur,2020,Lakhimpur2020,18640,700,2,5,264,264,,,79,23,,,,18
+168,Sivasagar,Nazira,2020,Sivasagar2020,10233,150,3,17,398,2,,,64,3,,,,8
+191,Karimganj,Nilambazar,2020,Karimganj2020,0,0,0,0,0,0,,,14,0,,,,4
+217,Kamrup,North Guwahati,2020,Kamrup2020,0,133,0,0,0,0,,,13,0,,,,6
+267,Kamrup Metropolitan,North Guwahati,2020,Kamrup Metropolitan2020,0,0,0,0,0,0,,,0,0,,,,0
+145,Lakhimpur,North Lakhimpur,2020,Lakhimpur2020,58891,1131,0,7,0,1,,,79,23,,,,18
+143,Lakhimpur,Nowboicha,2020,Lakhimpur2020,0,376.5,0,0,0,4,,,79,23,,,,18
+223,Nalbari,Pachim Nalbari,2020,Nalbari2020,23777,135,6,3,833,1,,,83,1,,,,4
+272,Kamrup,Palasbari,2020,Kamrup2020,8000,1100,0,2,0,0,,,13,0,,,,6
+238,Darrang,Patharighat,2020,Darrang2020,16000,855.5,0,3,0,0,,,103,3,,,,5
+192,Karimganj,Patherkandi,2020,Karimganj2020,0,0,0,0,0,0,,,14,0,,,,4
+236,Baksa,Pathorighat,2020,Baksa2020,0,0,0,0,0,0,,,4,2,,,,10
+242,Udalguri,Pathorighat,2020,Udalguri2020,0,0,0,0,0,0,,,94,12,,,,48
+275,Karbi Anglong,Phuloni,2020,Karbi Anglong2020,1530,3,0,0,0,0,,,0,0,,,,0
+135,Nagaon,Raha,2020,Nagaon2020,54975,15028,4,45,173,5,,,182,1,,,,7
+235,Baksa,Rangia,2020,Baksa2020,0,0,0,0,0,0,,,4,2,,,,10
+208,Kamrup,Rangia,2020,Kamrup2020,0,1747.2,4,1,0,1,,,13,0,,,,6
+119,Goalpara,Rangjuli,2020,Goalpara2020,0,230,0,0,0,2,,,0,2,,,,2
+193,Karimganj,RK Nagar,2020,Karimganj2020,0,0,0,0,0,0,,,14,0,,,,4
+132,Nagaon,Rupahi,2020,Nagaon2020,12988,299,0,1,0,0,,,182,1,,,,7
+154,Tinsukia,Sadiya,2020,Tinsukia2020,6810,225,5,0,220,0,,,2,2,,,,1
+131,Nagaon,Samaguri,2020,Nagaon2020,14249,351,0,6,0,0,,,182,1,,,,7
+278,Charaideo,Sapekhati,2020,Charaideo2020,0,11,0,1,0,0,,,1,1,,,,1
+123,Barpeta,Sarthebari,2020,Barpeta2020,139238,1704,2,21,91,4,,,354,29,,,,12
+177,Golaghat,Sarupathar,2020,Golaghat2020,0,0,0,0,0,0,,,9,0,,,,2
+263,Baksa,Sarupeta,2020,Baksa2020,0,0,0,0,0,0,,,4,2,,,,10
+265,Barpeta,Sarupeta,2020,Barpeta2020,231984,800,0,1,0,3,,,354,29,,,,12
+201,Bongaigaon,Sidli,2020,Bongaigaon2020,0,0,0,0,0,0,,,81,15,,,,15
+206,Chirang,Sidli,2020,Chirang2020,0,22.8,3,2,0,0,,,79,34,,,,6
+185,Cachar,Silchar,2020,Cachar2020,717,0,0,0,0,0,,,10,4,,,,0
+179,Karbi Anglong,Silonijan,2020,Karbi Anglong2020,0,5,0,0,0,0,,,0,0,,,,0
+239,Darrang,Sipajhar,2020,Darrang2020,51000,1500.5,0,13,0,0,,,103,3,,,,5
+151,Dhemaji,Sissiborgaon,2020,Dhemaji2020,0,2600,0,0,0,2,,,113,1,,,,2
+166,Sivasagar,Sivsagar,2020,Sivasagar2020,0,3484,0,13,0,2,,,64,3,,,,8
+187,Cachar,Sonai,2020,Cachar2020,0,0,0,0,0,0,,,10,4,,,,0
+220,Kamrup Metropolitan,Sonapur,2020,Kamrup Metropolitan2020,90000,0,0,0,0,1,,,0,0,,,,0
+279,Charaideo,Sonari,2020,Charaideo2020,0,125,0,0,0,0,,,1,1,,,,1
+256,South Salmara,South Salmara,2020,South Salmara2020,0,1095,0,49,0,1,,,0,0,,,,0
+200,Bongaigaon,Srijangram,2020,Bongaigaon2020,0,3197.63,14,0,0,0,,,81,15,,,,15
+149,Dhemaji,Subansiri,2020,Dhemaji2020,0,0,0,0,0,0,,,113,1,,,,2
+147,Lakhimpur,Subansiri,2020,Lakhimpur2020,0,271,0,16,0,1,,,79,23,,,,18
+261,Baksa,Tamulpur,2020,Baksa2020,444,0,3,0,444,0,,,4,2,,,,10
+161,Dibrugarh,Tengakhat,2020,Dibrugarh2020,2995,521,0,0,1400,2,,,132,6,,,,17
+169,Jorhat,Teok,2020,Jorhat2020,20401,1735,1,25,37,0,,,7,0,,,,7
+139,Sonitpur,Tezpur,2020,Sonitpur2020,60860,1419,0,27,0,0,,,2,4,,,,1
+222,Nalbari,Tihu,2020,Nalbari2020,0,367,1,3,0,1,,,83,1,,,,4
+163,Dibrugarh,Tingkhong,2020,Dibrugarh2020,944,33.3,0,3,0,0,,,132,6,,,,17
+156,Tinsukia,Tinsukia,2020,Tinsukia2020,27568,441.6,44,4,13307,2,,,2,2,,,,1
+170,Jorhat,Titabor,2020,Jorhat2020,0,0,0,0,0,0,,,7,0,,,,7
+246,Udalguri,Udalguri,2020,Udalguri2020,1000,0,0,0,0,1,,,94,12,,,,48
+186,Cachar,Udharbond,2020,Cachar2020,0,0,0,0,0,0,,,10,4,,,,0
+280,Majuli,Ujani Majuli,2020,Majuli2020,0,650,0,0,0,0,,,62,11,,,,5
+180,Dima Hasao,Umrangso,2020,Dima Hasao2020,0,0,0,0,0,0,,,3,1,,,,0
+110,Dhubri,Agamoni,2021,Dhubri2021,0,0,0,0,0,0,0,0,0,0,,,,0
+194,Hailakandi,Algapur,2021,Hailakandi2021,0,0,0,0,0,0,0,0,0,0,,,,0
+167,Sivasagar,Amguri,2021,Sivasagar2021,57,15.5,0,0,0,0,0,0,0,0,,,,0
+273,Kamrup,Azara,2021,Kamrup2021,0,0,0,0,0,0,0,0,0,0,,,,0
+190,Karimganj,Badarpur,2021,Karimganj2021,0,0,0,0,0,0,0,0,0,0,,,,0
+260,Baksa,Baganpara,2021,Baksa2021,0,0,0,0,0,0,0,0,0,0,,,,0
+230,Nalbari,Baganpara,2021,Nalbari2021,0,0,0,0,0,0,0,0,0,0,,,,0
+121,Barpeta,Baghbor,2021,Barpeta2021,0,454.7,0,0,0,0,0,3,8,0,,,,3
+109,Dhubri,Bagribari,2021,Dhubri2021,0,0,0,0,0,0,0,0,0,0,,,,0
+105,Kokrajhar,Bagribari,2021,Kokrajhar2021,0,0,0,0,0,0,0,0,0,0,,,,0
+258,Baksa,Bajali,2021,Baksa2021,0,0,0,0,0,0,0,0,0,0,,,,0
+124,Barpeta,Bajali,2021,Barpeta2021,0,0,0,0,0,0,0,0,0,0,,,,0
+116,Goalpara,Balijana,2021,Goalpara2021,0,1347.34,0,0,0,0,0,0,1,0,,,,0
+227,Nalbari,Banekuchi,2021,Nalbari2021,0,0,0,0,0,0,0,0,0,0,,,,0
+234,Baksa,Barama,2021,Baksa2021,0,0,0,0,0,0,0,0,0,0,,,,0
+225,Nalbari,Barbhag,2021,Nalbari2021,0,0,0,0,0,0,0,0,0,0,,,,0
+224,Nalbari,Barkhetri,2021,Nalbari2021,110731,1165.5,0,0,0,0,0,1,0,0,,,,1
+231,Baksa,Barnagar,2021,Baksa2021,0,0,0,0,0,0,0,0,0,0,,,,0
+264,Barpeta,Barnagar,2021,Barpeta2021,0,63,0,0,0,1,0,0,12,0,,,,0
+204,Chirang,Barnagar,2021,Chirang2021,0,0,0,0,0,0,0,0,0,0,,,,0
+122,Barpeta,Barpeta,2021,Barpeta2021,4852,0,2,13,170,2,0,0,5,0,,,,0
+262,Baksa,Baska,2021,Baksa2021,0,0,0,0,0,0,0,0,0,0,,,,0
+205,Chirang,Bengtal,2021,Chirang2021,0,48.8,0,0,0,0,1,1,0,1,,,,2
+102,Kokrajhar,Bhawraguri,2021,Kokrajhar2021,0,0,0,0,0,0,0,0,0,0,,,,0
+126,Morigaon,Bhuragaon,2021,Morigaon2021,59393,1186,0,27,0,1,0,0,0,0,,,,0
+142,Lakhimpur,Bihpuria,2021,Lakhimpur2021,28928,1621.5,0,26,0,0,0,2,0,0,,,,2
+207,Chirang,Bijni,2021,Chirang2021,0,479.5,88,0,0,0,0,0,13,0,,,,0
+113,Dhubri,Bilasipara,2021,Dhubri2021,0,0,0,0,0,0,0,0,0,0,,,,0
+249,Biswanath,Biswanath,2021,Biswanath2021,0,150,0,4,0,0,0,0,2,0,,,,0
+199,Bongaigaon,Boitamari,2021,Bongaigaon2021,335,21.5,0,2,0,0,0,0,10,0,,,,0
+172,Golaghat,Bokakhat,2021,Golaghat2021,83331,355,14,79,1283,0,1,0,0,0,,,,1
+216,Kamrup,Boko,2021,Kamrup2021,0,0,0,0,0,0,0,0,0,0,,,,0
+198,Bongaigaon,Bongaigaon,2021,Bongaigaon2021,0,0,0,0,0,0,0,1,27,0,,,,1
+160,Dibrugarh,Chabua,2021,Dibrugarh2021,11157,496.5,1,12,64,0,0,0,0,0,,,,0
+214,Kamrup,Chamaria,2021,Kamrup2021,0,925,0,0,0,1,0,0,0,0,,,,0
+221,Kamrup Metropolitan,Chandrapur,2021,Kamrup Metropolitan2021,0,0,0,0,0,0,0,0,0,0,,,,0
+114,Dhubri,Chapar,2021,Dhubri2021,0,0,0,0,0,0,0,0,0,0,,,,0
+108,Kokrajhar,Chapar,2021,Kokrajhar2021,0,0,0,0,0,0,0,0,0,0,,,,0
+138,Sonitpur,Chariduar,2021,Sonitpur2021,0,91,0,0,0,0,2,0,0,2,,,,2
+266,Barpeta,Chenga,2021,Barpeta2021,21915,822,2,6,632,3,0,1,6,1,,,,1
+212,Kamrup,Chhaygaon,2021,Kamrup2021,0,46,0,0,0,0,0,0,0,0,,,,0
+270,Darrang,Dalgaon,2021,Darrang2021,0,6558,0,0,0,0,0,0,2,2,,,,0
+244,Udalguri,Dalgaon,2021,Udalguri2021,0,0,0,0,0,0,0,0,0,0,,,,0
+165,Sivasagar,Demow,2021,Sivasagar2021,0,420,0,0,0,0,0,1,0,0,,,,1
+174,Golaghat,Dergaon,2021,Golaghat2021,8103,146,0,3,0,0,0,0,0,0,,,,0
+148,Dhemaji,Dhakuakhana,2021,Dhemaji2021,0,0,0,0,0,0,0,0,23,0,,,,0
+146,Lakhimpur,Dhakuakhana,2021,Lakhimpur2021,615,91,0,5,0,0,0,0,0,0,,,,0
+137,Sonitpur,Dhekiajuli,2021,Sonitpur2021,12897,550.93,0,13,0,0,0,0,0,0,,,,0
+240,Udalguri,Dhekiajuli,2021,Udalguri2021,0,0,0,0,0,0,0,0,0,0,,,,0
+150,Dhemaji,Dhemaji,2021,Dhemaji2021,11164,9762,2,23,369,0,1,0,16,2,,,,1
+133,Nagaon,Dhing,2021,Nagaon2021,360,299.5,0,0,0,0,0,0,0,0,,,,0
+112,Dhubri,Dhubri,2021,Dhubri2021,1127,109,0,0,0,0,0,0,7,8,,,,0
+107,Kokrajhar,Dhubri,2021,Kokrajhar2021,0,0,0,0,0,0,0,0,0,0,,,,0
+159,Dibrugarh,Dibrugarh East,2021,Dibrugarh2021,0,0,0,0,0,0,0,0,0,0,,,,0
+158,Dibrugarh,Dibrugarh West,2021,Dibrugarh2021,0,656,0,0,0,0,0,0,0,0,,,,0
+178,Karbi Anglong,Diphu,2021,Karbi Anglong2021,0,0,0,0,0,0,0,0,0,0,,,,0
+253,Hojai,Doboka,2021,Hojai2021,0,88.81,0,0,0,0,1,0,0,0,,,,1
+255,West Karbi Anglong,Donkamokam,2021,West Karbi Anglong2021,0,0,0,0,0,0,0,0,0,0,,,,0
+155,Tinsukia,Doom Dooma,2021,Tinsukia2021,0,0,0,0,0,0,0,0,0,0,,,,0
+103,Kokrajhar,Dotoma,2021,Kokrajhar2021,0,20,0,0,0,0,0,0,0,0,,,,0
+118,Goalpara,Dudhnoi,2021,Goalpara2021,0,0,0,0,0,0,0,0,0,0,,,,0
+232,Baksa,Ghograpar,2021,Baksa2021,0,0,0,0,0,0,0,0,0,0,,,,0
+228,Nalbari,Ghograpar,2021,Nalbari2021,0,0,0,0,0,0,0,0,0,0,,,,0
+153,Dhemaji,Gogamukh,2021,Dhemaji2021,7585,1490,0,7,0,0,0,0,13,0,,,,0
+251,Biswanath,Gohpur,2021,Biswanath2021,0,355,0,0,0,0,1,0,0,0,,,,1
+175,Golaghat,Golaghat,2021,Golaghat2021,0,234.3,0,0,0,0,0,0,0,0,,,,0
+111,Dhubri,Golakganj,2021,Dhubri2021,0,0,0,0,0,0,0,0,0,0,,,,0
+106,Kokrajhar,Golokganj,2021,Kokrajhar2021,0,0,0,0,0,0,0,0,0,0,,,,0
+259,Baksa,Goreswar,2021,Baksa2021,0,0,0,0,0,0,0,1,0,0,,,,1
+213,Kamrup,Goroimari,2021,Kamrup2021,0,484,0,0,0,0,0,0,0,0,,,,0
+274,Dhubri,Gossaigaon,2021,Dhubri2021,0,0,0,0,0,0,0,0,0,0,,,,0
+101,Kokrajhar,Gossaigaon,2021,Kokrajhar2021,0,0,0,0,0,0,0,0,0,0,,,,0
+219,Kamrup Metropolitan,Guwahati,2021,Kamrup Metropolitan2021,0,0,0,0,0,1,0,0,0,0,,,,0
+181,Dima Hasao,Haflong,2021,Dima Hasao2021,0,0,0,0,0,0,0,0,0,0,,,,0
+195,Hailakandi,Hailakandi,2021,Hailakandi2021,0,0,0,0,0,0,0,0,0,0,,,,0
+211,Kamrup,Hajo,2021,Kamrup2021,0,740,0,0,0,0,0,0,0,0,,,,0
+250,Biswanath,Halem,2021,Biswanath2021,0,0,0,0,0,0,3,6,3,0,,,,9
+245,Udalguri,Harisinga,2021,Udalguri2021,0,0,0,0,0,0,0,0,0,4,,,,0
+252,Hojai,Hojai,2021,Hojai2021,0,70.5,0,0,0,0,1,0,0,0,,,,1
+233,Baksa,Jalah,2021,Baksa2021,144,0,0,2,0,0,0,0,0,0,,,,0
+125,Barpeta,Jalah,2021,Barpeta2021,0,0,0,0,0,0,0,0,0,0,,,,0
+218,Kamrup,Jalah,2021,Kamrup2021,0,0,0,0,0,0,0,0,0,0,,,,0
+152,Dhemaji,Jonai,2021,Dhemaji2021,29112,1394.41,4,26,142,0,1,0,10,1,,,,1
+277,Jorhat,Jorhat East,2021,Jorhat2021,7269,872.6,0,5,0,0,0,0,0,0,,,,0
+276,Jorhat,Jorhat West,2021,Jorhat2021,4025,1500,0,5,0,0,0,1,0,0,,,,1
+144,Lakhimpur,Kadam,2021,Lakhimpur2021,455,829.5,0,0,0,0,0,1,0,0,,,,1
+268,Darrang,Kalaigaon,2021,Darrang2021,0,0,0,0,0,0,1,2,0,0,,,,3
+120,Barpeta,Kalgachia,2021,Barpeta2021,0,1292.1,0,0,0,0,0,0,7,5,,,,0
+130,Nagaon,Kaliabor,2021,Nagaon2021,3865,1163,10,2,1376,0,0,0,0,0,,,,0
+210,Kamrup,Kamalpur,2021,Kamrup2021,0,0,0,0,0,0,0,0,0,0,,,,0
+136,Nagaon,Kampur,2021,Nagaon2021,0,0,0,0,0,0,0,0,0,0,,,,0
+189,Karimganj,Karimganj,2021,Karimganj2021,0,0,0,0,0,0,0,0,0,0,,,,0
+184,Cachar,Katigorah,2021,Cachar2021,0,206,0,0,0,0,0,0,6,0,,,,0
+197,Hailakandi,Katlicherra,2021,Hailakandi2021,0,0,0,0,0,0,0,0,0,0,,,,0
+209,Kamrup,Kayan,2021,Kamrup2021,0,40.03,0,0,0,0,0,0,0,0,,,,0
+237,Darrang,Khoirabari,2021,Darrang2021,0,0,0,0,0,0,0,0,0,0,,,,0
+241,Udalguri,Khoirabari,2021,Udalguri2021,0,0,0,0,0,0,0,0,0,0,,,,0
+173,Golaghat,Khumtai,2021,Golaghat2021,4912,48,1,1,0,0,0,0,0,0,,,,0
+203,Chirang,Kokrajhar,2021,Chirang2021,0,0,0,0,0,0,0,0,0,0,,,,0
+104,Kokrajhar,Kokrajhar,2021,Kokrajhar2021,101,0,0,0,0,0,0,0,0,1,,,,0
+127,Morigaon,Laharighat,2021,Morigaon2021,0,376,0,0,0,2,0,0,0,0,,,,0
+188,Cachar,Lakhipur,2021,Cachar2021,0,0,0,0,0,0,0,2,10,0,,,,2
+115,Goalpara,Lakhipur,2021,Goalpara2021,0,837,0,0,0,0,0,0,1,1,,,,0
+196,Hailakandi,Lala,2021,Hailakandi2021,0,0,0,0,0,0,0,0,0,0,,,,0
+254,Hojai,Lanka,2021,Hojai2021,0,0,0,0,0,0,0,0,0,0,,,,0
+248,Charaideo,Mahmora,2021,Charaideo2021,0,39,0,1,0,0,0,0,0,0,,,,0
+182,Dima Hasao,Mahur,2021,Dima Hasao2021,0,0,0,0,0,0,0,0,0,0,,,,0
+183,Dima Hasao,Maibong,2021,Dima Hasao2021,0,0,0,0,0,0,0,0,0,0,,,,0
+281,Majuli,Majuli,2021,Majuli2021,0,3577,7,77,0,7,0,0,0,0,,,,0
+269,Darrang,Mangaldoi,2021,Darrang2021,70017,1033,0,1,0,0,0,0,7,0,,,,0
+243,Udalguri,Mangaldoi,2021,Udalguri2021,0,0,0,0,0,0,0,0,0,0,,,,0
+202,Bongaigaon,Manikpur,2021,Bongaigaon2021,0,579,9,25,0,0,0,0,46,7,,,,0
+257,South Salmara,Mankachar,2021,South Salmara2021,0,176,0,0,0,0,0,0,0,1,,,,0
+157,Tinsukia,Margherita,2021,Tinsukia2021,0,0,0,0,0,0,0,0,0,0,,,,0
+171,Jorhat,Mariani,2021,Jorhat2021,0,0,0,0,0,0,0,0,0,0,,,,0
+117,Goalpara,Matia,2021,Goalpara2021,412,443,3,0,0,0,0,0,1,0,,,,0
+271,Morigaon,Mayong,2021,Morigaon2021,0,3353,0,8,0,6,0,0,0,0,,,,0
+247,Udalguri,Mazbat,2021,Udalguri2021,0,0,0,0,0,0,0,0,0,0,,,,0
+129,Morigaon,Mikirbheta,2021,Morigaon2021,0,0,0,0,0,0,0,0,0,0,,,,0
+162,Dibrugarh,Moran,2021,Dibrugarh2021,0,0,0,0,0,0,0,0,0,0,,,,0
+176,Golaghat,Morangi,2021,Golaghat2021,0,0,0,0,0,0,0,0,0,0,,,,0
+128,Morigaon,Morigaon,2021,Morigaon2021,0,956.19,0,0,0,0,0,0,0,0,,,,0
+140,Sonitpur,Naduar,2021,Sonitpur2021,0,66.5,0,0,0,0,0,0,0,0,,,,0
+134,Nagaon,Nagaon,2021,Nagaon2021,0,0,0,0,0,0,0,0,0,0,,,,0
+215,Kamrup,Nagarbera,2021,Kamrup2021,0,377,0,0,0,0,0,0,0,0,,,,0
+164,Dibrugarh,Naharkatia,2021,Dibrugarh2021,0,0,0,0,0,0,0,0,0,0,,,,0
+226,Nalbari,Nalbari,2021,Nalbari2021,0,0,0,0,0,0,0,0,0,0,,,,0
+141,Lakhimpur,Narayanpur,2021,Lakhimpur2021,17549,792,0,2,0,0,0,0,0,0,,,,0
+168,Sivasagar,Nazira,2021,Sivasagar2021,0,68,0,0,0,0,0,0,0,0,,,,0
+191,Karimganj,Nilambazar,2021,Karimganj2021,0,0,0,0,0,0,0,0,0,0,,,,0
+217,Kamrup,North Guwahati,2021,Kamrup2021,0,0,0,0,0,0,0,0,0,0,,,,0
+267,Kamrup Metropolitan,North Guwahati,2021,Kamrup Metropolitan2021,0,0,0,0,0,0,0,0,0,0,,,,0
+145,Lakhimpur,North Lakhimpur,2021,Lakhimpur2021,89795,5322,0,29,0,0,0,0,0,0,,,,0
+143,Lakhimpur,Nowboicha,2021,Lakhimpur2021,0,39.5,0,0,0,0,8,0,0,1,,,,8
+223,Nalbari,Pachim Nalbari,2021,Nalbari2021,0,0,0,0,0,0,0,0,0,0,,,,0
+272,Kamrup,Palasbari,2021,Kamrup2021,0,145.5,0,10,0,0,0,0,0,0,,,,0
+238,Darrang,Patharighat,2021,Darrang2021,0,146.13,0,0,0,0,0,0,0,0,,,,0
+192,Karimganj,Patherkandi,2021,Karimganj2021,0,0,0,0,0,0,0,0,0,0,,,,0
+236,Baksa,Pathorighat,2021,Baksa2021,0,0,0,0,0,0,0,0,0,0,,,,0
+242,Udalguri,Pathorighat,2021,Udalguri2021,0,0,0,0,0,0,0,0,0,0,,,,0
+275,Karbi Anglong,Phuloni,2021,Karbi Anglong2021,0,0,0,0,0,0,0,0,0,0,,,,0
+135,Nagaon,Raha,2021,Nagaon2021,0,0,0,0,0,0,0,1,0,0,,,,1
+235,Baksa,Rangia,2021,Baksa2021,0,0,0,0,0,0,0,0,0,0,,,,0
+208,Kamrup,Rangia,2021,Kamrup2021,0,18,0,0,0,0,0,0,0,0,,,,0
+119,Goalpara,Rangjuli,2021,Goalpara2021,0,1290,0,0,0,1,0,0,0,0,,,,0
+193,Karimganj,RK Nagar,2021,Karimganj2021,0,0,0,0,0,0,0,0,0,0,,,,0
+132,Nagaon,Rupahi,2021,Nagaon2021,0,15.02,0,0,0,0,0,0,0,0,,,,0
+154,Tinsukia,Sadiya,2021,Tinsukia2021,6000,457,0,1,0,0,0,0,0,0,,,,0
+131,Nagaon,Samaguri,2021,Nagaon2021,11987,176,0,8,0,0,0,1,0,0,,,,1
+278,Charaideo,Sapekhati,2021,Charaideo2021,0,18,0,1,0,0,0,0,0,1,,,,0
+123,Barpeta,Sarthebari,2021,Barpeta2021,0,0,0,0,0,1,0,2,8,1,,,,2
+177,Golaghat,Sarupathar,2021,Golaghat2021,0,0,0,0,0,0,0,0,0,0,,,,0
+263,Baksa,Sarupeta,2021,Baksa2021,0,0,0,0,0,0,0,0,0,0,,,,0
+265,Barpeta,Sarupeta,2021,Barpeta2021,0,0,0,0,0,0,0,0,5,3,,,,0
+201,Bongaigaon,Sidli,2021,Bongaigaon2021,0,0,0,0,0,0,0,0,0,0,,,,0
+206,Chirang,Sidli,2021,Chirang2021,0,67.2,0,8,0,0,0,0,10,0,,,,0
+185,Cachar,Silchar,2021,Cachar2021,0,377,0,0,0,0,0,7,2,0,,,,7
+179,Karbi Anglong,Silonijan,2021,Karbi Anglong2021,0,0,0,0,0,0,0,0,0,0,,,,0
+239,Darrang,Sipajhar,2021,Darrang2021,5255,10.5,0,0,0,0,0,0,0,0,,,,0
+151,Dhemaji,Sissiborgaon,2021,Dhemaji2021,0,549,0,0,0,0,2,0,0,0,,,,2
+166,Sivasagar,Sivsagar,2021,Sivasagar2021,0,0,0,0,0,0,0,0,0,0,,,,0
+187,Cachar,Sonai,2021,Cachar2021,0,0,0,0,0,0,0,15,0,0,,,,15
+220,Kamrup Metropolitan,Sonapur,2021,Kamrup Metropolitan2021,0,0,0,0,0,0,0,0,0,0,,,,0
+279,Charaideo,Sonari,2021,Charaideo2021,0,51.7,0,16,0,0,0,0,0,0,,,,0
+256,South Salmara,South Salmara,2021,South Salmara2021,0,884,0,0,0,0,0,1,0,0,,,,1
+200,Bongaigaon,Srijangram,2021,Bongaigaon2021,0,812.18,7,42,0,0,9,0,53,7,,,,9
+149,Dhemaji,Subansiri,2021,Dhemaji2021,0,0,0,0,0,0,0,0,0,0,,,,0
+147,Lakhimpur,Subansiri,2021,Lakhimpur2021,0,25,0,0,0,0,0,0,0,0,,,,0
+261,Baksa,Tamulpur,2021,Baksa2021,0,0,0,0,0,0,0,0,0,0,,,,0
+161,Dibrugarh,Tengakhat,2021,Dibrugarh2021,0,0,0,0,0,0,0,0,0,0,,,,0
+169,Jorhat,Teok,2021,Jorhat2021,7024,1136.55,0,6,0,0,7,5,0,0,,,,12
+139,Sonitpur,Tezpur,2021,Sonitpur2021,3065,1537.44,0,2,0,0,0,0,0,0,,,,0
+222,Nalbari,Tihu,2021,Nalbari2021,0,0,0,0,0,0,1,0,0,0,,,,1
+163,Dibrugarh,Tingkhong,2021,Dibrugarh2021,0,0,0,0,0,0,0,0,0,0,,,,0
+156,Tinsukia,Tinsukia,2021,Tinsukia2021,6785,0,0,14,0,0,0,0,0,0,,,,0
+170,Jorhat,Titabor,2021,Jorhat2021,30,112,0,0,0,0,0,2,0,0,,,,2
+246,Udalguri,Udalguri,2021,Udalguri2021,0,0,0,0,0,0,5,10,0,0,,,,15
+186,Cachar,Udharbond,2021,Cachar2021,0,0,0,0,0,0,0,1,3,0,,,,1
+280,Majuli,Ujani Majuli,2021,Majuli2021,0,745,0,0,0,0,0,1,0,0,,,,1
+180,Dima Hasao,Umrangso,2021,Dima Hasao2021,0,0,0,0,0,0,0,0,0,0,,,,0
+101,Kokrajhar,Gossaigaon,2022,Kokrajhar2022,1989,221.8,11,1,2179,0,0,0,53,1,14,0,1,0
+102,Kokrajhar,Bhawraguri,2022,Kokrajhar2022,17767,122.5,6,16,1692,0,0,0,12,0,7,0,0,0
+103,Kokrajhar,Dotoma,2022,Kokrajhar2022,30261,697.75,8,29,8312,0,0,0,0,0,0,0,0,0
+104,Kokrajhar,Kokrajhar,2022,Kokrajhar2022,22186,460.4,24,27,5880,1,0,0,15,0,1,0,11,0
+105,Kokrajhar,Bagribari,2022,Kokrajhar2022,22884,1793,9,4,2125,1,0,1,10,12,2,0,0,1
+106,Kokrajhar,Golokganj,2022,Kokrajhar2022,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+107,Kokrajhar,Dhubri,2022,Kokrajhar2022,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+108,Kokrajhar,Chapar,2022,Kokrajhar2022,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+109,Dhubri,Bagribari,2022,Dhubri2022,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+110,Dhubri,Agamoni,2022,Dhubri2022,1190,893.5,0,0,0,0,0,0,10,0,1,0,0,0
+111,Dhubri,Golakganj,2022,Dhubri2022,1179,1215,1,0,66,0,0,0,23,0,4,0,0,0
+112,Dhubri,Dhubri,2022,Dhubri2022,63237,1413,4,11,1887,1,0,0,27,4,1,0,0,0
+113,Dhubri,Bilasipara,2022,Dhubri2022,130503,2919.4,35,21,7422,2,0,0,51,0,6,0,0,0
+114,Dhubri,Chapar,2022,Dhubri2022,900,1018.2,4,0,223,0,0,1,6,0,1,0,0,1
+115,Goalpara,Lakhipur,2022,Goalpara2022,171429,10060,50,50,14476,4,0,0,37,0,1,0,8,0
+116,Goalpara,Balijana,2022,Goalpara2022,99311,2570,40,29,22020,2,0,0,19,3,2,3,12,0
+117,Goalpara,Matia,2022,Goalpara2022,13546,2522,6,3,1708,0,2,0,7,0,1,0,0,2
+118,Goalpara,Dudhnoi,2022,Goalpara2022,82,86,0,0,0,0,1,0,2,0,0,0,0,1
+119,Goalpara,Rangjuli,2022,Goalpara2022,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+120,Barpeta,Kalgachia,2022,Barpeta2022,198692,1823.5,0,41,0,2,0,1,5,2,15,0,0,1
+121,Barpeta,Baghbor,2022,Barpeta2022,370497,18983,20,1,11044,3,0,0,0,0,0,0,0,0
+122,Barpeta,Barpeta,2022,Barpeta2022,214076,8825.5,112,0,101245,4,1,0,155,1,0,0,0,1
+123,Barpeta,Sarthebari,2022,Barpeta2022,335837,4449,15,11,2841,3,4,0,17,2,5,0,0,4
+124,Barpeta,Bajali,2022,Barpeta2022,161000,1216,38,95,4777,3,1,7,32,12,1,0,1,8
+125,Barpeta,Jalah,2022,Barpeta2022,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+126,Morigaon,Bhuragaon,2022,Morigaon2022,39292,925,7,15,4019,0,0,0,3,0,1,0,0,0
+127,Morigaon,Laharighat,2022,Morigaon2022,0,101,0,0,0,0,0,0,1,0,4,0,1,0
+128,Morigaon,Morigaon,2022,Morigaon2022,133042,4317.83,68,26,23931,1,1,0,8,1,4,0,4,1
+129,Morigaon,Mikirbheta,2022,Morigaon2022,18546,1771.5,10,15,1620,1,0,0,3,0,0,0,0,0
+130,Nagaon,Kaliabor,2022,Nagaon2022,507,55,0,2,0,0,0,0,0,0,1,0,0,0
+131,Nagaon,Samaguri,2022,Nagaon2022,5844,252,0,5,0,1,0,0,0,0,0,0,0,0
+132,Nagaon,Rupahi,2022,Nagaon2022,0,160,0,0,0,0,0,0,0,0,0,0,0,0
+133,Nagaon,Dhing,2022,Nagaon2022,0,462,0,0,0,0,0,1,2,0,10,0,0,1
+134,Nagaon,Nagaon,2022,Nagaon2022,103200,4244.5,36,48,14416,4,0,1,29,0,0,0,0,1
+135,Nagaon,Raha,2022,Nagaon2022,158174,9999.7,13,93,1700,12,3,2,11,5,3,0,0,5
+136,Nagaon,Kampur,2022,Nagaon2022,259500,8320,17,109,7102,14,1,1,40,0,1,0,0,2
+137,Sonitpur,Dhekiajuli,2022,Sonitpur2022,25814,2876.6,1,13,500,0,0,0,3,2,7,0,0,0
+138,Sonitpur,Chariduar,2022,Sonitpur2022,59814,435,1,21,117,2,1,0,5,1,3,0,0,1
+139,Sonitpur,Tezpur,2022,Sonitpur2022,4627,732.6,0,16,0,0,1,0,4,0,2,1,0,1
+140,Sonitpur,Naduar,2022,Sonitpur2022,3234,208,0,2,0,0,0,0,0,0,0,0,0,0
+141,Lakhimpur,Narayanpur,2022,Lakhimpur2022,34522,704,4,12,893,1,0,0,5,0,0,1,0,0
+142,Lakhimpur,Bihpuria,2022,Lakhimpur2022,27705,1381.5,0,11,0,3,0,1,4,0,4,0,0,1
+143,Lakhimpur,Nowboicha,2022,Lakhimpur2022,43094,1040.3,0,10,0,0,4,1,8,1,0,0,0,5
+144,Lakhimpur,Kadam,2022,Lakhimpur2022,2926,71.85,0,2,0,1,0,1,1,0,4,0,0,1
+145,Lakhimpur,North Lakhimpur,2022,Lakhimpur2022,51619,259.5,14,11,2192,4,1,1,1,0,1,0,0,2
+146,Lakhimpur,Dhakuakhana,2022,Lakhimpur2022,1358,539,0,6,0,0,0,1,0,0,1,0,0,1
+147,Lakhimpur,Subansiri,2022,Lakhimpur2022,19672,955,2,20,366,0,0,0,5,0,1,0,0,0
+148,Dhemaji,Dhakuakhana,2022,Dhemaji2022,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+149,Dhemaji,Subansiri,2022,Dhemaji2022,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+150,Dhemaji,Dhemaji,2022,Dhemaji2022,7167,197,2,6,394,0,0,1,4,2,0,0,0,1
+151,Dhemaji,Sissiborgaon,2022,Dhemaji2022,26398,1738.62,0,5,0,0,0,1,8,0,3,0,0,1
+152,Dhemaji,Jonai,2022,Dhemaji2022,62335,8794.5,0,21,0,3,0,0,4,0,3,0,0,0
+153,Dhemaji,Gogamukh,2022,Dhemaji2022,20038,3871,1,13,92,0,1,3,10,0,0,0,0,4
+154,Tinsukia,Sadiya,2022,Tinsukia2022,6605,16,0,2,0,0,0,0,0,0,10,0,0,0
+155,Tinsukia,Doom Dooma,2022,Tinsukia2022,14676,370.23,4,5,2165,0,0,0,0,0,0,0,0,0
+156,Tinsukia,Tinsukia,2022,Tinsukia2022,4521,1268.33,3,18,209,0,0,0,0,0,2,0,2,0
+157,Tinsukia,Margherita,2022,Tinsukia2022,495,0,0,0,0,0,0,0,1,0,2,0,0,0
+158,Dibrugarh,Dibrugarh West,2022,Dibrugarh2022,0,0,0,0,0,0,0,1,0,0,3,0,0,1
+159,Dibrugarh,Dibrugarh East,2022,Dibrugarh2022,0,0,0,0,0,0,0,1,27,0,4,0,7,1
+160,Dibrugarh,Chabua,2022,Dibrugarh2022,8167,41,0,6,0,2,0,0,1,0,2,0,0,0
+161,Dibrugarh,Tengakhat,2022,Dibrugarh2022,3035,57,0,4,0,0,0,1,0,0,7,0,0,1
+162,Dibrugarh,Moran,2022,Dibrugarh2022,4434,127.59,0,7,0,0,0,0,11,0,2,0,0,0
+163,Dibrugarh,Tingkhong,2022,Dibrugarh2022,312,28.13,0,1,0,0,0,0,22,0,1,0,0,0
+164,Dibrugarh,Naharkatia,2022,Dibrugarh2022,564,262.37,0,5,0,0,0,0,1,0,9,1,0,0
+165,Sivasagar,Demow,2022,Sivasagar2022,6463,68.5,0,8,0,1,0,3,1,0,1,0,0,3
+166,Sivasagar,Sivsagar,2022,Sivasagar2022,6292,80,0,7,0,0,0,0,1,0,5,0,0,0
+167,Sivasagar,Amguri,2022,Sivasagar2022,0,9,0,0,0,0,0,0,0,0,2,0,0,0
+168,Sivasagar,Nazira,2022,Sivasagar2022,0,0,0,0,0,0,0,0,4,0,25,0,0,0
+169,Jorhat,Teok,2022,Jorhat2022,112,78.7,0,0,0,0,3,1,0,0,1,0,0,4
+170,Jorhat,Titabor,2022,Jorhat2022,0,20,0,0,0,0,0,0,0,0,0,0,0,0
+171,Jorhat,Mariani,2022,Jorhat2022,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+172,Golaghat,Bokakhat,2022,Golaghat2022,26532,663.5,0,15,0,2,0,1,1,0,1,0,0,1
+173,Golaghat,Khumtai,2022,Golaghat2022,0,26,0,0,0,0,0,0,0,0,1,0,0,0
+174,Golaghat,Dergaon,2022,Golaghat2022,33,69,0,0,0,0,0,0,0,0,1,0,0,0
+175,Golaghat,Golaghat,2022,Golaghat2022,1387,10,0,2,0,0,0,11,6,0,2,0,0,11
+176,Golaghat,Morangi,2022,Golaghat2022,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+177,Golaghat,Sarupathar,2022,Golaghat2022,0,12.14,0,0,0,0,0,0,0,0,4,0,0,0
+178,Karbi Anglong,Diphu,2022,Karbi Anglong2022,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+179,Karbi Anglong,Silonijan,2022,Karbi Anglong2022,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+180,Dima Hasao,Umrangso,2022,Dima Hasao2022,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+181,Dima Hasao,Haflong,2022,Dima Hasao2022,4804,1065.5,28,14,1922,1,0,0,32,3,13,9,0,0
+182,Dima Hasao,Mahur,2022,Dima Hasao2022,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+183,Dima Hasao,Maibong,2022,Dima Hasao2022,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+184,Cachar,Katigorah,2022,Cachar2022,230435,4224.1,102,92,76264,6,2,0,36,0,0,1,0,2
+185,Cachar,Silchar,2022,Cachar2022,725306,1922,162,88,168398,26,5,1,45,0,0,4,20,6
+186,Cachar,Udharbond,2022,Cachar2022,57723,1049.26,1,7,116,4,3,1,34,0,0,3,0,4
+187,Cachar,Sonai,2022,Cachar2022,284513,2915,54,79,45093,8,2,5,8,0,1,2,11,7
+188,Cachar,Lakhipur,2022,Cachar2022,171429,10060,50,50,14476,4,6,0,37,1,0,1,0,6
+189,Karimganj,Karimganj,2022,Karimganj2022,120371,894,38,17,17888,1,0,7,14,0,0,6,0,7
+190,Karimganj,Badarpur,2022,Karimganj2022,44571,275.2,23,23,2522,1,0,4,5,1,2,7,0,4
+191,Karimganj,Nilambazar,2022,Karimganj2022,77960,914,8,23,463,5,0,2,19,0,0,29,0,2
+192,Karimganj,Patherkandi,2022,Karimganj2022,7751,348.5,5,19,185,1,0,8,28,0,0,15,0,8
+193,Karimganj,RK Nagar,2022,Karimganj2022,51140,3500,19,25,1562,1,0,15,46,0,1,12,7,15
+194,Hailakandi,Algapur,2022,Hailakandi2022,190660,249,5,10,3497,2,5,6,16,1,3,3,0,11
+195,Hailakandi,Hailakandi,2022,Hailakandi2022,50021,112,7,11,2365,1,0,0,0,0,0,0,0,0
+196,Hailakandi,Lala,2022,Hailakandi2022,14000,42,2,13,337,0,0,0,2,0,2,23,0,0
+197,Hailakandi,Katlicherra,2022,Hailakandi2022,1338,19,2,4,245,2,0,2,37,0,3,40,0,2
+198,Bongaigaon,Bongaigaon,2022,Bongaigaon2022,925,197,1,2,153,0,0,0,19,0,1,0,0,0
+199,Bongaigaon,Boitamari,2022,Bongaigaon2022,66972,638,3,5,656,0,0,1,7,0,4,0,0,1
+200,Bongaigaon,Srijangram,2022,Bongaigaon2022,166318,2445,27,39,7061,0,0,1,19,0,19,0,0,1
+201,Bongaigaon,Sidli,2022,Bongaigaon2022,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+202,Bongaigaon,Manikpur,2022,Bongaigaon2022,103609,2712,3,35,1297,0,0,0,0,0,0,0,0,0
+203,Chirang,Kokrajhar,2022,Chirang2022,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+204,Chirang,Barnagar,2022,Chirang2022,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+205,Chirang,Bengtal,2022,Chirang2022,2988,253,4,2,741,0,0,0,6,0,3,0,0,0
+206,Chirang,Sidli,2022,Chirang2022,2808,368.5,0,10,0,0,0,0,7,0,7,0,0,0
+207,Chirang,Bijni,2022,Chirang2022,12573,2922.5,12,7,3440,2,0,0,4,0,8,0,0,0
+208,Kamrup,Rangia,2022,Kamrup2022,82230,798.5,23,4,2960,3,0,4,7,1,2,0,8,4
+209,Kamrup,Kayan,2022,Kamrup2022,38122,407,19,10,4332,1,1,1,4,0,4,0,0,2
+210,Kamrup,Kamalpur,2022,Kamrup2022,188602,1045,25,25,3053,0,0,1,18,2,1,0,0,1
+211,Kamrup,Hajo,2022,Kamrup2022,532240,2099,19,21,3387,2,0,8,65,0,4,0,0,8
+212,Kamrup,Chhaygaon,2022,Kamrup2022,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+213,Kamrup,Goroimari,2022,Kamrup2022,0,700,0,0,0,0,0,0,1,0,1,0,0,0
+214,Kamrup,Chamaria,2022,Kamrup2022,0,1829.5,0,2,0,0,0,0,30,2,0,0,0,0
+215,Kamrup,Nagarbera,2022,Kamrup2022,0,1583,0,0,0,0,0,1,5,2,1,0,0,1
+216,Kamrup,Boko,2022,Kamrup2022,0,69,0,0,0,0,0,0,0,0,0,2,0,0
+217,Kamrup,North Guwahati,2022,Kamrup2022,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+218,Kamrup,Jalah,2022,Kamrup2022,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+219,Kamrup Metropolitan,Guwahati,2022,Kamrup Metropolitan2022,21550,0,3,12,620,5,0,0,0,0,0,15,27,0
+220,Kamrup Metropolitan,Sonapur,2022,Kamrup Metropolitan2022,5646,812.5,0,5,0,2,0,0,0,0,0,2,1,0
+221,Kamrup Metropolitan,Chandrapur,2022,Kamrup Metropolitan2022,3489,948,0,3,0,0,0,0,1,0,4,4,0,0
+222,Nalbari,Tihu,2022,Nalbari2022,44605,465,20,23,7562,0,2,0,19,0,24,0,0,2
+223,Nalbari,Pachim Nalbari,2022,Nalbari2022,49621,554,21,21,10914,1,0,0,0,0,0,0,0,0
+224,Nalbari,Barkhetri,2022,Nalbari2022,269330,5019.5,4,4,210,0,0,3,10,1,5,0,0,3
+225,Nalbari,Barbhag,2022,Nalbari2022,21000,270,20,0,1800,3,0,2,7,1,1,0,0,2
+226,Nalbari,Nalbari,2022,Nalbari2022,12500,381.5,30,4,5500,1,2,2,58,6,3,0,10,4
+227,Nalbari,Banekuchi,2022,Nalbari2022,43820,165,17,0,6447,1,1,1,8,1,1,0,0,2
+228,Nalbari,Ghograpar,2022,Nalbari2022,58214,718,3,13,598,0,0,0,15,0,8,0,0,0
+230,Nalbari,Baganpara,2022,Nalbari2022,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+231,Baksa,Barnagar,2022,Baksa2022,51222,1757.5,0,15,0,0,0,0,0,0,0,0,0,0
+232,Baksa,Ghograpar,2022,Baksa2022,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+233,Baksa,Jalah,2022,Baksa2022,12501,614,1,4,102,0,0,0,15,0,6,0,0,0
+234,Baksa,Barama,2022,Baksa2022,1450,68,4,1,754,0,1,1,1,0,5,0,0,2
+235,Baksa,Rangia,2022,Baksa2022,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+236,Baksa,Pathorighat,2022,Baksa2022,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+237,Darrang,Khoirabari,2022,Darrang2022,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+238,Darrang,Patharighat,2022,Darrang2022,86485,2000,5,16,633,2,3,2,15,2,0,0,0,5
+239,Darrang,Sipajhar,2022,Darrang2022,155764,1654,7,43,1917,2,2,0,2,0,1,0,0,2
+240,Udalguri,Dhekiajuli,2022,Udalguri2022,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+241,Udalguri,Khoirabari,2022,Udalguri2022,5332,166,3,5,902,2,0,0,0,0,0,0,0,0
+242,Udalguri,Pathorighat,2022,Udalguri2022,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+243,Udalguri,Mangaldoi,2022,Udalguri2022,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+244,Udalguri,Dalgaon,2022,Udalguri2022,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+245,Udalguri,Harisinga,2022,Udalguri2022,3681,146,5,7,744,1,1,0,6,2,8,0,3,1
+246,Udalguri,Udalguri,2022,Udalguri2022,11035,5103,11,25,1689,2,3,1,8,1,8,0,3,4
+247,Udalguri,Mazbat,2022,Udalguri2022,9525,475.44,9,9,1710,1,1,0,3,1,5,0,0,1
+248,Charaideo,Mahmora,2022,Charaideo2022,0,1.6,0,0,0,0,0,1,0,0,7,0,0,1
+249,Biswanath,Biswanath,2022,Biswanath2022,3594,1250,0,10,0,0,0,0,2,1,7,0,0,0
+250,Biswanath,Halem,2022,Biswanath2022,41310,1310,5,19,390,1,4,1,9,1,4,0,0,5
+251,Biswanath,Gohpur,2022,Biswanath2022,28181,785,2,3,241,1,1,2,10,4,1,0,0,3
+252,Hojai,Hojai,2022,Hojai2022,88148,5377,46,19,43033,6,0,0,26,0,1,0,0,0
+253,Hojai,Doboka,2022,Hojai2022,53838,1248,14,19,13891,3,3,0,10,0,0,0,0,3
+254,Hojai,Lanka,2022,Hojai2022,12494,815,3,6,0,0,1,0,1,0,2,2,0,1
+255,West Karbi Anglong,Donkamokam,2022,West Karbi Anglong2022,43432,541,3,34,275,0,0,2,4,0,1,1,0,2
+256,South Salmara,South Salmara,2022,South Salmara2022,265395,3769,0,23,0,1,0,1,3,0,3,0,0,1
+257,South Salmara,Mankachar,2022,South Salmara2022,37769,405,10,27,472,0,0,1,1,0,4,2,0,1
+258,Baksa,Bajali,2022,Baksa2022,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+259,Baksa,Goreswar,2022,Baksa2022,26655,1310,8,18,1411,1,5,2,13,1,3,0,0,7
+260,Baksa,Baganpara,2022,Baksa2022,9042,219.5,1,2,614,0,0,0,2,0,1,0,0,0
+261,Baksa,Tamulpur,2022,Baksa2022,10810,800,14,12,1583,1,7,1,10,2,7,0,0,8
+262,Baksa,Baska,2022,Baksa2022,1780,35.07,6,1,1469,0,7,1,14,0,3,0,0,8
+263,Baksa,Sarupeta,2022,Baksa2022,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+264,Barpeta,Barnagar,2022,Barpeta2022,51222,1757.5,0,15,0,0,0,1,15,0,2,0,3,1
+265,Barpeta,Sarupeta,2022,Barpeta2022,195000,857,11,1,2122,0,0,0,0,0,0,0,0,0
+266,Barpeta,Chenga,2022,Barpeta2022,154483,3348.5,37,16,3554,5,1,1,16,2,5,0,0,2
+267,Kamrup Metropolitan,North Guwahati,2022,Kamrup Metropolitan2022,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+268,Darrang,Kalaigaon,2022,Darrang2022,49671,2450,9,30,1492,0,9,3,9,3,8,0,0,12
+269,Darrang,Mangaldoi,2022,Darrang2022,125007,11963,9,55,4474,3,6,1,62,1,2,0,10,7
+270,Darrang,Dalgaon,2022,Darrang2022,185900,7441.5,1,20,1670,2,0,0,14,1,4,0,1,0
+271,Morigaon,Mayong,2022,Morigaon2022,5941,14000,2,13,578,4,0,0,11,2,4,1,0,0
+272,Kamrup,Palasbari,2022,Kamrup2022,2499,435,0,3,0,0,0,0,0,0,0,0,0,0
+273,Kamrup,Azara,2022,Kamrup2022,981,327,0,0,0,0,0,0,0,0,0,0,0,0
+274,Dhubri,Gossaigaon,2022,Dhubri2022,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+275,Karbi Anglong,Phuloni,2022,Karbi Anglong2022,0,96.31,0,0,0,0,0,0,0,0,0,0,0,0
+276,Jorhat,Jorhat West,2022,Jorhat2022,0,0,0,0,0,0,0,0,4,0,2,0,0,0
+277,Jorhat,Jorhat East,2022,Jorhat2022,0,0,0,0,0,0,0,0,0,0,0,0,4,0
+278,Charaideo,Sapekhati,2022,Charaideo2022,2750,18,0,9,0,0,0,0,1,0,1,0,0,0
+279,Charaideo,Sonari,2022,Charaideo2022,6056,86,1,9,75,0,0,0,1,0,13,0,0,0
+280,Majuli,Ujani Majuli,2022,Majuli2022,0,0,0,8,0,0,0,1,2,0,6,0,0,1
+281,Majuli,Majuli,2022,Majuli2022,17403,589.36,0,10,0,0,0,5,1,0,7,0,0,5

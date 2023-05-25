@@ -1,0 +1,56 @@
+variable,variable_description,data_source
+gmted_drainage_density_without_1,Mean drainage density in revenue circle,India-WRIS
+srtm_filled_dem,Mean elevation of the revenue circle,SRTM 1 Arc Second Global
+GCN250_ARCIII_average,Mean surface runoff in revenue circle,https://www.nature.com/articles/s41597-019-0155-x
+Inundation,Mean area inundated in a revenue circle during 2017-22,BHUVAN
+sum,Daily rainfall data aggregated yearly for monsoon months,IMD Gridded Rainfall Data
+assam_dist_from_major_rivers_updated_3857,Mean distance of the revenue cirle from major rivers,India-WRIS
+strm_filled_slope_degrees,Mean slope of a revenue circle,SRTM 1 Arc Second Global
+ndvi,Mean NDVI value of a revenue circle,Sentinel-2 MSI
+ind_ppp_UNadj,Population of the revenue circle,World Population Global Project
+aged,Population (above 65 years) of the revenue circle,World Population Global Project
+young,Population (below 5 years) of the revenue circle,World Population Global Project
+percaay,Percapita Antyodaya Anna Yojana members in each revenue circle,Assam Statistical Handbook
+deprived,Percentage of deprived households in each revenue circle,SECC
+nophone,Households with neither mobile nor landline in each revenue circle,SECC
+noSanitation,Population living in HHs that use an improved sanitation facility  in each revenue circle,NFHS-5
+nodrinkingWater,Population living in HHs with an improved drinking-water source  in each revenue circle,NFHS-5
+totLivestock,Livestock numbers in each revenue circle,Assam Statistical Handbook
+proximity_hosptial_rd,Proximity to hospital,GeoSadak
+proximity_embankment_rd,Proximity to embankment,NERDRR
+proximity_rail_rd,Proximity to railway line,GeoSadak
+proximity_local_rd,Proximity to local road,GeoSadak
+proximity_arterial_rd,Proximity to arterial road,GeoSadak
+ndbi,Median NDBI value for a revenue circle,Sentinel-2 MSI
+population_affected,Population affected to floods in each revenue circle,FRIMS
+crop_area_affected,Crop area affected to floods in each revenue circle,FRIMS
+human_lives_lost,Human lives lost to floods in each revenue circle,FRIMS
+roads_dam,Number of Roads damaged to floods in each revenue circle,FRIMS
+bridges_dam,Number of Bridges damaged to floods in each revenue circle,FRIMS
+embankment_total,Number of embankments damaged to floods in each revenue circle,FRIMS
+Count_Roads_Bridges_Embankments,"Count of all flood related tenders used to build roads, bridges and embankments",filtered tenders with metadata geocoded districts
+Sum_Roads_Bridges_Embankments,"Sum of all flood related tenders’ value used to build roads, bridges and embankments",filtered tenders with metadata geocoded districts
+Count_Erosion,Count of all flood related Erosion tenders,filtered tenders with metadata geocoded districts
+Sum_Erosion,Sum of all flood related Erosion tenders’ value,filtered tenders with metadata geocoded districts
+Count_IM,Count of all flood related tenders – Immediate Measures,filtered tenders with metadata geocoded districts
+Sum_IM,Sum of all flood related tenders’ value – Immediate Measures,filtered tenders with metadata geocoded districts
+Count_new_const,Count of all flood related tenders – New constructions,filtered tenders with metadata geocoded districts
+Sum_new_const,Sum of all flood related tenders’ value – New constructions,filtered tenders with metadata geocoded districts
+Count_repair_rest_imp,Count of all flood related tenders – Repairs and restorations,filtered tenders with metadata geocoded districts
+Sum_repair_rest_imp,Sum of all flood related tenders’ value – Repairs and restorations,filtered tenders with metadata geocoded districts
+Count_relief_preparation,Count of all flood related tenders – Relief and preparation,filtered tenders with metadata geocoded districts
+Sum_relief_preparation,Sum of all flood related tenders’ value – Relief and preparation,filtered tenders with metadata geocoded districts
+Count_goods,Count of all flood related tenders – Goods related,filtered tenders with metadata geocoded districts
+Sum_goods,Sum of all flood related tenders’ value – Goods related,filtered tenders with metadata geocoded districts
+Count_Total,Count of all flood related tenders,filtered tenders with metadata geocoded districts
+Sum_Total,Sum of all flood related tenders’ value,filtered tenders with metadata geocoded districts
+Count_SDRF,Count of all flood related tenders (SDRF),filtered tenders with metadata geocoded districts
+Sum_SDRF,Sum of all flood related tenders’ value (SDRF),filtered tenders with metadata geocoded districts
+Count_SOPD,Count of all flood related tenders (SOPD),filtered tenders with metadata geocoded districts
+Sum_SOPD,Sum of all flood related tenders’ value (SOPD),filtered tenders with metadata geocoded districts
+Count_CIDF,Count of all flood related tenders (CIDF),filtered tenders with metadata geocoded districts
+Sum_CIDF,Sum of all flood related tenders’ value (CIDF),filtered tenders with metadata geocoded districts
+Count_LTIF,Count of all flood related tenders (LTIF),filtered tenders with metadata geocoded districts
+Sum_LTIF,Sum of all flood related tenders’ value (LTIF),filtered tenders with metadata geocoded districts
+Count_RIDF,Count of all flood related tenders (RIDF),filtered tenders with metadata geocoded districts
+Sum_RIDF,Sum of all flood related RIDF tenders’ value,filtered tenders with metadata geocoded districts

@@ -20,6 +20,7 @@ Scraped till 25.06.2023
 Few issues with the scraped data - Infra damages
 1. South Salmara revenue circle is present in Dhubri district 25th June's FRIMS report. This is not as per maps.
 2. Minor discrepancies between overall number of damages reported in a district and number of individual damages reported in `Details` section. Check road damages in `Bongaigaon` on 25th June; `Cachar` on 23rd June for examples.
-3. `Dangtol` RC is present in `Bongaigaon` [20th June]. This is not as per maps. Renamed it to `Bongaigaon` RC. 
+3. `Dangtol` RC is present in `Bongaigaon` [20th June]. This is not as per maps. Renamed it to `Bongaigaon` RC.
+4. At times, RC level split is not available on FRIMS. Check `Kokrajhar` embankments affected on 23rd June for example. 
 
 If you want to contribute to the data sources or have any doubts with the data, please contact us at info@civicdatalab.in

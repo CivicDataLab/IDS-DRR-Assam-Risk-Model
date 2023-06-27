@@ -1,5 +1,4 @@
 # FRIMS Daily Reports Scraper
-
 The Assam Disaster Management Authority (ASDMA) instituted a robust data collection system called Flood Reporting and Information Management System [(FRIMS)](http://www.asdma.gov.in/reports.html), which updates data of flood damages and relief efforts of the government on a daily basis.
 
 This data is made available in the form of PDFs by the ASDMA making them not machine-readable. The following web scraper codes thus help to organise the FRIMS data in CSVs, so that the data can be used for further analysis.
@@ -15,5 +14,12 @@ This data is made available in the form of PDFs by the ASDMA making them not mac
 
 ## Scraped and cleaned data:
 1. FRIMS 2022: [IDEA-FRM past_damages](https://github.com/CivicDataLab/IDEA-FRM/tree/main/past_damages)
+
+## 2023
+Scraped till 25.06.2023
+Few issues with the scraped data - Infra damages
+1. South Salmara revenue circle is present in Dhubri district 25th June's FRIMS report. This is not as per maps.
+2. Minor discrepancies between overall number of damages reported in a district and number of individual damages reported in `Details` section. Check road damages in `Bongaigaon` on 25th June; `Cachar` on 23rd June for examples.
+3. `Dangtol` RC is present in `Bongaigaon` [20th June]. This is not as per maps. Renamed it to `Bongaigaon` RC. 
 
 If you want to contribute to the data sources or have any doubts with the data, please contact us at info@civicdatalab.in

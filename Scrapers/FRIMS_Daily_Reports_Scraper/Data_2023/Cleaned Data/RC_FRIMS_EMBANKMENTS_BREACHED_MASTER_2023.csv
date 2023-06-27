@@ -1,25 +1,25 @@
-District,RevenueCircle,Number of damages,Date
-Biswanath,Gohpur ,1,2023-06-11
-Biswanath,Gohpur ,1,2023-06-22
-Biswanath,Gohpur ,1,2023-06-12
-Biswanath,Gohpur ,1,2023-06-23
-Lakhimpur,Nowboicha ,1,2023-06-12
-Lakhimpur,Narayanpur ,2,2023-06-16
-Lakhimpur,Nowboicha ,2,2023-06-14
-Darrang,Mangaldoi ,1,2023-06-22
-Darrang,Mangaldoi ,2,2023-06-17
-Darrang,Mangaldoi ,3,2023-06-12
-Darrang,Mangaldoi ,3,2023-06-25
-Darrang,Mangaldoi ,4,2023-06-24
-Goalpara,Matia ,1,2023-06-15
-Udalguri,Kalaigaon ,1,2023-06-17
-Udalguri,Harisinga ,1,2023-06-20
-Udalguri,Harisinga ,1,2023-06-16
-Udalguri,Kalaigaon ,1,2023-06-16
-Sonitpur,Chariduar ,1,2023-06-17
-Nagaon,Kampur ,1,2023-06-17
-Baksa,Barama ,3,2023-06-21
-Nalbari,Nalbari ,1,2023-06-22
-Nalbari,Tihu ,1,2023-06-21
-Bajali,Bajali ,6,2023-06-22
-Bajali,Sarupeta ,1,2023-06-22
+Date,object_id,revenue_ci,District,Number of damages
+2023-06-11,251,Gohpur,BISWANATH,1
+2023-06-22,251,Gohpur,BISWANATH,1
+2023-06-12,251,Gohpur,BISWANATH,1
+2023-06-23,251,Gohpur,BISWANATH,1
+2023-06-12,143,Nowboicha,LAKHIMPUR,1
+2023-06-16,141,Narayanpur,LAKHIMPUR,2
+2023-06-14,143,Nowboicha,LAKHIMPUR,2
+2023-06-22,269,Mangaldoi,DARRANG,1
+2023-06-17,269,Mangaldoi,DARRANG,2
+2023-06-12,269,Mangaldoi,DARRANG,3
+2023-06-25,269,Mangaldoi,DARRANG,3
+2023-06-24,269,Mangaldoi,DARRANG,4
+2023-06-15,117,Matia,GOALPARA,1
+2023-06-17,268,Kalaigaon,UDALGURI,1
+2023-06-20,245,Harisinga,UDALGURI,1
+2023-06-16,245,Harisinga,UDALGURI,1
+2023-06-16,268,Kalaigaon,UDALGURI,1
+2023-06-17,138,Chariduar,SONITPUR,1
+2023-06-17,136,Kampur,NAGAON,1
+2023-06-21,234,Barama,BAKSA,3
+2023-06-22,226,Nalbari,NALBARI,1
+2023-06-21,222,Tihu,NALBARI,1
+2023-06-22,124,Bajali,BAJALI,6
+2023-06-22,265,Sarupeta,BAJALI,1

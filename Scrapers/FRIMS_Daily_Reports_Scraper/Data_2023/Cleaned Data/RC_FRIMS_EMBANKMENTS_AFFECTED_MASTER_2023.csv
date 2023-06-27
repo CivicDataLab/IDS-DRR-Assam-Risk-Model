@@ -1,39 +1,39 @@
-District,RevenueCircle,Number of damages,Date
-Dhemaji,Jonai ,1,2023-06-17
-Dhemaji,Gogamukh ,1,2023-06-14
-Dhemaji,Dhemaji ,1,2023-06-15
-Dhemaji,Sissiborgaon ,1,2023-06-11
-Biswanath,Gohpur ,1,2023-06-24
-Biswanath,Gohpur ,1,2023-06-21
-Biswanath,Gohpur ,1,2023-06-20
-Biswanath,Gohpur ,1,2023-06-19
-Biswanath,Gohpur ,2,2023-06-22
-Biswanath,Gohpur ,2,2023-06-23
-Biswanath,Gohpur ,2,2023-06-15
-Biswanath,Gohpur ,2,2023-06-12
-Biswanath,Gohpur ,3,2023-06-14
-Biswanath,Gohpur ,3,2023-06-18
-Biswanath,Gohpur ,4,2023-06-17
-Biswanath,Gohpur ,4,2023-06-16
-Darrang,Mangaldoi ,1,2023-06-14
-Darrang,Mangaldoi ,1,2023-06-20
-Darrang,Mangaldoi ,1,2023-06-17
-Darrang,Sipajhar ,1,2023-06-23
-Darrang,Mangaldoi ,2,2023-06-23
-Tamulpur,Goreswar ,1,2023-06-20
-Tamulpur,Goreswar ,3,2023-06-16
-Golaghat,Bokakhat ,1,2023-06-16
-Golaghat,Bokakhat ,1,2023-06-24
-Goalpara,Lakhipur ,1,2023-06-17
-Karimganj,Patherkandi ,1,2023-06-17
-Lakhimpur,Nowboicha ,1,2023-06-18
-Nagaon,Raha ,1,2023-06-19
-Nalbari,Barbhag ,1,2023-06-22
-Nalbari,Tihu ,1,2023-06-19
-Nalbari,Nalbari ,2,2023-06-21
-Nalbari,Nalbari ,7,2023-06-25
-Nalbari,Nalbari ,6,2023-06-24
-Nalbari,Ghograpar ,4,2023-06-24
-Bajali,Sarupeta ,1,2023-06-21
-Bajali,Bajali ,2,2023-06-21
-Kamrup,Hajo ,3,2023-06-24
+Date,object_id,revenue_ci,District,Number of damages
+2023-06-17,152,Jonai,DHEMAJI,1
+2023-06-14,153,Gogamukh,DHEMAJI,1
+2023-06-15,150,Dhemaji,DHEMAJI,1
+2023-06-11,151,Sissiborgaon,DHEMAJI,1
+2023-06-24,251,Gohpur,BISWANATH,1
+2023-06-21,251,Gohpur,BISWANATH,1
+2023-06-20,251,Gohpur,BISWANATH,1
+2023-06-19,251,Gohpur,BISWANATH,1
+2023-06-22,251,Gohpur,BISWANATH,2
+2023-06-23,251,Gohpur,BISWANATH,2
+2023-06-15,251,Gohpur,BISWANATH,2
+2023-06-12,251,Gohpur,BISWANATH,2
+2023-06-14,251,Gohpur,BISWANATH,3
+2023-06-18,251,Gohpur,BISWANATH,3
+2023-06-17,251,Gohpur,BISWANATH,4
+2023-06-16,251,Gohpur,BISWANATH,4
+2023-06-14,269,Mangaldoi,DARRANG,1
+2023-06-20,269,Mangaldoi,DARRANG,1
+2023-06-17,269,Mangaldoi,DARRANG,1
+2023-06-23,239,Sipajhar,DARRANG,1
+2023-06-23,269,Mangaldoi,DARRANG,2
+2023-06-20,259,Goreswar,TAMULPUR,1
+2023-06-16,259,Goreswar,TAMULPUR,3
+2023-06-16,172,Bokakhat,GOLAGHAT,1
+2023-06-24,172,Bokakhat,GOLAGHAT,1
+2023-06-17,115,Lakhipur,GOALPARA,1
+2023-06-17,192,Patherkandi,KARIMGANJ,1
+2023-06-18,143,Nowboicha,LAKHIMPUR,1
+2023-06-19,135,Raha,NAGAON,1
+2023-06-22,225,Barbhag,NALBARI,1
+2023-06-19,222,Tihu,NALBARI,1
+2023-06-21,226,Nalbari,NALBARI,2
+2023-06-25,226,Nalbari,NALBARI,7
+2023-06-24,226,Nalbari,NALBARI,6
+2023-06-24,228,Ghograpar,NALBARI,4
+2023-06-21,265,Sarupeta,BAJALI,1
+2023-06-21,124,Bajali,BAJALI,2
+2023-06-24,211,Hajo,KAMRUP,3

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 (bhuvanscraper)" project-jdk-type="Python SDK" />
+  <component name="UnattendedHostPersistenceState">
+    <option name="openedFilesInfos">
+      <list>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="69" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/.env" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="108" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/upload_to_s3.py" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="239" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/latest.py" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="0" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/scrapebhuvan.py" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="1124" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/stitch.py" />
+        </OpenedFileInfo>
+      </list>
+    </option>
+  </component>
+</project>

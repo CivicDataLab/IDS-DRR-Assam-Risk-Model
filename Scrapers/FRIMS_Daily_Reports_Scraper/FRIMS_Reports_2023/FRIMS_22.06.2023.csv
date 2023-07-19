@@ -1,6 +1,6 @@
-0,1,2,3,4,5,6,7,8,9,10
-Assam Daily Flood Report as on 22-06-2023 at 4:00 PM,,,,,,,,,,
-Particulars,Situation as on 22-06-2023 (in last 24 hours),,,,,,,,,
+0,1,2,3,4,5,6,7,8,9,10,11
+Assam Daily Flood Report as on 22-06-2023 at 4:00 PM,,,,,,,,,,,
+Particulars,Situation as on 22-06-2023 (in last 24 hours),,,,,,,,,,
 "Rivers 
 flowing 
 above 
@@ -9,353 +9,371 @@ Level (as
 per CWC 
 bulletin 
 issued at 8 
-AM)",Rivers flowing above danger level,,,"Beki (Road Bridge), Manas (Nh Road Crossing), Pagladiya (Nt Road Crossing), 
-Puthimari (Nh Road Crossing), Brahmaputra (Dhubri; Neamatighat)",,,,,,
-,"Rivers flowing above highest 
-flood level",,,Nil,,,,,,
-"District/Sub
--division 
+AM)","Rivers flowing above 
+danger level",,,"Beki (Road Bridge), Manas (Nh Road Crossing), Pagladiya (Nt Road Crossing), 
+Puthimari (Nh Road Crossing), Brahmaputra (Dhubri; Neamatighat)",,,,,,,
+,"Rivers flowing above 
+highest flood level",,,Nil,,,,,,,
+"District/Su
+b-division 
 Affected","No. of 
-Districts/Su
-b-divisions* 
-Affected","Name of Flood Affected Districts/Sub-
-divisions*",,,Name of Urban Flood Districts/Sub-divisions*,,,,,
+Districts/S
+ub-
+divisions* 
+Affected","Name of Flood Affected 
+Districts/Sub-divisions*",,,Name of Urban Flood Districts/Sub-divisions*,,,,,,
 ,22,"Bajali, Baksa, Barpeta, Biswanath, 
-Bongaigaon, Chirang, Darrang, Dhemaji, 
-Dhubri, Dibrugarh, Golaghat, Hojai, 
-Kamrup, Kokrajhar, Lakhimpur, Majuli, 
-Nagaon, Nalbari, Sonitpur, Tamulpur",,,"Bajali, Darrang, Jorhat, Kamrup (M), Kokrajhar",,,,,
+Bongaigaon, Chirang, Darrang, 
+Dhemaji, Dhubri, Dibrugarh, Golaghat, 
+Hojai, Kamrup, Kokrajhar, Lakhimpur, 
+Majuli, Nagaon, Nalbari, Sonitpur, 
+Tamulpur",,,"Bajali, Darrang, Jorhat, Kamrup (M), Kokrajhar",,,,,,
 "No. Of 
 Revenue 
 Circles 
-Affected",58,,,,,,,,,
+Affected",58,,,,,,,,,,
 "Name Of 
 Revenue 
 Circles 
-Affected","District/Sub
--division*",Total,Revenue Circle,,,,,,,
-,Bajali,2,"Bajali, Sarupeta",,,,,,,
-,Baksa,4,"Barama, Baska, Baganpara, Jalah",,,,,,,
-,Barpeta,2,"Barpeta, Sarthebari",,,,,,,
-,Biswanath,2,"Halem, Gohpur",,,,,,,
-,Bongaigaon,2,"Manikpur, Srijangram",,,,,,,
-,Chirang,3,"Bijni, Bengtal, Sidli",,,,,,,
-,Darrang,4,"Sipajhar, Mangaldoi, Patharighat, Dalgaon",,,,,,,
-,Dhemaji,2,"Dhemaji, Jonai",,,,,,,
-,Dhubri,4,"Golakganj, Dhubri, Bilasipara, Agamoni",,,,,,,
-,Dibrugarh,3,"Moran, Dibrugarh West, Chabua",,,,,,,
-,Golaghat,1,Bokakhat,,,,,,,
-,Hojai,1,Hojai,,,,,,,
-,Jorhat,1,Jorhat East,,,,,,,
-,Kamrup,5,"North Ghy, Kamalpur, Rangia, Hajo, Kayan",,,,,,,
-,Kamrup (M),1,Dispur,,,,,,,
-,Kokrajhar,5,"Bhawraguri, Bagribari, Kokrajhar, Dotma, Gossaigaon",,,,,,,
-,Lakhimpur,3,"Nowboicha, Bihpuria, Narayanpur",,,,,,,
-,Majuli,1,Majuli,,,,,,,
-,Nagaon,2,"Kampur, Raha",,,,,,,
-,Nalbari,7,"Barkhetri, Tihu, Banekuchi, Barbhag, Nalbari, Paschim Nalbari, Ghograpar",,,,,,,
-,Sonitpur,1,Dhekiajuli,,,,,,,
-,Tamulpur,2,"Goreswar, Tamulpur",,,,,,,
-,Total,58,,,,,,,,
+Affected","District/Su
+b-division*",Total,Revenue Circle,,,,,,,,
+,Bajali,2,"Bajali, Sarupeta",,,,,,,,
+,Baksa,4,"Barama, Baska, Baganpara, Jalah",,,,,,,,
+,Barpeta,2,"Barpeta, Sarthebari",,,,,,,,
+,Biswanath,2,"Halem, Gohpur",,,,,,,,
+,"Bongaigao
+n",2,"Manikpur, Srijangram",,,,,,,,
+,Chirang,3,"Bijni, Bengtal, Sidli",,,,,,,,
+,Darrang,4,"Sipajhar, Mangaldoi, Patharighat, Dalgaon",,,,,,,,
+,Dhemaji,2,"Dhemaji, Jonai",,,,,,,,
+,Dhubri,4,"Golakganj, Dhubri, Bilasipara, Agamoni",,,,,,,,
+,Dibrugarh,3,"Moran, Dibrugarh West, Chabua",,,,,,,,
+,Golaghat,1,Bokakhat,,,,,,,,
+,Hojai,1,Hojai,,,,,,,,
+,Jorhat,1,Jorhat East,,,,,,,,
+,Kamrup,5,"North Ghy, Kamalpur, Rangia, Hajo, Kayan",,,,,,,,
+,"Kamrup 
+(M)",1,Dispur,,,,,,,,
+,Kokrajhar,5,"Bhawraguri, Bagribari, Kokrajhar, Dotma, Gossaigaon",,,,,,,,
+,Lakhimpur,3,"Nowboicha, Bihpuria, Narayanpur",,,,,,,,
+,Majuli,1,Majuli,,,,,,,,
+,Nagaon,2,"Kampur, Raha",,,,,,,,
+,Nalbari,7,"Barkhetri, Tihu, Banekuchi, Barbhag, Nalbari, Paschim Nalbari, Ghograpar",,,,,,,,
+,Sonitpur,1,Dhekiajuli,,,,,,,,
+,Tamulpur,2,"Goreswar, Tamulpur",,,,,,,,
+,Total,58,,,,,,,,,
 "Villages 
-Affected","District/Sub
--division*",Total,Revenue Circle,,,,,,,
-,Bajali,196,"( Bajali | 121 ), ( Sarupeta | 75 )",,,,,,,
-,Baksa,66,"( Barama | 15 ), ( Baska | 17 ), ( Baganpara | 16 ), ( Jalah | 18 )",,,,,,,
-,Barpeta,60,"( Barpeta | 13 ), ( Sarthebari | 47 )",,,,,,,
-,Biswanath,21,"( Halem | 19 ), ( Gohpur | 2 )",,,,,,,
-,Bongaigaon,148,"( Manikpur | 71 ), ( Srijangram | 77 )",,,,,,,
-,Chirang,120,"( Bijni | 52 ), ( Bengtal | 23 ), ( Sidli | 45 )",,,,,,,
-,Darrang,189,"( Sipajhar | 74 ), ( Mangaldoi | 75 ), ( Patharighat | 24 ), ( Dalgaon | 16 )",,,,,,,
-,Dhemaji,4,"( Dhemaji | 3 ), ( Jonai | 1 )",,,,,,,
-,Dhubri,56,"( Golakganj | 12 ), ( Dhubri | 4 ), ( Bilasipara | 7 ), ( Agamoni | 33 )",,,,,,,
-,Dibrugarh,8,"( Moran | 1 ), ( Dibrugarh West | 6 ), ( Chabua | 1 )",,,,,,,
-,Golaghat,17,( Bokakhat | 17 ),,,,,,,
-,Hojai,3,( Hojai | 3 ),,,,,,,
-,Kamrup,143,"( North Ghy | 6 ), ( Kamalpur | 38 ), ( Rangia | 50 ), ( Hajo | 33 ), ( Kayan | 16 )",,,,,,,
-,Kokrajhar,40,"( Bhawraguri | 1 ), ( Bagribari | 9 ), ( Kokrajhar | 10 ), ( Dotma | 19 ), ( Gossaigaon | 1 )",,,,,,,
-,Lakhimpur,33,"( Nowboicha | 13 ), ( Bihpuria | 4 ), ( Narayanpur | 16 )",,,,,,,
-,Majuli,9,( Majuli | 9 ),,,,,,,
-,Nagaon,17,"( Kampur | 3 ), ( Raha | 14 )",,,,,,,
-,Nalbari,182,"( Barkhetri | 3 ), ( Tihu | 25 ), ( Banekuchi | 12 ), ( Barbhag | 47 ), ( Nalbari | 23 ), ( Paschim Nalbari 
-| 10 ), ( Ghograpar | 62 )",,,,,,,
-,Sonitpur,9,( Dhekiajuli | 9 ),,,,,,,
-,Tamulpur,45,"( Goreswar | 22 ), ( Tamulpur | 23 )",,,,,,,
-,Total,1366,,,,,,,,
+Affected","District/Su
+b-division*",Total,Revenue Circle,,,,,,,,
+,Bajali,196,"( Bajali | 121 ), ( Sarupeta | 75 )",,,,,,,,
+,Baksa,66,"( Barama | 15 ), ( Baska | 17 ), ( Baganpara | 16 ), ( Jalah | 18 )",,,,,,,,
+,Barpeta,60,"( Barpeta | 13 ), ( Sarthebari | 47 )",,,,,,,,
+,Biswanath,21,"( Halem | 19 ), ( Gohpur | 2 )",,,,,,,,
+,"Bongaigao
+n",148,"( Manikpur | 71 ), ( Srijangram | 77 )",,,,,,,,
+,Chirang,120,"( Bijni | 52 ), ( Bengtal | 23 ), ( Sidli | 45 )",,,,,,,,
+,Darrang,189,"( Sipajhar | 74 ), ( Mangaldoi | 75 ), ( Patharighat | 24 ), ( Dalgaon | 16 )",,,,,,,,
+,Dhemaji,4,"( Dhemaji | 3 ), ( Jonai | 1 )",,,,,,,,
+,Dhubri,56,"( Golakganj | 12 ), ( Dhubri | 4 ), ( Bilasipara | 7 ), ( Agamoni | 33 )",,,,,,,,
+,Dibrugarh,8,"( Moran | 1 ), ( Dibrugarh West | 6 ), ( Chabua | 1 )",,,,,,,,
+,Golaghat,17,( Bokakhat | 17 ),,,,,,,,
+,Hojai,3,( Hojai | 3 ),,,,,,,,
+,Kamrup,143,"( North Ghy | 6 ), ( Kamalpur | 38 ), ( Rangia | 50 ), ( Hajo | 33 ), ( Kayan | 16 )",,,,,,,,
+,Kokrajhar,40,"( Bhawraguri | 1 ), ( Bagribari | 9 ), ( Kokrajhar | 10 ), ( Dotma | 19 ), ( Gossaigaon | 1 )",,,,,,,,
+,Lakhimpur,33,"( Nowboicha | 13 ), ( Bihpuria | 4 ), ( Narayanpur | 16 )",,,,,,,,
+,Majuli,9,( Majuli | 9 ),,,,,,,,
+,Nagaon,17,"( Kampur | 3 ), ( Raha | 14 )",,,,,,,,
+,Nalbari,182,"( Barkhetri | 3 ), ( Tihu | 25 ), ( Banekuchi | 12 ), ( Barbhag | 47 ), ( Nalbari | 23 ), ( 
+Paschim Nalbari | 10 ), ( Ghograpar | 62 )",,,,,,,,
+,Sonitpur,9,( Dhekiajuli | 9 ),,,,,,,,
+,Tamulpur,45,"( Goreswar | 22 ), ( Tamulpur | 23 )",,,,,,,,
+,Total,1366,,,,,,,,,
 "Population 
 And Crop 
 Area 
-Affected","District/Sub
--division*",Male,"Femal
-e",Children,"Total 
-Populatio
-n",Population Details,"Crop 
+Affected","District/Su
+b-division*",Male,"Femal
+e","Childre
+n","Total 
+Populati
+on",Population Details,"Crop 
 Area ( in 
-Hect. )",Crop Area Details,,
-,Bajali,125038,"11807
+Hect. )",Crop Area Details,,,
+,Bajali,"12503
+8","11807
 5",17272,260385,"( Bajali | 195000 ), ( 
 Sarupeta | 65385 )",297.30,"( Bajali | 106.00 ), ( 
-Sarupeta | 191.30 )",,
+Sarupeta | 191.30 )",,,
 ,Baksa,11612,9462,2949,24023,"( Barama | 1200 ), ( 
-Baska | 2081 ), ( Jalah | 
-6982 ), ( Baganpara | 
-13760 )",3982.70,"( Barama | 37.00 ), ( 
-Baska | 14.70 ), ( Jalah 
-| 3895.00 ), ( 
-Baganpara | 36.00 )",,
+Baska | 2081 ), ( 
+Jalah | 6982 ), ( 
+Baganpara | 13760 )",3982.70,"( Barama | 37.00 ), ( 
+Baska | 14.70 ), ( 
+Jalah | 3895.00 ), ( 
+Baganpara | 36.00 )",,,
 ,Barpeta,30296,24346,10579,65221,"( Barpeta | 20462 ), ( 
 Sarthebari | 44759 )",200.00,"( Barpeta | 60.00 ), ( 
-Sarthebari | 140.00 )",,
-,Biswanath,715,477,410,1602,"( Halem | 0 ), ( Gohpur 
-| 1602 )",22.00,"( Halem | 13.50 ), ( 
-Gohpur | 8.50 )",,
-,Bongaigaon,0,0,0,0,"( Manikpur | 0 ), ( 
-Srijangram | 0 )",1409.71,"( Manikpur | 655.71 ), ( 
-Srijangram | 754.00 )",,
-,Chirang,377,323,244,944,"( Bijni | 0 ), ( Bengtal | 
-0 ), ( Sidli | 944 )",232.26,"( Bijni | 126.35 ), ( 
+Sarthebari | 140.00 )",,,
+,Biswanath,715,477,410,1602,"( Halem | 0 ), ( 
+Gohpur | 1602 )",22.00,"( Halem | 13.50 ), ( 
+Gohpur | 8.50 )",,,
+,"Bongaigao
+n",0,0,0,0,"( Manikpur | 0 ), ( 
+Srijangram | 0 )",1409.71,"( Manikpur | 655.71 
+), ( Srijangram | 
+754.00 )",,,
+,Chirang,377,323,244,944,"( Bijni | 0 ), ( 
+Bengtal | 0 ), ( Sidli | 
+944 )",232.26,"( Bijni | 126.35 ), ( 
 Bengtal | 26.47 ), ( 
-Sidli | 79.44 )",,
+Sidli | 79.44 )",,,
 ,Darrang,4725,4428,4551,13704,"( Sipajhar | 0 ), ( 
-Mangaldoi | 13149 ), ( 
-Patharighat | 555 ), ( 
-Dalgaon | 0 )",3618.90,"( Sipajhar | 1486.00 ), ( 
-Mangaldoi | 878.90 ), ( 
-Patharighat | 1048.00 ), 
-( Dalgaon | 206.00 )",,
-,Dhemaji,0,0,0,0,"( Dhemaji | 0 ), ( Jonai 
-| 0 )",109.00,"( Dhemaji | 12.00 ), ( 
-Jonai | 97.00 )",,
+Mangaldoi | 13149 ), 
+( Patharighat | 555 ), 
+( Dalgaon | 0 )",3618.90,"( Sipajhar | 1486.00 
+), ( Mangaldoi | 
+878.90 ), ( 
+Patharighat | 
+1048.00 ), ( Dalgaon 
+| 206.00 )",,,
+,Dhemaji,0,0,0,0,"( Dhemaji | 0 ), ( 
+Jonai | 0 )",109.00,"( Dhemaji | 12.00 ), ( 
+Jonai | 97.00 )",,,
 ,Dhubri,245,161,170,576,"( Golakganj | 0 ), ( 
 Dhubri | 0 ), ( 
 Bilasipara | 0 ), ( 
-Agamoni | 576 )",200.50,"( Golakganj | 28.00 ), ( 
-Dhubri | 32.50 ), ( 
-Bilasipara | 11.50 ), ( 
-Agamoni | 128.50 )",,
+Agamoni | 576 )",200.50,"( Golakganj | 28.00 
+), ( Dhubri | 32.50 ), 
+( Bilasipara | 11.50 
+), ( Agamoni | 
+128.50 )",,,
 ,Dibrugarh,22,36,10,68,"( Moran | 0 ), ( 
-Dibrugarh West | 68 ), 
-( Chabua | 0 )",205.00,"( Moran | 1.00 ), ( 
-Dibrugarh West | 68.00 
-), ( Chabua | 136.00 )",,
-,Golaghat,0,0,0,0,( Bokakhat | 0 ),200.00,( Bokakhat | 200.00 ),,
-,Hojai,0,0,0,0,( Hojai | 0 ),22.73,( Hojai | 22.73 ),,
+Dibrugarh West | 68 
+), ( Chabua | 0 )",205.00,"( Moran | 1.00 ), ( 
+Dibrugarh West | 
+68.00 ), ( Chabua | 
+136.00 )",,,
+,Golaghat,0,0,0,0,( Bokakhat | 0 ),200.00,( Bokakhat | 200.00,,,
+,,,,,,,,,),,
+,Hojai,0,0,0,0,( Hojai | 0 ),,22.73,( Hojai | 22.73 ),,
 ,Kamrup,70,60,20,150,"( Kamalpur | 0 ), ( 
-Rangia | 150 ), ( Hajo | 
-0 ), ( North Ghy | 0 ), ( 
-Kayan | 0 )",728.05,"( Kamalpur | 96.60 ), ( 
-Rangia | 241.52 ), ( 
-Hajo | 328.00 ), ( North 
-Ghy | 10.00 ), ( Kayan 
-| 51.93 )",,
-,Kokrajhar,2401,1908,2229,6538,"( Kokrajhar | 5312 ), ( 
-Bhawraguri | 26 ), ( 
-Bagribari | 0 ), ( Dotma 
-| 922 ), ( Gossaigaon | 
-278 )",78.40,"( Kokrajhar | 44.00 ), ( 
-Bhawraguri | 0.00 ), ( 
-Bagribari | 18.10 ), ( 
-Dotma | 16.30 ), ( 
-Gossaigaon | 0.00 )",,
-,Lakhimpur,12412,12184,1017,25613,"( Nowboicha | 25096 ), 
-( Bihpuria | 517 ), ( 
-Narayanpur | 0 )",467.00,"( Nowboicha | 0.00 ), ( 
-Bihpuria | 0.00 ), ( 
-Narayanpur | 467.00 )",,
-,Majuli,0,0,0,0,( Majuli | 0 ),10.90,( Majuli | 10.90 ),,
-,Nagaon,0,0,0,0,"( Kampur | 0 ), ( Raha | 
-0 )",987.25,"( Kampur | 30.00 ), ( 
+Rangia | 150 ), ( 
+Hajo | 0 ), ( North 
+Ghy | 0 ), ( Kayan | 0 
+)",,728.05,"( Kamalpur | 96.60 ), 
+( Rangia | 241.52 ), ( 
+Hajo | 328.00 ), ( 
+North Ghy | 10.00 ), 
+( Kayan | 51.93 )",,
+,Kokrajhar,2401,1908,2229,6538,"( Kokrajhar | 5312 ), 
+( Bhawraguri | 26 ), ( 
+Bagribari | 0 ), ( 
+Dotma | 922 ), ( 
+Gossaigaon | 278 )",,78.40,"( Kokrajhar | 44.00 ), 
+( Bhawraguri | 0.00 
+), ( Bagribari | 18.10 
+), ( Dotma | 16.30 ), 
+( Gossaigaon | 0.00 )",,
+,Lakhimpur,12412,12184,1017,25613,"( Nowboicha | 25096 
+), ( Bihpuria | 517 ), 
+( Narayanpur | 0 )",,467.00,"( Nowboicha | 0.00 
+), ( Bihpuria | 0.00 ), 
+( Narayanpur | 
+467.00 )",,
+,Majuli,0,0,0,0,( Majuli | 0 ),,10.90,( Majuli | 10.90 ),,
+,Nagaon,0,0,0,0,"( Kampur | 0 ), ( 
+Raha | 0 )",,987.25,"( Kampur | 30.00 ), ( 
 Raha | 957.25 )",,
 ,Nalbari,31859,28577,17266,77702,"( Tihu | 19360 ), ( 
 Barbhag | 2200 ), ( 
 Nalbari | 880 ), ( 
-Ghograpar | 41126 ), ( 
-Barkhetri | 3150 ), (",1004.10,"( Tihu | 301.00 ), ( 
+Ghograpar | 41126 ), 
+( Barkhetri | 3150 ), 
+( Banekuchi | 1611 ), 
+( Paschim Nalbari | 
+9375 )",,1004.10,"( Tihu | 301.00 ), ( 
 Barbhag | 67.20 ), ( 
 Nalbari | 93.90 ), ( 
-Ghograpar | 356.00 ), ( 
-Barkhetri | 0.00 ), (",,
-,,,,,,"Banekuchi | 1611 ), ( 
-Paschim Nalbari | 9375 
-)",,,"Banekuchi | 102.50 ), ( 
-Paschim Nalbari | 
-83.50 )",
-,Sonitpur,29,23,13,65,( Dhekiajuli | 65 ),,20.07,( Dhekiajuli | 20.07 ),
-,Tamulpur,6522,5742,6944,19208,"( Goreswar | 7076 ), ( 
-Tamulpur | 12132 )",,296.03,"( Goreswar | 296.03 ), ( 
-Tamulpur | 0.00 )",
-,Total,226323,"20580
-2",63674,495799,,,14091.90,,
+Ghograpar | 356.00 
+), ( Barkhetri | 0.00 
+), ( Banekuchi | 
+102.50 ), ( Paschim 
+Nalbari | 83.50 )",,
+,Sonitpur,29,23,13,65,( Dhekiajuli | 65 ),,20.07,( Dhekiajuli | 20.07 ),,
+,Tamulpur,6522,5742,6944,19208,"( Goreswar | 7076 ), 
+( Tamulpur | 12132 )",,296.03,"( Goreswar | 296.03 
+), ( Tamulpur | 0.00 )",,
+,Total,"22632
+3","20580
+2",63674,495799,,,14091.90,,,
 "Relief 
 Camps / 
 Centres 
-Opened","District/Sub
--division*",Total,Relief Camp,,,,Relief Distribution Centres,,,
-,Bajali,32,"31(Bajali | 31, Sarupeta | 0)",,,,"1(Bajali | 0, Sarupeta | 1)",,,
-,Baksa,44,"12(Barama | 2, Baska | 4, Baganpara | 1, Jalah 
-| 5)",,,,"32(Barama | 2, Baska | 9, Baganpara | 7, Jalah | 
-14)",,,
-,Biswanath,6,"0(Halem | 0, Gohpur | 0)",,,,"6(Halem | 4, Gohpur | 2)",,,
-,Chirang,1,0(Bijni | 0),,,,1(Bijni | 1),,,
-,Darrang,2,0(Mangaldoi | 0),,,,2(Mangaldoi | 2),,,
-,Dhubri,1,1(Agamoni | 1),,,,0(Agamoni | 0),,,
-,Kamrup,1,1(Rangia | 1),,,,0(Rangia | 0),,,
-,Kokrajhar,12,"4(Kokrajhar | 3, Gossaigaon | 1)",,,,"8(Kokrajhar | 8, Gossaigaon | 0)",,,
-,Lakhimpur,11,0(Nowboicha | 0),,,,11(Nowboicha | 11),,,
+Opened","District/Su
+b-division*",Total,Relief Camp,,,,Relief Distribution Centres,,,,
+,Bajali,32,"31(Bajali | 31, Sarupeta | 0)",,,,"1(Bajali | 0, Sarupeta | 1)",,,,
+,Baksa,44,"12(Barama | 2, Baska | 4, Baganpara | 1, 
+Jalah | 5)",,,,"32(Barama | 2, Baska | 9, Baganpara | 7, 
+Jalah | 14)",,,,
+,Biswanath,6,"0(Halem | 0, Gohpur | 0)",,,,"6(Halem | 4, Gohpur | 2)",,,,
+,Chirang,1,0(Bijni | 0),,,,1(Bijni | 1),,,,
+,Darrang,2,0(Mangaldoi | 0),,,,2(Mangaldoi | 2),,,,
+,Dhubri,1,1(Agamoni | 1),,,,0(Agamoni | 0),,,,
+,Kamrup,1,1(Rangia | 1),,,,0(Rangia | 0),,,,
+,Kokrajhar,12,"4(Kokrajhar | 3, Gossaigaon | 1)",,,,"8(Kokrajhar | 8, Gossaigaon | 0)",,,,
+,Lakhimpur,11,0(Nowboicha | 0),,,,11(Nowboicha | 11),,,,
 ,Nalbari,23,"23(Tihu | 6, Banekuchi | 1, Nalbari | 2, 
-Paschim Nalbari | 4, Ghograpar | 10)",,,,"0(Tihu | 0, Banekuchi | 0, Nalbari | 0, Paschim 
-Nalbari | 0, Ghograpar | 0)",,,
-,Tamulpur,29,"11(Goreswar | 3, Tamulpur | 8)",,,,"18(Goreswar | 10, Tamulpur | 8)",,,
-,Total,162,83,,,,79,,,
+Paschim Nalbari | 4, Ghograpar | 10)",,,,"0(Tihu | 0, Banekuchi | 0, Nalbari | 0, 
+Paschim Nalbari | 0, Ghograpar | 0)",,,,
+,Tamulpur,29,"11(Goreswar | 3, Tamulpur | 8)",,,,"18(Goreswar | 10, Tamulpur | 8)",,,,
+,Total,162,83,,,,79,,,,
 "Inmates In 
 Relief 
-Camps","District/Sub
--division*",Total,Revenue Circlewise,,,Male,Female,Children,"Pregnant 
+Camps","District/Su
+b-division*",Total,Revenue Circlewise,,,Male,Female,Children,"Pregnant 
 / 
-Lactating 
-Mother","Person 
+Lactatin
+g Mother","Person 
 with 
-Disabilit
-y"
-,Bajali,2912,(Bajali | 2912),,,1297,1271,341,1,2
+Disabili
+ty",
+,Bajali,2912,(Bajali | 2912),,,1297,1271,341,1,2,
 ,Baksa,3153,"(Barama | 347), (Jalah | 1806), 
-(Baska | 642), (Baganpara | 358)",,,1434,1315,368,16,20
+(Baska | 642), (Baganpara | 
+358)",,,1434,1315,368,16,20,
 ,Dhubri,193,"(Golakganj | 0), (Dhubri | 0), 
-(Bilasipara | 0), (Agamoni | 193)",,,78,54,61,0,0
-,Kamrup,150,"(North Ghy | 0), (Kamalpur | 0), 
-(Hajo | 0), (Kayan | 0), (Rangia | 
-150)",,,70,60,20,0,0
+(Bilasipara | 0), (Agamoni | 
+193)",,,78,54,61,0,0,
+,Kamrup,150,"(North Ghy | 0), (Kamalpur |",,,70,60,20,0,0,
+,,,"0), (Hajo | 0), (Kayan | 0), 
+(Rangia | 150)",,,,,,,,
 ,Kokrajhar,1817,"(Bagribari | 0), (Dotma | 0), 
-(Kokrajhar | 1539), (Gossaigaon 
-| 278)",,,798,494,525,0,0
+(Kokrajhar | 1539), 
+(Gossaigaon | 278)",,,798,494,525,0,0,
 ,Nalbari,3816,"(Barkhetri | 0), (Tihu | 665), 
-(Banekuchi | 95), (Barbhag | 0), 
-(Nalbari | 403), (Ghograpar | 
-2234), (Paschim Nalbari | 419)",,,1844,1273,609,73,17
+(Banekuchi | 95), (Barbhag | 
+0), (Nalbari | 403), 
+(Ghograpar | 2234), (Paschim 
+Nalbari | 419)",,,1844,1273,609,73,17,
 ,Tamulpur,1994,"(Goreswar | 179), (Tamulpur | 
-1815)",,,836,806,344,0,8
-,Total,14035,,,,6357,5273,2268,90,47
-"Human 
-Lives Lost - 
-Confirmed","District/Sub
--division*",Total,Male,Female,Children,Revenue Circlewise,,,,
-,Tamulpur,1,1,0,0,"(Goreswar | 1), (Tamulpur | 0)",,,,
-,Total,1,1,0,0,,,,,
+1815)",,,836,806,344,0,8,
+,Total,14035,,,,6357,5273,2268,90,47,
 "Human 
 Lives Lost 
-Confirmed - 
-Death Type","District/Sub
--division*",Total,"Flood 
-Death","General 
-Drownin
-g (Non 
-Flood)",Landslide,,,,,
-,Tamulpur,1,1,0,0,,,,,
-,Total,1,1,0,0,,,,,
+- 
+Confirmed","District/Su
+b-division*",Total,Male,Female,"Childre
+n",Revenue Circlewise,,,,,
+,Tamulpur,1,1,0,0,"(Goreswar | 1), (Tamulpur | 0)",,,,,
+,Total,1,1,0,0,,,,,,
 "Human 
-Lives Lost - 
-Missing",Nil,,,,,,,,,
+Lives Lost 
+Confirmed 
+- Death 
+Type","District/Su
+b-division*",Total,"Flood 
+Death","General 
+Drowni
+ng (Non 
+Flood)",Landslide,,,,,,
+,Tamulpur,1,1,0,0,,,,,,
+,Total,1,1,0,0,,,,,,
+"Human 
+Lives Lost 
+- Missing",Nil,,,,,,,,,,
 "Human 
 Lives Lost 
 Missing - 
-Type",Nil,,,,,,,,,
+Type",Nil,,,,,,,,,,
 "Animals 
-Affected","District/Sub
-Total 
-Big 
-Small 
-Poultry 
--division*",,,,,,,,,
-,"Bajali 
-116679 
-47702 
-58082 
-10895",,,,,,,,,
-,"Baksa 
-23244 
-8471 
-6298 
-8475",,,,,,,,,
-,Barpeta,5349,2666,2683,0,,,,,
-,Biswanath,4985,3270,1715,0,,,,,
-,Chirang,2256,737,215,1304,,,,,
-,Darrang,10292,5528,3575,1189,,,,,
-,Dibrugarh,5256,4197,1059,0,,,,,
-,Kamrup,12542,9098,3444,0,,,,,
-,Lakhimpur,7789,5831,1958,0,,,,,
-,Nalbari,128866,62111,47875,18880,,,,,
-,Tamulpur,29381,18771,10555,55,,,,,
-,Total,346639,"16838
-2",137459,40798,,,,,
+Affected","District/Su
+b-division*",Total,Big,Small,Poultry,,,,,,
+,Bajali,"11667
+9",47702,58082,10895,,,,,,
+,Baksa,23244,8471,6298,8475,,,,,,
+,Barpeta,5349,2666,2683,0,,,,,,
+,Biswanath,4985,3270,1715,0,,,,,,
+,Chirang,2256,737,215,1304,,,,,,
+,Darrang,10292,5528,3575,1189,,,,,,
+,Dibrugarh,5256,4197,1059,0,,,,,,
+,Kamrup,12542,9098,3444,0,,,,,,
+,Lakhimpur,7789,5831,1958,0,,,,,,
+,Nalbari,"12886
+6",62111,47875,18880,,,,,,
+,Tamulpur,29381,18771,10555,55,,,,,,
+,Total,"34663
+9","16838
+2",137459,40798,,,,,,
 "Animals 
 Washed 
-Away","District/Sub
--division*",Total,Big,Small,Poultry,,,,,
-,Chirang,90,0,10,80,,,,,
-,Total,90,0,10,80,,,,,
+Away","District/Su
+b-division*",Total,Big,Small,Poultry,,,,,,
+,Chirang,90,0,10,80,,,,,,
+,Total,90,0,10,80,,,,,,
 "Houses 
-Damaged","District/Sub
--division*","Fully 
+Damaged","District/Su
+b-division*","Fully 
 Kucch
 a","Fully 
-Pukka","Fully 
+Pukk
+a","Fully 
 Total","Partially 
-Kuccha","Partially 
-Pukka","Partially 
-Total","Others 
+Kuccha","Partiall
+y Pukka","Partiall
+y Total","Others 
 Huts","Others 
 Cattle 
 Shed","Others 
-Total"
-,Baksa,0,0,0,1,0,1,0,0,0
-,Kokrajhar,0,0,0,0,0,0,1,0,1
-,Nalbari,1,0,1,0,0,0,0,0,0
-,Total,1,0,1,1,0,1,1,0,1
+Total",
+,Baksa,0,0,0,1,0,1,0,0,0,
+,Kokrajhar,0,0,0,0,0,0,1,0,1,
+,Nalbari,1,0,1,0,0,0,0,0,0,
+,Total,1,0,1,1,0,1,1,0,1,
 "Rescue 
-Operation","District/Sub
--division*",Agency,,,"Boats 
-Deployed","Person 
-Evacuate
-d By 
-Boats","Animal 
-Evacuate
-d By 
-Boats","Helicopte
-rs 
-Deployed","Person 
-Evacuate
-d By 
-Helicopte
-rs","Medical 
-Team 
-Deploye
-d"
+Operation","District/Su
+b-division*",Agency,,,"Boats 
+Deploye","Person 
+Evacuat","Animal 
+Evacuat","Helicopt
+ers","Person 
+Evacuate","Medica
+l Team",
+,,,,,,d,"ed By 
+Boats","ed By 
+Boats","Deploye
+d","d By 
+Helicopt
+ers","Deploy
+ed"
 ,Bajali,"NDRF, SDRF, SSB, Local 
-People",,,9,168,0,0,0,33
+People",,,,9,168,0,0,0,33
 ,Baksa,"Civil Defence/Trained 
-Volunteers, Fire & Emergency 
-Services (F&ES), SDRF",,,4,159,0,0,0,4
+Volunteers, Fire & 
+Emergency Services 
+(F&ES), SDRF",,,,4,159,0,0,0,4
 ,Barpeta,"Fire & Emergency Services 
-(F&ES)",,,1,1,0,0,0,0
-,Biswanath,"NDRF, SDRF",,,0,0,0,0,0,4
+(F&ES)",,,,1,1,0,0,0,0
+,Biswanath,"NDRF, SDRF",,,,0,0,0,0,0,4
 ,Darrang,"Circle Office/Local 
 Administration, Civil 
-Defence/Trained Volunteers",,,0,0,0,0,0,1
-,Dhubri,,,,0,0,0,0,0,1
+Defence/Trained 
+Volunteers",,,,0,0,0,0,0,1
+,Dhubri,,,,,0,0,0,0,0,1
 ,Kokrajhar,"Fire & Emergency Services 
-(F&ES), SDRF",,,1,25,32,0,0,2
-,Lakhimpur,,,,0,0,0,0,0,5
+(F&ES), SDRF",,,,1,25,32,0,0,2
+,Lakhimpur,,,,,0,0,0,0,0,5
 ,Nalbari,"SDRF, Fire & Emergency 
-Services (F&ES)",,,2,88,11,0,0,0
-,Tamulpur,"NDRF, SDRF",,,2,120,0,0,0,8
-,Total,,,,19,561,43,0,0,58
+Services (F&ES)",,,,2,88,11,0,0,0
+,Tamulpur,"NDRF, SDRF",,,,2,120,0,0,0,8
+,Total,,,,,19,561,43,0,0,58
 "Relief 
-Distributed","District/Sub
--division*","Rice 
+Distribute
+d","District/Su
+b-division*","Rice 
 (in Q)","Dal 
-(in Q)","Salt (in 
-Q)","M. Oil (in 
-L)","Cattle 
+(in Q)",,"Salt (in 
+Q)","M. Oil 
+(in L)","Cattle 
 Feed - 
 Green 
 Fooder 
@@ -364,584 +382,640 @@ Feed -
 Wheat 
 Bran (in 
 Q)",Cattle Feed - Rice Bran (in Q),,
-,Bajali,17.64,2.49,0.66,66.00,0.00,342.00,0.00,,
-,Baksa,252.75,46.49,13.87,1386.17,0.00,88.00,0.00,,
-,Biswanath,17.58,3.20,0.00,0.00,0.00,151.95,0.00,,
-,Chirang,0.00,0.00,0.00,0.00,0.00,31.00,15.00,,
-,Darrang,6.75,1.17,0.35,34.60,0.00,0.00,0.00,,
-,Dhubri,3.11,0.58,0.17,0.19,0.00,0.00,0.00,,
-,Kokrajhar,56.18,10.62,3.19,318.72,0.00,0.00,0.00,,
-,Lakhimpur,407.00,75.30,22.58,2258.00,0.00,0.00,0.00,,
-,Nalbari,22.74,3.96,1.19,119.00,0.00,3590.12,0.00,,
-,Tamulpur,236.22,45.29,13.92,1087.12,0.00,571.80,0.00,,
+,Bajali,17.64,2.49,,0.66,66.00,0.00,342.00,0.00,,
+,Baksa,252.75,46.49,,13.87,1386.17,0.00,88.00,0.00,,
+,Biswanath,17.58,3.20,,0.00,0.00,0.00,151.95,0.00,,
+,Chirang,0.00,0.00,,0.00,0.00,0.00,31.00,15.00,,
+,Darrang,6.75,1.17,,0.35,34.60,0.00,0.00,0.00,,
+,Dhubri,3.11,0.58,,0.17,0.19,0.00,0.00,0.00,,
+,Kokrajhar,56.18,10.62,,3.19,318.72,0.00,0.00,0.00,,
+,Lakhimpur,407.00,75.30,,22.58,2258.00,0.00,0.00,0.00,,
+,Nalbari,22.74,3.96,,1.19,119.00,0.00,3590.12,0.00,,
+,Tamulpur,236.22,45.29,,13.92,1087.12,0.00,571.80,0.00,,
 ,Total,"1019.9
-7",189.10,55.93,5269.80,0.00,4774.87,15.00,,
+7","189.1
+0",,55.93,5269.80,0.00,4774.87,15.00,,
 "Relief 
-Distributed 
-Others","District/Sub
--division*","Baby Food 
-Liquid",,Baby Food Solid,,Others,,,,
-,Bajali,0.00-Q,,"80.00-Pkt, 0.00-Q",,Candle-210.00-Pkt; Match Box-35.00-Pkt; Mosquito coil-,,,,
-,,,,,70.00-Pkt,,,,,
-,Baksa,"20.00-Pkt, 0.00-Q",,"245.00-Pkt, 0.00-Q","Soap-242.00-Pieces; Candle-242.00-Pkt; Mosquito Coil-
-242.00-Pkt",,,,,
-,Biswanath,0.00-Q,,0.00-Q,,,,,,
-,Chirang,0.00-Q,,0.00-Q,,,,,,
-,Darrang,0.00-Q,,18.00-Pkt,,,,,,
-,Dhubri,0.00-Q,,0.00-Q,"Tarpaulin-20.00-Pieces; Candle-25.00-Pkt; Match Box-25.00-
-Pkt; Sanitary Napkin-20.00-Pkt",,,,,
-,Kamrup,0.00-Pkt,,8.00-Pkt,Chira-20.00-Kg; Gur-5.00-Kg,,,,,
-,Kokrajhar,0.00-Q,,0.00-Q,"CANDLE-212.00-Pkt; MATCH BOX-143.00-Pkt; M. COIL-
-212.00-Pkt",,,,,
-,Lakhimpur,0.00-Q,,0.00-Q,Candle-7914.00-Pkt,,,,,
-,Nalbari,0.00-Q,,0.00-Q,"Tarpaulin-410.00-Pkt; Phenyl-152.00-Pieces; Candle -304.00-
-Pkt; Mosquito Coil-320.00-Pkt; Candle-18.00-Pkt",,,,,
-,Tamulpur,"0.00-Q, 8.00-Pkt",,0.00-Q,"tarpaulin-700.00-Q; gur-0.71-Q; Mosquito coil-47.00-Pieces; 
-Match Box-47.00-Q; Candle Packet-47.00-Q; Drinking Water-
-94.00-L",,,,,
-"Infrastructu
-re Damaged 
-- 
-Embankme
-nt Breached","District/Sub
--division*","Numbe
-r",Details,,,,,,,
-,Bajali,7,"Bajali - Pahumara river breached at left bank at Birbira | Birbira near kenduguri | Report received 
-from AEE Water resource, Bajali Dated 22/06/2023 at 3:30 AM | (Long - 91.159080, Lat - 
-26.536302, Dept - Water Resource Deptt.),  
-left Embankment of kaldia river | Niz Saldah | this report is received from concerned LM on 22-06-
-2023 at 4pm | (Long - 91.142550, Lat - 26.452241, Dept - P&RD),  
-right Embankment of kaldia river | niz saldah | this report is received from concerned LM on 22-06-
-2023 at 4pm | (Long - 91.142560, Lat - 26.452241, Dept - P&RD),  
-Embankment of kaldia river | Bairagy | this report is received from concerned LM on 22-06-2023 at 
-4pm | (Long - 91.261245, Lat - 26.505215, Dept - P&RD),  
-Embankment of kaldia river | Barnalikuchi | this report is received from concerned LM on 22-06-
-2023 at 4pm | (Long - 91.240337, Lat - 26.503750, Dept - P&RD),  
-Embankment of kaldia river | Tihudekhata | Embankment of kaldia river | (Long - 91.227382, Lat - 
-26.478453, Dept - P&RD),  
-Sarupeta - Embankment of Pahumara river at Medhikuchi | Village : Medhikuchi | Embankment 
-breach report received from concerned LM on 22/6/2023 | (Long - 91.155950, Lat - 26.536513, 
-Dept - Water Resource Deptt.)",,,,,,,
-,Biswanath,1,"Gohpur - Chatrang river R/Bank embankment breached | Chatrangpar on 22/06/23 for length about 
-35 mtr | | (Long - 93.610147, Lat - 26.885536, Dept - Water Resource Deptt.)",,,,,,,
-,Darrang,1,"Mangaldoi - Breached at u/s afflux bund cum road of CM Dutta Bund | At village Bahjani | As 
-reported by the department due to rise of water level breach occurred at u/s afflux bund cum road of 
-CM Dutta Bund and approx. length of damage is 20mtr. Dated 22/06/2023 | (Long - 91.993733, Lat 
-- 26.538391, Dept - Irrigation)",,,,,,,
-,Nalbari,1,"Nalbari - Pagaldia river at Nalbari sonkuriha embankment | Sondha | Seepage occcures on Ch 
-1300M, Reported by PWD(road) Dated: 22/06/2023 | (Long - 0.000000, Lat - 0.000000, Dept - 
-PWD (Roads))",,,,,,,
-,Total,10,,,,,,,,
-"Infrastructu
-re Damaged 
-- 
-Embankme
-nt Affected","District/Sub
--division*","Numbe
-r",Details,,,,,,,
-,Biswanath,2,"Gohpur - Mild Bank Erosion is observed at R/Bank of Sessa river | At Auguri area on 22/06/23 for 
-60 mtr | | (Long - 93.733716, Lat - 26.951885, Dept - Water Resource Deptt.),  
-Mild Bank Erosion is observed at R/Bank of Sessa river | At Gupsarguri Marginal Embankment in 
-22/06/23 for 50 mtr | | (Long - 93.716944, Lat - 26.979166, Dept - Water Resource Deptt.)",,,,,,,
-,Nalbari,1,"Barbhag - R/B of river Baralia from Chamukha ghat to Hirapara | Amarakur | Report submiited by 
-Asst. Executive Engineer, Mukalmua W.R. Sub Division, Mukalma on 22/06/2023 | (Long - 
-26.350000, Lat - 91.520000, Dept - Water Resource Deptt.)",,,,,,,
-,Total,3,,,,,,,,
-"Infrastructu
-re Damaged 
-- Road","District/Sub
--division*","Numbe
-r",Details,,,,,,,
-,Bajali,4,"Bajali - Tihu Bangaon Road | Bangaon | This report is received from AEE,PWD Roads on dated 22-
-06-2023 at 1pm. | (Long - 0.000000, Lat - 0.000000, Dept - PWD (NH Roads)),  
-Kochdiga Maguri road | kochdiga | This report is received from AEE,PWD Roads on dated 22-06-
-2023 at 1pm. | (Long - 0.000000, Lat - 0.000000, Dept - PWD (NH Roads)),  
-Ula Bhogeswari Road | Chamua uluwa | This report is received from AEE,PWD Roads on dated 22-
-06-2023 at 1pm. | (Long - 0.000000, Lat - 0.000000, Dept - PWD (NH Roads)),  
-Bhaluki high school to helona road | Helana | This report is received from AEE,PWD Roads on 
-dated 22-06-2023 at 1pm. | (Long - 0.000000, Lat - 0.000000, Dept - PWD (NH Roads))",,,,,,,
-,Baksa,3,"Baganpara - Dhamdhama to Jartaluk road have been damaged approx 50 MTR at guwalbil on 
-21/06/2023 | Guwalbil | | (Long - 91.486501, Lat - 26.581751, Dept - PWD (Roads)),",,,,,,,
-,,,"Baganpara to Nayabasti road with culvert washed way | Simlabari | Dated:22/06/2023 | (Long - 
-91.449800, Lat - 26.687904, Dept - PWD (Roads)),  
-Jalah - Doomni to Daodhara road had been damaged approx 50 meteres on 22/06/2023 | Golagaon | 
-| (Long - 91.291332, Lat - 26.732975, Dept - PWD (Roads))",,,,,,,
-,Biswanath,5,"Halem - Road - Tinikunia to kawripathar via possagula( A construction on going MMPPNA 
-Work)(From Ch.1060.00 m to Ch.1300.00 m). | Nalanibari, Dhekiajuli | Road is over topped by 
-flood water of river Brahmajaan sporadic erosion in road embankment have been noticed.The Box 
-Culvert (2mX2m) which was under construction , has been toppled over from its position and badly 
-sunk down due to massive erosion beneath by high velocity water current of Brahmajan river on 
-22/06/2023 | (Long - 93.477879, Lat - 26.908309, Dept - PWD (Roads)),  
-Gohpur - Road - Gohpur Railway Station Road (From Ch.0.00 m to Ch.800.00 m) | Gohpur Town | 
-Road is submerged by flush flood water of river Chatrang on 22/06/23 | (Long - 93.613053, Lat - 
-26.886368, Dept - PWD (Roads)),  
-Road -Gorbasti Road (From Ch.0.00 m to Ch.400.00 m) | At Gohpur Town | Road is submerged by 
-flush flood water of river Chatrang on 22/06/23 | (Long - 93.638648, Lat - 26.908756, Dept - PWD 
+Distribute
+d Others","District/Su
+b-division*","Baby Food 
+Liquid",,Baby Food Solid,,,Others,,,,
+,Bajali,0.00-Q,,"80.00-Pkt, 0.00-Q",,,"Candle-210.00-Pkt; Match Box-35.00-Pkt; Mosquito 
+coil-70.00-Pkt",,,,
+,Baksa,"20.00-Pkt, 
+0.00-Q",,"245.00-Pkt, 0.00-Q",,,"Soap-242.00-Pieces; Candle-242.00-Pkt; Mosquito Coil-
+242.00-Pkt",,,,
+,Biswanath,0.00-Q,,0.00-Q,,,,,,,
+,Chirang,0.00-Q,,0.00-Q,,,,,,,
+,Darrang,0.00-Q,,18.00-Pkt,,,,,,,
+,Dhubri,0.00-Q,,0.00-Q,,,"Tarpaulin-20.00-Pieces; Candle-25.00-Pkt; Match Box-
+25.00-Pkt; Sanitary Napkin-20.00-Pkt",,,,
+,Kamrup,0.00-Pkt,,8.00-Pkt,,,Chira-20.00-Kg; Gur-5.00-Kg,,,,
+,Kokrajhar,0.00-Q,,0.00-Q,,,"CANDLE-212.00-Pkt; MATCH BOX-143.00-Pkt; M. 
+COIL-212.00-Pkt",,,,
+,Lakhimpur,0.00-Q,,0.00-Q,,,Candle-7914.00-Pkt,,,,
+,Nalbari,0.00-Q,,0.00-Q,,,"Tarpaulin-410.00-Pkt; Phenyl-152.00-Pieces; Candle -
+304.00-Pkt; Mosquito Coil-320.00-Pkt; Candle-18.00-
+Pkt",,,,
+,Tamulpur,"0.00-Q,",,0.00-Q,,,tarpaulin-700.00-Q; gur-0.71-Q; Mosquito coil-47.00-,,,,
+,,"8.00-Pkt 
+Pieces; Match Box-47.00-Q; Candle Packet-47.00-Q; 
+Drinking Water-94.00-L",,,,,,,,,
+"Infrastruct
+ure 
+Damaged - 
+Embankm
+ent 
+Breached","District/Su
+b-division*","Numb
+er",Details,,,,,,,,
+,Bajali,7,"Bajali - Pahumara river breached at left bank at Birbira | Birbira near kenduguri | Report 
+received from AEE Water resource, Bajali Dated 22/06/2023 at 3:30 AM | (Long - 
+91.159080, Lat - 26.536302, Dept - Water Resource Deptt.),  
+left Embankment of kaldia river | Niz Saldah | this report is received from concerned LM 
+on 22-06-2023 at 4pm | (Long - 91.142550, Lat - 26.452241, Dept - P&RD),  
+right Embankment of kaldia river | niz saldah | this report is received from concerned LM 
+on 22-06-2023 at 4pm | (Long - 91.142560, Lat - 26.452241, Dept - P&RD),  
+Embankment of kaldia river | Bairagy | this report is received from concerned LM on 22-
+06-2023 at 4pm | (Long - 91.261245, Lat - 26.505215, Dept - P&RD),  
+Embankment of kaldia river | Barnalikuchi | this report is received from concerned LM on 
+22-06-2023 at 4pm | (Long - 91.240337, Lat - 26.503750, Dept - P&RD),  
+Embankment of kaldia river | Tihudekhata | Embankment of kaldia river | (Long - 
+91.227382, Lat - 26.478453, Dept - P&RD),  
+Sarupeta - Embankment of Pahumara river at Medhikuchi | Village : Medhikuchi | 
+Embankment breach report received from concerned LM on 22/6/2023 | (Long - 
+91.155950, Lat - 26.536513, Dept - Water Resource Deptt.)",,,,,,,,
+,Biswanath,1,"Gohpur - Chatrang river R/Bank embankment breached | Chatrangpar on 22/06/23 for 
+length about 35 mtr | | (Long - 93.610147, Lat - 26.885536, Dept - Water Resource Deptt.)",,,,,,,,
+,Darrang,1,"Mangaldoi - Breached at u/s afflux bund cum road of CM Dutta Bund | At village Bahjani 
+| As reported by the department due to rise of water level breach occurred at u/s afflux 
+bund cum road of CM Dutta Bund and approx. length of damage is 20mtr. Dated 
+22/06/2023 | (Long - 91.993733, Lat - 26.538391, Dept - Irrigation)",,,,,,,,
+,Nalbari,1,"Nalbari - Pagaldia river at Nalbari sonkuriha embankment | Sondha | Seepage occcures on 
+Ch 1300M, Reported by PWD(road) Dated: 22/06/2023 | (Long - 0.000000, Lat - 
+0.000000, Dept - PWD (Roads))",,,,,,,,
+,Total,10,,,,,,,,,
+"Infrastruct
+ure 
+Damaged - 
+Embankm
+ent 
+Affected","District/Su
+b-division*","Numb
+er",Details,,,,,,,,
+,Biswanath,2,"Gohpur - Mild Bank Erosion is observed at R/Bank of Sessa river | At Auguri area on 
+22/06/23 for 60 mtr | | (Long - 93.733716, Lat - 26.951885, Dept - Water Resource 
+Deptt.),  
+Mild Bank Erosion is observed at R/Bank of Sessa river | At Gupsarguri Marginal 
+Embankment in 22/06/23 for 50 mtr | | (Long - 93.716944, Lat - 26.979166, Dept - Water 
+Resource Deptt.)",,,,,,,,
+,Nalbari,1,"Barbhag - R/B of river Baralia from Chamukha ghat to Hirapara | Amarakur | Report 
+submiited by Asst. Executive Engineer, Mukalmua W.R. Sub Division, Mukalma on 
+22/06/2023 | (Long - 26.350000, Lat - 91.520000, Dept - Water Resource Deptt.)",,,,,,,,
+,Total,3,,,,,,,,,
+"Infrastruct
+ure 
+Damaged - 
+Road","District/Su
+b-division*","Numb
+er",Details,,,,,,,,
+,Bajali,4,"Bajali - Tihu Bangaon Road | Bangaon | This report is received from AEE,PWD Roads on 
+dated 22-06-2023 at 1pm. | (Long - 0.000000, Lat - 0.000000, Dept - PWD (NH Roads)),  
+Kochdiga Maguri road | kochdiga | This report is received from AEE,PWD Roads on 
+dated 22-06-2023 at 1pm. | (Long - 0.000000, Lat - 0.000000, Dept - PWD (NH Roads)),  
+Ula Bhogeswari Road | Chamua uluwa | This report is received from AEE,PWD Roads on 
+dated 22-06-2023 at 1pm. | (Long - 0.000000, Lat - 0.000000, Dept - PWD (NH Roads)),  
+Bhaluki high school to helona road | Helana | This report is received from AEE,PWD 
+Roads on dated 22-06-2023 at 1pm. | (Long - 0.000000, Lat - 0.000000, Dept - PWD (NH 
+Roads))",,,,,,,,
+,Baksa,3,"Baganpara - Dhamdhama to Jartaluk road have been damaged approx 50 MTR at 
+guwalbil on 21/06/2023 | Guwalbil | | (Long - 91.486501, Lat - 26.581751, Dept - PWD 
 (Roads)),  
+Baganpara to Nayabasti road with culvert washed way | Simlabari | Dated:22/06/2023 | 
+(Long - 91.449800, Lat - 26.687904, Dept - PWD (Roads)),  
+Jalah - Doomni to Daodhara road had been damaged approx 50 meteres on 22/06/2023 | 
+Golagaon | | (Long - 91.291332, Lat - 26.732975, Dept - PWD (Roads))",,,,,,,,
+,Biswanath,5,Halem - Road - Tinikunia to kawripathar via possagula( A construction on going,,,,,,,,
+,,,"MMPPNA Work)(From Ch.1060.00 m to Ch.1300.00 m). | Nalanibari, Dhekiajuli | Road 
+is over topped by flood water of river Brahmajaan sporadic erosion in road embankment 
+have been noticed.The Box Culvert (2mX2m) which was under construction , has been 
+toppled over from its position and badly sunk down due to massive erosion beneath by 
+high velocity water current of Brahmajan river on 22/06/2023 | (Long - 93.477879, Lat - 
+26.908309, Dept - PWD (Roads)),  
+Gohpur - Road - Gohpur Railway Station Road (From Ch.0.00 m to Ch.800.00 m) | 
+Gohpur Town | Road is submerged by flush flood water of river Chatrang on 22/06/23 | 
+(Long - 93.613053, Lat - 26.886368, Dept - PWD (Roads)),  
+Road -Gorbasti Road (From Ch.0.00 m to Ch.400.00 m) | At Gohpur Town | Road is 
+submerged by flush flood water of river Chatrang on 22/06/23 | (Long - 93.638648, Lat - 
+26.908756, Dept - PWD (Roads)),  
 Road -Sarna Jayanti Road (From Ch.0.00 m to Ch.200.00 m) | At Gohpur Town | Road is 
 submerged by flush flood water of river Chatrang on 22/06/23 | (Long - 93.613128, Lat - 
 26.886400, Dept - PWD (Roads)),  
-Road -Chatiachuk Road (From Ch.0.00 m to Ch.200.00 m) | At Gohpur Town | Road is submerged 
-by flush flood water of river Chatrang on 22/06/23 | (Long - 93.618575, Lat - 26.883808, Dept - 
-PWD (Roads))",,,,,,,
-,Chirang,2,"Bijni - Panbari PWD Road to Nimai Das house at No 1 Chatianguri | No 1 Chatianguri | As per 
-report of BDO, Manikpur Development Block, Panbari PWD Road to Nimai Das house road 
-damaged at No 1 Chatianguri on 19-06-2023. Length=7.60 mtr, Breadth=2.5 mtr, Depth=0.9 mtr. | 
-(Long - 90.724472, Lat - 26.511920, Dept - P&RD),  
-Road from Bishdoba main road to Kharija Bishpani at Bishdoba | Bishdoba | As reported by BDO, 
-Manikpur Dev. Block, Road from Bishdoba main road to Kharija Bishpani damaged at Bishdoba on 
-22-006-2023. Length=50 mtr, Breadth=4 mtr, Depth=1.00 mtr. | (Long - 90.815164, Lat - 
-26.573494, Dept - P&RD)",,,,,,,
-,Darrang,8,"Mangaldoi - Mangaldai Bhutiachang Road | At Village Bahjani | Due to rise of water level the 13th 
-Km of MB Road ( Bandhar Chowk) overtopped by about 30cm due to breach of DRDA 
-embankment of Noanadi at Bishnupur on 21/06/2023. As reported by the department temporary 
-restoration is done by providing sand filled bags at edge of hard crust in both up/down stream for a 
-length of 50mts. Dated 21/06/2023. | (Long - 91.994195, Lat - 26.541278, Dept - PWD (Roads)),  
-ONDOLAJHAR BAIGORMARI ROAD | At Village ONDOLAJHAR under Pub-Mangaldai | As 
-reported by the department due to rise in water level ROAD SUBMERGED, SUBMERGED 
-LENGTH =600.00M at CH 3300M ,CH 4000M ,CH 4500 M . Dated 21/06/2023. | (Long - 
-92.149286, Lat - 26.490708, Dept - PWD (Roads)),  
-BAIGORMARI TO MAGURMARI NO. 1 ROAD | At Village MAGURMARI NO. 1 under Pub-
-Mangaldai | As reported by the department due to rise in water level ROAD BREACHED , 
-CULVERT DAMAGED , BREACHED LENGTH=7.00 M at CH 725 M . Dated 21/06/2023. | 
-(Long - 92.145743, Lat - 26.480243, Dept - PWD (Roads)),  
-KANAICHUBA PATHARIGHAT ROAD | At Village KANAICHUBA | As reported by the 
-department due to rise in water level ROAD SUBMERGED, SUBMERGED LENGTH =300.00M 
-at 4TH KM . Dated 21/06/2023. | (Long - 91.991976, Lat - 26.459233, Dept - PWD (Roads)),  
-M.P.K ROAD | At Village BORATHIABARI | As reported by the department due to rise in water 
-level ROAD SUBMERGED ,SUBMERGED LENGTH =100.00M . Dated 21/06/2023. | (Long - 
-91.966910, Lat - 26.440632, Dept - PWD (Roads)),  
-MANGALDAI MAZIKUCHI ROAD | At Village NAHARBARI | As reported by the department 
-due to rise in water level ROAD SUBMERGED ,SUBMERGED LENGTH =1000.00M . Dated 
-21/06/2023. | (Long - 91.965828, Lat - 26.485200, Dept - PWD (Roads)),  
-Patharighat - MPK Road to Athkuriapara link Road via Pabitra Deka House | Athkuriapara | As 
-reported by BDO, Sipajhar breach of road occurred on 21/06/2023 of around 4 mtrs. | (Long - 
-91.913130, Lat - 26.446665, Dept - P&RD),  
-Dalgaon - Dulakhaity to jhargaon road | Dulakhaity to jhargaon road | As per report received from 
-PWD(R), due to rain Dulakhaity to jhargaon PMGSY road shoulder at Ch.7500M has been 
-damaged on 21/06/2023 | (Long - 92.217261, Lat - 26.657417, Dept - P&RD)",,,,,,,
-,Dhubri,20,"Golakganj - DUE TO HEAVY RAINFALL HARD CRUST HAVE BEEN BADLY DAMAGED 
-AT SHAHEBGANJ BAZAR TO MOTERJHAR HOSPITAL ROAD AT 2.5TH KM TO 10TH KM 
-(DATE 19-6-2023) | SHAHEBGANJ BAZAR TO MOTERJHAR HOSPITAL ROAD26 | | (Long - 
-26.120070, Lat - 89.878774, Dept - PWD (Roads)),  
-Dhubri - SIDE BERM & SIDE SLOPES ERRODED OF DHUBRI PATAMARI ROAD FROM 
-CH. 11100.00 M TO 11500.00 M (Date-19-06-2023) | DHUBRI PATAMARI ROAD | | (Long - 
-89.876455, Lat - 25.999979, Dept - PWD (Roads)),  
-SIDE BERM & SIDE SLOPES ERRODED OF KANURI DIMAKURI ROAD AT 10TH KM & 
-11TH KM (Date-19-06-2023) | KANURI DIMAKURI ROAD | | (Long - 89.822909, Lat - 
-26.022217, Dept - PWD (Roads)),  
-Gauripur - ALOMGANJ TO FULKATARI ROAD AT 1ST TO 3rd KM ROADS HAVE BEEN",,,,,,,
-,,,"BADLY DAMAGED DUE TO HEAVY RAIN FALLING (Dated-20-06-2023) | ALOMGANJ TO 
-FULKATARI | | (Long - 89.810114, Lat - 26.047601, Dept - PWD (Roads)),  
-NH17 TO ASHARIKANDI ROAD HAVE BEEN BADLY DAMAGED DUE TO HEAVY RAIN 
-FALLING (Dated-20-06-2023) | ASHARIKANDI | | (Long - 89.997692, Lat - 26.092156, Dept - 
+Road -Chatiachuk Road (From Ch.0.00 m to Ch.200.00 m) | At Gohpur Town | Road is 
+submerged by flush flood water of river Chatrang on 22/06/23 | (Long - 93.618575, Lat - 
+26.883808, Dept - PWD (Roads))",,,,,,,,
+,Chirang,2,"Bijni - Panbari PWD Road to Nimai Das house at No 1 Chatianguri | No 1 Chatianguri | 
+As per report of BDO, Manikpur Development Block, Panbari PWD Road to Nimai Das 
+house road damaged at No 1 Chatianguri on 19-06-2023. Length=7.60 mtr, Breadth=2.5 
+mtr, Depth=0.9 mtr. | (Long - 90.724472, Lat - 26.511920, Dept - P&RD),  
+Road from Bishdoba main road to Kharija Bishpani at Bishdoba | Bishdoba | As reported 
+by BDO, Manikpur Dev. Block, Road from Bishdoba main road to Kharija Bishpani 
+damaged at Bishdoba on 22-006-2023. Length=50 mtr, Breadth=4 mtr, Depth=1.00 mtr. | 
+(Long - 90.815164, Lat - 26.573494, Dept - P&RD)",,,,,,,,
+,Darrang,8,"Mangaldoi - Mangaldai Bhutiachang Road | At Village Bahjani | Due to rise of water 
+level the 13th Km of MB Road ( Bandhar Chowk) overtopped by about 30cm due to 
+breach of DRDA embankment of Noanadi at Bishnupur on 21/06/2023. As reported by the 
+department temporary restoration is done by providing sand filled bags at edge of hard 
+crust in both up/down stream for a length of 50mts. Dated 21/06/2023. | (Long - 
+91.994195, Lat - 26.541278, Dept - PWD (Roads)),  
+ONDOLAJHAR BAIGORMARI ROAD | At Village ONDOLAJHAR under Pub-
+Mangaldai | As reported by the department due to rise in water level ROAD 
+SUBMERGED, SUBMERGED LENGTH =600.00M at CH 3300M ,CH 4000M ,CH 
+4500 M . Dated 21/06/2023. | (Long - 92.149286, Lat - 26.490708, Dept - PWD (Roads)),  
+BAIGORMARI TO MAGURMARI NO. 1 ROAD | At Village MAGURMARI NO. 1 
+under Pub-Mangaldai | As reported by the department due to rise in water level ROAD 
+BREACHED , CULVERT DAMAGED , BREACHED LENGTH=7.00 M at CH 725 M . 
+Dated 21/06/2023. | (Long - 92.145743, Lat - 26.480243, Dept - PWD (Roads)),  
+KANAICHUBA PATHARIGHAT ROAD | At Village KANAICHUBA | As reported by 
+the department due to rise in water level ROAD SUBMERGED, SUBMERGED 
+LENGTH =300.00M at 4TH KM . Dated 21/06/2023. | (Long - 91.991976, Lat - 
+26.459233, Dept - PWD (Roads)),  
+M.P.K ROAD | At Village BORATHIABARI | As reported by the department due to rise 
+in water level ROAD SUBMERGED ,SUBMERGED LENGTH =100.00M . Dated 
+21/06/2023. | (Long - 91.966910, Lat - 26.440632, Dept - PWD (Roads)),  
+MANGALDAI MAZIKUCHI ROAD | At Village NAHARBARI | As reported by the 
+department due to rise in water level ROAD SUBMERGED ,SUBMERGED LENGTH 
+=1000.00M . Dated 21/06/2023. | (Long - 91.965828, Lat - 26.485200, Dept - PWD 
+(Roads)),  
+Patharighat - MPK Road to Athkuriapara link Road via Pabitra Deka House | 
+Athkuriapara | As reported by BDO, Sipajhar breach of road occurred on 21/06/2023 of 
+around 4 mtrs. | (Long - 91.913130, Lat - 26.446665, Dept - P&RD),  
+Dalgaon - Dulakhaity to jhargaon road | Dulakhaity to jhargaon road | As per report 
+received from PWD(R), due to rain Dulakhaity to jhargaon PMGSY road shoulder at 
+Ch.7500M has been damaged on 21/06/2023 | (Long - 92.217261, Lat - 26.657417, Dept - 
+P&RD)",,,,,,,,
+,Dhubri,20,"Golakganj - DUE TO HEAVY RAINFALL HARD CRUST HAVE BEEN BADLY 
+DAMAGED AT SHAHEBGANJ BAZAR TO MOTERJHAR HOSPITAL ROAD AT 
+2.5TH KM TO 10TH KM (DATE 19-6-2023) | SHAHEBGANJ BAZAR TO 
+MOTERJHAR HOSPITAL ROAD26 | | (Long - 26.120070, Lat - 89.878774, Dept - PWD",,,,,,,,
+,,,"(Roads)),  
+Dhubri - SIDE BERM & SIDE SLOPES ERRODED OF DHUBRI PATAMARI ROAD 
+FROM CH. 11100.00 M TO 11500.00 M (Date-19-06-2023) | DHUBRI PATAMARI 
+ROAD | | (Long - 89.876455, Lat - 25.999979, Dept - PWD (Roads)),  
+SIDE BERM & SIDE SLOPES ERRODED OF KANURI DIMAKURI ROAD AT 10TH 
+KM & 11TH KM (Date-19-06-2023) | KANURI DIMAKURI ROAD | | (Long - 
+89.822909, Lat - 26.022217, Dept - PWD (Roads)),  
+Gauripur - ALOMGANJ TO FULKATARI ROAD AT 1ST TO 3rd KM ROADS HAVE 
+BEEN BADLY DAMAGED DUE TO HEAVY RAIN FALLING (Dated-20-06-2023) | 
+ALOMGANJ TO FULKATARI | | (Long - 89.810114, Lat - 26.047601, Dept - PWD 
+(Roads)),  
+NH17 TO ASHARIKANDI ROAD HAVE BEEN BADLY DAMAGED DUE TO 
+HEAVY RAIN FALLING (Dated-20-06-2023) | ASHARIKANDI | | (Long - 89.997692, 
+Lat - 26.092156, Dept - PWD (Roads)),  
+MADAIKHALI TO DALSINGHARARLGA ROAD HAVE BEEN BADLY DAMAGED 
+DUE TO HEAVY RAIN FALLING (Dated-20-06-2023) | MADAIKHALI TO 
+DALSINGHARARLGA | | (Long - 89.997472, Lat - 26.086477, Dept - PWD (Roads)),  
+ASHARIKANDI TO KANAIMORE ROAD HAVE BEEN BADLY DAMAGED DUE 
+TO HEAVY RAIN FALLING (Dated-20-06-2023) | ASHARIKANDI TO KANAIMORE 
+| | (Long - 90.011358, Lat - 26.093428, Dept - PWD (Roads)),  
+ALOMGANG TO SILAIRPAR ROAD HAVE BEEN BADLY DAMAGED DUE TO 
+HEAVY RAIN FALLING (Dated-20-06-2023) | ALOMGANG TO SILAIRPAR | | (Long 
+- 90.002450, Lat - 26.126685, Dept - PWD (Roads)),  
+SAHEBGANJ BAZAR TO RUPSHI ROAD HAVE BEEN BADLY DAMAGED DUE 
+TO HEAVY RAIN FALLING (Dated-20-06-2023) | SAHEBGANJ BAZAR TO RUPSHI 
+| | (Long - 89.892234, Lat - 26.119854, Dept - PWD (Roads)),  
+ALOMGANG PT-VIII TO HAZARIJHORNA ( ROAD WASHED FOR A LENGTH OF 
+15M AT CHAINAGE 850.00 MTR) (Dated-20-06-2023) | ALOMGANG | | (Long - 
+90.043521, Lat - 26.141364, Dept - PWD (Roads)),  
+PANBARI TO CHITALKATI PMGSY ROAD ( RETURN WALL OF CULVERT 
+DAMAGED AT CHAINAGE 1925M AND SIDE BERM ERODED AT 2ND TO 4TH 
+KM) (Dated-20-06-2023) | PANBARI | | (Long - 90.058618, Lat - 26.145458, Dept - 
 PWD (Roads)),  
-MADAIKHALI TO DALSINGHARARLGA ROAD HAVE BEEN BADLY DAMAGED DUE TO 
-HEAVY RAIN FALLING (Dated-20-06-2023) | MADAIKHALI TO DALSINGHARARLGA | | 
-(Long - 89.997472, Lat - 26.086477, Dept - PWD (Roads)),  
-ASHARIKANDI TO KANAIMORE ROAD HAVE BEEN BADLY DAMAGED DUE TO 
-HEAVY RAIN FALLING (Dated-20-06-2023) | ASHARIKANDI TO KANAIMORE | | (Long - 
-90.011358, Lat - 26.093428, Dept - PWD (Roads)),  
-ALOMGANG TO SILAIRPAR ROAD HAVE BEEN BADLY DAMAGED DUE TO HEAVY 
-RAIN FALLING (Dated-20-06-2023) | ALOMGANG TO SILAIRPAR | | (Long - 90.002450, Lat - 
-26.126685, Dept - PWD (Roads)),  
-SAHEBGANJ BAZAR TO RUPSHI ROAD HAVE BEEN BADLY DAMAGED DUE TO 
-HEAVY RAIN FALLING (Dated-20-06-2023) | SAHEBGANJ BAZAR TO RUPSHI | | (Long - 
-89.892234, Lat - 26.119854, Dept - PWD (Roads)),  
-ALOMGANG PT-VIII TO HAZARIJHORNA ( ROAD WASHED FOR A LENGTH OF 15M AT 
-CHAINAGE 850.00 MTR) (Dated-20-06-2023) | ALOMGANG | | (Long - 90.043521, Lat - 
-26.141364, Dept - PWD (Roads)),  
-PANBARI TO CHITALKATI PMGSY ROAD ( RETURN WALL OF CULVERT DAMAGED 
-AT CHAINAGE 1925M AND SIDE BERM ERODED AT 2ND TO 4TH KM) (Dated-20-06-2023) 
-| PANBARI | | (Long - 90.058618, Lat - 26.145458, Dept - PWD (Roads)),  
-KHUDIMARI DUMUDAHA KALAHAT BINNACHARA ROAD AT 3RD KM AND 6TH KM ( 
-SIDE BERM DAMAGED AND HARD CRUST DAMAGED ) (Dated-20-06-2023) | 
-KHUDIMARI DUMUDAHA KALAHAT BINNACHARA | | (Long - 89.894802, Lat - 26.079135, 
+KHUDIMARI DUMUDAHA KALAHAT BINNACHARA ROAD AT 3RD KM AND 
+6TH KM ( SIDE BERM DAMAGED AND HARD CRUST DAMAGED ) (Dated-20-06-
+2023) | KHUDIMARI DUMUDAHA KALAHAT BINNACHARA | | (Long - 89.894802, 
+Lat - 26.079135, Dept - PWD (Roads)),  
+ASHARIKANDI TO GHEGERALGA ROAD TO SYAMCHARENERKHUTI ROADS 
+SIDE BERM, HARD CRUSRT HAVE BEEN BADLY DAMAGED AND ERRODED 
+(Dated-20-06-2023) | ASHARIKANDI | | (Long - 90.016990, Lat - 26.090670, Dept - 
+PWD (Roads)),  
+3RD KM OF ALAMGANG SILAIRPAR ROAD TO SYAMCHARENERKHUTI 
+ROADS SIDE BERM, HARD CRUSRT HAVE BEEN BADLY DAMAGED AND 
+ERRODED (Dated-20-06-2023) | SILAIRPAR | | (Long - 89.993936, Lat - 26.128444, 
 Dept - PWD (Roads)),  
-ASHARIKANDI TO GHEGERALGA ROAD TO SYAMCHARENERKHUTI ROADS SIDE 
-BERM, HARD CRUSRT HAVE BEEN BADLY DAMAGED AND ERRODED (Dated-20-06-
-2023) | ASHARIKANDI | | (Long - 90.016990, Lat - 26.090670, Dept - PWD (Roads)),  
-3RD KM OF ALAMGANG SILAIRPAR ROAD TO SYAMCHARENERKHUTI ROADS SIDE 
-BERM, HARD CRUSRT HAVE BEEN BADLY DAMAGED AND ERRODED (Dated-20-06-
-2023) | SILAIRPAR | | (Long - 89.993936, Lat - 26.128444, Dept - PWD (Roads)),  
-Bilasipara - NH-31 TO NATUN LAWPARA ROAD, PMGSY, PACKAGE NO. AS-05-161 
-ROAD SUBMERDGE AT 1st KM DUE TO FLOOD WATER OF SANKOSH RIVER . (DATED 
-19-06-2023 TO 20-06-2023) | NH-31 TO NATUN LAWPARA ROAD, PMGSY, | | (Long - 
-90.182712, Lat - 26.235269, Dept - PWD (Roads)),  
+Bilasipara - NH-31 TO NATUN LAWPARA ROAD, PMGSY, PACKAGE NO. AS-05-
+161 ROAD SUBMERDGE AT 1st KM DUE TO FLOOD WATER OF SANKOSH 
+RIVER . (DATED 19-06-2023 TO 20-06-2023) | NH-31 TO NATUN LAWPARA 
+ROAD, PMGSY, | | (Long - 90.182712, Lat - 26.235269, Dept - PWD (Roads)),  
 NH-31 TO PASUARKHAL PT-III ROAD, PMGSY, PACKAGE NO. AS-05-102 ROAD 
-SUBMERGED 1st KM DUE TO FLOOD WATER OF SANKOSH RIVER (DATED 19-06-2023 
-TO 20-06-2023) | NH-31 TO PASUARKHAL PT-III ROAD, PMGSY, | | (Long - 90.179333, Lat - 
-26.227008, Dept - PWD (Roads)),  
+SUBMERGED 1st KM DUE TO FLOOD WATER OF SANKOSH RIVER (DATED 19-
+06-2023 TO 20-06-2023) | NH-31 TO PASUARKHAL PT-III ROAD, PMGSY, | | (Long 
+- 90.179333, Lat - 26.227008, Dept - PWD (Roads)),  
 NH-31 TO PASUARKHAL PT-I ROAD, PMGSY, PACKAGE NO. AS-05-161 ROAD 
-SUBMERGED 1ST KM DUE TO FLOOD WATER OF SANKOSH RIVER (DATED 19-06-2023 
-TO 20-06-2023) | NH-31 TO PASUARKHAL PT-I ROAD, PMGSY, | | (Long - 90.183788, Lat - 
-26.229275, Dept - PWD (Roads)),  
-6th KM OF BS ROAD TO CHOURARVITA ROAD SIDE BERM ERRODED AT CH. 3rd KM 
-AND 4th KM DUE TO HELL RIVER (DATED 19-06-2023 TO 20-06-2023) | BS ROAD TO 
-CHOURARVITA ROAD | | (Long - 90.168843, Lat - 26.287396, Dept - PWD (Roads)),  
-KRISHNANAGAR KAZAIKATA HUDURCHAR ROAD SIDE BERM ERRODED AT CH. 3rd 
-KM,4th KM,5th ,6th & 7th DUE TO GOURANG RIVER (DATED 19-06-2023 TO 20-06-2023) | 
-KRISHNANAGAR KAZAIKATA HUDURCHAR ROAD | | (Long - 90.168843, Lat - 26.287396, 
-Dept - PWD (Roads)),  
-South Salmara Part - Satsia tiniali to poravita bazar road | Satsia | As pre report recived from EE 
-PWRD, lakhipur Satsia tiniali to poravita bazar road damaged due to heavy rainfall at 1st km and 2 
-nd km aprox 70.00 m. (Dated-20-06-2023) | (Long - 90.125400, Lat - 25.980600, Dept - PWD 
-(Roads))",,,,,,,
-,Kokrajhar,8,"Bhawraguri - Jogirbhita to Basirchor Road | At Ch. 400.00 m to Ch. 700.00m (Jogirbhita village) | 
-As reported by AEE PWD RR Kachugaon on 21-06-2023 due to incessant heavy rainfall from 16th 
-June, 2023 to till today at Jogirbhita village Jogirbhita to Basirchor Road ICBP Pavement damaged 
-in some stretches. | (Long - 90.092284, Lat - 26.386147, Dept - PWD (Roads)),  
-Bagribari - KAZIGAON TO BASBARI PMGSY ROAD | Kazigaon AT 1ST AND 2ND KM | As 
-reported by Executive Engineer, PWRD Dhubri Civil Sub-Division Territorial Road Division, side 
-berm eroded and, hard crust damaged due to heavy rainfall Date: 21/06/2023 | (Long - 89.918737, 
-Lat - 26.185413, Dept - PWD (Roads)),  
-BASHBARI BAZAR TO MOLANDUBI ROAD | Bashbari Bazar AT 9th KM TO 11th KM | As 
-reported by Executive Engineer, PWRD Dhubri Civil Sub-Division Territorial Road Division, side 
-berm has been eroded due to heavy rainfall Date: 21/06/2023 | (Long - 89.879498, Lat - 26.264572, 
-Dept - PWD (Roads)),  
-Dotma - Chithila to Bhowraguri road. | Chithila | As reported by .Asstt. Exec. Engineer PWD",,,,,,,
-,,,"Kokrajhar (RR) Sub-Division, on 21-06-2023 Chithila to Bhowraguri road embankment eroded at 
-6th KM | (Long - 0.000000, Lat - 0.000000, Dept - PWD (Roads)),  
-Gossaigaon - No.2 Barzabil | Amlaiguri | As per report received from BDO Kachugaon dated 
-22.06.2023 due to heavy rainfall from 12.06.2023 a road damaged at No.2 Barzabil village near 
-Amlaiguri LP School | (Long - 26.517922, Lat - 89.957798, Dept - P&RD),  
-(Kokrajhar) At District - RAMFALBIL ATHIABARI ROAD | RAMFALBIL | AS REPORTED 
-BY ASSTT. EXEC. ENGINEER, PWD KOKRAJHAR (RR) SUB-DIVISION ON 22-06-2023 
-ROAD CH.5300.00 M. ON RAMFALBIL ATHIABARI ROAD ERRODED. | (Long - 0.000000, 
-Lat - 0.000000, Dept - PWD (Roads)),  
-HARINAGURI TO DHUPGURI | HARINAGURI | AS REPORTED BY ASSTT. EXEC. 
-ENGINEER, PWD KOKRAJHAR (RR) SUB-DIVISION ON 22-06-2023 ROAD AR CH. 0.00M, 
-250.00M AND 450.00M ON HARINAGURI TO DHUPGURI ROAD ERRODED. | (Long - 
-0.000000, Lat - 0.000000, Dept - PWD (Roads)),  
-BORAGARY-NARENGURY ROAD | BORAGARY | AS REPORTED BY HON’BLE MLA, ON 
-22-06-2023 BORAGARY-NARENGURY ROAD UNDER DOTMA REVENUE CIRCLE 
-BREACHED. | (Long - 0.000000, Lat - 0.000000, Dept - PWD (Roads))",,,,,,,
-,Lakhimpur,6,"Subansiri - Gogamukh to GHilamara Road | As reported by Dhakuakhana Territorial road division, 
-Ghilamara the Gogamukh to Ghilamara road is damaged at 23KM near Ghilamara Tiniali 
-(L=150M) on 22/06/2023 | | (Long - 0.000000, Lat - 0.000000, Dept - PWD (Roads)),  
-Chakuli to Akhoiphutia Road | As reported by Dhakuakhana Territorial road division, road 
-embankment is affected in breach filling portion at 1st KM (L=45m) on Chakuli to Akhoiphutia 
-Road on 22/06/2023 | | (Long - 0.000000, Lat - 0.000000, Dept - PWD (Roads)),  
-Gogamukh to Ghilamara Road | As reported by Dhakuakhana Territorial road division, Ghilamara 
-the approach road to Adarsha CBSE Vidyalaya at 21 KM on Gogamukh to Ghilamara Road is 
-Damaged (L=75M) on 22/06/2023 | | (Long - 0.000000, Lat - 0.000000, Dept - PWD (Roads)),  
-Gogamukh to Ghilamara Road | As reported by Dhakuakhana Territorial road division, Ghilamara 
-the approach road to Ghilamara PHC at 19 KM on Gogamukh to Ghilamara Road is Damaged 
-(L=100M) on 22/06/2023 | | (Long - 0.000000, Lat - 0.000000, Dept - PWD (Roads)),  
-Mohbal to Bangkleng road | As reported by Dhakuakhana Territorial road division, Ghilamara the 
-Breach portion on Mohbal to Bangkleng road is submerged (L=25M) on 22/06/2023 | | (Long - 
-0.000000, Lat - 0.000000, Dept - PWD (Roads)),  
-Bolahi PWD to Balipukhuri ROad | As reported by Dhakuakhana Territorial road division, 
-Ghilamara the Bolahi PWD to Balipukhuri road is damaged at 0.00M to 65.00M (L=65M) on 
-22/06/2023 | | (Long - 0.000000, Lat - 0.000000, Dept - PWD (Roads))",,,,,,,
-,Nalbari,24,"Barkhetri - Sidalkuchi Lachima to Amrattary road | Lachima | Due to incessant heavy rain for last 
-few days the Sidalkuchi Lochima to Amrattary Road road surface , hurd-crust, side- berm damaged 
-at 1st KM as reported by AEE, PWRD, Barkhetri Territorial sub division. Dated: 22/06/2020 | 
-(Long - 0.000000, Lat - 0.000000, Dept - PWD (Roads)),  
-Banekuchi - On 22/06/2023 at 10 am the PWD Road Kaithalkuchi Via Balizar to Nalbari 
-submerged and damaged report from LM | Balizar | | (Long - 91.377064, Lat - 26.443289, Dept - 
+SUBMERGED 1ST KM DUE TO FLOOD WATER OF SANKOSH RIVER (DATED 
+19-06-2023 TO 20-06-2023) | NH-31 TO PASUARKHAL PT-I ROAD, PMGSY, | | 
+(Long - 90.183788, Lat - 26.229275, Dept - PWD (Roads)),  
+6th KM OF BS ROAD TO CHOURARVITA ROAD SIDE BERM ERRODED AT CH. 
+3rd KM AND 4th KM DUE TO HELL RIVER (DATED 19-06-2023 TO 20-06-2023) | 
+BS ROAD TO CHOURARVITA ROAD | | (Long - 90.168843, Lat - 26.287396, Dept - 
 PWD (Roads)),  
-On 21/06/2023 at 11 am Chancharghat toKakatipara road ,Hume Pipe damaged and approach 
-erroded and road submerged report from PWRD department | Chancharghat | | (Long - 0.000000, 
-Lat - 0.000000, Dept - PWD (Roads)),  
-On 21/06/2023 Breach of extension Kaithalkuchi PWD Road at Nakerbari by river Mora Pagladia 
-under RIDF XXVII report from PWRD department | Nakerbari (Kaithalkuchi ) | | (Long - 0.000000, 
-Lat - 0.000000, Dept - PWD (Roads)),  
-Barbhag - Arangomow Nakheti Road | Arangomow | report submitted by PWD ( Roads ) on 
-22/06/2023 | (Long - 0.000000, Lat - 0.000000, Dept - PWD (Roads)),  
-Athgahria Bukia road | Athgharia | report submitted by PWD ( Roads ) on 22/06/2023 | (Long - 
-0.000000, Lat - 0.000000, Dept - PWD (Roads)),  
-Chanekuchi Uttarkuchi road | Chanekuchi | report submitted by PWD ( Roads ) on 22/06/2023 | 
+KRISHNANAGAR KAZAIKATA HUDURCHAR ROAD SIDE BERM ERRODED AT",,,,,,,,
+,,,"CH. 3rd KM,4th KM,5th ,6th & 7th DUE TO GOURANG RIVER (DATED 19-06-2023 
+TO 20-06-2023) | KRISHNANAGAR KAZAIKATA HUDURCHAR ROAD | | (Long - 
+90.168843, Lat - 26.287396, Dept - PWD (Roads)),  
+South Salmara Part - Satsia tiniali to poravita bazar road | Satsia | As pre report recived 
+from EE PWRD, lakhipur Satsia tiniali to poravita bazar road damaged due to heavy 
+rainfall at 1st km and 2 nd km aprox 70.00 m. (Dated-20-06-2023) | (Long - 90.125400, 
+Lat - 25.980600, Dept - PWD (Roads))",,,,,,,,
+,Kokrajhar,8,"Bhawraguri - Jogirbhita to Basirchor Road | At Ch. 400.00 m to Ch. 700.00m (Jogirbhita 
+village) | As reported by AEE PWD RR Kachugaon on 21-06-2023 due to incessant heavy 
+rainfall from 16th June, 2023 to till today at Jogirbhita village Jogirbhita to Basirchor 
+Road ICBP Pavement damaged in some stretches. | (Long - 90.092284, Lat - 26.386147, 
+Dept - PWD (Roads)),  
+Bagribari - KAZIGAON TO BASBARI PMGSY ROAD | Kazigaon AT 1ST AND 2ND 
+KM | As reported by Executive Engineer, PWRD Dhubri Civil Sub-Division Territorial 
+Road Division, side berm eroded and, hard crust damaged due to heavy rainfall Date: 
+21/06/2023 | (Long - 89.918737, Lat - 26.185413, Dept - PWD (Roads)),  
+BASHBARI BAZAR TO MOLANDUBI ROAD | Bashbari Bazar AT 9th KM TO 11th 
+KM | As reported by Executive Engineer, PWRD Dhubri Civil Sub-Division Territorial 
+Road Division, side berm has been eroded due to heavy rainfall Date: 21/06/2023 | (Long 
+- 89.879498, Lat - 26.264572, Dept - PWD (Roads)),  
+Dotma - Chithila to Bhowraguri road. | Chithila | As reported by .Asstt. Exec. Engineer 
+PWD Kokrajhar (RR) Sub-Division, on 21-06-2023 Chithila to Bhowraguri road 
+embankment eroded at 6th KM | (Long - 0.000000, Lat - 0.000000, Dept - PWD (Roads)),  
+Gossaigaon - No.2 Barzabil | Amlaiguri | As per report received from BDO Kachugaon 
+dated 22.06.2023 due to heavy rainfall from 12.06.2023 a road damaged at No.2 Barzabil 
+village near Amlaiguri LP School | (Long - 26.517922, Lat - 89.957798, Dept - P&RD),  
+(Kokrajhar) At District - RAMFALBIL ATHIABARI ROAD | RAMFALBIL | AS 
+REPORTED BY ASSTT. EXEC. ENGINEER, PWD KOKRAJHAR (RR) SUB-
+DIVISION ON 22-06-2023 ROAD CH.5300.00 M. ON RAMFALBIL ATHIABARI 
+ROAD ERRODED. | (Long - 0.000000, Lat - 0.000000, Dept - PWD (Roads)),  
+HARINAGURI TO DHUPGURI | HARINAGURI | AS REPORTED BY ASSTT. EXEC. 
+ENGINEER, PWD KOKRAJHAR (RR) SUB-DIVISION ON 22-06-2023 ROAD AR 
+CH. 0.00M, 250.00M AND 450.00M ON HARINAGURI TO DHUPGURI ROAD 
+ERRODED. | (Long - 0.000000, Lat - 0.000000, Dept - PWD (Roads)),  
+BORAGARY-NARENGURY ROAD | BORAGARY | AS REPORTED BY HON’BLE 
+MLA, ON 22-06-2023 BORAGARY-NARENGURY ROAD UNDER DOTMA 
+REVENUE CIRCLE BREACHED. | (Long - 0.000000, Lat - 0.000000, Dept - PWD 
+(Roads))",,,,,,,,
+,Lakhimpur,6,"Subansiri - Gogamukh to GHilamara Road | As reported by Dhakuakhana Territorial road 
+division, Ghilamara the Gogamukh to Ghilamara road is damaged at 23KM near 
+Ghilamara Tiniali (L=150M) on 22/06/2023 | | (Long - 0.000000, Lat - 0.000000, Dept - 
+PWD (Roads)),  
+Chakuli to Akhoiphutia Road | As reported by Dhakuakhana Territorial road division, 
+road embankment is affected in breach filling portion at 1st KM (L=45m) on Chakuli to 
+Akhoiphutia Road on 22/06/2023 | | (Long - 0.000000, Lat - 0.000000, Dept - PWD 
+(Roads)),  
+Gogamukh to Ghilamara Road | As reported by Dhakuakhana Territorial road division, 
+Ghilamara the approach road to Adarsha CBSE Vidyalaya at 21 KM on Gogamukh to 
+Ghilamara Road is Damaged (L=75M) on 22/06/2023 | | (Long - 0.000000, Lat - 
+0.000000, Dept - PWD (Roads)),  
+Gogamukh to Ghilamara Road | As reported by Dhakuakhana Territorial road division, 
+Ghilamara the approach road to Ghilamara PHC at 19 KM on Gogamukh to Ghilamara 
+Road is Damaged (L=100M) on 22/06/2023 | | (Long - 0.000000, Lat - 0.000000, Dept - 
+PWD (Roads)),  
+Mohbal to Bangkleng road | As reported by Dhakuakhana Territorial road division, 
+Ghilamara the Breach portion on Mohbal to Bangkleng road is submerged (L=25M) on 
+22/06/2023 | | (Long - 0.000000, Lat - 0.000000, Dept - PWD (Roads)),  
+Bolahi PWD to Balipukhuri ROad | As reported by Dhakuakhana Territorial road division, 
+Ghilamara the Bolahi PWD to Balipukhuri road is damaged at 0.00M to 65.00M (L=65M) 
+on 22/06/2023 | | (Long - 0.000000, Lat - 0.000000, Dept - PWD (Roads))",,,,,,,,
+,Nalbari,24,"Barkhetri - Sidalkuchi Lachima to Amrattary road | Lachima | Due to incessant heavy 
+rain for last few days the Sidalkuchi Lochima to Amrattary Road road surface , hurd-crust,",,,,,,,,
+,,,"side- berm damaged at 1st KM as reported by AEE, PWRD, Barkhetri Territorial sub 
+division. Dated: 22/06/2020 | (Long - 0.000000, Lat - 0.000000, Dept - PWD (Roads)),  
+Banekuchi - On 22/06/2023 at 10 am the PWD Road Kaithalkuchi Via Balizar to Nalbari 
+submerged and damaged report from LM | Balizar | | (Long - 91.377064, Lat - 26.443289, 
+Dept - PWD (Roads)),  
+On 21/06/2023 at 11 am Chancharghat toKakatipara road ,Hume Pipe damaged and 
+approach erroded and road submerged report from PWRD department | Chancharghat | | 
 (Long - 0.000000, Lat - 0.000000, Dept - PWD (Roads)),  
-Bargacha to Sanekuchi via Hirapara Suburi | Bargacha | report submitted by PWD ( Roads ) on 
+On 21/06/2023 Breach of extension Kaithalkuchi PWD Road at Nakerbari by river Mora 
+Pagladia under RIDF XXVII report from PWRD department | Nakerbari (Kaithalkuchi ) | | 
+(Long - 0.000000, Lat - 0.000000, Dept - PWD (Roads)),  
+Barbhag - Arangomow Nakheti Road | Arangomow | report submitted by PWD ( Roads ) 
+on 22/06/2023 | (Long - 0.000000, Lat - 0.000000, Dept - PWD (Roads)),  
+Athgahria Bukia road | Athgharia | report submitted by PWD ( Roads ) on 22/06/2023 | 
+(Long - 0.000000, Lat - 0.000000, Dept - PWD (Roads)),  
+Chanekuchi Uttarkuchi road | Chanekuchi | report submitted by PWD ( Roads ) on 
 22/06/2023 | (Long - 0.000000, Lat - 0.000000, Dept - PWD (Roads)),  
-Karia Mandaltola Ulabori road | Karia | report submitted by PWD ( Roads ) on 22/06/2023 | (Long - 
-0.000000, Lat - 0.000000, Dept - PWD (Roads)),  
-Kahikuhci BHabanipur village road | Kahikuchi | report submitted by PWD ( Roads ) on 22/06/2023 
+Bargacha to Sanekuchi via Hirapara Suburi | Bargacha | report submitted by PWD ( Roads 
+) on 22/06/2023 | (Long - 0.000000, Lat - 0.000000, Dept - PWD (Roads)),  
+Karia Mandaltola Ulabori road | Karia | report submitted by PWD ( Roads ) on 22/06/2023 
 | (Long - 0.000000, Lat - 0.000000, Dept - PWD (Roads)),  
-Bagals road | Barkuriha | report submitted by PWD ( Roads ) on 22/06/2023 | (Long - 0.000000, Lat 
-- 0.000000, Dept - PWD (Roads)),  
-Hajo Nalbari road | Bijulighat | crossed 3 nos bridge approached & side berm. report submitted by 
-PWD ( Roads ) on 22/06/2023 | (Long - 0.000000, Lat - 0.000000, Dept - PWD (Roads)),  
+Kahikuhci BHabanipur village road | Kahikuchi | report submitted by PWD ( Roads ) on 
+22/06/2023 | (Long - 0.000000, Lat - 0.000000, Dept - PWD (Roads)),  
+Bagals road | Barkuriha | report submitted by PWD ( Roads ) on 22/06/2023 | (Long - 
+0.000000, Lat - 0.000000, Dept - PWD (Roads)),  
+Hajo Nalbari road | Bijulighat | crossed 3 nos bridge approached & side berm. report 
+submitted by PWD ( Roads ) on 22/06/2023 | (Long - 0.000000, Lat - 0.000000, Dept - 
+PWD (Roads)),  
 Dokoha LP School road via Kowarpur | Dokoha | report submitted by PWD ( Roads ) on 
 22/06/2023 | (Long - 0.000000, Lat - 0.000000, Dept - PWD (Roads)),  
-Shymrai Dewalay & Kamarkuchi Shivmandir road | Kalag | report submitted by PWD ( Roads ) on 
-22/06/2023 | (Long - 0.000000, Lat - 0.000000, Dept - PWD (Roads)),  
-Jaypal Dewalay road & Porakuchi village road | Khudradingdingi | report submitted by PWD ( 
-Roads ) on 22/06/2023 | (Long - 0.000000, Lat - 0.000000, Dept - PWD (Roads)),",,,,,,,
-,,,"Sonkani Panbari & Khudrakukhati Village road | Sonkani | report submitted by PWD ( Roads ) on 
-22/06/2023 | (Long - 0.000000, Lat - 0.000000, Dept - PWD (Roads)),  
+Shymrai Dewalay & Kamarkuchi Shivmandir road | Kalag | report submitted by PWD ( 
+Roads ) on 22/06/2023 | (Long - 0.000000, Lat - 0.000000, Dept - PWD (Roads)),  
+Jaypal Dewalay road & Porakuchi village road | Khudradingdingi | report submitted by 
+PWD ( Roads ) on 22/06/2023 | (Long - 0.000000, Lat - 0.000000, Dept - PWD (Roads)),  
+Sonkani Panbari & Khudrakukhati Village road | Sonkani | report submitted by PWD ( 
+Roads ) on 22/06/2023 | (Long - 0.000000, Lat - 0.000000, Dept - PWD (Roads)),  
 Paikarkuchi kamarkuchi road | Circle Office area | report submitted by PWD ( Roads ) on 
 22/06/2023 | (Long - 0.000000, Lat - 0.000000, Dept - PWD (Roads)),  
-GDB (Medical College road) 10th to 19th k.m. | Raimadha | Bridge approach and side berm eroded. 
-report submitted by PWD ( Roads ) on 22/06/2023 | (Long - 0.000000, Lat - 0.000000, Dept - PWD 
-(Roads)),  
-Nalbari - Nalbari kamarkuchi road at Nalbari collage | Nalbari Collage | As per the report received 
-from PWD, roads this road is submerged due to rain water,Reported by PWD(road) Dated: 
-22/06/2023 | (Long - 0.000000, Lat - 0.000000, Dept - PWD (Roads)),  
-Shymrai satra to anukul mandir road | Sariyahatali | As per the report received from PWD, roads this 
-road is submerged due to flood,Reported by PWD(road) Dated: 22/06/2023 | (Long - 0.000000, Lat 
-- 0.000000, Dept - PWD (Roads)),  
-Sahriyahtali Gosala suba road | Sariyahtali | As per the report received from PWD, roads this road is 
-submerged due to flood,Reported by PWD(road) Dated: 22/06/2023 | (Long - 0.000000, Lat - 
+GDB (Medical College road) 10th to 19th k.m. | Raimadha | Bridge approach and side 
+berm eroded. report submitted by PWD ( Roads ) on 22/06/2023 | (Long - 0.000000, Lat - 
 0.000000, Dept - PWD (Roads)),  
-Deharkuchi road | Deharkuchi | As per the report received from PWD, roads this road is submerged 
-due to artificial flood,Reported by PWD(road) Dated: 22/06/2023 | (Long - 0.000000, Lat - 
-0.000000, Dept - PWD (Roads)),  
-Nalbari komarkuchi bridge approach | Barmurikona | As per the report received from PWD, roads 
-this road is affected due to flood,Reported by PWD(road) Dated: 22/06/2023 | (Long - 0.000000, 
-Lat - 0.000000, Dept - PWD (Roads)),  
+Nalbari - Nalbari kamarkuchi road at Nalbari collage | Nalbari Collage | As per the report 
+received from PWD, roads this road is submerged due to rain water,Reported by 
+PWD(road) Dated: 22/06/2023 | (Long - 0.000000, Lat - 0.000000, Dept - PWD (Roads)),  
+Shymrai satra to anukul mandir road | Sariyahatali | As per the report received from PWD, 
+roads this road is submerged due to flood,Reported by PWD(road) Dated: 22/06/2023 | 
+(Long - 0.000000, Lat - 0.000000, Dept - PWD (Roads)),  
+Sahriyahtali Gosala suba road | Sariyahtali | As per the report received from PWD, roads 
+this road is submerged due to flood,Reported by PWD(road) Dated: 22/06/2023 | (Long - 
+0.000000, Lat - 0.000000, Dept - PWD (Roads)),  
+Deharkuchi road | Deharkuchi | As per the report received from PWD, roads this road is 
+submerged due to artificial flood,Reported by PWD(road) Dated: 22/06/2023 | (Long - 
+0.000000, Lat - 0.000000, Dept - PWD (Roads)),  
+Nalbari komarkuchi bridge approach | Barmurikona | As per the report received from 
+PWD, roads this road is affected due to flood,Reported by PWD(road) Dated: 22/06/2023 
+| (Long - 0.000000, Lat - 0.000000, Dept - PWD (Roads)),  
 Paschim Nalbari - Balowa Kumarikata Road | Kumarikata | Submerged due to rain water. 
-Information received from PWD (R) Department on 22/06/2023 | (Long - 0.000000, Lat - 0.000000, 
-Dept - PWD (Roads))",,,,,,,
-,Tamulpur,9,"Tamulpur - Due to heavy rainfall Kauli Bazar T10 to Kaulipar No 1 Road retaining wall damaged 
-on 21 June 2023 | Kaulipar | | (Long - 91.611478, Lat - 26.758631, Dept - PWD (Roads)),  
-Due to heavy rainfall Nabin Nagar to Kumarikata Kauli Road approach damaged on 21 June 2023 | 
-Nabin Nagar | | (Long - 91.602847, Lat - 26.755602, Dept - PWD (Roads)),  
-Parbati Chowk to Kalipur Road( Ch- 21.00 wm to C-2350 wm) damaged (due to flood)on 21 June 
-2023 | Kalipur | | (Long - 91.558495, Lat - 26.665158, Dept - PWD (Roads)),  
-Sashipur to Khoirani Road( Ch. 2500wm to 2590 wm) (Culvert approach damaged due to flood. on 
-21 June 2023 | Patkejuli High School | | (Long - 91.487548, Lat - 26.763407, Dept - PWD (Roads)),  
-Due to Heavy Rain Nagrijuli mission Road Approach of SLAB Culvert Eroded and Damaged on 21 
-June 2023 | Nagrijuli mission School | | (Long - 91.655301, Lat - 26.715525, Dept - PWD (Roads)),  
-Due to heavy rainfall Kumarikata Kaule Road Bridge Approach eroded on 21 June 2022 | Kauli 
-Bazar | | (Long - 91.608810, Lat - 26.759431, Dept - PWD (Roads)),  
-Chandanpur SSB Camp to Guabari Road erroded on 21 June 2022 | Chandanpur | | (Long - 
-91.617789, Lat - 26.758221, Dept - P&RD),  
-Due to heavy rain Amayapur Hahkata Road Pkg No: AS-24-68(Ch-610 WM to 18.60WM) road 
-submerged in flood water on 21 June 2022 | Amaypur Hahkata | | (Long - 91.530036, Lat - 
-26.593027, Dept - PWD (Roads)),  
+Information received from PWD (R) Department on 22/06/2023 | (Long - 0.000000, Lat - 
+0.000000, Dept - PWD (Roads))",,,,,,,,
+,Tamulpur,9,"Tamulpur - Due to heavy rainfall Kauli Bazar T10 to Kaulipar No 1 Road retaining wall 
+damaged on 21 June 2023 | Kaulipar | | (Long - 91.611478, Lat - 26.758631, Dept - PWD 
+(Roads)),",,,,,,,,
+,,,"Due to heavy rainfall Nabin Nagar to Kumarikata Kauli Road approach damaged on 21 
+June 2023 | Nabin Nagar | | (Long - 91.602847, Lat - 26.755602, Dept - PWD (Roads)),  
+Parbati Chowk to Kalipur Road( Ch- 21.00 wm to C-2350 wm) damaged (due to flood)on 
+21 June 2023 | Kalipur | | (Long - 91.558495, Lat - 26.665158, Dept - PWD (Roads)),  
+Sashipur to Khoirani Road( Ch. 2500wm to 2590 wm) (Culvert approach damaged due to 
+flood. on 21 June 2023 | Patkejuli High School | | (Long - 91.487548, Lat - 26.763407, 
+Dept - PWD (Roads)),  
+Due to Heavy Rain Nagrijuli mission Road Approach of SLAB Culvert Eroded and 
+Damaged on 21 June 2023 | Nagrijuli mission School | | (Long - 91.655301, Lat - 
+26.715525, Dept - PWD (Roads)),  
+Due to heavy rainfall Kumarikata Kaule Road Bridge Approach eroded on 21 June 2022 | 
+Kauli Bazar | | (Long - 91.608810, Lat - 26.759431, Dept - PWD (Roads)),  
+Chandanpur SSB Camp to Guabari Road erroded on 21 June 2022 | Chandanpur | | (Long 
+- 91.617789, Lat - 26.758221, Dept - P&RD),  
+Due to heavy rain Amayapur Hahkata Road Pkg No: AS-24-68(Ch-610 WM to 
+18.60WM) road submerged in flood water on 21 June 2022 | Amaypur Hahkata | | (Long - 
+91.530036, Lat - 26.593027, Dept - PWD (Roads)),  
 Due to heavy Rain UT Road to Charivella on 21 June 2022 | Amaypur Hahkata | | (Long - 
-26.593027, Lat - 91.530036, Dept - PWD (Roads))",,,,,,,
-,Udalguri,3,"Harisinga - Tangla Bhergaon road | Tangla Gaon | Due to heavy rainfall on 21st June 2023 at 
-Tangla Gaon village PWD road damage approximately 70 meters. | (Long - 91.886500, Lat - 
-26.666200, Dept - PWD (Roads)),  
-Bhergaon to Khagarabari road | Jabangahabi village | Pwd road damage at village Jabangahabi 
-village due to heavy rainfall on 21st June 2023. Approximate damage 5meter | (Long - 91.803700, 
-Lat - 26.664800, Dept - PWD (Roads)),  
-Orangajuli to kanubasti road | NC Orangajuli village | Due to overflow of river Kalanadi on 21st 
-June 2023 pwd road damage at NC orangajuli village . Approximate damage 200meter | (Long - 
-91.844700, Lat - 26.814200, Dept - PWD (Roads))",,,,,,,
-,Total,92,,,,,,,,
-"Infrastructu
-re Damaged 
-- Bridge","District/Sub
--division*","Numbe
-r",Details,,,,,,,
-,Biswanath,1,"Gohpur - Dubia Krishi Nola | At Dubia | The lower portion of the structure has been washed away 
-due to flood on 21/06/23 | (Long - 93.701230, Lat - 26.907933, Dept - P&RD)",,,,,,,
-,Dhubri,1,"Dhubri - BRIDGE APPROACHES DAMAGED AND ERODED OF RCC BR. NO. 1/1 ON D.G 
-ROAD AT SAMSHANGHAT TO FALIMARI ROAD AT 1ST KM (Date-19-06-2023) | 
-FALIMARI | | (Long - 89.978474, Lat - 26.028429, Dept - PWD (Roads))",,,,,,,
-,Nalbari,1,"Nalbari - SPT Br No-2/1 Sp office to sariyahtali road | Sariyahtali | As per the report received from 
-PWD, roads this bridge is affected due to flood, Dated: 22/06/2023 | (Long - 0.000000, Lat - 
-0.000000, Dept - PWD (Roads))",,,,,,,
-,Total,3,,,,,,,,
-"Infrastructu
-re Damaged 
-- Wildlife",Nil,,,,,,,,,
-"Infrastructu
-re Damaged 
-- Others","District/Sub
--division*",Other Details,,,,,,,,
-,Bajali,"Sarupeta - Anganwadi Centres Affected | As per the information received from Social Welfare deptt. 24 no. 
-Korobaha AWC is submerge under water-dated: 22/06/2023 ,  
-Anganwadi Centres Affected | As per the information received from Social Welfare deptt. 32 no. Karagari 
-Pather AWC is submerge under water-dated: 22/06/2023 ,  
-Anganwadi Centres Affected | As per the information received from Social Welfare deptt. 31 no. Karagari 
-Pather AWC is submerge under water-dated: 22/06/2023 ,  
-Anganwadi Centres Affected | As per the information received from Social Welfare deptt. 158 no. Banglipara 
-AWC is submerge under water-dated: 22/06/2023 ,  
-Anganwadi Centres Affected | As per the information received from Social Welfare deptt. 317 no. Korobaha 
-pather AWC is submerge under water-dated: 22/06/2023 ,  
-Anganwadi Centres Affected | As per the information received from Social Welfare deptt. 360 no. Porabharal 
-Pallarpar AWC is submerge under water-dated: 22/06/2023 ,  
-Anganwadi Centres Affected | As per the information received from Social Welfare deptt. 168 no. Porabharal-4 
-AWC is submerge under water-dated: 22/06/2023 ,  
-Anganwadi Centres Affected | As per the information received from Social Welfare deptt. 64 no. Porabharal -2 
-AWC is submerge under water-dated: 22/06/2023 ,  
-Anganwadi Centres Affected | As per the information received from Social Welfare deppt. 65 no. porabharal-3 
-AWC is submerge under water-dated: 22/06/2023",,,,,,,,
-,Bongaigaon,"Bongaigaon - Fisheries/Pond | One rearing Pond effected on 22/06/2023 at Korebari measuring water area 0.1 
-hector belong to Nijara Barman Location Coordinate : Lat : 26.499557 Lon: 90.618257. Date-22.06.2023",,,,,,,,
-,Chirang,"Sidli - Irrigation Canal/Scheme Damaged | As reported by EE, Sidli Division (irrigation), Dhaligaon Breached 
-of canal embankment of LBC-7 of Champamati Irrigation Project(Major) at Gossaigaon Village, Location - 
-Latitude- 26.493442, Longitude-90.453036 Damage details- Length-40.00m, Breadth-5.00m, Depth-4.00m 
-date of occurrence-21-06-2023",,,,,,,,
-,Darrang,"Mangaldoi - Bridge Approach Road Damaged | As reported by PWRD BRIDGE APPROACH DAMAGED at 
-Naharbari of RCC BR NO.2/1. Dated 21/06/2023,  
-Bridge Approach Road Damaged | As reported by PWRD BRIDGE APPROACH DAMAGED at Naharbari of 
-SPT BR NO. ½ . Date 21/06/2023.,  
-Culvert Approach Road Damaged | As reported by PWRD CULVERT DAMAGED, at Mangaldai town at 
-SANTIPARA ROAD. Date 21/06/2023.,  
+26.593027, Lat - 91.530036, Dept - PWD (Roads))",,,,,,,,
+,Udalguri,3,"Harisinga - Tangla Bhergaon road | Tangla Gaon | Due to heavy rainfall on 21st June 
+2023 at Tangla Gaon village PWD road damage approximately 70 meters. | (Long - 
+91.886500, Lat - 26.666200, Dept - PWD (Roads)),  
+Bhergaon to Khagarabari road | Jabangahabi village | Pwd road damage at village 
+Jabangahabi village due to heavy rainfall on 21st June 2023. Approximate damage 5meter 
+| (Long - 91.803700, Lat - 26.664800, Dept - PWD (Roads)),  
+Orangajuli to kanubasti road | NC Orangajuli village | Due to overflow of river Kalanadi 
+on 21st June 2023 pwd road damage at NC orangajuli village . Approximate damage 
+200meter | (Long - 91.844700, Lat - 26.814200, Dept - PWD (Roads))",,,,,,,,
+,Total,92,,,,,,,,,
+"Infrastruct
+ure 
+Damaged - 
+Bridge","District/Su
+b-division*","Numb
+er",Details,,,,,,,,
+,Biswanath,1,"Gohpur - Dubia Krishi Nola | At Dubia | The lower portion of the structure has been 
+washed away due to flood on 21/06/23 | (Long - 93.701230, Lat - 26.907933, Dept - 
+P&RD)",,,,,,,,
+,Dhubri,1,"Dhubri - BRIDGE APPROACHES DAMAGED AND ERODED OF RCC BR. NO. 1/1 
+ON D.G ROAD AT SAMSHANGHAT TO FALIMARI ROAD AT 1ST KM (Date-19-
+06-2023) | FALIMARI | | (Long - 89.978474, Lat - 26.028429, Dept - PWD (Roads))",,,,,,,,
+,Nalbari,1,"Nalbari - SPT Br No-2/1 Sp office to sariyahtali road | Sariyahtali | As per the report 
+received from PWD, roads this bridge is affected due to flood, Dated: 22/06/2023 | (Long 
+- 0.000000, Lat - 0.000000, Dept - PWD (Roads))",,,,,,,,
+,Total,3,,,,,,,,,
+"Infrastruct
+ure 
+Damaged - 
+Wildlife",Nil,,,,,,,,,,
+"Infrastruct
+ure 
+Damaged - 
+Others","District/Su
+b-division*",Other Details,,,,,,,,,
+,Bajali,"Sarupeta - Anganwadi Centres Affected | As per the information received from Social Welfare 
+deptt. 24 no. Korobaha AWC is submerge under water-dated: 22/06/2023 ,  
+Anganwadi Centres Affected | As per the information received from Social Welfare deptt. 32 no. 
+Karagari Pather AWC is submerge under water-dated: 22/06/2023 ,  
+Anganwadi Centres Affected | As per the information received from Social Welfare deptt. 31 no. 
+Karagari Pather AWC is submerge under water-dated: 22/06/2023 ,  
+Anganwadi Centres Affected | As per the information received from Social Welfare deptt. 158 no. 
+Banglipara AWC is submerge under water-dated: 22/06/2023 ,  
+Anganwadi Centres Affected | As per the information received from Social Welfare deptt. 317 no. 
+Korobaha pather AWC is submerge under water-dated: 22/06/2023 ,  
+Anganwadi Centres Affected | As per the information received from Social Welfare deptt. 360 no. 
+Porabharal Pallarpar AWC is submerge under water-dated: 22/06/2023 ,  
+Anganwadi Centres Affected | As per the information received from Social Welfare deptt. 168 no. 
+Porabharal-4 AWC is submerge under water-dated: 22/06/2023 ,",,,,,,,,,
+,,"Anganwadi Centres Affected | As per the information received from Social Welfare deptt. 64 no. 
+Porabharal -2 AWC is submerge under water-dated: 22/06/2023 ,  
+Anganwadi Centres Affected | As per the information received from Social Welfare deppt. 65 no. 
+porabharal-3 AWC is submerge under water-dated: 22/06/2023",,,,,,,,,
+,"Bongaigao
+n","Bongaigaon - Fisheries/Pond | One rearing Pond effected on 22/06/2023 at Korebari measuring 
+water area 0.1 hector belong to Nijara Barman Location Coordinate : Lat : 26.499557 Lon: 
+90.618257. Date-22.06.2023",,,,,,,,,
+,Chirang,"Sidli - Irrigation Canal/Scheme Damaged | As reported by EE, Sidli Division (irrigation), Dhaligaon 
+Breached of canal embankment of LBC-7 of Champamati Irrigation Project(Major) at Gossaigaon 
+Village, Location - Latitude- 26.493442, Longitude-90.453036 Damage details- Length-40.00m, 
+Breadth-5.00m, Depth-4.00m date of occurrence-21-06-2023",,,,,,,,,
+,Darrang,"Mangaldoi - Bridge Approach Road Damaged | As reported by PWRD BRIDGE APPROACH 
+DAMAGED at Naharbari of RCC BR NO.2/1. Dated 21/06/2023,  
+Bridge Approach Road Damaged | As reported by PWRD BRIDGE APPROACH DAMAGED at 
+Naharbari of SPT BR NO. ½ . Date 21/06/2023.,  
+Culvert Approach Road Damaged | As reported by PWRD CULVERT DAMAGED, at Mangaldai 
+town at SANTIPARA ROAD. Date 21/06/2023.,  
 Power Dept. Poles | As reported by APDCL Mangaldai. Approx. 7 Nos of poles are damaged. Dated 
 22/06/2023,  
-Power Dept. Conductors | As reported by APDCL Mangaldai. Approx. 1.5 Km of conductor damaged. Dated 
-22/06/2023.,  
-Patharighat - Power Dept. Conductors | AS reported by SDE, APDCL Sipajhar Sub Div. conductor damaged 
-due to uproot of a tree at Sareng dated 22/06/2023.",,,,,,,,
-,Dhemaji,"Jonai - Agri Bundh Damaged | P&RD Deptt. flood protection agri bundh at Misamora Tiniali to Nawkata 
-under MGNERGA, 126 meter eroded due flood water from Seren River on 20/06/2023",,,,,,,,
-,Dibrugarh,"Chabua - Anganwadi Centres Affected | Tengabari AWC affected as per information received from Social 
-Welfare department on 22-06-2023 coordinates Lat 27.611502 Long 95.239086",,,,,,,,
-,Kokrajhar,"Gossaigaon - Culvert Approach Road Damaged | As per reported by BDO Kachugaon on date 22.06.2023 due 
-to heavy rainfall from 12.06.2023 Culvert and road damaged at No.2 Hudumkhata Village near Hudumkhata 
-Sub centre,  
-Damaged SPT Bridge | As per reported by AEE PWD RR Gossaigaon on date 22.06.2023 due to heavy rainfall 
-from 12.06.2023 a bridge has been damaged at Gothaibari to Khokshaguri Road,  
-Damaged SPT Bridge | As per reported by AEE PWD RR Gossaigaon on date 22.06.2023 due to heavy rainfall 
-from 12.06.2023 SPT bridge at harafuta mission to bhomrabil No.1 Road has been partially damaged and both 
-side approaches,  
-Bridge Approach Road Damaged | As per reported by AEE PWD RR Gossaigaon on date 22.06.2023 due to 
-heavy rainfall from 12.06.2023 a bridge approache has been damaged at DK road chariali bridge No. 47/1,  
-Bridge Approach Road Washed Away | As per reported by AEE PWD RR Gossaigaon on date 22.06.2023 due 
-to heavy rainfall from 12.06.2023 a bridge has been wash out at Gossaigaon Town Committee road to T.P. road 
-via bathou mandir,  
+Power Dept. Conductors | As reported by APDCL Mangaldai. Approx. 1.5 Km of conductor 
+damaged. Dated 22/06/2023.,  
+Patharighat - Power Dept. Conductors | AS reported by SDE, APDCL Sipajhar Sub Div. conductor 
+damaged due to uproot of a tree at Sareng dated 22/06/2023.",,,,,,,,,
+,Dhemaji,"Jonai - Agri Bundh Damaged | P&RD Deptt. flood protection agri bundh at Misamora Tiniali to 
+Nawkata under MGNERGA, 126 meter eroded due flood water from Seren River on 20/06/2023",,,,,,,,,
+,Dibrugarh,"Chabua - Anganwadi Centres Affected | Tengabari AWC affected as per information received from 
+Social Welfare department on 22-06-2023 coordinates Lat 27.611502 Long 95.239086",,,,,,,,,
+,Kokrajhar,"Gossaigaon - Culvert Approach Road Damaged | As per reported by BDO Kachugaon on date 
+22.06.2023 due to heavy rainfall from 12.06.2023 Culvert and road damaged at No.2 Hudumkhata 
+Village near Hudumkhata Sub centre,  
+Damaged SPT Bridge | As per reported by AEE PWD RR Gossaigaon on date 22.06.2023 due to 
+heavy rainfall from 12.06.2023 a bridge has been damaged at Gothaibari to Khokshaguri Road,  
+Damaged SPT Bridge | As per reported by AEE PWD RR Gossaigaon on date 22.06.2023 due to 
+heavy rainfall from 12.06.2023 SPT bridge at harafuta mission to bhomrabil No.1 Road has been 
+partially damaged and both side approaches,  
+Bridge Approach Road Damaged | As per reported by AEE PWD RR Gossaigaon on date 
+22.06.2023 due to heavy rainfall from 12.06.2023 a bridge approache has been damaged at DK road 
+chariali bridge No. 47/1,  
+Bridge Approach Road Washed Away | As per reported by AEE PWD RR Gossaigaon on date 
+22.06.2023 due to heavy rainfall from 12.06.2023 a bridge has been wash out at Gossaigaon Town 
+Committee road to T.P. road via bathou mandir,  
 (Kokrajhar) At District - Culvert Approach Road Damaged | AS REPORTED BY ASSTT. EXEC. 
-ENGINEER, PWD KOKRAJHAR (RR) SUB-DIVISION ON 22-06-2023 APPROACHES OF RCC BOX 
-CULVERT NO. 6/1 ON RAMFALBIL ATHIABARI ROAD ERRODED.,  
-Culvert Approach Road Damaged | AS REPORTED BY ASSTT. EXEC. ENGINEER, PWD KOKRAJHAR 
-(RR) SUB-DIVISION ON 22-06-2023 APPROACHES OF HP CULVERT NO. 1/2 AND RCC BOX 
-CULVERT NO. 3/1 ON HARINAGURI TO DHUPGURI ROAD ERRODED.,  
-Culvert Approach Road Damaged | AS REPORTED BY ASSTT. EXEC. ENGINEER, PWD KOKRAJHAR 
-(RR) SUB-DIVISION ON 22-06-2023 APPROACHES OF RCC BOX CULVERT NO. 1/1 ON FS ROAD TO 
-THURIBARI VILLAGE ROAD ERRODED.,  
-Culvert Approach Road Damaged | AS REPORTED BY ASSTT. EXEC. ENGINEER, PWD KOKRAJHAR 
-(RR) SUB-DIVISION ON 21-06-2023 APPROACHES OF RCC BOX CULVERT NO. 4/2 ON NH-31 (C) TO 
-NORTH BASHBARI ROAD ERRODED",,,,,,,,
-,Lakhimpur,"Subansiri - Bridge Approach Road Damaged | As reported by Dhakuakhana Territorial road division,",,,,,,,,
-,,"Ghilamara the bridge approach of RCC bridge no 3/1 is damaged on Chakuli to Basudevthan road (L=25M) on 
-22/06/2023",,,,,,,,
-,Nalbari,"Barkhetri - Bridge Approach Road Damaged | Due to incessant heavy rainfall for last few days Br Approach 
-of RCC Br No. 15/1on HMD Road at Baraliarpar badly damaged by creating big hole below hard crust. as 
-reported by AEE, PWRD, Barkhetri Territorial sub div on 22/06/23,  
-Tihu - Agri Bundh Damaged | AGRIBUNDH(MORA PAGOLDIA L/B) BREACHED AT BARPIT , 
-BHOJKUCHI AS PER REPORT GP ON 21/06/2023 ,LENGTH IS APPROX 50FTS ,  
-Agri Bundh Damaged | AGRIBUNDH(MORA PAGOLDIA L/B) BREACHED AT BARPIT (NEAR SON 
-BARMAN HOUSE) AS PER RERORT GP ON 22/06/2023 ,LENGTH IS APPROX 40 FTS ,  
-Agri Bundh Damaged | OVERTOPPING AND ERODED BOTH SIDE OF AGRIBUND AT VILLAGE 
-NIZKHANA AS PER REPORT GP ON 22/06/2023 ,LENGTH IS APPOX 600 MTS ,  
-Banekuchi - Culvert Approach Road Damaged | On 21/06/2023 at 10 am Banekuchi to Mohan Bazar road 
-culvert approach damaged by flood water report from PWRD department,  
-Paschim Nalbari - Handloom & Textile Deptt | Approx. 50 nos. weavers family affected due to flood. 
-Information received from Handloom and Textile Department on 22/06/2023",,,,,,,,
-,Udalguri,"Harisinga - Culvert Approach Road Damaged | Due to heavy rainfall on 21st June 2021 Pwd culvert damage 
-at village Dahalahabi. LAT 26.6877 LON 91.7617,  
-Mazbat - Culvert Approach Road Damaged | Damaged of slab culvert on NH 15 to Udalguri jungle road due 
-to heavy rainfall on 21-06-2023. (Lat : 26.630307, long: 92.31356),  
-Culvert Approach Road Damaged | Damaged of slab culvert at No. 2 Udalguri jungle village due to heavy 
-rainfall on 21-06-2023. (Lat : 26.6203137, long: 92.39013)",,,,,,,,
-Erosion,"District/Sub
--division*",Details,,,,,,,,
-,Biswanath,"Naduar RC part - kalakati | Dated 22/06/23, Continuous active bank erosion is observed at Kalakati area in 
-between Ch. 6th to 7th km of Biswanath-Panpur Dyke of river Brahmaputra. Lat 26.67441008 Long 
-93.09784163 | 0 | (Long - 93.097955, Lat - 26.674689),  
-Halem - Paken, Doriakhat | Report on 22/06/2023 1.Mild bank erosion is observed at Paken area of B-dyke 
-from Jamuguri to Kharoi outfall. Length =10m.(avg.width=0.10m) 2.Flood water damaged the eroded the river 
-side slop upto Palliative measures are taken in the form of launching of tree branches. crest level on R/Bank 
-embankment of river. 22/06/2023 Brahmajan. Length 30m(avg. width=1.7m) 3.Mild bank erosion is observed 
-Palliative measures at L/Bank of river Brahmajan are taken in the form of launching of tree branches. at 
-Doriakhat area on 22/06/2023. Length=10m(avg. Width=1m | 0 | (Long - 93.522011, Lat - 26.847018)",,,,,,,,
-,Bongaigaon,"Srijangram - 1. Jopea boroichila, 2. Boroisala | (1) 2 no.s of houses damaged due to erosion, Dated- 
-22.06.2023,Lat-26.348464, Long- 90.768195 (2)Bank erosion on R/B of river Manas at Boroisala area for a 
-reach of 600m is observed. as per report received from water Resource Dept., Abhayapuri. dated- 22.06.2023, 
-(26.3490262°E,90.768173°N) | 8 | (Long - 90.768195, Lat - 26.348464)",,,,,,,,
-,Darrang,"Dalgaon - Rangagara Khuti and Rangagora pathar | As per report received from L.M, erosion occurred at 
-village-Rangagara Khuti and Rangagora pathar under Dalgaon Revenue Circle. where total 8 bigha 2 Katha 17 
-Lessa(Approx) land has been eroded. Dated 22/06/2023. | 58 | (Long - 0.000000, Lat - 0.000000)",,,,,,,,
-,Dhubri,"Bilasipara - Nayeralga pt-III | Recently erosion has taken place by the river Gaurang at village: Nayeralga pt-
-III Land eroded:- Land measuring around 05 Bigha 03 Katha 15 Lessa. (DATED 21-06-2023 TO 22-06-2023) | 
-0 | (Long - 90.202887, Lat - 26.154419),  
-Chapar - Jamduar Pt I | Erosion took place at Jamduar Pt I village on dated 21-06-23 to 22-06-23 by rhe river 
-Gaurang where 0B-2K-10L of agricultural land has been eroded so far. | 0 | (Long - 90.245080, Lat - 
-26.232550)",,,,,,,,
-,Lakhimpur,"Bihpuria - Dikrong Ghat area at 80 No. Solmari Grant | Continuous erosion occurring at Dikrong Ghat at 80 
-No. Solmari village since yesterday (21/06/2023) and a depth of 10 meters (approx) has been eroded as 
-reported by WRD, Bihpuria Sub-Division on 22/06/2023. Another family has been shifted to safe location and 
-02 nos. Of tarpaulins has been provided. | 7 | (Long - 93.878200, Lat - 27.081900),  
-Kadam - No2 Gereki village and No2 Bhangabil village | Around 20 mtrs. eroded by the River Subansiri at 
-No2 Gereki village, and Around 10 mtrs. eroded by the River Boginadi at No2 Bhangabil village, reported by 
-the concerned Gaon Pradhan, Dated 22/06/2023 | 0 | (Long - 0.000000, Lat - 0.000000)",,,,,,,,
-,Morigaon,"Bhuragaon - Balidunga Pam, Kupatimari | As per Water Resource department, Morigaon, Bhrahmaputra river 
-erosion eroded 0.5 meter at a length of 700 meter at Kupatimari and Balidunga Pam revenue village under 
-Bhuragaon Rev. Circle from 21-06-2023 to 22-06-2023."" | 0 | (Long - 26.411003, Lat - 92.251558)",,,,,,,,
-,Nalbari,"Barkhetri - Larkuchi, Peradhara, Madhya Kazia | B/dyke on R/B of river Brahmaputra from Adabari to 
-Kukarjan at D/S of Larkuchi, length 250m B/dyke on R/B of river Brahmaputra from Adabari to Kukarjan at 
-channel mouth of Peradhara, length 300m B/dyke on R/B of river Brahmaputra from Adabari to Kukarjan at 
-channel mouth at Madhaya kazia, length 1200m as reported by AEE, WRD, Mukalmua on 22/06/2023 | 0 | 
-(Long - 0.000000, Lat - 0.000000)",,,,,,,,
-,Sonitpur,"Dhekiajuli - Praja Basti Pathar | As per information received from Executive Engineer, Tezpur Water 
-Resource Division on 22/06/2023 that Bank erosion observed at L/Bank River Panchnoi near Kanaka Village 
-Resort. | 0 | (Long - 92.337660, Lat - 26.788245),  
-Thelamara - Village- Baligaon Bongaligaon, Garuduba and Kalakuchi | Date-22/06/2023, As reported by 
-Tezpur Water Resource Tezpur Division on 22/06/2023- 1) Active bank erosion is observed at Baligaon 
-Bongaligaon area on the left bank area of river Belsiri,Length = 200.00m, Latitude : 26.736022, Longitude: 
-92.558699 2) Bank erosion is observed at Garuduba area of river Belsiri Length = 150.00m, Latitude 
-:26.642391, Longitude: 92.530572 3)Bank erosion is observed at Kalakuchi(Ch 200m to 350m) on the R/Bank",,,,,,,,
-,,"of river Gabharu. Latitude-26.746466 and Longitude-92.616082 | 0 | (Long - 92.616082, Lat - 26.746466),  
-Chariduar - 1) Berajan(Lat-26.740972,Long-92.850307), 2)Bhobolagaon Bangali,Lat-26.860853,Long-
-92.748987 | 1)Bank erosion is observed (250m) on the R/bank of river Jiabharali at Berajan since 21.06.2023 
-reported on DTD 22.06.2023, 2)Bank erosion is observed at Bhobolagaon Bangali (300m) on the L/bank of 
-river Jorasar since 14.06.2023 reported on DTD 22.06.2023. | 0 | (Long - 0.000000, Lat - 0.000000)",,,,,,,,
+ENGINEER, PWD KOKRAJHAR (RR) SUB-DIVISION ON 22-06-2023 APPROACHES OF 
+RCC BOX CULVERT NO. 6/1 ON RAMFALBIL ATHIABARI ROAD ERRODED.,  
+Culvert Approach Road Damaged | AS REPORTED BY ASSTT. EXEC. ENGINEER, PWD 
+KOKRAJHAR (RR) SUB-DIVISION ON 22-06-2023 APPROACHES OF HP CULVERT NO. 1/2 
+AND RCC BOX CULVERT NO. 3/1 ON HARINAGURI TO DHUPGURI ROAD ERRODED.,  
+Culvert Approach Road Damaged | AS REPORTED BY ASSTT. EXEC. ENGINEER, PWD 
+KOKRAJHAR (RR) SUB-DIVISION ON 22-06-2023 APPROACHES OF RCC BOX CULVERT 
+NO. 1/1 ON FS ROAD TO THURIBARI VILLAGE ROAD ERRODED.,  
+Culvert Approach Road Damaged | AS REPORTED BY ASSTT. EXEC. ENGINEER, PWD 
+KOKRAJHAR (RR) SUB-DIVISION ON 21-06-2023 APPROACHES OF RCC BOX CULVERT 
+NO. 4/2 ON NH-31 (C) TO NORTH BASHBARI ROAD ERRODED",,,,,,,,,
+,Lakhimpur,"Subansiri - Bridge Approach Road Damaged | As reported by Dhakuakhana Territorial road 
+division, Ghilamara the bridge approach of RCC bridge no 3/1 is damaged on Chakuli to 
+Basudevthan road (L=25M) on 22/06/2023",,,,,,,,,
+,Nalbari,"Barkhetri - Bridge Approach Road Damaged | Due to incessant heavy rainfall for last few days Br 
+Approach of RCC Br No. 15/1on HMD Road at Baraliarpar badly damaged by creating big hole 
+below hard crust. as reported by AEE, PWRD, Barkhetri Territorial sub div on 22/06/23,  
+Tihu - Agri Bundh Damaged | AGRIBUNDH(MORA PAGOLDIA L/B) BREACHED AT BARPIT 
+, BHOJKUCHI AS PER REPORT GP ON 21/06/2023 ,LENGTH IS APPROX 50FTS ,  
+Agri Bundh Damaged | AGRIBUNDH(MORA PAGOLDIA L/B) BREACHED AT BARPIT",,,,,,,,,
+,,"(NEAR SON BARMAN HOUSE) AS PER RERORT GP ON 22/06/2023 ,LENGTH IS APPROX 
+40 FTS ,  
+Agri Bundh Damaged | OVERTOPPING AND ERODED BOTH SIDE OF AGRIBUND AT 
+VILLAGE NIZKHANA AS PER REPORT GP ON 22/06/2023 ,LENGTH IS APPOX 600 MTS ,  
+Banekuchi - Culvert Approach Road Damaged | On 21/06/2023 at 10 am Banekuchi to Mohan 
+Bazar road culvert approach damaged by flood water report from PWRD department,  
+Paschim Nalbari - Handloom & Textile Deptt | Approx. 50 nos. weavers family affected due to 
+flood. Information received from Handloom and Textile Department on 22/06/2023",,,,,,,,,
+,Udalguri,"Harisinga - Culvert Approach Road Damaged | Due to heavy rainfall on 21st June 2021 Pwd 
+culvert damage at village Dahalahabi. LAT 26.6877 LON 91.7617,  
+Mazbat - Culvert Approach Road Damaged | Damaged of slab culvert on NH 15 to Udalguri jungle 
+road due to heavy rainfall on 21-06-2023. (Lat : 26.630307, long: 92.31356),  
+Culvert Approach Road Damaged | Damaged of slab culvert at No. 2 Udalguri jungle village due to 
+heavy rainfall on 21-06-2023. (Lat : 26.6203137, long: 92.39013)",,,,,,,,,
+Erosion,"District/Su
+b-division*",Details,,,,,,,,,
+,Biswanath,"Naduar RC part - kalakati | Dated 22/06/23, Continuous active bank erosion is observed at 
+Kalakati area in between Ch. 6th to 7th km of Biswanath-Panpur Dyke of river Brahmaputra. Lat 
+26.67441008 Long 93.09784163 | 0 | (Long - 93.097955, Lat - 26.674689),  
+Halem - Paken, Doriakhat | Report on 22/06/2023 1.Mild bank erosion is observed at Paken area of 
+B-dyke from Jamuguri to Kharoi outfall. Length =10m.(avg.width=0.10m) 2.Flood water damaged 
+the eroded the river side slop upto Palliative measures are taken in the form of launching of tree 
+branches. crest level on R/Bank embankment of river. 22/06/2023 Brahmajan. Length 30m(avg. 
+width=1.7m) 3.Mild bank erosion is observed Palliative measures at L/Bank of river Brahmajan are 
+taken in the form of launching of tree branches. at Doriakhat area on 22/06/2023. Length=10m(avg. 
+Width=1m | 0 | (Long - 93.522011, Lat - 26.847018)",,,,,,,,,
+,"Bongaigao
+n","Srijangram - 1. Jopea boroichila, 2. Boroisala | (1) 2 no.s of houses damaged due to erosion, Dated- 
+22.06.2023,Lat-26.348464, Long- 90.768195 (2)Bank erosion on R/B of river Manas at Boroisala 
+area for a reach of 600m is observed. as per report received from water Resource Dept., Abhayapuri. 
+dated- 22.06.2023, (26.3490262°E,90.768173°N) | 8 | (Long - 90.768195, Lat - 26.348464)",,,,,,,,,
+,Darrang,"Dalgaon - Rangagara Khuti and Rangagora pathar | As per report received from L.M, erosion 
+occurred at village-Rangagara Khuti and Rangagora pathar under Dalgaon Revenue Circle. where 
+total 8 bigha 2 Katha 17 Lessa(Approx) land has been eroded. Dated 22/06/2023. | 58 | (Long - 
+0.000000, Lat - 0.000000)",,,,,,,,,
+,Dhubri,"Bilasipara - Nayeralga pt-III | Recently erosion has taken place by the river Gaurang at village: 
+Nayeralga pt-III Land eroded:- Land measuring around 05 Bigha 03 Katha 15 Lessa. (DATED 21-
+06-2023 TO 22-06-2023) | 0 | (Long - 90.202887, Lat - 26.154419),  
+Chapar - Jamduar Pt I | Erosion took place at Jamduar Pt I village on dated 21-06-23 to 22-06-23 
+by rhe river Gaurang where 0B-2K-10L of agricultural land has been eroded so far. | 0 | (Long - 
+90.245080, Lat - 26.232550)",,,,,,,,,
+,Lakhimpur,"Bihpuria - Dikrong Ghat area at 80 No. Solmari Grant | Continuous erosion occurring at Dikrong 
+Ghat at 80 No. Solmari village since yesterday (21/06/2023) and a depth of 10 meters (approx) has 
+been eroded as reported by WRD, Bihpuria Sub-Division on 22/06/2023. Another family has been 
+shifted to safe location and 02 nos. Of tarpaulins has been provided. | 7 | (Long - 93.878200, Lat - 
+27.081900),  
+Kadam - No2 Gereki village and No2 Bhangabil village | Around 20 mtrs. eroded by the River 
+Subansiri at No2 Gereki village, and Around 10 mtrs. eroded by the River Boginadi at No2 
+Bhangabil village, reported by the concerned Gaon Pradhan, Dated 22/06/2023 | 0 | (Long - 
+0.000000, Lat - 0.000000)",,,,,,,,,
+,Morigaon,"Bhuragaon - Balidunga Pam, Kupatimari | As per Water Resource department, Morigaon, 
+Bhrahmaputra river erosion eroded 0.5 meter at a length of 700 meter at Kupatimari and Balidunga 
+Pam revenue village under Bhuragaon Rev. Circle from 21-06-2023 to 22-06-2023."" | 0 | (Long - 
+26.411003, Lat - 92.251558)",,,,,,,,,
+,Nalbari,"Barkhetri - Larkuchi, Peradhara, Madhya Kazia | B/dyke on R/B of river Brahmaputra from 
+Adabari to Kukarjan at D/S of Larkuchi, length 250m B/dyke on R/B of river Brahmaputra from 
+Adabari to Kukarjan at channel mouth of Peradhara, length 300m B/dyke on R/B of river 
+Brahmaputra from Adabari to Kukarjan at channel mouth at Madhaya kazia, length 1200m as 
+reported by AEE, WRD, Mukalmua on 22/06/2023 | 0 | (Long - 0.000000, Lat - 0.000000)",,,,,,,,,
+,Sonitpur,"Dhekiajuli - Praja Basti Pathar | As per information received from Executive Engineer, Tezpur 
+Water Resource Division on 22/06/2023 that Bank erosion observed at L/Bank River Panchnoi near 
+Kanaka Village Resort. | 0 | (Long - 92.337660, Lat - 26.788245),",,,,,,,,,
+,,"Thelamara - Village- Baligaon Bongaligaon, Garuduba and Kalakuchi | Date-22/06/2023, As 
+reported by Tezpur Water Resource Tezpur Division on 22/06/2023- 1) Active bank erosion is 
+observed at Baligaon Bongaligaon area on the left bank area of river Belsiri,Length = 200.00m, 
+Latitude : 26.736022, Longitude: 92.558699 2) Bank erosion is observed at Garuduba area of river 
+Belsiri Length = 150.00m, Latitude :26.642391, Longitude: 92.530572 3)Bank erosion is observed 
+at Kalakuchi(Ch 200m to 350m) on the R/Bank of river Gabharu. Latitude-26.746466 and 
+Longitude-92.616082 | 0 | (Long - 92.616082, Lat - 26.746466),  
+Chariduar - 1) Berajan(Lat-26.740972,Long-92.850307), 2)Bhobolagaon Bangali,Lat-
+26.860853,Long-92.748987 | 1)Bank erosion is observed (250m) on the R/bank of river Jiabharali at 
+Berajan since 21.06.2023 reported on DTD 22.06.2023, 2)Bank erosion is observed at Bhobolagaon 
+Bangali (300m) on the L/bank of river Jorasar since 14.06.2023 reported on DTD 22.06.2023. | 0 | 
+(Long - 0.000000, Lat - 0.000000)",,,,,,,,,
 ,"South 
-Salmara","Mankachar - Nepurer Alga and Bhutiadanga | As per report received from I/C Control Room Hatsingimari 
-W.R Sub-Division, Hatsingimari and concerned Gaon Pradhan, erosion is going on in revenue village Nepurer 
-Alga and Bhutiadanga.Causing damage of Agriculture land measuring 500 M length, 5 M Breadth in revenue 
-village Nepurer Alga and land measuring 100M in length , 1.5 M breadth in revenue village Bhutiadanga. 18 
-Nos. temporary house hold from Nepurealga are shifted to other safe place for this purpose, 2 Nos. of engine 
-Boat deployed on 22/06/2023. | 255 | (Long - 25.747484, Lat - 89.843544),  
-South Salmara - Borobalu, khopati Pat-I | As per report received from WR, Hatsingimari erosion occurred at 
-village Borobalu by the river Brahmaputra area approx. length 1 km breadth 3m on 22-06-2023. As per 
-information received from Gaonpradhan erosion occurred at village Khopati PT- I. 2 nos families has been 
-eroded due to erosion by the river Jinziram. area approx. length 300 m breadth 20 m 21-06-2023. | 12 | (Long - 
-89.949400, Lat - 25.802200)",,,,,,,,
-,Tamulpur,"Tamulpur - vill- Kaliakur | Severe bank erosion and gully erosion occured at Kaliakur dong and its adjecent 
-paddy area odd Kaliakur village. Flood water of Kaliakur dong breached the guide bund on east and west bank 
-of RCC check dam project at Kaliakur village on 21 June 2023 | 0 | (Long - 91.558741, Lat - 26.665193)",,,,,,,,
-,Udalguri,"Harisinga - 1. Khairabari village 2. Kalikhola village 3.kalikhola village | 1. Due to heavy rainfall on 21st June 
-2023 erosion occurred by river Lakhi near Santipur Chowk. Approximate damage 60 meters. LAT 26.8437 
-LON 91.9550 2. Erosion occurred by River Kalanadi at Kalikhola village near Masjid on 21st June 2023. 
-Approximate damage 100 meters. LAT 26.8102 LON 91.8440. 3. Erosion occurred at another point of 
-Kalikhola village on 21st June 2023 by River Kalanadi. Approximate damage 300 meters. Lat26.8056 lon 
-91.8449 | 0 | (Long - 0.000000, Lat - 0.000000),  
-Mazbat - 1. Doloni Basti 2. Kukurbhuka 3. Nij Rangapani | 1. Severe erosion occurred on R/B of Lalpani river 
-at Doloni Basti for a length of 300m on 21/6/2023 due to incessant rain. (Lat: 26.82434, 92.22343) 2. Severe 
-erosion occurred on R/B of Rowta river at Kukurbhuka for a length of 400m on 21/6/2023 due to incessant 
-rain. (Lat: 26.831182, Long: 92.230400) 3. Severe erosion occurred on R/B of Rowta river at Nij Rangapani 
-for a length of 400m on 21/6/2023 due to incessant rain. (Lat: 26.817356, long: 92.232018) | 0 | (Long - 
-0.000000, Lat - 0.000000),  
-Khairabari - 1. CHABUKDHARA 2. JHARGAON | 1. Severe erosion is continuing at village Chabukdhara 
-by river Kalpani on its R/B, measuring length 150 M approx. resulting loss of land/property/assets. Date of 
-Occurrence: 21.06.2023. GPS Coordinates Lat: 26.36300 Long: 91.51700. Population Affected: 100 2. Severe 
-erosion is continuing at Jhargaon village by river Kalpani on its L/B, measuring length 100 M approx. resulting 
-loss of land/property/assets Date of Occurrence: 21.06.2023, GPS Coordinates Lat: 26.570379 Long: 
-91.854048. Population Affected: 15 | 0 | (Long - 0.000000, Lat - 0.000000),  
-Kalaigaon - No 1 Amguri | Erosion continues in the L/B of river Kulshi at village No 1 Amguri on 22/06/2023 
-covering a length of around 100 meters and depth of 5 meters | 48 | (Long - 91.995642, Lat - 26.567881)",,,,,,,,
-Landslide,"District/Sub
--division*",Details,,,,,,,,
-,Bongaigaon,"Boitamari - Vill- Kherpuji | Landslide has been observed in some portion of Bhairab Pahar near Kherpuji LPS 
-and Oudubi to Bowalimari road on 22/06/2023. | 0 | (Long - 90.487290, Lat - 26.296586)",,,,,,,,
-,Dima-Hasao,"Haflong - Hajadisa | Landslide- Road blocked between Hazadisa-Digerkhro Road on 22-06-2023 Starting 
-Point Lat:- 25.332396, Long:-93.334691 and Ending Point Lat:-25.330205, Long:-93.335114 | 0 | (Long - 
-0.000000, Lat - 0.000000)",,,,,,,,
+Salmara","Mankachar - Nepurer Alga and Bhutiadanga | As per report received from I/C Control Room 
+Hatsingimari W.R Sub-Division, Hatsingimari and concerned Gaon Pradhan, erosion is going on in 
+revenue village Nepurer Alga and Bhutiadanga.Causing damage of Agriculture land measuring 500 
+M length, 5 M Breadth in revenue village Nepurer Alga and land measuring 100M in length , 1.5 M 
+breadth in revenue village Bhutiadanga. 18 Nos. temporary house hold from Nepurealga are shifted 
+to other safe place for this purpose, 2 Nos. of engine Boat deployed on 22/06/2023. | 255 | (Long - 
+25.747484, Lat - 89.843544),  
+South Salmara - Borobalu, khopati Pat-I | As per report received from WR, Hatsingimari erosion 
+occurred at village Borobalu by the river Brahmaputra area approx. length 1 km breadth 3m on 22-
+06-2023. As per information received from Gaonpradhan erosion occurred at village Khopati PT- I. 
+2 nos families has been eroded due to erosion by the river Jinziram. area approx. length 300 m 
+breadth 20 m 21-06-2023. | 12 | (Long - 89.949400, Lat - 25.802200)",,,,,,,,,
+,Tamulpur,"Tamulpur - vill- Kaliakur | Severe bank erosion and gully erosion occured at Kaliakur dong and its 
+adjecent paddy area odd Kaliakur village. Flood water of Kaliakur dong breached the guide bund on 
+east and west bank of RCC check dam project at Kaliakur village on 21 June 2023 | 0 | (Long - 
+91.558741, Lat - 26.665193)",,,,,,,,,
+,Udalguri,"Harisinga - 1. Khairabari village 2. Kalikhola village 3.kalikhola village | 1. Due to heavy rainfall 
+on 21st June 2023 erosion occurred by river Lakhi near Santipur Chowk. Approximate damage 60 
+meters. LAT 26.8437 LON 91.9550 2. Erosion occurred by River Kalanadi at Kalikhola village near 
+Masjid on 21st June 2023. Approximate damage 100 meters. LAT 26.8102 LON 91.8440. 3. 
+Erosion occurred at another point of Kalikhola village on 21st June 2023 by River Kalanadi. 
+Approximate damage 300 meters. Lat26.8056 lon 91.8449 | 0 | (Long - 0.000000, Lat - 0.000000),  
+Mazbat - 1. Doloni Basti 2. Kukurbhuka 3. Nij Rangapani | 1. Severe erosion occurred on R/B of 
+Lalpani river at Doloni Basti for a length of 300m on 21/6/2023 due to incessant rain. (Lat: 
+26.82434, 92.22343) 2. Severe erosion occurred on R/B of Rowta river at Kukurbhuka for a length 
+of 400m on 21/6/2023 due to incessant rain. (Lat: 26.831182, Long: 92.230400) 3. Severe erosion 
+occurred on R/B of Rowta river at Nij Rangapani for a length of 400m on 21/6/2023 due to 
+incessant rain. (Lat: 26.817356, long: 92.232018) | 0 | (Long - 0.000000, Lat - 0.000000),  
+Khairabari - 1. CHABUKDHARA 2. JHARGAON | 1. Severe erosion is continuing at village 
+Chabukdhara by river Kalpani on its R/B, measuring length 150 M approx. resulting loss of 
+land/property/assets. Date of Occurrence: 21.06.2023. GPS Coordinates Lat: 26.36300 Long: 
+91.51700. Population Affected: 100 2. Severe erosion is continuing at Jhargaon village by river 
+Kalpani on its L/B, measuring length 100 M approx. resulting loss of land/property/assets Date of 
+Occurrence: 21.06.2023, GPS Coordinates Lat: 26.570379 Long: 91.854048. Population Affected: 
+15 | 0 | (Long - 0.000000, Lat - 0.000000),  
+Kalaigaon - No 1 Amguri | Erosion continues in the L/B of river Kulshi at village No 1 Amguri on 
+22/06/2023 covering a length of around 100 meters and depth of 5 meters | 48 | (Long - 91.995642, 
+Lat - 26.567881)",,,,,,,,,
+Landslide,"District/Su
+b-division*",Details,,,,,,,,,
+,"Bongaigao
+n","Boitamari - Vill- Kherpuji | Landslide has been observed in some portion of Bhairab Pahar near 
+Kherpuji LPS and Oudubi to Bowalimari road on 22/06/2023. | 0 | (Long - 90.487290, Lat - 
+26.296586)",,,,,,,,,
+,"Dima-
+Hasao","Haflong - Hajadisa | Landslide- Road blocked between Hazadisa-Digerkhro Road on 22-06-2023 
+Starting Point Lat:- 25.332396, Long:-93.334691 and Ending Point Lat:-25.330205, Long:-
+93.335114 | 0 | (Long - 0.000000, Lat - 0.000000)",,,,,,,,,
 "Urban 
-Flood","District/Sub
--division*",Details,,,,,,,,
-,Bajali,"Bajali - Pathsala and Patacharkuchi Town | ward no. 10 of Pathsala MB and ward No. 3,4,5,6 of Patacharkuchi 
-MB.This report is received from Chairman of Pathsala and Patacharkuchi. dated 22-06-2023. | 1132 | (Long - 
-0.000000, Lat - 0.000000)",,,,,,,,
-,Darrang,"Dalgaon - Kharupetia Town(ward no.1 & 8) | waterlogging at kharupetia town (ward no.1 &8) Dated 
-22/06/2023. | 100 | (Long - 92.149805, Lat - 26.519547)",,,,,,,,
-,Jorhat,"Jorhat East - Parijat Nagar (13 No. Block) | Artificial water logging at PWD road (Approx. 150 Meter) at 13 
-no block( Parijat Nagar) due to continuous rainfall on 21/06/2023 and 22/06/2023 and insufficient drainage 
-system. | 0 | (Long - 94.222092, Lat - 26.745267)",,,,,,,,
-,Kamrup (M),"Dispur - Rukminigaon, Hatigaon, Wireless and Baghorbori. | 22/6/2023 Waterlogging at Rukminigaon, 
-Hatigaon, Wireless and Baghorbori. Roads are inundated no houses affected | 0 | (Long - 0.000000, Lat - 
-0.000000)",,,,,,,,
-,Kokrajhar,"Kokrajhar - Ward No. 1 to 6 | DUE TO INCESSANT RAINFALL FROM 12.06.2023, WATER LOGGED 
-AT KOKRAJHAR URBAN AREA VIDE WARD NO. 1 TO 6 , dated-22/06/2023 | 12769 | (Long - 0.000000, 
-Lat - 0.000000),  
-Dotma - Fakiragram MB | Dated: 22/06/2023 Due to inccesant rainfall waterlogging has taken place in Ward 
-No.1 and Ward no.3 | 520 | (Long - 0.000000, Lat - 0.000000)",,,,,,,,
-"*Bajali, Biswanath, Hojai and Tamulpur are sub-divisions (Independent)",,,,,,,,,,
+Flood","District/Su
+b-division*",Details,,,,,,,,,
+,Bajali,"Bajali - Pathsala and Patacharkuchi Town | ward no. 10 of Pathsala MB and ward No. 3,4,5,6 of 
+Patacharkuchi MB.This report is received from Chairman of Pathsala and Patacharkuchi. dated 22-",,,,,,,,,
+,,"06-2023. | 1132 | (Long - 0.000000, Lat - 0.000000)",,,,,,,,,
+,Darrang,"Dalgaon - Kharupetia Town(ward no.1 & 8) | waterlogging at kharupetia town (ward no.1 &8) 
+Dated 22/06/2023. | 100 | (Long - 92.149805, Lat - 26.519547)",,,,,,,,,
+,Jorhat,"Jorhat East - Parijat Nagar (13 No. Block) | Artificial water logging at PWD road (Approx. 150 
+Meter) at 13 no block( Parijat Nagar) due to continuous rainfall on 21/06/2023 and 22/06/2023 and 
+insufficient drainage system. | 0 | (Long - 94.222092, Lat - 26.745267)",,,,,,,,,
+,"Kamrup 
+(M)","Dispur - Rukminigaon, Hatigaon, Wireless and Baghorbori. | 22/6/2023 Waterlogging at 
+Rukminigaon, Hatigaon, Wireless and Baghorbori. Roads are inundated no houses affected | 0 | 
+(Long - 0.000000, Lat - 0.000000)",,,,,,,,,
+,Kokrajhar,"Kokrajhar - Ward No. 1 to 6 | DUE TO INCESSANT RAINFALL FROM 12.06.2023, WATER 
+LOGGED AT KOKRAJHAR URBAN AREA VIDE WARD NO. 1 TO 6 , dated-22/06/2023 | 
+12769 | (Long - 0.000000, Lat - 0.000000),  
+Dotma - Fakiragram MB | Dated: 22/06/2023 Due to inccesant rainfall waterlogging has taken place 
+in Ward No.1 and Ward no.3 | 520 | (Long - 0.000000, Lat - 0.000000)",,,,,,,,,
+"*Bajali, Biswanath, Hojai and Tamulpur are sub-divisions (Independent)",,,,,,,,,,,

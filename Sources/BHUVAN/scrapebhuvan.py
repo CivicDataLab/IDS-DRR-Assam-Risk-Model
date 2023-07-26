@@ -7,6 +7,8 @@ import glob
 import natsort
 
 import xarray as xr
+import rioxarray
+
 from PIL import Image
 PIL.Image.MAX_IMAGE_PIXELS = 933120000
 import os
@@ -138,12 +140,13 @@ def create_tiffs_from_ncs(nc_path, image_name):
     image_name: Output name of the GeoTIFF
     '''
 
-    tiff_file = xr.open_dataset(nc_path)
-    var = tiff_file['Inundation']
+    nc_file = xr.open_dataset(nc_path)
+    var = nc_file['Inundation']
+
     var = var.rio.set_spatial_dims('lon', 'lat')
     var.rio.set_crs("epsg:4326")
     var.rio.to_raster(path+r"/tiffs/" + image_name + r".tif")
-    tiff_file.close()
+    nc_file.close()
 
 
 date_strings = ["2016_26_04_18"]

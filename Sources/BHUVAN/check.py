@@ -1,6 +1,5 @@
 import xarray as xr
 import rioxarray
-
 nc_path = '/home/krishna/IDS-DRR-Data-Pipeline/Sources/BHUVAN/NCs/2016_26_04_18.nc'
 
 def create_tiffs_from_ncs(nc_path, image_name):
@@ -20,4 +19,4 @@ def create_tiffs_from_ncs(nc_path, image_name):
     var.rio.to_raster(path+r"/tiffs/" + image_name + r".tif")
     nc_file.close()
 
-create_tiffs_from_ncs(nc_path, "2016_26_04_18")
+#create_tiffs_from_ncs(nc_path, "2016_26_04_18")

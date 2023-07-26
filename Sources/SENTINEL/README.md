@@ -1,0 +1,3 @@
+NDVI and NDBI
+
+Time Taken: 1201.0429613479992 seconds

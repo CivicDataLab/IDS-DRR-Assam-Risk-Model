@@ -33,10 +33,10 @@ def get_image_from_tile(BBOX,date_string):
 
     #print(floods_url)
     try:
-        urllib.request.urlretrieve(floods_url, path+r"/Tiles/"+date_string+"xx"+BBOX+".image")
+        urllib.request.urlretrieve(floods_url, path+r"/data/Tiles/"+date_string+"xx"+BBOX+".image")
         return None
     except:
-        urllib.request.urlretrieve(floods_url, path+r"/Tiles/" + date_string + "xx" + BBOX + ".image")
+        urllib.request.urlretrieve(floods_url, path+r"/data/Tiles/" + date_string + "xx" + BBOX + ".image")
         return print(floods_url) #r"Tiles/"+date_string+"xx"+BBOX+".image"
 
 
@@ -112,7 +112,7 @@ def create_nc_from_images(lt_s, lt_n, ln_w, ln_e, image_path, image_name):
     lt_array = np.linspace(lt_n, lt_s, grayscale_array.shape[0])
     ln_array = np.linspace(ln_w, ln_e, grayscale_array.shape[1])
 
-    my_file = Dataset(path+r"/NCs/" + image_name + '.nc', 'w', format='NETCDF4')
+    my_file = Dataset(path+r"/data/NCs/" + image_name + '.nc', 'w', format='NETCDF4')
     lat_dim = my_file.createDimension('lat', grayscale_array.shape[0])
     lon_dim = my_file.createDimension('lon', grayscale_array.shape[1])
     time_dim = my_file.createDimension('time', None)
@@ -128,7 +128,7 @@ def create_nc_from_images(lt_s, lt_n, ln_w, ln_e, image_path, image_name):
 
     my_file.close()
 
-    return path+r"/NCs/" + image_name + '.nc'
+    return path+r"/data/NCs/" + image_name + '.nc'
 
 
 def create_tiffs_from_ncs(nc_path, image_name):
@@ -145,13 +145,14 @@ def create_tiffs_from_ncs(nc_path, image_name):
 
     var = var.rio.set_spatial_dims('lon', 'lat')
     var.rio.set_crs("epsg:4326")
-    var.rio.to_raster(path+r"/tiffs/" + image_name + r".tif")
+    var.rio.to_raster(path+r"/data/tiffs/" + image_name + r".tif")
     nc_file.close()
 
 
 date_strings = ["2016_26_04_18"]
 
 delta = 0.0439453125
+
 print(len(date_strings))
 
 for date_string in date_strings:
@@ -195,7 +196,7 @@ for date_string in date_strings:
     print("All tiles downloaded - Time Taken: {} seconds".format(toc - tic))
 
     extension = 'image'
-    result = glob.glob(path+r'/Tiles/*.{}'.format(extension))
+    result = glob.glob(path+r'/data/Tiles/*.{}'.format(extension))
 
     lats = []
     lons = []
@@ -223,11 +224,11 @@ for date_string in date_strings:
             merged_image = merge_images(merged_image, image, horizontal=False)
         c = c + no_images_vertically
 
-        merged_image.save(path+r'/vert/' + str(count) + '.png')
+        merged_image.save(path+r'/data/vert/' + str(count) + '.png')
         count = count + 1
 
-    shutil.rmtree(path+'/Tiles')
-    os.makedirs(path+'/Tiles')
+    shutil.rmtree(path+'/data/Tiles')
+    os.makedirs(path+'/data/Tiles')
     
     toc = time.perf_counter()
     print("Vertical Images created - Time Taken: {} seconds".format(toc - tic))
@@ -236,7 +237,7 @@ for date_string in date_strings:
     tic = time.perf_counter()
 
     extension = 'png'
-    vert_imgs = glob.glob(path+'/vert/*.{}'.format(extension))
+    vert_imgs = glob.glob(path+'/data/vert/*.{}'.format(extension))
     vert_imgs = natsort.natsorted(vert_imgs,reverse=False)
 
     merged_image = vert_imgs[0]
@@ -252,9 +253,9 @@ for date_string in date_strings:
     merged_image_ar = np.asarray(merged_image).copy()
     merged_image_ar[:,:][(merged_image_ar[:,:]<255)] = 179
     merged_image = Image.fromarray(merged_image_ar)
-    merged_image.save(path+r'/'+date_string+'.png')
-    shutil.rmtree(path+r'/'+'vert')
-    os.makedirs(path+r'/'+'vert')
+    merged_image.save(path+r'/data/PNGs/'+date_string+'.png')
+    shutil.rmtree(path+r'/data/'+'vert')
+    os.makedirs(path+r'/data/'+'vert')
     toc = time.perf_counter()
     print("PNG save - Time Taken: {} seconds".format(toc-tic))
     

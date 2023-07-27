@@ -54,13 +54,13 @@ ndbi = sentinel_mosaic.normalizedDifference(['B11', 'B8']).rename('ndbi')
 
 geemap.zonal_statistics(ndvi,
                         assam_rcs,
-                        cwd+'/Sources/SENTINEL/check_ndvi_sentinel.csv',
+                        cwd+'/Sources/SENTINEL/data/check_ndvi_sentinel.csv',
                         statistics_type='MEAN',
                         scale=1000)
 print("--------------------")
 geemap.zonal_statistics(ndbi,
                         assam_rcs,
-                        cwd+'/Sources/SENTINEL/check_ndbi_sentinel.csv',
+                        cwd+'/Sources/SENTINEL/data/check_ndbi_sentinel.csv',
                         statistics_type='MEAN',
                         scale=1000)
 

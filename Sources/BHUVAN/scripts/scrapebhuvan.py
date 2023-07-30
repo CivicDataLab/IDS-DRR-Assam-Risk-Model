@@ -19,7 +19,7 @@ from joblib import Parallel, delayed
 import time
 import multiprocessing as mp
 
-path = os.path.dirname(os.path.realpath(__file__))
+path = os.getcwd()+'/Sources/BHUVAN/'
 
 def get_image_from_tile(BBOX,date_string):
     '''
@@ -121,7 +121,7 @@ def create_nc_from_images(lt_s, lt_n, ln_w, ln_e, image_path, image_name):
     longitudes = my_file.createVariable("lon", 'f4', ('lon',))
     time = my_file.createVariable('time', np.float32, ('time',))
 
-    new_nc_variable = my_file.createVariable("Inundation", np.float32, ('time', 'lat', 'lon'))
+    new_nc_variable = my_file.createVariable("Inundation", bool, ('time', 'lat', 'lon'))
     latitudes[:] = lt_array
     longitudes[:] = ln_array
     new_nc_variable[0, :, :] = grayscale_array
@@ -251,7 +251,9 @@ for date_string in date_strings:
     
     tic = time.perf_counter()
     merged_image_ar = np.asarray(merged_image).copy()
-    merged_image_ar[:,:][(merged_image_ar[:,:]<255)] = 179
+    #merged_image_ar[:,:][(merged_image_ar[:,:]<255)] = 179
+    merged_image_ar[:,:][(merged_image_ar[:,:]<255)] = 1
+    merged_image_ar[:,:][(merged_image_ar[:,:]==255)] = 0
     merged_image = Image.fromarray(merged_image_ar)
     merged_image.save(path+r'/data/PNGs/'+date_string+'.png')
     shutil.rmtree(path+r'/data/'+'vert')
@@ -260,7 +262,10 @@ for date_string in date_strings:
     print("PNG save - Time Taken: {} seconds".format(toc-tic))
     
     tic = time.perf_counter()
-    nc_path = create_nc_from_images(starting_point_lat,max(lats),starting_point_lon,max(lons),path+r'/'+date_string+'.png',date_string)
+    nc_path = create_nc_from_images(starting_point_lat, max(lats),
+                                    starting_point_lon, max(lons),
+                                    path+r'/data/PNGs/'+date_string+'.png',
+                                    date_string)
     toc = time.perf_counter()
     print("NC save - Time Taken: {} seconds".format(toc-tic))
     

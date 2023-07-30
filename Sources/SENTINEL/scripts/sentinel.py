@@ -3,8 +3,10 @@ import geemap
 import os 
 import time
 
-tic = time.perf_counter()
+date_start = '2022-01-01'
+date_end ='2022-02-01'
 
+tic = time.perf_counter()
 cwd = os.getcwd()
 
 service_account = ' idsdrr@ee-idsdrr.iam.gserviceaccount.com'
@@ -35,34 +37,48 @@ assam_rcs = ee.FeatureCollection("projects/ee-idsdrr/assets/assam_rc_180")
 geometry = assam_rcs.geometry() 
 
 # Get GEE Image Collection
-sentinel = ee.ImageCollection("COPERNICUS/S2_SR")
+sentinel = ee.ImageCollection("COPERNICUS/S2_SR_HARMONIZED")
 
 # Filter the image collection
 sentinel_filtered = sentinel \
-                    .filter(ee.Filter.date('2021-01-01', '2022-01-01')) \
+                    .filter(ee.Filter.date(date_start, date_end)) \
                     .filter(ee.Filter.bounds(geometry)) \
                     .filter(ee.Filter.lt('CLOUDY_PIXEL_PERCENTAGE', 20)) # Filter for images that have less then 20% cloud coverage.
 
 # Apply cloud mask
 sentinel_filtered_cloud_masked = sentinel_filtered.map(maskS2clouds)
 
-# Choose mosaic image
-sentinel_mosaic = sentinel_filtered_cloud_masked.mosaic()
+# Choose median image
+sentinel_median = sentinel_filtered_cloud_masked.mosaic()
 
-ndvi = sentinel_mosaic.normalizedDifference(['B8', 'B4']).rename('ndvi')
-ndbi = sentinel_mosaic.normalizedDifference(['B11', 'B8']).rename('ndbi')
+ndvi = sentinel_median.normalizedDifference(['B8', 'B4']).rename('ndvi')
+ndbi = sentinel_median.normalizedDifference(['B11', 'B8']).rename('ndbi')
+
+print("-------NDVI Image-------------")
+geemap.ee_export_image(ndvi,
+                       filename=cwd+'/Sources/SENTINEL/data/ndvi_{}.tif'.format(date_end),
+                       scale=1000,
+                       region=geometry,
+                       file_per_band=True)
+print("-------NDBI Image-------------")
+
+geemap.ee_export_image(ndbi,
+                       filename=cwd+'/Sources/SENTINEL/data/ndbi_{}.tif'.format(date_end),
+                       scale=1000,
+                       region=geometry,
+                       file_per_band=True)
+print("-------NDVI Stats-------------")
 
 geemap.zonal_statistics(ndvi,
                         assam_rcs,
-                        cwd+'/Sources/SENTINEL/data/check_ndvi_sentinel.csv',
+                        cwd+'/Sources/SENTINEL/data/ndvi_{}.csv'.format(date_end),
                         statistics_type='MEAN',
                         scale=1000)
-print("--------------------")
+print("-------NDBI Stats-------------")
 geemap.zonal_statistics(ndbi,
                         assam_rcs,
-                        cwd+'/Sources/SENTINEL/data/check_ndbi_sentinel.csv',
+                        cwd+'/Sources/SENTINEL/data/ndbi_{}.csv'.format(date_end),
                         statistics_type='MEAN',
                         scale=1000)
-
 toc = time.perf_counter()
 print("Time Taken: {} seconds".format(toc-tic))

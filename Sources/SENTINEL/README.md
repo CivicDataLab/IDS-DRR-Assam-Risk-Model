@@ -6,7 +6,7 @@ Sentinel-2 is a wide-swath, high-resolution, multi-spectral imaging mission supp
 **Variables extracted from the source:** NDVI and NDBI
 
 **Time Taken to run the script:** 
-307 seconds with `scale=1000m`
+147 seconds with `scale=1000m`
 
 ## Project Structure
 - `scripts` : Contains the scripts used to obtain the data

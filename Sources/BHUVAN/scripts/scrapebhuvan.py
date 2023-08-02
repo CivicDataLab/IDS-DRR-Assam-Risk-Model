@@ -121,7 +121,7 @@ def create_nc_from_images(lt_s, lt_n, ln_w, ln_e, image_path, image_name):
     longitudes = my_file.createVariable("lon", 'f4', ('lon',))
     time = my_file.createVariable('time', np.float32, ('time',))
 
-    new_nc_variable = my_file.createVariable("Inundation", bool, ('time', 'lat', 'lon'))
+    new_nc_variable = my_file.createVariable("Inundation", np.uint8, ('time', 'lat', 'lon'))
     latitudes[:] = lt_array
     longitudes[:] = ln_array
     new_nc_variable[0, :, :] = grayscale_array
@@ -149,7 +149,7 @@ def create_tiffs_from_ncs(nc_path, image_name):
     nc_file.close()
 
 
-#date_strings = ["2016_26_04_18"]
+#date_strings = ['2023_16_18_06']
 date_strings = ['2023_09_07_18', '2023_07_07_18', '2023_29_06_18', '2023_27_06_18', '2023_26_06_18', '2023_26_06_06', '2023_25_06_18', '2023_23_06_18', '2023_22_06_18', '2023_21_06_18', '2023_20_06_18', '2023_19_06_18', '2023_16_18_06', '2023_18_06', '2023_17_06', '2023_16_06']
 
 delta = 0.0439453125

@@ -53,4 +53,4 @@ intensity_df.rename(columns = {'mean':'intensity_mean', 'sum':'intensity_sum'}, 
 
 zonal_stats_df = pd.merge(zonal_stats_df, intensity_df[['intensity_mean','intensity_sum','object_id']], on='object_id')
 
-zonal_stats_df.to_csv(path+"data/inundation_"+year+"_"+month+".csv")
+zonal_stats_df.to_csv(path+"data/inundation_pct/inundation_pct"+year+"_"+month+".csv")

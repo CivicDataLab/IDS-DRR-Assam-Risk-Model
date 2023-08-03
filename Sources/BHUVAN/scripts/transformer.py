@@ -11,7 +11,8 @@ year ='2023'
 path = os.getcwd()+'/Sources/BHUVAN/'
 assam_rc_gdf = gpd.read_file(os.getcwd()+'/Maps/Assam_Revenue_Circles/assam_revenue_circle_nov2022.shp')
 
-files = glob.glob(path+"data/tiffs/"+year+"_*_"+month+"*.tif")
+files = glob.glob(path+"data/tiffs/removed_watermarks/"+year+"_*_"+month+"*.tif")
+print('Number of maps available for the month: ',len(files))
 
 raster = rasterio.open(files[0])
 raster_array = raster.read(1)
@@ -19,12 +20,24 @@ raster_array = raster.read(1)
 for file in files[1:]:
     raster_array = raster_array + rasterio.open(file).read(1)
 
-print(raster_array.max())
-mean_dicts = rasterstats.zonal_stats(assam_rc_gdf.to_crs(raster.crs),raster_array,
-                                             affine= raster.transform,
-                                              stats= ['mean', 'count'],
-                                              #nodata=raster.nodata,
-                                              geojson_out = True)
+# SAVE THE STITCHED RASTER FOR THE MONTH
+meta = raster.meta
+meta['compress'] = 'deflate'
+meta['count'] = 1 #Only one band.
+meta['dtype'] = 'uint8'
+meta['crs'] = raster.crs
+meta['transform'] = raster.transform
+with rasterio.open(path+'data/tiffs/stitched_monthly/stitched_{}_{}.tif'.format(year,month), 'w', **meta) as dst:
+    dst.write(raster_array, 1)
+
+# CALCULATE MODEL INPUTS
+
+mean_dicts = rasterstats.zonal_stats(assam_rc_gdf.to_crs(raster.crs),
+                                     raster_array,
+                                     affine= raster.transform,
+                                     stats= ['mean', 'count'],
+                                     #nodata=raster.nodata,
+                                     geojson_out = True)
 
 dfs = []
 for rc in mean_dicts:
@@ -36,7 +49,7 @@ zonal_stats_df.rename(columns = {'mean':'inundation_pct'}, inplace = True)
 
 # INTENSITY
 intensity_array = np.divide(raster_array, raster_array.max())
-print(intensity_array.max())
+
 mean_dicts = rasterstats.zonal_stats(assam_rc_gdf.to_crs(raster.crs),intensity_array,
                                              affine= raster.transform,
                                               stats= ['mean', 'sum'],

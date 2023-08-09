@@ -1,6 +1,7 @@
+`Wrote Script` --> `Scripts Reviewed` --> `Pipeline Created`
+
 | Source  | Variables | Status | updateFreq |
 | ------------- | ------------- | ------------- | ------------- |
-| BHUVAN  | Flood Inundation  | Wrote Script | - |
-| SENTINEL  | NDVI, NDBI  | Wrote Script | - |
+| BHUVAN  | `Inundation percentage`<br>`Inundation intensity` | Scripts Reviewed | Monthly |
+| SENTINEL  | `NDVI`<br>`NDBI`  | Scripts Reviewed | Monthly |
 
-`Wrote Script` --> `Scripts Reviewed` --> `Pipeline Created`

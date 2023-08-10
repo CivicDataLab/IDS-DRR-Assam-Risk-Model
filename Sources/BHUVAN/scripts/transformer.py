@@ -26,9 +26,11 @@ for file in files[1:]:
 meta = raster.meta
 meta['compress'] = 'deflate'
 meta['count'] = 1 #Only one band.
-meta['dtype'] = 'uint8'
+meta['dtype'] = 'int8'
 meta['crs'] = raster.crs
 meta['transform'] = raster.transform
+meta['nodata'] = -1
+
 with rasterio.open(path+'data/tiffs/stitched_monthly/stitched_{}_{}.tif'.format(year,month), 'w', **meta) as dst:
     dst.write(raster_array, 1)
 
@@ -36,11 +38,12 @@ with rasterio.open(path+'data/tiffs/stitched_monthly/stitched_{}_{}.tif'.format(
 def count_nonzero(x):
     return np.count_nonzero(x)
 
+
 mean_dicts = rasterstats.zonal_stats(assam_rc_gdf.to_crs(raster.crs),
                                      raster_array,
                                      affine= raster.transform,
                                      stats= ['count'],
-                                     #nodata=raster.nodata,
+                                     nodata=raster.nodata,
                                      add_stats={'count_nonzero':count_nonzero},
                                      geojson_out = True)
 
@@ -57,10 +60,11 @@ def nonzero_mean(x):
     nonzero_values = x[x != 0]
     return np.mean(nonzero_values)
 
-mean_dicts = rasterstats.zonal_stats(assam_rc_gdf.to_crs(raster.crs),intensity_array,
-                                             affine= raster.transform,
-                                              stats= ['mean', 'sum'],
-                                              #nodata=raster.nodata,
+mean_dicts = rasterstats.zonal_stats(assam_rc_gdf.to_crs(raster.crs),
+                                     intensity_array,
+                                     affine= raster.transform,
+                                     stats= ['mean', 'sum'],
+                                              nodata=raster.nodata,
                                               add_stats={'intensity_mean_nonzero':nonzero_mean},
                                               geojson_out = True)
 

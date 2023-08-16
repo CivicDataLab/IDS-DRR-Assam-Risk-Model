@@ -81,7 +81,7 @@ sentinel_filtered = sentinel \
 sentinel_filtered_cloud_masked = sentinel_filtered.map(maskS2clouds)
 
 # Choose median image
-sentinel_median = sentinel_filtered_cloud_masked.mosaic()
+sentinel_median = sentinel_filtered_cloud_masked.median()
 
 ndvi = sentinel_median.normalizedDifference(['B8', 'B4']).rename('ndvi')
 ndbi = sentinel_median.normalizedDifference(['B11', 'B8']).rename('ndbi')

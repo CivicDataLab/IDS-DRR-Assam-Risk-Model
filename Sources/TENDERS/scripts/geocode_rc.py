@@ -55,6 +55,7 @@ for FOCUS_DISTRICT in ['KAMRUP']: #ASSAM_VILLAGES.district_2.unique():
     FOCUSDIST_subdistricts = list(FOCUSDIST_subdistrict_dict.keys())
     FOCUSDIST_revcircles = list(FOCUSDIST_revcircle_dict.keys())
     
+    print(FOCUSDIST_revcircles)
     ## GEO-CODE VILLAGES, BLOCKS, REVENUE-CIRCLES
     idea_frm_tenders_df_FOCUSDISTRICT = idea_frm_tenders_df[idea_frm_tenders_df["DISTRICT_FINALISED"] == FOCUS_DISTRICT]
     for idx, row in idea_frm_tenders_df_FOCUSDISTRICT.iterrows():
@@ -67,13 +68,23 @@ for FOCUS_DISTRICT in ['KAMRUP']: #ASSAM_VILLAGES.district_2.unique():
         tender_slug = str(row['tender_externalreference']) + ' ' + str(row['tender_title']) + ' ' + str(row['Work Description'])
         tender_slug = re.sub('[^a-zA-Z0-9 \n\.]', ' ', tender_slug)
 
+        # List of substrings to remove from GPE names
+        substrings_to_remove = ["(pt)", "\n"]
+        # Construct the regex pattern by joining the substrings with "|"
+        pattern = "|".join(map(re.escape, substrings_to_remove))
+
         for village in FOCUSDIST_villages:
             if not re.search('[a-zA-Z]', village):
                 continue 
             village = re.sub(r"[\[\]]?", "", village)
+            
             if village in VILLAGE_CORRECTION_DICT:
                 village = VILLAGE_CORRECTION_DICT[village]
-            if re.findall(r'\b%s\b'%village.lower().strip(), tender_slug.lower()):
+
+            village_search = village.lower()
+            village_search = re.sub(pattern, "", village_search)
+
+            if re.findall(r'\b%s\b'%village_search.strip(), tender_slug.lower()):
                 tender_villages.append(village)
                 tender_village_id = FOCUSDIST_village_dict[village]['village_id']
                 tender_block = FOCUSDIST_village_dict[village]['block_name']
@@ -81,19 +92,25 @@ for FOCUS_DISTRICT in ['KAMRUP']: #ASSAM_VILLAGES.district_2.unique():
                 tender_subdistrict = FOCUSDIST_village_dict[village]['subdistrict']
 
         for block in FOCUSDIST_blocks:
-            if re.findall(r'\b%s\b'%block.lower().strip(), tender_slug.lower()):
+            block_search = block.lower()
+            block_search = re.sub(pattern, "", block_search)
+            if re.findall(r'\b%s\b'%block_search.strip(), tender_slug.lower()):
                 tender_block = block
                 tender_revenueci = FOCUSDIST_block_dict[block]['revenuecircle']
                 tender_subdistrict = FOCUSDIST_block_dict[block]['subdistrict']
                 break
 
         for revenue_circle in FOCUSDIST_revcircles:
-            if re.findall(r'\b%s\b'%revenue_circle.lower().strip(), tender_slug.lower()):
+            revenue_circle_search = revenue_circle.lower()
+            revenue_circle_search = re.sub(pattern, "", revenue_circle_search)
+            if re.findall(r'\b%s\b'%revenue_circle_search.strip(), tender_slug.lower()):
                 tender_revenueci = revenue_circle
                 break
 
         for subdistrict in FOCUSDIST_subdistricts:
-            if re.findall(r'\b%s\b'%subdistrict.lower().strip(), tender_slug.lower()):
+            subdistrict_search = subdistrict.lower()
+            subdistrict_search = re.sub(pattern, "", subdistrict_search)
+            if re.findall(r'\b%s\b'%subdistrict_search.strip(), tender_slug.lower()):
                 tender_subdistrict = subdistrict
                 break
 

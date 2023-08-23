@@ -126,5 +126,5 @@ for FOCUS_DISTRICT in ['KAMRUP']: #ASSAM_VILLAGES.district_2.unique():
 MASTER_DFs.append(idea_frm_tenders_df[idea_frm_tenders_df["DISTRICT_FINALISED"] == 'NA'])
 
 MASTER_DF = pd.concat(MASTER_DFs)
-MASTER_DF[['tender_externalreference','tender_title','Work Description', 'location',
-           'DISTRICT_FINALISED','tender_villages', 'tender_block','tender_subdistrict','tender_revenueci']].to_csv(os.getcwd()+'/Sources/TENDERS/data/IDEA_FRM_RC_GEOTAG.csv')
+MASTER_DF[['Tender ID','tender_externalreference','tender_title','Work Description', 'location',
+           'DISTRICT_FINALISED','tender_villages', 'tender_block','tender_subdistrict','tender_revenueci']].to_csv(os.getcwd()+'/Sources/TENDERS/data/IDEA_FRM_RC_GEOTAG_KAMRUP.csv')

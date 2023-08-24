@@ -2,9 +2,12 @@ import pandas as pd
 import os
 import re
 import geopandas as gpd
+from tqdm import tqdm 
 
-ASSAM_VILLAGES = gpd.read_file(os.getcwd()+'/Maps/assam_village_complete_with_revenueCircle_district_35_oct2022.geojson',
-                               driver='GeoJSON')
+#ASSAM_VILLAGES = gpd.read_file(os.getcwd()+'/Maps/assam_village_complete_with_revenueCircle_district_35_oct2022.geojson',
+ #                              driver='GeoJSON')
+
+ASSAM_VILLAGES = pd.read_csv(os.getcwd()+'/Maps/ASSAM_VILLAGES_MASTER.csv', encoding='utf-8').dropna()
 
 idea_frm_tenders_df  = pd.read_csv(os.getcwd()+'/Sources/TENDERS/data/IDEA_FRM_DISTRICT_GEOTAG.csv')
 VILLAGE_CORRECTION_DICT = {
@@ -15,8 +18,7 @@ VILLAGE_CORRECTION_DICT = {
 }
 
 MASTER_DFs = []
-for FOCUS_DISTRICT in ['KAMRUP']: #ASSAM_VILLAGES.district_2.unique():
-    print(FOCUS_DISTRICT)
+for FOCUS_DISTRICT in tqdm(ASSAM_VILLAGES.district_2.unique()):
     # Create dictionary for FOCUS DISTRICTS
     FOCUSDIST_village_dict = {}
     FOCUSDIST_block_dict = {}
@@ -42,10 +44,12 @@ for FOCUS_DISTRICT in ['KAMRUP']: #ASSAM_VILLAGES.district_2.unique():
 
         FOCUSDIST_subdistrict_dict[row["sdtname_2"]] = {"district_2" : row["district_2"]} 
         FOCUSDIST_revcircle_dict[row["revenue_ci"]] = {"district_2" : row["district_2"]} 
-        FOCUSDIST_district_dict[row["district"]] = True
+        FOCUSDIST_district_dict[row["district_2"]] = True
     
     try:
         del FOCUSDIST_village_dict['RIVER']
+        del FOCUSDIST_village_dict['NO']
+        del FOCUSDIST_village_dict['TOWN']
         del FOCUSDIST_block_dict['JORHAT']
     except:
         pass
@@ -55,7 +59,6 @@ for FOCUS_DISTRICT in ['KAMRUP']: #ASSAM_VILLAGES.district_2.unique():
     FOCUSDIST_subdistricts = list(FOCUSDIST_subdistrict_dict.keys())
     FOCUSDIST_revcircles = list(FOCUSDIST_revcircle_dict.keys())
     
-    print(FOCUSDIST_revcircles)
     ## GEO-CODE VILLAGES, BLOCKS, REVENUE-CIRCLES
     idea_frm_tenders_df_FOCUSDISTRICT = idea_frm_tenders_df[idea_frm_tenders_df["DISTRICT_FINALISED"] == FOCUS_DISTRICT]
     for idx, row in idea_frm_tenders_df_FOCUSDISTRICT.iterrows():
@@ -82,7 +85,7 @@ for FOCUS_DISTRICT in ['KAMRUP']: #ASSAM_VILLAGES.district_2.unique():
                 village = VILLAGE_CORRECTION_DICT[village]
 
             village_search = village.lower()
-            village_search = re.sub(pattern, "", village_search)
+            village_search = re.sub(pattern, " ", village_search)
 
             if re.findall(r'\b%s\b'%village_search.strip(), tender_slug.lower()):
                 tender_villages.append(village)
@@ -93,7 +96,7 @@ for FOCUS_DISTRICT in ['KAMRUP']: #ASSAM_VILLAGES.district_2.unique():
 
         for block in FOCUSDIST_blocks:
             block_search = block.lower()
-            block_search = re.sub(pattern, "", block_search)
+            block_search = re.sub(pattern, " ", block_search)
             if re.findall(r'\b%s\b'%block_search.strip(), tender_slug.lower()):
                 tender_block = block
                 tender_revenueci = FOCUSDIST_block_dict[block]['revenuecircle']
@@ -102,14 +105,14 @@ for FOCUS_DISTRICT in ['KAMRUP']: #ASSAM_VILLAGES.district_2.unique():
 
         for revenue_circle in FOCUSDIST_revcircles:
             revenue_circle_search = revenue_circle.lower()
-            revenue_circle_search = re.sub(pattern, "", revenue_circle_search)
+            revenue_circle_search = re.sub(pattern, " ", revenue_circle_search)
             if re.findall(r'\b%s\b'%revenue_circle_search.strip(), tender_slug.lower()):
                 tender_revenueci = revenue_circle
                 break
 
         for subdistrict in FOCUSDIST_subdistricts:
             subdistrict_search = subdistrict.lower()
-            subdistrict_search = re.sub(pattern, "", subdistrict_search)
+            subdistrict_search = re.sub(pattern, " ", subdistrict_search)
             if re.findall(r'\b%s\b'%subdistrict_search.strip(), tender_slug.lower()):
                 tender_subdistrict = subdistrict
                 break
@@ -126,5 +129,6 @@ for FOCUS_DISTRICT in ['KAMRUP']: #ASSAM_VILLAGES.district_2.unique():
 MASTER_DFs.append(idea_frm_tenders_df[idea_frm_tenders_df["DISTRICT_FINALISED"] == 'NA'])
 
 MASTER_DF = pd.concat(MASTER_DFs)
-MASTER_DF[['Tender ID','tender_externalreference','tender_title','Work Description', 'location',
-           'DISTRICT_FINALISED','tender_villages', 'tender_block','tender_subdistrict','tender_revenueci']].to_csv(os.getcwd()+'/Sources/TENDERS/data/IDEA_FRM_RC_GEOTAG_KAMRUP.csv')
+MASTER_DF.to_csv(os.getcwd()+'/Sources/TENDERS/data/IDEA_FRM_RC_GEOTAG.csv')
+
+print('Number of tenders whose revenue circle could not be geo-tagged: ',MASTER_DF[MASTER_DF['tender_revenueci']==''].shape[0])

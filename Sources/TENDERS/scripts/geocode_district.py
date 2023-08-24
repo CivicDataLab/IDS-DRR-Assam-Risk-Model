@@ -6,8 +6,9 @@ from difflib import SequenceMatcher
 
 idea_frm_tenders_df = pd.read_csv(os.getcwd()+'/Sources/TENDERS/data/IDEA-FRM_filtered_tenders_with_metadata.csv')
 
-ASSAM_VILLAGES = gpd.read_file(os.getcwd()+'/Maps/assam_village_complete_with_revenueCircle_district_35_oct2022.geojson',
-                               driver='GeoJSON')
+#ASSAM_VILLAGES = gpd.read_file(os.getcwd()+'/Maps/assam_village_complete_with_revenueCircle_district_35_oct2022.geojson',
+ #                              driver='GeoJSON')
+ASSAM_VILLAGES = pd.read_csv(os.getcwd()+'/Maps/ASSAM_VILLAGES_MASTER.csv', encoding='utf-8').dropna()
 
 #Clean village names
 assam_villages = ASSAM_VILLAGES["VILNAM_SOI"]
@@ -276,12 +277,14 @@ idea_frm_tenders_df['tender_district_title_description'].fillna('NA',inplace=Tru
 idea_frm_tenders_df['tender_district_location'].fillna('NA',inplace=True) 
 
 idea_frm_tenders_df['DISTRICT_FINALISED'] = ''
+
 for idx, row in idea_frm_tenders_df.iterrows():
     district1 = row['tender_district_externalReference']
     district2 = row['tender_district_title_description']
     district3 = row['tender_district_location']
     districts = [district1,district2,district3]
     districts = set([x for x in districts if x!='NA'])
+
     if len(districts)==1:
         DISTRICT_SELECTED = list(districts)[0]
     elif len(districts)==0:

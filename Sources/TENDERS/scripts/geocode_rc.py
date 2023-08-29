@@ -8,6 +8,9 @@ from tqdm import tqdm
  #                              driver='GeoJSON')
 
 ASSAM_VILLAGES = pd.read_csv(os.getcwd()+'/Maps/ASSAM_VILLAGES_MASTER.csv', encoding='utf-8').dropna()
+ASSAM_RCS = gpd.read_file(os.getcwd()+'/Maps/Assam_Revenue_Circles/assam_revenue_circle_nov2022.geojson', driver='GeoJSON')
+
+RC_HQs = list(ASSAM_RCS[ASSAM_RCS.HQ=='y']['revenue_ci'])
 
 idea_frm_tenders_df  = pd.read_csv(os.getcwd()+'/Sources/TENDERS/data/IDEA_FRM_DISTRICT_GEOTAG.csv')
 VILLAGE_CORRECTION_DICT = {
@@ -18,7 +21,7 @@ VILLAGE_CORRECTION_DICT = {
 }
 
 MASTER_DFs = []
-for FOCUS_DISTRICT in tqdm(ASSAM_VILLAGES.district_2.unique()):
+for FOCUS_DISTRICT in ['KAMRUP']:#tqdm(ASSAM_VILLAGES.district_2.unique()):
     # Create dictionary for FOCUS DISTRICTS
     FOCUSDIST_village_dict = {}
     FOCUSDIST_block_dict = {}
@@ -67,6 +70,7 @@ for FOCUS_DISTRICT in tqdm(ASSAM_VILLAGES.district_2.unique()):
         tender_block = ""
         tender_revenueci = ""
         tender_subdistrict = ""
+        tender_revenueci_location = ""
 
         tender_slug = str(row['tender_externalreference']) + ' ' + str(row['tender_title']) + ' ' + str(row['Work Description'])
         tender_slug = re.sub('[^a-zA-Z0-9 \n\.]', ' ', tender_slug)
@@ -93,6 +97,7 @@ for FOCUS_DISTRICT in tqdm(ASSAM_VILLAGES.district_2.unique()):
                 tender_block = FOCUSDIST_village_dict[village]['block_name']
                 tender_revenueci = FOCUSDIST_village_dict[village]['revenuecircle']
                 tender_subdistrict = FOCUSDIST_village_dict[village]['subdistrict']
+            
 
         for block in FOCUSDIST_blocks:
             block_search = block.lower()
@@ -109,6 +114,13 @@ for FOCUS_DISTRICT in tqdm(ASSAM_VILLAGES.district_2.unique()):
             if re.findall(r'\b%s\b'%revenue_circle_search.strip(), tender_slug.lower()):
                 tender_revenueci = revenue_circle
                 break
+        
+        for revenue_circle in FOCUSDIST_revcircles:
+            revenue_circle_search = revenue_circle.lower()
+            revenue_circle_search = re.sub(pattern, " ", revenue_circle_search)
+            if re.findall(r'\b%s\b'%revenue_circle_search.strip(), row['location'].lower()):
+                tender_revenueci_location = revenue_circle
+                break
 
         for subdistrict in FOCUSDIST_subdistricts:
             subdistrict_search = subdistrict.lower()
@@ -122,6 +134,7 @@ for FOCUS_DISTRICT in tqdm(ASSAM_VILLAGES.district_2.unique()):
         idea_frm_tenders_df_FOCUSDISTRICT.loc[idx,'tender_block'] = tender_block
         idea_frm_tenders_df_FOCUSDISTRICT.loc[idx,'tender_subdistrict'] = tender_subdistrict
         idea_frm_tenders_df_FOCUSDISTRICT.loc[idx,'tender_revenueci'] = tender_revenueci
+        idea_frm_tenders_df_FOCUSDISTRICT.loc[idx,'tender_revenueci_location'] = tender_revenueci_location
         
     MASTER_DFs.append(idea_frm_tenders_df_FOCUSDISTRICT)  
 
@@ -129,6 +142,25 @@ for FOCUS_DISTRICT in tqdm(ASSAM_VILLAGES.district_2.unique()):
 MASTER_DFs.append(idea_frm_tenders_df[idea_frm_tenders_df["DISTRICT_FINALISED"] == 'NA'])
 
 MASTER_DF = pd.concat(MASTER_DFs)
-MASTER_DF.to_csv(os.getcwd()+'/Sources/TENDERS/data/IDEA_FRM_RC_GEOTAG.csv')
 
-print('Number of tenders whose revenue circle could not be geo-tagged: ',MASTER_DF[MASTER_DF['tender_revenueci']==''].shape[0])
+#HQ Flag and RC Finalisation
+MASTER_DF['HQ_flag'] = False
+MASTER_DF['REVENUE_CIRCLE_FINALISED'] = ''
+for idx, row in MASTER_DF.iterrows():
+    if row['tender_revenueci_location'] in RC_HQs:
+        MASTER_DF.loc[idx, 'HQ_flag'] = True
+    
+    if row['HQ_flag'] == False:
+        MASTER_DF.loc[idx, 'REVENUE_CIRCLE_FINALISED'] = row['tender_revenueci_location']
+
+    if row['tender_revenueci_location'] == '':
+        MASTER_DF.loc[idx, 'REVENUE_CIRCLE_FINALISED'] = row['tender_revenueci']
+    
+    if row['tender_revenueci_location'] == row['tender_revenueci']:
+        MASTER_DF.loc[idx, 'REVENUE_CIRCLE_FINALISED'] = row['tender_revenueci']
+
+    # If HQ True AND row['tender_revenueci_location'] != row['tender_revenueci']?
+
+MASTER_DF.to_csv(os.getcwd()+'/Sources/TENDERS/data/IDEA_FRM_RC_GEOTAG_KAMRUP.csv')
+
+print('Number of tenders whose revenue circle could not be geo-tagged: ',MASTER_DF[MASTER_DF['REVENUE_CIRCLE_FINALISED']==''].shape[0])

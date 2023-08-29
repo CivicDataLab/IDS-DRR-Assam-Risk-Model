@@ -5,6 +5,7 @@ import os
 from difflib import SequenceMatcher
 
 idea_frm_tenders_df = pd.read_csv(os.getcwd()+'/Sources/TENDERS/data/IDEA-FRM_filtered_tenders_with_metadata.csv')
+idea_frm_tenders_df = idea_frm_tenders_df[idea_frm_tenders_df['Tender ID'].isin(['2022_PWD_25691_2'])]
 
 #ASSAM_VILLAGES = gpd.read_file(os.getcwd()+'/Maps/assam_village_complete_with_revenueCircle_district_35_oct2022.geojson',
  #                              driver='GeoJSON')
@@ -124,6 +125,7 @@ three_letter_distirct_identifiers_dict = {"bak":"BAKSA", "baksa":"BAKSA",
                                           "gmda":"KAMRUP METRO","ghy east":"KAMRUP METRO","ghy.east":"KAMRUP METRO","ghy. east":"KAMRUP METRO","ghyeast":"KAMRUP METRO","g.east":"KAMRUP METRO","ghy east":"KAMRUP METRO","ghy west":"KAMRUP METRO","ge":"KAMRUP METRO","ghy.west":"KAMRUP METRO","ghy. west":"KAMRUP METRO","ghywest":"KAMRUP METRO",
                                           "kok":"KOKRAJHAR",
                                           "rangia":"KAMRUP",
+                                          "gdd":"KAMRUP METRO"
                                          }
 
 # METHOD-2 WEIGHTAGE METHOD
@@ -197,6 +199,7 @@ for idx, row in idea_frm_tenders_df.iterrows():
     
     for revenue_circle in assam_revenue_circles:
         if re.findall(r'\b%s\b'%revenue_circle.lower().strip(), tender_slug.lower()):
+            print(revenue_circle)
             idea_frm_tenders_df.loc[idx,'tender_district_title_description'] = assam_revenue_circles_dict[revenue_circle]['district_2']
             break
 
@@ -294,7 +297,7 @@ for idx, row in idea_frm_tenders_df.iterrows():
     
     idea_frm_tenders_df.loc[idx,'DISTRICT_FINALISED'] = DISTRICT_SELECTED
 
-idea_frm_tenders_df.to_csv(os.getcwd()+'/Sources/TENDERS/data/IDEA_FRM_DISTRICT_GEOTAG.csv',index=False)
+idea_frm_tenders_df.to_csv(os.getcwd()+'/Sources/TENDERS/data/IDEA_FRM_DISTRICT_GEOTAG_2sample.csv',index=False)
 
 print('Total number of flood related tenders: ', idea_frm_tenders_df.shape[0])
 print('Number of tenders whose district could not be geo-tagged: ',idea_frm_tenders_df[idea_frm_tenders_df['DISTRICT_FINALISED']=='NA'].shape[0])

@@ -40,6 +40,7 @@ googleapis-common-protos==1.59.1
 h11==0.14.0
 httplib2==0.22.0
 idna==3.4
+imdlib==0.1.19
 ipyevents==2.0.1
 ipyfilechooser==0.6.0
 ipykernel==6.25.0

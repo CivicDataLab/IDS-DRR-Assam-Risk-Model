@@ -31,6 +31,12 @@ task = ee.batch.Export.image.toDrive(image=elevation.clip(geometry),
 task.start()
 print('Task ID:', task.id)
 
-while task.active():
-  print('Polling for task (id: {}).'.format(task.id))
-  time.sleep(5)
+slope = ee.Terrain.slope(elevation)
+task = ee.batch.Export.image.toDrive(image=slope.clip(geometry),
+                                     region=geometry,
+                                     description='NASADEM_SLOPE_30',
+                                     folder='NASADEM',
+                                     scale= 30,
+                                     maxPixels=1e13)
+task.start()
+print('Task ID:', task.id)

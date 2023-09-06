@@ -77,6 +77,12 @@ def retrieve_assam_revenue_circle_data(year: int):
     """
     Retrives assam revenue circle data from the year wise .tif file
     """
+    coordinate_reference_system_used = rasterio.open(
+        os.path.join(TIFF_DATA_FOLDER, '{}.tif'.format(
+            str(year)
+        ))
+    ).crs
+    
     for month in range(1,13):
         raster = rasterio.open(
             os.path.join(TIFF_DATA_FOLDER, '{}-{}.tif'.format(
@@ -84,12 +90,6 @@ def retrieve_assam_revenue_circle_data(year: int):
                 calendar.month_abbr[month]
             ))
         )
-
-        coordinate_reference_system_used = rasterio.open(
-            os.path.join(TIFF_DATA_FOLDER, '{}.tif'.format(
-                str(year)
-            ))
-        ).crs
 
         raster_array = raster.read(1)
 

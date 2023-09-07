@@ -2,15 +2,20 @@ import os
 import calendar
 import rasterio
 import rasterstats
+import numpy as np
 import pandas as pd
 import imdlib as imd
 import geopandas as gpd
+from rasterio.crs import CRS
+from rasterio.transform import Affine
 
 CURRENT_FOLDER = os.path.dirname(os.path.abspath(__file__))
 
 DATA_FOLDER = os.path.abspath(CURRENT_FOLDER + '/../' + 'data')
 
 TIFF_DATA_FOLDER = os.path.join(DATA_FOLDER, 'rain', 'tiff')
+
+CSV_DATA_FOLDER = os.path.join(DATA_FOLDER, 'rain', 'csv')
 
 ASSAM_REVENUE_CIRCLE_GDF = gpd.read_file(
     os.getcwd() + '/Maps/Assam_Revenue_Circles/assam_revenue_circle_nov2022.shp'
@@ -30,6 +35,49 @@ def download_data(year: int):
     )
 
     return
+
+def transform_resample_monthly_tif_filenames(tif_filename: str):
+    """
+    Transform and resample monthly tif files
+    @author Sai Krishna <sai@civicdatalab.in>
+    """
+
+    # Define the transformation parameters
+    pixel_width = 0.25 
+    rot_x = 0.0   # Rotation and shear parameter in X direction (typically 0)
+    rot_y = 0.0   # Rotation and shear parameter in Y direction (typically 0)
+    pixel_height = -0.25  # Pixel height (negative because of the raster's coordinate system)
+    x_coordinate = 66.375  # X-coordinate of the top-left corner of the raster
+    y_coordinate = 38.625   # Y-coordinate of the top-left corner of the raster
+
+
+    # Create an Affine transformation object
+    new_transform = Affine(pixel_width, rot_x, x_coordinate, rot_y, pixel_height, y_coordinate)
+
+    with rasterio.open(tif_filename, 'r+') as raster:
+        raster.crs = CRS.from_epsg(4326)
+        raster_array = raster.read(1)
+
+        nan_mask = np.isnan(raster_array)
+        raster_array[nan_mask] = -999
+
+        raster.nodata = -999
+
+        raster.transform = new_transform
+
+    meta = raster.meta
+    meta['transform'] = raster.transform
+    reversed_data = np.flipud(raster_array)
+
+    with rasterio.open(tif_filename.replace('.tif', '_flipped.tif'), 'w', **meta) as dst:
+        dst.write(reversed_data, 1)
+
+
+    os.system('''gdalwarp -tr 0.01 -0.01  {} {}'''.format(
+        tif_filename.replace('.tif', '_flipped.tif'),
+        tif_filename.replace('.tif', '_resampled.tif')
+    ))
+
 
 def parse_and_format_data(year: int):
     """
@@ -58,12 +106,14 @@ def parse_and_format_data(year: int):
 
     # For each month in the dataset, save the average rain in tif format
     for el in dataset:
-        el[1]['rain'].mean('time').rio.to_raster(
-            TIFF_DATA_FOLDER + '/{}-{}.tif'.format(
-                year,
-                calendar.month_abbr[el[1]['time.month'].to_dict()['data'][0]]
-            )
+        month_wise_tif_filename = TIFF_DATA_FOLDER + '/{}-{}.tif'.format(
+            year,
+            calendar.month_abbr[el[1]['time.month'].to_dict()['data'][0]]
         )
+
+        el[1]['rain'].mean('time').rio.to_raster(month_wise_tif_filename)
+
+        transform_resample_monthly_tif_filenames(month_wise_tif_filename)
 
     # Save yearwise file as geotiff, this is used in getting crs
     data.to_geotiff(
@@ -76,40 +126,42 @@ def parse_and_format_data(year: int):
 def retrieve_assam_revenue_circle_data(year: int):
     """
     Retrives assam revenue circle data from the year wise .tif file
-    """
-    coordinate_reference_system_used = rasterio.open(
-        os.path.join(TIFF_DATA_FOLDER, '{}.tif'.format(
-            str(year)
-        ))
-    ).crs
-    
+    """    
     for month in range(1,13):
+        month_and_year_filename = '{}-{}'.format(
+            str(year),
+            calendar.month_abbr[month]
+        )
+        
         raster = rasterio.open(
-            os.path.join(TIFF_DATA_FOLDER, '{}-{}.tif'.format(
-                str(year),
-                calendar.month_abbr[month]
+            os.path.join(TIFF_DATA_FOLDER, '{}_resampled.tif'.format(
+                month_and_year_filename
             ))
         )
 
         raster_array = raster.read(1)
 
         mean_dicts = rasterstats.zonal_stats(
-            ASSAM_REVENUE_CIRCLE_GDF.to_crs(coordinate_reference_system_used),
+            ASSAM_REVENUE_CIRCLE_GDF.to_crs(raster.crs),
             raster_array,
             affine=raster.transform,
-            stats= ['count'],
+            stats= ['count', 'mean'],
             nodata=raster.nodata,
             geojson_out = True
         )
 
         dfs = []
         
-        for rc in mean_dicts:
-            dfs.append(pd.DataFrame([rc['properties']]))
+        for revenue_circle in mean_dicts:
+            dfs.append(pd.DataFrame([revenue_circle['properties']]))
 
         zonal_stats_df = pd.concat(dfs).reset_index(drop=True)
 
-        print(zonal_stats_df)
+        os.makedirs(CSV_DATA_FOLDER, exist_ok=True)
+
+        zonal_stats_df.to_csv(
+            CSV_DATA_FOLDER + '/{}.csv'.format(month_and_year_filename)
+        )
 
     return
 
@@ -117,10 +169,10 @@ def retrieve_assam_revenue_circle_data(year: int):
 if __name__ == '__main__':
     
     # Takes year as an input from the cli
-    # years = input('Please enter the years (comman separated): ').split(',')
+    years = input('Please enter the years (comman separated): ').split(',')
 
     # Year defined in the script
-    years = [2018]
+    # years = [2018]
 
     for year in years:
         year = int(year)

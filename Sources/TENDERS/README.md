@@ -1,5 +1,5 @@
 # Tenders
-
+Public procurement datasets are scraped from the [Assam Tenders](https://assamtenders.gov.in/nicgep/app) website.
 
 **Variables extracted from the source:** Count and Sum of Tenders, with various sub types.
 

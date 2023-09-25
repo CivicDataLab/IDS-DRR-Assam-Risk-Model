@@ -6,10 +6,17 @@ import os
 import glob
 import numpy as np
 import time
+import sys
+
+
+if len(sys.argv) < 3:
+    print("Please provide an input argument.")
+else:
+    year = str(sys.argv[1])
+    month = str(sys.argv[2])
+    print("Month: ", year+month)
 
 tic = time.perf_counter()
-month= '06'
-year ='2023'
 path = os.getcwd()+'/Sources/BHUVAN/'
 assam_rc_gdf = gpd.read_file(os.getcwd()+'/Maps/Assam_Revenue_Circles/assam_revenue_circle_nov2022.shp')
 

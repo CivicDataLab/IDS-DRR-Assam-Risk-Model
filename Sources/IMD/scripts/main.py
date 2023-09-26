@@ -39,7 +39,7 @@ def download_data(year: int):
 def transform_resample_monthly_tif_filenames(tif_filename: str):
     """
     Transform and resample monthly tif files
-    @author Sai Krishna <sai@civicdatalab.in>
+    @author Sai Krishna <saikrishna@civicdatalab.in>
     """
 
     # Define the transformation parameters
@@ -104,14 +104,14 @@ def parse_and_format_data(year: int):
     # Make sure TIFF_DATA_FOLDER exists
     os.makedirs(TIFF_DATA_FOLDER, exist_ok=True)
 
-    # For each month in the dataset, save the average rain in tif format
+    # For each month in the dataset, save the total rain in tif format
     for el in dataset:
         month_wise_tif_filename = TIFF_DATA_FOLDER + '/{}-{}.tif'.format(
             year,
             calendar.month_abbr[el[1]['time.month'].to_dict()['data'][0]]
         )
 
-        el[1]['rain'].mean('time').rio.to_raster(month_wise_tif_filename)
+        el[1]['rain'].sum('time').rio.to_raster(month_wise_tif_filename)
 
         transform_resample_monthly_tif_filenames(month_wise_tif_filename)
 

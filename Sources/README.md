@@ -4,12 +4,12 @@
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | BHUVAN  | `Inundation percentage`<br>`Inundation intensity` | Scripts Reviewed | Monthly | July |
 | SENTINEL  | `NDVI`<br>`NDBI`  | Scripts Reviewed | Monthly | July |
-| TENDERS #10   | Count, Sum  | Wrote Scripts | - | August |
+| TENDERS   | Count, Sum  | Wrote Scripts | Quarterly | August |
 | NASADEM   | `Elevation` <br> `Slope`  | Wrote Scripts | One-Time | August |
+| IMD   | `Rainfall`  | Wrote Scripts | Monthly | August-->September |
 | GCN250  | `Surface runoff`  | Wrote Scripts | One-Time | September |
-| IMD #11   | `Rainfall`  | Wrote Scripts | Monthly | September |
-| World Population Global project   | `Sex Ratio` <br>  `Population`  <br> `Population above 65 years` <br> `Population below 5 years` | - | - | September |
-| GeoSadak  | `Proximity to local road` <br> `Proximity to railway line` <br> `Proximity to hospital` | - | - | September |
+| BHARAT MAPS    | `Health Centres per RC` <br> `Road length per RC` <br> `Rail length per RC` | Wrote Scripts | One-Time | September |
+| Mission Antyodaya 2020 #15    | - | - | - | September |
 | FRIMS  | `All damages variables` | - | - | Waiting for API from Velocity |
 | NERDRR  | `Proximity to embankment`  | - | - | September |
 | WRIS   | `Distance from rivers` <br>  `Drainage density` | - | - | October |

@@ -6,19 +6,24 @@ import rasterio
 import geopandas as gpd
 import rasterstats
 import pandas as pd
+import sys
 
 service_account = ' idsdrr@ee-idsdrr.iam.gserviceaccount.com'
 credentials = ee.ServiceAccountCredentials(service_account, 'Sources/SENTINEL/ee-idsdrr-d856f70748a7.json')
 ee.Initialize(credentials)
 
-date_start = '2022-02-01'
-date_end ='2022-03-01'
+if len(sys.argv) < 3:
+    print("Please provide an input argument.")
+else:
+    date_start = sys.argv[1]
+    date_end = sys.argv[2]
+    print("Date End:", date_end)
 
-tic = time.perf_counter()
 cwd = os.getcwd()
 assam_rc_gdf = gpd.read_file(cwd+'/Maps/Assam_Revenue_Circles/assam_revenue_circle_nov2022.shp')
 assam_dist_gdf = gpd.read_file(cwd+'/Maps/assam_district_35.geojson')
 
+#Function for Zonal Stats
 def zonal_stats_choropleths(gdf,
                             gdf_unique_id,
                             raster,
@@ -86,17 +91,23 @@ sentinel_median = sentinel_filtered_cloud_masked.median()
 ndvi = sentinel_median.normalizedDifference(['B8', 'B4']).rename('ndvi')
 ndbi = sentinel_median.normalizedDifference(['B11', 'B8']).rename('ndbi')
 
+
+
+
 print("-------NDVI Image-------------")
+
+path=cwd+'/Sources/SENTINEL/data/NDVI/tifs/'
 geemap.ee_export_image(ndvi,
-                       filename=cwd+'/Sources/SENTINEL/data/ndvi_{}.tif'.format(date_end),
-                       scale=1000,
+                       filename=path+'ndvi_{}.tif'.format(date_end),
+                       scale=250,
                        region=geometry,
                        file_per_band=True)
 
 print("-------NDBI Image-------------")
+path=cwd+'/Sources/SENTINEL/data/NDBI/tifs/'
 geemap.ee_export_image(ndbi,
-                       filename=cwd+'/Sources/SENTINEL/data/ndbi_{}.tif'.format(date_end),
-                       scale=1000,
+                       filename=path+'ndbi_{}.tif'.format(date_end),
+                       scale=250,
                        region=geometry,
                        file_per_band=True)
 
@@ -106,7 +117,7 @@ print("-------NDVI Stats-------------")
 # #                         cwd+'/Sources/SENTINEL/data/ndvi_{}.csv'.format(date_end),
 # #                         statistics_type='MEAN',
 # #                         scale=1000)
-ndvi_raster = rasterio.open(cwd+'/Sources/SENTINEL/data/ndvi_{}.ndvi.tif'.format(date_end))
+ndvi_raster = rasterio.open(cwd+'/Sources/SENTINEL/data/NDVI/tifs/ndvi_{}.ndvi.tif'.format(date_end))
 
 ndvi_rc_df, ndvi_rc_gdf = zonal_stats_choropleths(assam_rc_gdf,'object_id',
                                                   ndvi_raster)
@@ -114,14 +125,14 @@ ndvi_rc_df, ndvi_rc_gdf = zonal_stats_choropleths(assam_rc_gdf,'object_id',
 ndvi_dist_df, ndvi_dist_gdf = zonal_stats_choropleths(assam_dist_gdf, 'assam_dist',
                                                   ndvi_raster)
 
-ndvi_rc_df.to_csv(cwd+'/Sources/SENTINEL/data/ndvi_rc_{}.csv'.format(date_end),
+ndvi_rc_df.to_csv(cwd+'/Sources/SENTINEL/data/NDVI/csvs/ndvi_rc_{}.csv'.format(date_end),
                 index=False)
-ndvi_rc_gdf.to_file(cwd+'/Sources/SENTINEL/data/ndvi_rc_{}.geojson'.format(date_end))
+ndvi_rc_gdf.to_file(cwd+'/Sources/SENTINEL/data/NDVI/geojsons/ndvi_rc_{}.geojson'.format(date_end))
 
 
-ndvi_dist_df.to_csv(cwd+'/Sources/SENTINEL/data/ndvi_dist_{}.csv'.format(date_end),
+ndvi_dist_df.to_csv(cwd+'/Sources/SENTINEL/data/NDVI/csvs/ndvi_dist_{}.csv'.format(date_end),
                 index=False)
-ndvi_dist_gdf.to_file(cwd+'/Sources/SENTINEL/data/ndvi_dist_{}.geojson'.format(date_end))
+ndvi_dist_gdf.to_file(cwd+'/Sources/SENTINEL/data/NDVI/geojsons/ndvi_dist_{}.geojson'.format(date_end))
 
 
 print("-------NDBI Stats-------------")
@@ -131,21 +142,18 @@ print("-------NDBI Stats-------------")
 #                         statistics_type='MEAN',
 #                         scale=1000)
 
-ndbi_raster = rasterio.open(cwd+'/Sources/SENTINEL/data/ndbi_{}.ndbi.tif'.format(date_end))
+ndbi_raster = rasterio.open(cwd+'/Sources/SENTINEL/data/NDBI/tifs/ndbi_{}.ndbi.tif'.format(date_end))
 ndbi_rc_df, ndbi_rc_gdf = zonal_stats_choropleths(assam_rc_gdf,'object_id',
                                                   ndbi_raster)
 
 ndbi_dist_df, ndbi_dist_gdf = zonal_stats_choropleths(assam_dist_gdf, 'assam_dist',
                                                   ndbi_raster)
 
-ndbi_rc_df.to_csv(cwd+'/Sources/SENTINEL/data/ndbi_rc_{}.csv'.format(date_end),
+ndbi_rc_df.to_csv(cwd+'/Sources/SENTINEL/data/NDBI/csvs/ndbi_rc_{}.csv'.format(date_end),
                 index=False)
-ndbi_rc_gdf.to_file(cwd+'/Sources/SENTINEL/data/ndbi_rc_{}.geojson'.format(date_end))
+ndbi_rc_gdf.to_file(cwd+'/Sources/SENTINEL/data/NDBI/geojsons/ndbi_rc_{}.geojson'.format(date_end))
 
 
-ndbi_dist_df.to_csv(cwd+'/Sources/SENTINEL/data/ndbi_dist_{}.csv'.format(date_end),
+ndbi_dist_df.to_csv(cwd+'/Sources/SENTINEL/data/NDBI/csvs/ndbi_dist_{}.csv'.format(date_end),
                 index=False)
-ndbi_dist_gdf.to_file(cwd+'/Sources/SENTINEL/data/ndbi_dist_{}.geojson'.format(date_end))
-
-toc = time.perf_counter()
-print("Time Taken: {} seconds".format(toc-tic))
+ndbi_dist_gdf.to_file(cwd+'/Sources/SENTINEL/data/NDBI/geojsons/ndbi_dist_{}.geojson'.format(date_end))

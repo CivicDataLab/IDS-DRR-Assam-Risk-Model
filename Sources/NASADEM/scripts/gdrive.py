@@ -4,6 +4,15 @@ from oauth2client.service_account import ServiceAccountCredentials
 import os
 
 service_account = ' idsdrr@ee-idsdrr.iam.gserviceaccount.com'
+# tasks = ee.data.listOperations()
+# for task in tasks[:2]:
+#     print(task['metadata']['description'], task['metadata']['state'])
+# exit()
+# tasks = ee.data.getTaskList()
+# # Iterate through tasks and terminate export to Drive tasks
+# for task in tasks:
+#         print(f"Terminating task: {task['id']}")
+#         ee.data.cancelTask(task['id'])   
 
 # authenticate to Google Drive (of the Service account)
 gauth = GoogleAuth()
@@ -12,6 +21,12 @@ gauth.credentials = ServiceAccountCredentials.from_json_keyfile_name('Sources/NA
                                                                       scopes=scopes)
 
 drive = GoogleDrive(gauth)
+
+## To get folder ID
+# file_list  = drive.ListFile().GetList()
+# for file in file_list:
+#     print(file["title"], file["id"])
+
 NASADEM_folder_id = '1NfiKDY3JaOCrL2vRgZOojefhzwTLP8gW'
 
 # get list of files

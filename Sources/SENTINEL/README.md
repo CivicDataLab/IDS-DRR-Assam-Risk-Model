@@ -3,10 +3,15 @@ Sentinel-2 is a wide-swath, high-resolution, multi-spectral imaging mission supp
 
 ![Alt text](<docs/IDS-DRR ETL SENTINEL.jpg>)
 
+**How to run the script?**
+
+In terminal, run:
+`python3 sentinel.py <date_start_string> <date_end_string>`
+
 **Variables extracted from the source:** NDVI and NDBI
 
 **Time Taken to run the script:** 
-147 seconds with `scale=1000m`
+289 seconds
 
 ## Project Structure
 - `scripts` : Contains the scripts used to obtain the data

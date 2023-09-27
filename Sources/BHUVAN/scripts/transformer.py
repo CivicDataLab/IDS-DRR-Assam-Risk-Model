@@ -28,6 +28,7 @@ print('Number of maps available for the month: ',len(files))
 raster = rasterio.open(files[0])
 raster_array = raster.read(1)
 
+
 for file in files[1:]:
     raster_array = raster_array + rasterio.open(file).read(1)
 
@@ -45,8 +46,7 @@ with rasterio.open(path+'data/tiffs/stitched_monthly/stitched_{}_{}.tif'.format(
 
 # CALCULATE MODEL INPUTS
 def count_nonzero(x):
-    return np.count_nonzero(x)
-
+    return np.count_nonzero(x.compressed())
 
 mean_dicts = rasterstats.zonal_stats(assam_rc_gdf.to_crs(raster.crs),
                                      raster_array,
@@ -54,8 +54,10 @@ mean_dicts = rasterstats.zonal_stats(assam_rc_gdf.to_crs(raster.crs),
                                      stats= ['count'],
                                      nodata=raster.nodata,
                                      add_stats={'count_nonzero':count_nonzero},
-                                     geojson_out = True)
+                                     geojson_out = True,
+                                     )
 
+# Convert the dictionary items to a list and slice to get the last 5 items
 dfs = []
 for rc in mean_dicts:
     dfs.append(pd.DataFrame([rc['properties']]))
@@ -66,6 +68,7 @@ zonal_stats_df['inundation_pct'] = zonal_stats_df['count_nonzero']/zonal_stats_d
 # INTENSITY
 intensity_array = np.divide(raster_array, raster_array.max())
 def nonzero_mean(x):
+    x = x.compressed()
     nonzero_values = x[x != 0]
     return np.mean(nonzero_values)
 

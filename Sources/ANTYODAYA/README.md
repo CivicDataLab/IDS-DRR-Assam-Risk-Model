@@ -1,5 +1,5 @@
 # Mission Antyodaya Transformer
-This script transforms the Mission Antyodaya excel dataset, which is attached to sub districts to revenue circles
+This script transforms the Mission Antyodaya excel dataset, which is attached to sub districts to revenue circles.
 
 # How does it works
 It loops over each row and based on the co-ordinates adds a column `revenue_circle`

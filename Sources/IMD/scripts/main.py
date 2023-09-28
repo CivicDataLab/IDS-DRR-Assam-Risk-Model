@@ -8,6 +8,7 @@ import imdlib as imd
 import geopandas as gpd
 from rasterio.crs import CRS
 from rasterio.transform import Affine
+import sys
 
 CURRENT_FOLDER = os.path.dirname(os.path.abspath(__file__))
 
@@ -106,10 +107,11 @@ def parse_and_format_data(year: int):
 
     # For each month in the dataset, save the total rain in tif format
     for el in dataset:
-        month_wise_tif_filename = TIFF_DATA_FOLDER + '/{}-{}.tif'.format(
-            year,
-            calendar.month_abbr[el[1]['time.month'].to_dict()['data'][0]]
-        )
+        month = el[1]['time.month'].to_dict()['data'][0]
+        if month<10:
+            month_wise_tif_filename = TIFF_DATA_FOLDER + '/{}_0{}.tif'.format(year,month)
+        else:
+            month_wise_tif_filename = TIFF_DATA_FOLDER + '/{}_{}.tif'.format(year,month)
 
         el[1]['rain'].sum('time').rio.to_raster(month_wise_tif_filename)
 
@@ -127,10 +129,10 @@ def retrieve_assam_revenue_circle_data(year: int):
     """
     Retrives assam revenue circle data from the year wise .tif file
     """    
-    for month in range(1,13):
-        month_and_year_filename = '{}-{}'.format(
+    for month in ['01','02','03','04','05','06','07','08','09','10','11','12']:
+        month_and_year_filename = '{}_{}'.format(
             str(year),
-            calendar.month_abbr[month]
+            str(month)
         )
         
         raster = rasterio.open(
@@ -145,7 +147,7 @@ def retrieve_assam_revenue_circle_data(year: int):
             ASSAM_REVENUE_CIRCLE_GDF.to_crs(raster.crs),
             raster_array,
             affine=raster.transform,
-            stats= ['count', 'mean'],
+            stats= ['count', 'mean','sum','max'],
             nodata=raster.nodata,
             geojson_out = True
         )
@@ -169,14 +171,10 @@ def retrieve_assam_revenue_circle_data(year: int):
 if __name__ == '__main__':
     
     # Takes year as an input from the cli
-    years = input('Please enter the years (comman separated): ').split(',')
+    year = str(sys.argv[1])
 
-    # Year defined in the script
-    # years = [2018]
+    year = int(year)
 
-    for year in years:
-        year = int(year)
-
-        # download_data(year)
-        # parse_and_format_data(year)
-        retrieve_assam_revenue_circle_data(year)
+    download_data(year)
+    parse_and_format_data(year)
+    retrieve_assam_revenue_circle_data(year)

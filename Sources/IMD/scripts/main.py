@@ -74,10 +74,14 @@ def transform_resample_monthly_tif_filenames(tif_filename: str):
         dst.write(reversed_data, 1)
 
 
-    os.system('''gdalwarp -tr 0.01 -0.01  {} {}'''.format(
+    os.system('''gdalwarp -tr 0.01 -0.01 -r sum {} {} -co COMPRESS=DEFLATE'''.format(
         tif_filename.replace('.tif', '_flipped.tif'),
         tif_filename.replace('.tif', '_resampled.tif')
     ))
+
+    #Divide each pixel by 625 to maintain overall sum_rainfall (625 small pixels = 1 big pixel based on our ts and tr)
+    os.system('''gdal_calc.py -A {} --outfile {} --calc="A/625" --NoDataValue=-999 --creation-option="COMPRESS=DEFLATE"'''.format(tif_filename.replace('.tif', '_resampled.tif'),
+                                                                                             tif_filename.replace('.tif', '_resampled2.tif')))
 
 
 def parse_and_format_data(year: int):
@@ -136,7 +140,7 @@ def retrieve_assam_revenue_circle_data(year: int):
         )
         
         raster = rasterio.open(
-            os.path.join(TIFF_DATA_FOLDER, '{}_resampled.tif'.format(
+            os.path.join(TIFF_DATA_FOLDER, '{}_resampled2.tif'.format(
                 month_and_year_filename
             ))
         )

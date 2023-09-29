@@ -1,6 +1,7 @@
 #Large files
 *.nc
 *.tif
+Waterlevel_assam_stations.csv
 #Keys
 ee-idsdrr-d856f70748a7.json
 

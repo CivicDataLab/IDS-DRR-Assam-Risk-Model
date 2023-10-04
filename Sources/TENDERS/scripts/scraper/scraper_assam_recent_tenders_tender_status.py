@@ -17,12 +17,14 @@ from selenium.webdriver.support import expected_conditions as EC
 
 warnings.filterwarnings("ignore", category=DeprecationWarning) 
 url = 'https://assamtenders.gov.in/nicgep/app?page=WebTenderStatusLists&service=page'
-year = '2023'
+year = '2022'
 month_start = '0'
-month_end = '3'
+month_end = '0'
 
 if month_end in ['0','2','4','6','7','9','11']:
     date_end = '31'
+elif month_end=='1':
+    date_end='28'
 else:
     date_end = '30'
 
@@ -61,8 +63,13 @@ def captcha_input(xpath_image,xpath_input_text):
             break
 
 #Select tender status
-# pdb.set_trace()
+
+#selected_element = 
 SeleniumScrappingUtils.select_drop_down(browser,'//*[@id="tenderStatus"]',"1") #3
+# for element in range(1,len(selected_element.options)+1):
+#     print(element)
+#     selected_element.select_by_value(str(element))
+
 
 #Select date for tender scraping 
 #from date
@@ -169,36 +176,48 @@ def scrape_view_stage_summary(browser,tender_id,dict_tables_type):
         else:
             SeleniumScrappingUtils.extract_horizontal_table(name,header_name+"_"+tender_id,1)
     path_to_save = "concatinated_csvs/"
-    SeleniumScrappingUtils.concatinate_csvs(path_to_save,"summary"+"_"+tender_id)
+    try:
+        SeleniumScrappingUtils.concatinate_csvs(path_to_save,"summary"+"_"+tender_id)
+    except:
+        pass
+
+
     
 def get_table_links(browser,table_xpath):
     print(table_xpath)
+    #pdb.set_trace()
+
     table = SeleniumScrappingUtils.get_page_element(browser,table_xpath)
     elements_list = table.find_elements(By.CSS_SELECTOR,"a")
     links = [element.get_attribute("href") for element in elements_list]
     rows = table.find_elements(By.CSS_SELECTOR,"tr")
     tender_ids = [row.find_element("xpath","td[2]").text for row in rows[1:-2]]
-    next_page_link = table.find_elements("xpath",'//*[@id="loadNext"]')[0].get_attribute("href")
+    try:
+        next_page_link = table.find_elements("xpath",'//*[@id="loadNext"]')[0].get_attribute("href")
+    except:
+        next_page_link = ''
     return table,links,next_page_link,tender_ids
 
 def scrapeTender(browser,tender_ids,links,dict_tables_type,flag=None,):
-    if flag == "first":
-        links = links[:-1]
+    #pdb.set_trace()
+    if (len(tender_ids) == 10)&(len(links)==10):
+        pass
     else:
-        links = links[:-2]
-
+        links = links[:len(tender_ids)]
+    #pdb.set_trace()
     for index,link in enumerate(links):
+        
         browser.get(link)
         scrape_view_more_details(browser,tender_ids[index])
         scrape_view_stage_summary(browser,tender_ids[index],dict_tables_type)
 
         os.chdir("concatinated_csvs/")
-        SeleniumScrappingUtils.concatinate_csvs("../2022_july_dec/","final_"+tender_ids[index])
+        #SeleniumScrappingUtils.concatinate_csvs("../2022_july_dec/","final_"+tender_ids[index])
         directory = os.getcwd()
-        SeleniumScrappingUtils.remove_csvs(directory)
+        #SeleniumScrappingUtils.remove_csvs(directory)
         os.chdir("../")
         directory = os.getcwd()
-        SeleniumScrappingUtils.remove_csvs(directory)
+        #SeleniumScrappingUtils.remove_csvs(directory)
     # SeleniumScrappingUtils.get_page_element(browser,'//*[@id="PageLink_20"]').click()
 
 if __name__ == "__main__":

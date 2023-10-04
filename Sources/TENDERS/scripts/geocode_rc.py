@@ -12,7 +12,7 @@ ASSAM_RCS = gpd.read_file(os.getcwd()+'/Maps/Assam_Revenue_Circles/assam_revenue
 
 RC_HQs = list(ASSAM_RCS[ASSAM_RCS.HQ=='y']['revenue_ci'])
 
-idea_frm_tenders_df  = pd.read_csv(os.getcwd()+'/Sources/TENDERS/data/IDEA_FRM_DISTRICT_GEOTAG.csv')
+idea_frm_tenders_df  = pd.read_csv(os.getcwd()+'/Sources/TENDERS/data/IDEA_FRM_DISTRICT_GEOTAG_2023apr.csv')
 VILLAGE_CORRECTION_DICT = {
     "SOKARBILA(BOLGARBARI)(DARIAPAR" : "SOKARBILA(BOLGARBARI)(DARIAPAR)",
     "MANGALDAI EXTENDED TOWN (BHEBA" : "MANGALDAI EXTENDED TOWN (BHEBA)",
@@ -21,7 +21,7 @@ VILLAGE_CORRECTION_DICT = {
 }
 
 MASTER_DFs = []
-for FOCUS_DISTRICT in ['KAMRUP']:#tqdm(ASSAM_VILLAGES.district_2.unique()):
+for FOCUS_DISTRICT in tqdm(ASSAM_VILLAGES.district_2.unique()):
     # Create dictionary for FOCUS DISTRICTS
     FOCUSDIST_village_dict = {}
     FOCUSDIST_block_dict = {}
@@ -161,6 +161,6 @@ for idx, row in MASTER_DF.iterrows():
 
     # If HQ True AND row['tender_revenueci_location'] != row['tender_revenueci']?
 
-MASTER_DF.to_csv(os.getcwd()+'/Sources/TENDERS/data/IDEA_FRM_RC_GEOTAG_KAMRUP.csv')
+MASTER_DF.to_csv(os.getcwd()+'/Sources/TENDERS/data/IDEA_FRM_RC_GEOTAG_2023apr.csv')
 
 print('Number of tenders whose revenue circle could not be geo-tagged: ',MASTER_DF[MASTER_DF['REVENUE_CIRCLE_FINALISED']==''].shape[0])

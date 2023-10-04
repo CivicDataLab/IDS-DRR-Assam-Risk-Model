@@ -72,13 +72,14 @@ class SeleniumScrappingUtils(object):
             
             
                 
-    def concatinate_csvs(path_to_save,name_of_file):
+    def concatinate_csvs(path_to_save,name_of_file, tender_status):
         '''
         combines all the csvs
         '''
         extension = 'csv'
         all_filenames = [i for i in glob.glob('*.{}'.format(extension))]
         combined_csv = pd.concat([pd.read_csv(f) for f in all_filenames ], axis = 1)
+        combined_csv['Tender Stage'] = tender_status
         combined_csv.to_csv(path_to_save + name_of_file+".csv", index=False, encoding='utf-8-sig')
    
     def remove_csvs(directory):

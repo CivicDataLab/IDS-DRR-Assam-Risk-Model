@@ -4,8 +4,7 @@ import re
 import os
 from difflib import SequenceMatcher
 
-idea_frm_tenders_df = pd.read_csv(os.getcwd()+'/Sources/TENDERS/data/IDEA-FRM_filtered_tenders_with_metadata.csv')
-idea_frm_tenders_df = idea_frm_tenders_df[idea_frm_tenders_df['Tender ID'].isin(['2022_PWD_25691_2'])]
+idea_frm_tenders_df = pd.read_csv(os.getcwd()+'/Sources/TENDERS/data/IDEA-FRM_filtered_tenders_with_metadata_2023apr.csv')
 
 #ASSAM_VILLAGES = gpd.read_file(os.getcwd()+'/Maps/assam_village_complete_with_revenueCircle_district_35_oct2022.geojson',
  #                              driver='GeoJSON')
@@ -297,7 +296,7 @@ for idx, row in idea_frm_tenders_df.iterrows():
     
     idea_frm_tenders_df.loc[idx,'DISTRICT_FINALISED'] = DISTRICT_SELECTED
 
-idea_frm_tenders_df.to_csv(os.getcwd()+'/Sources/TENDERS/data/IDEA_FRM_DISTRICT_GEOTAG_2sample.csv',index=False)
+idea_frm_tenders_df.to_csv(os.getcwd()+'/Sources/TENDERS/data/IDEA_FRM_DISTRICT_GEOTAG_2023apr.csv',index=False)
 
 print('Total number of flood related tenders: ', idea_frm_tenders_df.shape[0])
 print('Number of tenders whose district could not be geo-tagged: ',idea_frm_tenders_df[idea_frm_tenders_df['DISTRICT_FINALISED']=='NA'].shape[0])

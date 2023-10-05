@@ -2,7 +2,7 @@ import pandas as pd
 import os
 import glob
 
-path = os.getcwd() + '/Sources/TENDERS/scripts/scraper/scraped_recent_tenders/2022_july_dec'
+path = os.getcwd() + '/Sources/TENDERS/scripts/scraper/scraped_recent_tenders/2023may'
 data_path = os.getcwd() + '/Sources/TENDERS/data/'
 
 csvs = glob.glob(path+'/f*.csv')
@@ -28,4 +28,4 @@ master_df = master_df.rename(columns={'Tender Reference Number':'tender_external
                                       'No. of Covers': 'No of Bids Received',
                                       'Publish Date': 'Published Date',
                                       'Location': 'location'})
-master_df.to_csv(data_path+'2023aprmerged.csv')
+master_df.to_csv(data_path+'2023maymerged.csv')

@@ -18,8 +18,8 @@ from selenium.webdriver.support import expected_conditions as EC
 warnings.filterwarnings("ignore", category=DeprecationWarning) 
 url = 'https://assamtenders.gov.in/nicgep/app?page=WebTenderStatusLists&service=page'
 year = '2023'
-month_start = '3'
-month_end = '3'
+month_start = '4'
+month_end = '4'
 
 if month_end in ['0','2','4','6','7','9','11']:
     date_end = '31'
@@ -30,6 +30,7 @@ else:
 
 
 firefox_options = Options()
+#firefox_options.headless = True
 service = Service('/snap/bin/firefox.geckodriver')
 #browser = WebDriver()
 
@@ -87,6 +88,7 @@ for tender_status_id in range(6,7):
     browser = webdriver.Firefox(service=service, options=firefox_options)
 
     browser.get(url)
+    wait = WebDriverWait(browser, 10)  # Wait up to 3 seconds
     tender_status_id = str(tender_status_id)
     print('tenderStatusid: ', dict_tender_status[tender_status_id])
     SeleniumScrappingUtils.select_drop_down(browser,'//*[@id="tenderStatus"]',tender_status_id) #3
@@ -122,11 +124,19 @@ for tender_status_id in range(6,7):
     def scrape_view_more_details(browser,tender_id):
         view_more_details_element = SeleniumScrappingUtils.get_page_element(browser,'//*[@id="DirectLink"]')
         view_more_details_element.click()
+        #time.sleep(3)
         #since we are opening the new window selenium needs to change the focus
-        window_after = browser.window_handles[1]
-        browser.switch_to.window(window_after)
-
+    
         #all the table elements
+        elem_not_found = True
+        while elem_not_found:
+            try:
+                window_after = browser.window_handles[1]
+                browser.switch_to.window(window_after)
+                elem = wait.until(EC.presence_of_element_located((By.XPATH, '/html/body/table/tbody/tr/td/table/tbody/tr[4]/td/table/tbody/tr/td/table/tbody/tr/td/table/tbody/tr[2]/td/table/tbody/tr[1]/td')))
+                elem_not_found = False
+            except:
+                pass
         tables = SeleniumScrappingUtils.get_multiple_page_elements(browser,'/html/body/table/tbody/tr/td/table/tbody/tr[4]/td/table/tbody/tr/td/table/tbody/tr/td/table')[0].find_elements(By.CSS_SELECTOR,"table")
         dict_table_section_head = {}
         for table_section_elements in tables:
@@ -158,9 +168,21 @@ for tender_status_id in range(6,7):
     def scrape_view_stage_summary(browser,tender_id,dict_tables_type):
         list_of_dict_tables_type = list(dict_tables_type.keys())
         SeleniumScrappingUtils.get_page_element(browser,'//*[@id="DirectLink_0"]').click()
-        window_after = browser.window_handles[1]
-        browser.switch_to.window(window_after)
-        sections = browser.find_elements(By.CLASS_NAME,"table_list")
+        #time.sleep(3)
+        
+    
+        #all the table elements
+        elem_not_found = True
+        while elem_not_found:
+            try:
+                window_after = browser.window_handles[1]
+                browser.switch_to.window(window_after)
+                elem = wait.until(EC.presence_of_element_located((By.CLASS_NAME, 'table_list')))
+                sections = browser.find_elements(By.CLASS_NAME,"table_list")
+                elem_not_found = False
+            except:
+                pass
+        
         try:
             sections.append(browser.find_element_by_id("table_list"))
         except:
@@ -223,13 +245,12 @@ for tender_status_id in range(6,7):
             links = links[:len(tender_ids)]
         #pdb.set_trace()
         for index,link in enumerate(links):
-            
             browser.get(link)
             scrape_view_more_details(browser,tender_ids[index])
             scrape_view_stage_summary(browser,tender_ids[index],dict_tables_type)
 
             os.chdir("concatinated_csvs/")
-            SeleniumScrappingUtils.concatinate_csvs("../2022_july_dec/","final_"+tender_ids[index], dict_tender_status[tender_status_id])
+            SeleniumScrappingUtils.concatinate_csvs("../2023may/","final_"+tender_ids[index], dict_tender_status[tender_status_id])
             directory = os.getcwd()
             SeleniumScrappingUtils.remove_csvs(directory)
             os.chdir("../")
@@ -240,20 +261,22 @@ for tender_status_id in range(6,7):
     if __name__ == "__main__":
             tender_ids_list = []
             table,links,next_page_link,tender_ids = get_table_links(browser,'//*[@id="tabList"]')
-            #scrapeTender(browser,tender_ids,links,dict_tables_type,"first")
-            try:
-                scrapeTender(browser,tender_ids,links,dict_tables_type,"first")
-            except:
-                print('Error')
-                pass
+            scrapeTender(browser,tender_ids,links,dict_tables_type,"first")
+            # try:
+            #     scrapeTender(browser,tender_ids,links,dict_tables_type,"first")
+            # except:
+            #     print('Error1')
+            #     pdb.set_trace()
+            #     pass
             while len(next_page_link):
                 print("next")
                 browser.get(next_page_link)
                 table,links,next_page_link,tender_ids = get_table_links(browser,'//*[@id="tabList"]')
-                #scrapeTender(browser,tender_ids,links,dict_tables_type)
-                try:
-                    scrapeTender(browser,tender_ids,links,dict_tables_type)
-                except:
-                    print('Error')
-                    pass
+                scrapeTender(browser,tender_ids,links,dict_tables_type)
+                # try:
+                #     scrapeTender(browser,tender_ids,links,dict_tables_type)
+                # except:
+                #     print('Error2')
+                #     pdb.set_trace()
+                #     pass
             browser.quit()

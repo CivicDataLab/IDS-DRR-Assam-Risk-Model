@@ -13,6 +13,7 @@ from selenium.webdriver.support import expected_conditions as EC
 import shutil
 from urllib3.util import Retry
 import time
+import pdb
 
 MAX_RELOADS = 3
 SLEEP_TIME = 5
@@ -67,8 +68,12 @@ class SeleniumScrappingUtils(object):
         with open(str(name_of_file) + ".csv", 'w', newline='') as csvfile:
             wr = csv.writer(csvfile)
             for row in table_section.find_elements(By.CSS_SELECTOR,"tbody"):
-                wr.writerow([d.text for d in row.find_elements(By.CSS_SELECTOR,'td:nth-of-type(2n+1)')[skip_header_number:]])
+                try:
+                     wr.writerow([d.text for d in row.find_elements(By.CSS_SELECTOR,'td:nth-of-type(2n+1)')[skip_header_number:]])
+                except:
+                    pdb.set_trace()    
                 wr.writerow([d.text for d in row.find_elements(By.CSS_SELECTOR,'td:nth-of-type(2n+2)')])
+                
             
             
                 

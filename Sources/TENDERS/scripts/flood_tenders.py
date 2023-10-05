@@ -4,7 +4,7 @@ import re
 import dateutil.parser
 
 # input_df - after the scraper code is run
-input_df = pd.read_csv(os.getcwd()+'/Sources/TENDERS/data/2023aprmerged.csv')
+input_df = pd.read_csv(os.getcwd()+'/Sources/TENDERS/data/2023maymerged.csv')
 
 # De-Duplication (Change the logic once the time of scraping is added in the input_df)
 input_df = input_df.drop_duplicates()
@@ -136,5 +136,5 @@ for index, row in idea_frm_tenders_df.iterrows():
         sub_head_dict = {k: v for k, v in preparedness_measures_dict.items() if v is not False}
         idea_frm_tenders_df.loc[index, "Flood Response - Subhead"] = str(sub_head_dict)  
 
-idea_frm_tenders_df.to_csv(os.getcwd()+'/Sources/TENDERS/data/IDEA-FRM_filtered_tenders_with_metadata_2023apr.csv',
+idea_frm_tenders_df.to_csv(os.getcwd()+'/Sources/TENDERS/data/IDEA-FRM_filtered_tenders_with_metadata_2023may.csv',
                            encoding='utf-8')

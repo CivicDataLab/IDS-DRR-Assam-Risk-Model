@@ -3,7 +3,8 @@ import os
 import re
 import geopandas as gpd
 from tqdm import tqdm 
-
+import warnings
+warnings.filterwarnings("ignore")
 #ASSAM_VILLAGES = gpd.read_file(os.getcwd()+'/Maps/assam_village_complete_with_revenueCircle_district_35_oct2022.geojson',
  #                              driver='GeoJSON')
 
@@ -12,7 +13,7 @@ ASSAM_RCS = gpd.read_file(os.getcwd()+'/Maps/Assam_Revenue_Circles/assam_revenue
 
 RC_HQs = list(ASSAM_RCS[ASSAM_RCS.HQ=='y']['revenue_ci'])
 
-idea_frm_tenders_df  = pd.read_csv(os.getcwd()+'/Sources/TENDERS/data/IDEA_FRM_DISTRICT_GEOTAG_2023may.csv', keep_default_na=False)
+idea_frm_tenders_df  = pd.read_csv(os.getcwd()+'/Sources/TENDERS/data/floodtenders_districtgeotagged.csv', keep_default_na=False)
 
 VILLAGE_CORRECTION_DICT = {
     "SOKARBILA(BOLGARBARI)(DARIAPAR" : "SOKARBILA(BOLGARBARI)(DARIAPAR)",
@@ -141,6 +142,7 @@ for FOCUS_DISTRICT in tqdm(ASSAM_VILLAGES.district_2.unique()):
 
 
 MASTER_DFs.append(idea_frm_tenders_df[idea_frm_tenders_df["DISTRICT_FINALISED"] == 'NA'])
+MASTER_DFs.append(idea_frm_tenders_df[idea_frm_tenders_df["DISTRICT_FINALISED"] == 'CONFLICT'])
 
 MASTER_DF = pd.concat(MASTER_DFs)
 
@@ -161,6 +163,4 @@ for idx, row in MASTER_DF.iterrows():
         MASTER_DF.loc[idx, 'REVENUE_CIRCLE_FINALISED'] = row['tender_revenueci']
 
     # If HQ True AND row['tender_revenueci_location'] != row['tender_revenueci']?
-MASTER_DF.to_csv(os.getcwd()+'/Sources/TENDERS/data/IDEA_FRM_RC_GEOTAG_2023may.csv')
-
-#print('Number of tenders whose revenue circle could not be geo-tagged: ',MASTER_DF[MASTER_DF['REVENUE_CIRCLE_FINALISED']==''].shape[0])
+MASTER_DF.to_csv(os.getcwd()+'/Sources/TENDERS/data/floodtenders_RCgeotagged.csv')

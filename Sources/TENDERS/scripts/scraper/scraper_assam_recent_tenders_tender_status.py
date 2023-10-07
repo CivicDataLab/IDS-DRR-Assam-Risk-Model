@@ -14,13 +14,14 @@ import glob
 import pandas as pd
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-
+import sys
 warnings.filterwarnings("ignore", category=DeprecationWarning) 
-url = 'https://assamtenders.gov.in/nicgep/app?page=WebTenderStatusLists&service=page'
-year = '2023'
-month_start = '4'
-month_end = '4'
 
+year = sys.argv[1]
+month = sys.argv[2]
+
+month_start = str(int(month)-1)
+month_end = str(int(month)-1)
 if month_end in ['0','2','4','6','7','9','11']:
     date_end = '31'
 elif month_end=='1':
@@ -29,8 +30,18 @@ else:
     date_end = '30'
 
 
+if int(month)<10:
+    month = '0'+str(month)
+folder = year+'_'+str(month)
+os.mkdir(os.getcwd()+'/Sources/TENDERS/scripts/scraper/scraped_recent_tenders/'+folder)
+try:
+    os.mkdir(os.getcwd()+'/Sources/TENDERS/scripts/scraper/scraped_recent_tenders/concatinated_csvs')
+except:
+    pass
+
+url = 'https://assamtenders.gov.in/nicgep/app?page=WebTenderStatusLists&service=page'
 firefox_options = Options()
-#firefox_options.headless = True
+firefox_options.headless = True
 service = Service('/snap/bin/firefox.geckodriver')
 #browser = WebDriver()
 
@@ -250,7 +261,7 @@ for tender_status_id in range(6,7):
             scrape_view_stage_summary(browser,tender_ids[index],dict_tables_type)
 
             os.chdir("concatinated_csvs/")
-            SeleniumScrappingUtils.concatinate_csvs("../2023may/","final_"+tender_ids[index], dict_tender_status[tender_status_id])
+            SeleniumScrappingUtils.concatinate_csvs("../{}/".format(folder),"final_"+tender_ids[index], dict_tender_status[tender_status_id])
             directory = os.getcwd()
             SeleniumScrappingUtils.remove_csvs(directory)
             os.chdir("../")

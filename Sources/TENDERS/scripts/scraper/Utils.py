@@ -13,6 +13,7 @@ from selenium.webdriver.support import expected_conditions as EC
 import shutil
 from urllib3.util import Retry
 import time
+import pdb
 
 MAX_RELOADS = 3
 SLEEP_TIME = 5
@@ -67,18 +68,23 @@ class SeleniumScrappingUtils(object):
         with open(str(name_of_file) + ".csv", 'w', newline='') as csvfile:
             wr = csv.writer(csvfile)
             for row in table_section.find_elements(By.CSS_SELECTOR,"tbody"):
-                wr.writerow([d.text for d in row.find_elements(By.CSS_SELECTOR,'td:nth-of-type(2n+1)')[skip_header_number:]])
+                try:
+                     wr.writerow([d.text for d in row.find_elements(By.CSS_SELECTOR,'td:nth-of-type(2n+1)')[skip_header_number:]])
+                except:
+                    pdb.set_trace()    
                 wr.writerow([d.text for d in row.find_elements(By.CSS_SELECTOR,'td:nth-of-type(2n+2)')])
+                
             
             
                 
-    def concatinate_csvs(path_to_save,name_of_file):
+    def concatinate_csvs(path_to_save,name_of_file, tender_status):
         '''
         combines all the csvs
         '''
         extension = 'csv'
         all_filenames = [i for i in glob.glob('*.{}'.format(extension))]
         combined_csv = pd.concat([pd.read_csv(f) for f in all_filenames ], axis = 1)
+        combined_csv['Tender Stage'] = tender_status
         combined_csv.to_csv(path_to_save + name_of_file+".csv", index=False, encoding='utf-8-sig')
    
     def remove_csvs(directory):

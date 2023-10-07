@@ -8,7 +8,7 @@ machine readable, research friendly manner.
 ### What does each script do:
 - `WebDriver.py` : Configures selenium webdriver
 - `Utils.py` : Has multiple utility functions which are re-used in different projects
-- `scraper_assam_recent_tenders_tender_status.py` : Runs the logic of minning data from the portal with the help of above two modules
+- `scraper_assam_recent_tenders_tender_status.py` : Runs the logic of mining data from the portal with the help of above two modules
 ### Setup instructions for scraper:
 - `git clone https://github.com/CivicDataLab/assam-tender-data.git`
 - `pip3 install virtualenv`
@@ -24,6 +24,7 @@ machine readable, research friendly manner.
     >  Configure path of chromedriver in `WebDriver.py`
     >  Configure range of date in `scraper_assam_recent_tenders_tender_status.py`
 - `python3 scraper_assam_recent_tenders_tender_status.py`
+
 ### Link and metadata of scraped data:
 ```
 Time range: Fiscal year 2016-2017 to fiscal year 2022-2023
@@ -31,6 +32,7 @@ Last updated: 2023-06-21
 Frequency of update: Quarterly
 Link:
 ```
+
 ### Contributions:
 . [@sphanidatta](https://github.com/orgs/CivicDataLab/people/sphanidatta)
 

@@ -1,0 +1,13 @@
+year,month,RC_Id,Type,num_damages,year_month,object_id
+2022,07,16.0,Embankment breached,1,2022_07,260
+2022,07,16.0,Embankment breached,1,2022_07,230
+2022,07,21.0,Embankment breached,1,2022_07,266
+2022,07,35.0,Embankment breached,3,2022_07,186
+2022,07,36.0,Embankment breached,5,2022_07,184
+2022,07,37.0,Embankment breached,12,2022_07,185
+2022,07,38.0,Embankment breached,2,2022_07,187
+2022,07,39.0,Embankment breached,6,2022_07,188
+2022,07,48.0,Embankment breached,2,2022_07,238
+2022,07,90.0,Embankment breached,3,2022_07,169
+2022,07,167.0,Embankment breached,8,2022_07,246
+2022,07,174.0,Embankment breached,1,2022_07,202

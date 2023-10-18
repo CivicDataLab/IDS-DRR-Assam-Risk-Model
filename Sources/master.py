@@ -14,11 +14,14 @@ for root, dirs, files in os.walk(main_directory):
             if 'BHARATMAPS' in csv:
                 month = ''
                 file_name = csv_files[0].split('/')[-1][:-4]
+            elif 'WORLDPOP' in csv:
+                month = re.findall(r'\d{4}', csv)[0]
+                file_name = csv_files[0].split('/')[-1][:-9]
             else:
                 month = re.findall(r'\d{4}_\d{2}', csv)[0]
                 file_name = csv_files[0].split('/')[-1][:-12]
             df = pd.read_csv(csv)
-            df['month'] = month
+            df['timeperiod'] = month
             dfs.append(df)
 
         master_df = pd.concat(dfs)

@@ -17,4 +17,4 @@ grouped_df = grouped_df.reset_index().reset_index(drop=True)
 grouped_df = grouped_df.merge(result[['stationCode','object_id','revenue_ci']], on='stationCode')
 grouped_df = grouped_df.drop('stationCode', axis=1)
 grouped_df.columns = ['stationCode', 'Date', 'mean', 'min', 'max', 'object_id', 'revenue_ci']
-grouped_df.to_csv(path+'/data/waterlevelstats.csv', index=False)
+grouped_df.to_csv(path+'/data/variables/riverlevel/riverlevel.csv', index=False)

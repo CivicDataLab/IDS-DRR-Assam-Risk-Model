@@ -11,12 +11,17 @@ for root, dirs, files in os.walk(main_directory):
         csv_files = glob.glob(root+'/*.csv')
         dfs= []
         for csv in csv_files:
-            if 'BHARATMAPS' in csv:
+            if any([x in csv for x in ['BHARATMAPS', 'GCN250', 'NASADEM', 'NERDRR', 'ANTYODAYA']]): # snapshot sources
                 month = ''
                 file_name = csv_files[0].split('/')[-1][:-4]
             elif 'WORLDPOP' in csv:
                 month = re.findall(r'\d{4}', csv)[0]
                 file_name = csv_files[0].split('/')[-1][:-9]
+            elif 'SENTINEL' in csv:
+                month = re.findall(r'\d{4}-\d{2}-\d{2}', csv)[0]
+                month = month[:-3]
+                month = month.replace('-', '_')
+                file_name = csv_files[0].split('/')[-1][:-15]
             else:
                 month = re.findall(r'\d{4}_\d{2}', csv)[0]
                 file_name = csv_files[0].split('/')[-1][:-12]

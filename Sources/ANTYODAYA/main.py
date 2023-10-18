@@ -9,15 +9,14 @@ import time
 
 CURRENT_FOLDER = os.path.dirname(os.path.abspath(__file__))
 
-INPUT_FOLDER = os.path.abspath(CURRENT_FOLDER + '/input')
+DATA_FOLDER = os.path.abspath(CURRENT_FOLDER + '/data')
 
-OUTPUT_FOLDER = os.path.abspath(CURRENT_FOLDER + '/output')
 
 ASSAM_REVENUE_CIRCLE_FILE = os.getcwd() + '/Maps/Assam_Revenue_Circles/assam_revenue_circle_nov2022.geojson'
 
 def main():
     mission_antyodaya_df = pd.read_excel(
-        INPUT_FOLDER + '/MissionAntyodaya2020_Assam.xlsx'
+        DATA_FOLDER + '/MissionAntyodaya2020_Assam.xlsx'
     )
 
     mission_antyodaya_geometry = [
@@ -46,7 +45,7 @@ def main():
         point_in_polygon.append(point)
 
     pd.DataFrame(point_in_polygon).to_excel(
-        OUTPUT_FOLDER + '/antyodaya_village_dataset_with_revenue_circle.xlsx'
+        DATA_FOLDER + '/antyodaya_village_dataset_with_revenue_circle.xlsx'
     )
 
 if __name__ == "__main__":

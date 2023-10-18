@@ -10,4 +10,6 @@ There are three divisions in Assam. FFS stations are majorly distributed in thes
 
 ## Project Directory:
 1. `scripts`: Contains codes to scrape data from FFS.
+    - `scraper.py`: To scrape data from CWC
+    - `transformer.py`: To calculate variables
 2. `data`: Contains all datasets used and produced for this source.

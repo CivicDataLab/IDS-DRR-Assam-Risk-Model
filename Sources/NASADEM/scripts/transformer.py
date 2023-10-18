@@ -45,4 +45,4 @@ zonal_stats_df = pd.merge(dem_zonal_stats_df,
                           slope_zonal_stats_df[['object_id','slope_mean']],
                           on='object_id')
 
-zonal_stats_df.to_csv(path+"data/NASADEM.csv", index=False)
+zonal_stats_df.to_csv(path+"data/variables/elevation/elevation.csv", index=False)

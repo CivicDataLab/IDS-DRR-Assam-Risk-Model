@@ -65,7 +65,7 @@ for rc in mean_dicts:
 zonal_stats_df = pd.concat(dfs).reset_index(drop=True)
 zonal_stats_df['inundation_pct'] = zonal_stats_df['count_nonzero']/zonal_stats_df['count']
 
-# INTENSITY
+# INTENSITY - maximum inundated pixel has INTENSITY 1
 intensity_array = np.divide(raster_array, raster_array.max())
 def nonzero_mean(x):
     x = x.compressed()
@@ -90,7 +90,17 @@ intensity_df.rename(columns = {'mean':'intensity_mean', 'sum':'intensity_sum'}, 
 
 zonal_stats_df = pd.merge(zonal_stats_df, intensity_df[['intensity_mean','intensity_mean_nonzero','intensity_sum','object_id']], on='object_id')
 
-zonal_stats_df.to_csv(path+"data/inundation_pct/inundation_pct"+year+"_"+month+".csv")
+zonal_stats_df = zonal_stats_df[['object_id', 'count', 'count_nonzero', 'inundation_pct', 'intensity_mean', 'intensity_mean_nonzero', 'intensity_sum']]
+
+zonal_stats_df.columns = ['object_id', 'count_bhuvan_pixels', 'count_inundated_pixels',
+                          'inundation_pct', 'inundation_intensity_mean', 'inundation_intensity_mean_nonzero',
+                          'inundation_intensity_sum']
+
+if os.path.exists(path+"data/variables/inundation_pct"):
+    zonal_stats_df.to_csv(path + "/data/variables/inundation_pct/" + "inundation_pct_" + year+ "_" + month+ ".csv", index=False)
+else:
+    os.mkdir(path+"data/variables/inundation_pct")
+    zonal_stats_df.to_csv(path + "/data/variables/inundation_pct/" + "inundation_pct_" + year+ "_" + month+ ".csv", index=False)
 
 toc = time.perf_counter()
 print("Time Taken: {} seconds".format(toc-tic))

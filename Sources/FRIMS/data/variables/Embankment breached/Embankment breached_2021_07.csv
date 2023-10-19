@@ -1,8 +1,8 @@
-year,month,RC_Id,Type,num_damages,year_month,object_id
-2021,07,28.0,Embankment breached,1,2021_07,251
-2021,07,33.0,Embankment breached,6,2021_07,200
-2021,07,53.0,Embankment breached,1,2021_07,151
-2021,07,90.0,Embankment breached,3,2021_07,169
-2021,07,129.0,Embankment breached,1,2021_07,143
-2021,07,157.0,Embankment breached,1,2021_07,138
-2021,07,167.0,Embankment breached,1,2021_07,246
+object_id,Embankment breached
+138.0,1
+143.0,1
+151.0,1
+169.0,3
+200.0,6
+246.0,1
+251.0,1

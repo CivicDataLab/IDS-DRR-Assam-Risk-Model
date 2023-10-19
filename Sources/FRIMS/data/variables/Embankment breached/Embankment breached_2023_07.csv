@@ -1,4 +1,4 @@
-year,month,RC_Id,Type,num_damages,year_month,object_id
-2023,07,29.0,Embankment breached,1,2023_07,250
-2023,07,90.0,Embankment breached,1,2023_07,169
-2023,07,167.0,Embankment breached,1,2023_07,246
+object_id,Embankment breached
+169.0,1
+246.0,1
+250.0,1

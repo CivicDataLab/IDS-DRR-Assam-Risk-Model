@@ -1,9 +1,9 @@
-year,month,RC_Id,Type,num_damages,year_month,object_id
-2021,08,29.0,Embankments affected,1,2021_08,250
-2021,08,32.0,Embankments affected,1,2021_08,198
-2021,08,61.0,Embankments affected,1,2021_08,256
-2021,08,90.0,Embankments affected,2,2021_08,169
-2021,08,124.0,Embankments affected,1,2021_08,142
-2021,08,142.0,Embankments affected,1,2021_08,131
-2021,08,154.0,Embankments affected,1,2021_08,165
-2021,08,167.0,Embankments affected,2,2021_08,246
+object_id,Embankments affected
+131.0,1
+142.0,1
+165.0,1
+169.0,2
+198.0,1
+246.0,2
+250.0,1
+256.0,1

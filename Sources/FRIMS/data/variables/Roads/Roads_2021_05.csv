@@ -1,5 +1,5 @@
-year,month,RC_Id,Type,num_damages,year_month,object_id
-2021,05,50.0,Roads,1,2021_05,150
-2021,05,114.0,Roads,1,2021_05,189
-2021,05,115.0,Roads,4,2021_05,190
-2021,05,124.0,Roads,2,2021_05,142
+object_id,Roads
+142.0,2
+150.0,1
+189.0,1
+190.0,4

@@ -1,3 +1,3 @@
-year,month,RC_Id,Type,num_damages,year_month,object_id
-2021,07,22.0,Embankments affected,3,2021_07,121
-2021,07,90.0,Embankments affected,1,2021_07,169
+object_id,Embankments affected
+121.0,3
+169.0,1

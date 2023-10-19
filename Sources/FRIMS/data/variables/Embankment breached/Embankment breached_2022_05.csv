@@ -1,26 +1,25 @@
-year,month,RC_Id,Type,num_damages,year_month,object_id
-2022,05,10.0,Embankment breached,3,2022_05,243
-2022,05,10.0,Embankment breached,3,2022_05,269
-2022,05,17.0,Embankment breached,1,2022_05,259
-2022,05,26.0,Embankment breached,7,2022_05,123
-2022,05,28.0,Embankment breached,1,2022_05,251
-2022,05,29.0,Embankment breached,7,2022_05,250
-2022,05,35.0,Embankment breached,3,2022_05,186
-2022,05,36.0,Embankment breached,5,2022_05,184
-2022,05,37.0,Embankment breached,12,2022_05,185
-2022,05,38.0,Embankment breached,9,2022_05,187
-2022,05,39.0,Embankment breached,2,2022_05,188
-2022,05,71.0,Embankment breached,1,2022_05,117
-2022,05,74.0,Embankment breached,1,2022_05,118
-2022,05,86.0,Embankment breached,4,2022_05,253
-2022,05,113.0,Embankment breached,1,2022_05,255
-2022,05,129.0,Embankment breached,7,2022_05,143
-2022,05,133.0,Embankment breached,1,2022_05,128
-2022,05,138.0,Embankment breached,2,2022_05,136
-2022,05,140.0,Embankment breached,1,2022_05,135
-2022,05,148.0,Embankment breached,4,2022_05,222
-2022,05,149.0,Embankment breached,1,2022_05,223
-2022,05,159.0,Embankment breached,1,2022_05,137
-2022,05,166.0,Embankment breached,1,2022_05,247
-2022,05,168.0,Embankment breached,1,2022_05,245
-2022,05,170.0,Embankment breached,18,2022_05,268
+object_id,Embankment breached
+117.0,1
+118.0,1
+123.0,7
+128.0,1
+135.0,1
+136.0,2
+137.0,1
+143.0,7
+184.0,5
+185.0,12
+186.0,3
+187.0,9
+188.0,2
+222.0,4
+223.0,1
+245.0,1
+247.0,1
+250.0,7
+251.0,1
+253.0,4
+255.0,1
+259.0,1
+268.0,18
+269.0,3

@@ -1,3 +1,3 @@
-month,object_id,Awarded Value
-2018_09,104.0,29428265.96
-2018_09,279.0,14644690.0
+object_id,total_tender_awarded_value
+104.0,29428265.96
+279.0,14644690.0

@@ -1,18 +1,17 @@
-year,month,RC_Id,Type,num_damages,year_month,object_id
-2023,06,3.0,Embankment breached,3,2023_06,234
-2023,06,10.0,Embankment breached,15,2023_06,243
-2023,06,10.0,Embankment breached,15,2023_06,269
-2023,06,24.0,Embankment breached,1,2023_06,265
-2023,06,25.0,Embankment breached,6,2023_06,124
-2023,06,28.0,Embankment breached,4,2023_06,251
-2023,06,29.0,Embankment breached,1,2023_06,250
-2023,06,71.0,Embankment breached,1,2023_06,117
-2023,06,90.0,Embankment breached,3,2023_06,169
-2023,06,127.0,Embankment breached,2,2023_06,141
-2023,06,129.0,Embankment breached,3,2023_06,143
-2023,06,138.0,Embankment breached,1,2023_06,136
-2023,06,144.0,Embankment breached,1,2023_06,226
-2023,06,148.0,Embankment breached,1,2023_06,222
-2023,06,157.0,Embankment breached,2,2023_06,138
-2023,06,168.0,Embankment breached,2,2023_06,245
-2023,06,170.0,Embankment breached,2,2023_06,268
+object_id,Embankment breached
+117.0,1
+124.0,6
+136.0,1
+138.0,2
+141.0,2
+143.0,3
+169.0,3
+222.0,1
+226.0,1
+234.0,3
+245.0,2
+250.0,1
+251.0,4
+265.0,1
+268.0,2
+269.0,15

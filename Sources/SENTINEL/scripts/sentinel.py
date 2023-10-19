@@ -122,17 +122,19 @@ ndvi_raster = rasterio.open(cwd+'/Sources/SENTINEL/data/NDVI/tifs/ndvi_{}.ndvi.t
 ndvi_rc_df, ndvi_rc_gdf = zonal_stats_choropleths(assam_rc_gdf,'object_id',
                                                   ndvi_raster)
 
-ndvi_dist_df, ndvi_dist_gdf = zonal_stats_choropleths(assam_dist_gdf, 'assam_dist',
-                                                  ndvi_raster)
+#ndvi_dist_df, ndvi_dist_gdf = zonal_stats_choropleths(assam_dist_gdf, 'assam_dist',
+ #                                                 ndvi_raster)
 
-ndvi_rc_df.to_csv(cwd+'/Sources/SENTINEL/data/NDVI/csvs/ndvi_rc_{}.csv'.format(date_end),
+ndvi_rc_df = ndvi_rc_df[['object_id', 'mean']]
+ndvi_rc_df = ndvi_rc_df.replace(columns = {'mean': 'mean_ndvi'})
+ndvi_rc_df.to_csv(cwd+'/Sources/SENTINEL/data/NDVI/csvs/mean_ndvi_{}.csv'.format(date_end),
                 index=False)
 ndvi_rc_gdf.to_file(cwd+'/Sources/SENTINEL/data/NDVI/geojsons/ndvi_rc_{}.geojson'.format(date_end))
 
 
-ndvi_dist_df.to_csv(cwd+'/Sources/SENTINEL/data/NDVI/csvs/ndvi_dist_{}.csv'.format(date_end),
-                index=False)
-ndvi_dist_gdf.to_file(cwd+'/Sources/SENTINEL/data/NDVI/geojsons/ndvi_dist_{}.geojson'.format(date_end))
+#ndvi_dist_df.to_csv(cwd+'/Sources/SENTINEL/data/NDVI/csvs/ndvi_dist_{}.csv'.format(date_end),
+               # index=False)
+#ndvi_dist_gdf.to_file(cwd+'/Sources/SENTINEL/data/NDVI/geojsons/ndvi_dist_{}.geojson'.format(date_end))
 
 
 print("-------NDBI Stats-------------")
@@ -146,14 +148,16 @@ ndbi_raster = rasterio.open(cwd+'/Sources/SENTINEL/data/NDBI/tifs/ndbi_{}.ndbi.t
 ndbi_rc_df, ndbi_rc_gdf = zonal_stats_choropleths(assam_rc_gdf,'object_id',
                                                   ndbi_raster)
 
-ndbi_dist_df, ndbi_dist_gdf = zonal_stats_choropleths(assam_dist_gdf, 'assam_dist',
-                                                  ndbi_raster)
+#ndbi_dist_df, ndbi_dist_gdf = zonal_stats_choropleths(assam_dist_gdf, 'assam_dist',
+ #                                                 ndbi_raster)
 
+ndbi_rc_df = ndbi_rc_df[['object_id', 'mean']]
+ndbi_rc_df = ndbi_rc_df.replace(columns = {'mean': 'mean_ndbi'})
 ndbi_rc_df.to_csv(cwd+'/Sources/SENTINEL/data/NDBI/csvs/ndbi_rc_{}.csv'.format(date_end),
                 index=False)
-ndbi_rc_gdf.to_file(cwd+'/Sources/SENTINEL/data/NDBI/geojsons/ndbi_rc_{}.geojson'.format(date_end))
+ndbi_rc_gdf.to_file(cwd+'/Sources/SENTINEL/data/NDBI/geojsons/mean_ndbi_{}.geojson'.format(date_end))
 
 
-ndbi_dist_df.to_csv(cwd+'/Sources/SENTINEL/data/NDBI/csvs/ndbi_dist_{}.csv'.format(date_end),
-                index=False)
-ndbi_dist_gdf.to_file(cwd+'/Sources/SENTINEL/data/NDBI/geojsons/ndbi_dist_{}.geojson'.format(date_end))
+#ndbi_dist_df.to_csv(cwd+'/Sources/SENTINEL/data/NDBI/csvs/ndbi_dist_{}.csv'.format(date_end),
+ #               index=False)
+#ndbi_dist_gdf.to_file(cwd+'/Sources/SENTINEL/data/NDBI/geojsons/ndbi_dist_{}.geojson'.format(date_end))

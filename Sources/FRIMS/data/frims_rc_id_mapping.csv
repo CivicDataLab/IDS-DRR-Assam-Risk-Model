@@ -120,7 +120,6 @@ Baganpara (Pt),260,BAKSA,Baganpara,Baganpara,16,Baksa
 Baganpara (Pt),230,NALBARI,Baganpara,Baganpara,16,Baksa
 Barama,234,BAKSA,Barama,Barama,3,Baksa
 Sipajhar,239,DARRANG,Sipajhar,Sipajhar,46,Darrang
-Mangaldoi (Pt),243,UDALGURI,Mangaldoi,Mangaldoi,10,Darrang
 Mangaldoi (Pt),269,DARRANG,Mangaldoi,Mangaldoi,10,Darrang
 Dalgaon (Pt),270,DARRANG,Dalgaon,Dalgaon,47,Darrang
 Harisinga,245,UDALGURI,Harisinga,Harisinga,168,Udalguri
@@ -163,7 +162,7 @@ North Guwahati,217,KAMRUP,North Ghy,North Ghy,101,Kamrup
 ,256,,,,61,
 ,279,,,,175,
 ,168,,,,176,
-Mangaldoi (Pt),269,,Pub-Mangaldai  Pub-Mangaldai  ,,188,Darrang
+Mangaldoi (Pt),243,UDALGURI,Pub-Mangaldai ,Pub-Mangaldai ,188,Darrang
 Guwahati,219,KAMRUP METRO,Dispur,Dispur,94,Kamrup (M)
 Sidli (Pt-II),201,BONGAIGAON,Dangtol,Dangtol,31,Bongaigaon
 Bagribari (Pt),109,DHUBRI,Athani,Athani,58,Dhubri

@@ -1,2 +1,2 @@
-year,month,RC_Id,Rescue_Operation_Medical_Team_Deployed,year_month,object_id
-2022,12,39.0,0.0,2022_12,188
+object_id,Rescue_Operation_Medical_Team_Deployed
+188.0,0.0

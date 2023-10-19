@@ -1,3 +1,3 @@
-month,object_id,Awarded Value
-2019_12,164.0,14993649.0
-2019_12,189.0,11757800.0
+object_id,SOPD_tenders_awarded_value
+164.0,14993649.0
+189.0,11757800.0

@@ -1,22 +1,21 @@
-year,month,RC_Id,Type,num_damages,year_month,object_id
-2022,05,4.0,Embankments affected,3,2022_05,261
-2022,05,10.0,Embankments affected,1,2022_05,243
-2022,05,10.0,Embankments affected,1,2022_05,269
-2022,05,17.0,Embankments affected,2,2022_05,259
-2022,05,39.0,Embankments affected,6,2022_05,188
-2022,05,53.0,Embankments affected,1,2022_05,151
-2022,05,63.0,Embankments affected,1,2022_05,159
-2022,05,64.0,Embankments affected,1,2022_05,158
-2022,05,90.0,Embankments affected,1,2022_05,169
-2022,05,113.0,Embankments affected,1,2022_05,255
-2022,05,115.0,Embankments affected,1,2022_05,190
-2022,05,116.0,Embankments affected,1,2022_05,192
-2022,05,124.0,Embankments affected,1,2022_05,142
-2022,05,129.0,Embankments affected,2,2022_05,143
-2022,05,131.0,Embankments affected,2,2022_05,281
-2022,05,138.0,Embankments affected,1,2022_05,136
-2022,05,145.0,Embankments affected,3,2022_05,224
-2022,05,146.0,Embankments affected,2,2022_05,225
-2022,05,149.0,Embankments affected,1,2022_05,223
-2022,05,154.0,Embankments affected,3,2022_05,165
-2022,05,167.0,Embankments affected,1,2022_05,246
+object_id,Embankments affected
+136.0,1
+142.0,1
+143.0,2
+151.0,1
+158.0,1
+159.0,1
+165.0,3
+169.0,1
+188.0,6
+190.0,1
+192.0,1
+223.0,1
+224.0,3
+225.0,2
+246.0,1
+255.0,1
+259.0,2
+261.0,3
+269.0,1
+281.0,2

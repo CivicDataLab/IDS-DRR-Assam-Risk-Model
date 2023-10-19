@@ -31,6 +31,7 @@ for variable in variables:
 
     for year in result.year.unique():
         variable_df_yearly = variable_df[variable_df['year'] == year]
+        variable_df_yearly = variable_df_yearly.drop(['year'], axis=1)
 
         if os.path.exists(data_path+'variables/'+variable):
             variable_df_yearly.to_csv(data_path + 'variables/' + variable+'/{}_{}.csv'.format(variable, year), index=False)

@@ -9,7 +9,7 @@ warnings.filterwarnings("ignore")
 variables_data_path = os.getcwd() + '/Sources/master/'
 assam_rc = gpd.read_file('Maps/Assam_Revenue_Circles/assam_revenue_circle_nov2022.geojson')
 
-date_range = pd.date_range(start="2021-06-01", end="2023-08-01", freq='MS')
+date_range = pd.date_range(start="2021-04-01", end="2023-08-01", freq='MS')
 
 # Format the date values as "YYYY_MM" strings
 formatted_dates = [date.strftime('%Y_%m') for date in date_range]

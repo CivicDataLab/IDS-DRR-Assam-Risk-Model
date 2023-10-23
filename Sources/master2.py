@@ -9,7 +9,7 @@ warnings.filterwarnings("ignore")
 variables_data_path = os.getcwd() + '/Sources/master/'
 assam_rc = gpd.read_file('Maps/Assam_Revenue_Circles/assam_revenue_circle_nov2022.geojson')
 
-date_range = pd.date_range(start="2021-04-01", end="2023-08-01", freq='MS')
+date_range = pd.date_range(start="2021-05-01", end="2023-08-01", freq='MS')
 
 # Format the date values as "YYYY_MM" strings
 formatted_dates = [date.strftime('%Y_%m') for date in date_range]
@@ -85,6 +85,8 @@ master_df = master_df.drop(['year', 'count_gcn250_pixels',
 
 #master_df['year'] = master_df['timeperiod'].str[:4]
 #master_df['month'] = master_df['timeperiod'].str[-2:]
+
+
 # Missing data imputation
 master_df['total_tender_awarded_value'] = master_df['total_tender_awarded_value'].fillna(0)
 master_df['SOPD_tenders_awarded_value'] = master_df['SOPD_tenders_awarded_value'].fillna(0)
@@ -96,9 +98,22 @@ master_df['Preparedness Measures_tenders_awarded_value'] = master_df['Preparedne
 master_df['Immediate Measures_tenders_awarded_value'] = master_df['Immediate Measures_tenders_awarded_value'].fillna(0)
 master_df['Others_tenders_awarded_value'] = master_df['Others_tenders_awarded_value'].fillna(0)
 
+
+master_df['Population_affected_Total'] = master_df['Population_affected_Total'].fillna(0)
+master_df['Total_Animal_Affected'] = master_df['Total_Animal_Affected'].fillna(0)
+master_df['Total_Animal_Washed_Away'] = master_df['Total_Animal_Washed_Away'].fillna(0)
+master_df['Total_House_Fully_Damaged'] = master_df['Total_House_Fully_Damaged'].fillna(0)
+master_df['Roads'] = master_df['Roads'].fillna(0)
+master_df['Embankments affected'] = master_df['Embankments affected'].fillna(0)
+master_df['Bridge'] = master_df['Bridge'].fillna(0)
+master_df['Embankment breached'] = master_df['Embankment breached'].fillna(0)
+
 #mean of rc
 master_df['mean_ndvi'] = master_df['mean_ndvi'].fillna(master_df.groupby(['object_id'])['mean_ndvi'].transform('mean'))
 master_df['ndbi_mean'] = master_df['ndbi_mean'].fillna(master_df.groupby(['object_id'])['ndbi_mean'].transform('mean'))
+master_df['max_rain'] = master_df['max_rain'].fillna(master_df.groupby(['object_id'])['max_rain'].transform('mean'))
+master_df['mean_rain'] = master_df['mean_rain'].fillna(master_df.groupby(['object_id'])['mean_rain'].transform('mean'))
+master_df['sum_rain'] = master_df['sum_rain'].fillna(master_df.groupby(['object_id'])['sum_rain'].transform('mean'))
 
 master_df.to_csv('MASTER_VARIABLES.csv', index=False)
 

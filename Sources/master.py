@@ -23,6 +23,7 @@ for root, dirs, files in os.walk(main_directory):
                 timeperiod = timeperiod.replace('-', '_')
                 file_name = csv_files[0].split('/')[-1][:-15]
             else:
+                print(csv)
                 timeperiod = re.findall(r'\d{4}_\d{2}', csv)[0]
                 file_name = csv_files[0].split('/')[-1][:-12]
             df = pd.read_csv(csv)

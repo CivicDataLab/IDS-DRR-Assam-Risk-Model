@@ -34,8 +34,10 @@ monthly_variables = ['total_tender_awarded_value',
                      'Human_Live_Lost_Children', 'Human_Live_Lost_Female', 'Human_Live_Lost_Male',
                      'Embankments affected', 'Roads', 'Bridge', 'Embankment breached',
                      'rainfall',
-                     'mean_ndvi', 'mean_ndbi'
+                     'mean_ndvi', 'mean_ndbi',
+                     'inundation_pct', 'riverlevel'
                      ]
+
 for variable in monthly_variables:
     variable_df = pd.read_csv(variables_data_path + variable + '.csv')
     variable_df = variable_df.drop_duplicates()
@@ -78,7 +80,26 @@ for variable in onetime_variables:
                                 how='left')
 
 
-master_df = master_df.drop(['year', 'count_gcn250_pixels'], axis=1)
+master_df = master_df.drop(['year', 'count_gcn250_pixels',
+                            'count_bhuvan_pixels', 'count_inundated_pixels'], axis=1)
+
+#master_df['year'] = master_df['timeperiod'].str[:4]
+#master_df['month'] = master_df['timeperiod'].str[-2:]
+# Missing data imputation
+master_df['total_tender_awarded_value'] = master_df['total_tender_awarded_value'].fillna(0)
+master_df['SOPD_tenders_awarded_value'] = master_df['SOPD_tenders_awarded_value'].fillna(0)
+master_df['SDRF_tenders_awarded_value'] = master_df['SDRF_tenders_awarded_value'].fillna(0)
+master_df['RIDF_tenders_awarded_value'] = master_df['RIDF_tenders_awarded_value'].fillna(0)
+master_df['LTIF_tenders_awarded_value'] = master_df['LTIF_tenders_awarded_value'].fillna(0)
+master_df['CIDF_tenders_awarded_value'] = master_df['CIDF_tenders_awarded_value'].fillna(0)
+master_df['Preparedness Measures_tenders_awarded_value'] = master_df['Preparedness Measures_tenders_awarded_value'].fillna(0)
+master_df['Immediate Measures_tenders_awarded_value'] = master_df['Immediate Measures_tenders_awarded_value'].fillna(0)
+master_df['Others_tenders_awarded_value'] = master_df['Others_tenders_awarded_value'].fillna(0)
+
+#mean of rc
+master_df['mean_ndvi'] = master_df['mean_ndvi'].fillna(master_df.groupby(['object_id'])['mean_ndvi'].transform('mean'))
+master_df['ndbi_mean'] = master_df['ndbi_mean'].fillna(master_df.groupby(['object_id'])['ndbi_mean'].transform('mean'))
+
 master_df.to_csv('MASTER_VARIABLES.csv', index=False)
 
 #master_df[master_df.duplicated(subset= ['object_id', 'timeperiod'])].to_csv('MASTER_VARIABLES.csv', index=False)

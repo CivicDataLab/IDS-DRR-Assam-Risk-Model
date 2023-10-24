@@ -17,8 +17,8 @@ formatted_dates = [date.strftime('%Y_%m') for date in date_range]
 # Create a Pandas DataFrame with the values
 dfs = []
 for year_month in formatted_dates:
-    df = assam_rc[['object_id', 'are_new']]
-    df.columns = ['object_id', 'rc_area']
+    df = assam_rc[['object_id', 'district_3', 'are_new']]
+    df.columns = ['object_id', 'district', 'rc_area']
     df['timeperiod'] = year_month
     dfs.append(df)
 master_df =  pd.concat(dfs).reset_index(drop = True)
@@ -60,7 +60,7 @@ master_df = master_df.drop(['Male_Camp', 'Female_Camp', 'Children_Camp',
 # Annual variables
 master_df['year'] = master_df['timeperiod'].str[:4].astype(int)
 annual_variables = ['mean_sexratio', 'sum_aged_population', 'sum_young_population', 'sum_population',
-                    'final_lu', 'seasonal', 'permanenent']
+                    'final_lu']
 
 for variable in annual_variables:
     variable_df = pd.read_csv(variables_data_path + variable + '.csv')
@@ -91,34 +91,25 @@ master_df = master_df.drop(['year', 'count_gcn250_pixels',
 #master_df['year'] = master_df['timeperiod'].str[:4]
 #master_df['month'] = master_df['timeperiod'].str[-2:]
 
-
-# Missing data imputation
-master_df['total_tender_awarded_value'] = master_df['total_tender_awarded_value'].fillna(0)
-master_df['SOPD_tenders_awarded_value'] = master_df['SOPD_tenders_awarded_value'].fillna(0)
-master_df['SDRF_tenders_awarded_value'] = master_df['SDRF_tenders_awarded_value'].fillna(0)
-master_df['RIDF_tenders_awarded_value'] = master_df['RIDF_tenders_awarded_value'].fillna(0)
-master_df['LTIF_tenders_awarded_value'] = master_df['LTIF_tenders_awarded_value'].fillna(0)
-master_df['CIDF_tenders_awarded_value'] = master_df['CIDF_tenders_awarded_value'].fillna(0)
-master_df['Preparedness Measures_tenders_awarded_value'] = master_df['Preparedness Measures_tenders_awarded_value'].fillna(0)
-master_df['Immediate Measures_tenders_awarded_value'] = master_df['Immediate Measures_tenders_awarded_value'].fillna(0)
-master_df['Others_tenders_awarded_value'] = master_df['Others_tenders_awarded_value'].fillna(0)
-
-
-master_df['Population_affected_Total'] = master_df['Population_affected_Total'].fillna(0)
-master_df['Total_Animal_Affected'] = master_df['Total_Animal_Affected'].fillna(0)
-master_df['Total_Animal_Washed_Away'] = master_df['Total_Animal_Washed_Away'].fillna(0)
-master_df['Total_House_Fully_Damaged'] = master_df['Total_House_Fully_Damaged'].fillna(0)
-master_df['Roads'] = master_df['Roads'].fillna(0)
-master_df['Embankments affected'] = master_df['Embankments affected'].fillna(0)
-master_df['Bridge'] = master_df['Bridge'].fillna(0)
-master_df['Embankment breached'] = master_df['Embankment breached'].fillna(0)
-
 #mean of rc
-master_df['mean_ndvi'] = master_df['mean_ndvi'].fillna(master_df.groupby(['object_id'])['mean_ndvi'].transform('mean'))
-master_df['ndbi_mean'] = master_df['ndbi_mean'].fillna(master_df.groupby(['object_id'])['ndbi_mean'].transform('mean'))
 master_df['max_rain'] = master_df['max_rain'].fillna(master_df.groupby(['object_id'])['max_rain'].transform('mean'))
 master_df['mean_rain'] = master_df['mean_rain'].fillna(master_df.groupby(['object_id'])['mean_rain'].transform('mean'))
 master_df['sum_rain'] = master_df['sum_rain'].fillna(master_df.groupby(['object_id'])['sum_rain'].transform('mean'))
+
+# Impute missing ANTYODAYA vars
+master_df['rc_nosanitation_hhds_pct'] = master_df['rc_nosanitation_hhds_pct'].fillna(master_df.groupby(['district'])['rc_nosanitation_hhds_pct'].transform('mean'))
+master_df['rc_piped_hhds_pct'] = master_df['rc_piped_hhds_pct'].fillna(master_df.groupby(['district'])['rc_piped_hhds_pct'].transform('mean'))
+master_df['avg_tele'] = master_df['avg_tele'].fillna(master_df.groupby(['district'])['avg_tele'].transform('median')) #median
+master_df['avg_electricity'] = master_df['avg_electricity'].fillna(master_df.groupby(['district'])['avg_electricity'].transform('mean'))
+master_df['net_sown_area_in_hac'] = master_df['net_sown_area_in_hac'].fillna(master_df.groupby(['district'])['net_sown_area_in_hac'].transform('mean'))
+
+# Impute missing NDVI and NDBI
+master_df = master_df.sort_values(by=['object_id', 'timeperiod'])
+master_df['mean_ndvi'] = master_df['mean_ndvi'].ffill()
+master_df['ndbi_mean'] = master_df['ndbi_mean'].ffill()
+
+# Impute all other vars with 0
+master_df = master_df.fillna(0)
 
 master_df.to_csv('MASTER_VARIABLES.csv', index=False)
 #master_df[master_df.duplicated(subset= ['object_id', 'timeperiod'])].to_csv('MASTER_VARIABLES.csv', index=False)

@@ -70,7 +70,9 @@ for variable in annual_variables:
                                 how='left')
 
 # one-time variables
-onetime_variables = ['Schools', 'HealthCenters', 'RailLengths', 'RoadLengths', 'gcn250_average', 'elevation', 'antyodaya_variables']
+onetime_variables = ['Schools', 'HealthCenters', 'RailLengths', 'RoadLengths',
+                     'gcn250_average', 'elevation', 'antyodaya_variables',
+                     'distance_from_river_polygon']
 master_df['year'] = ''
 
 for variable in onetime_variables:
@@ -119,5 +121,4 @@ master_df['mean_rain'] = master_df['mean_rain'].fillna(master_df.groupby(['objec
 master_df['sum_rain'] = master_df['sum_rain'].fillna(master_df.groupby(['object_id'])['sum_rain'].transform('mean'))
 
 master_df.to_csv('MASTER_VARIABLES.csv', index=False)
-
 #master_df[master_df.duplicated(subset= ['object_id', 'timeperiod'])].to_csv('MASTER_VARIABLES.csv', index=False)

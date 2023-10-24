@@ -72,7 +72,7 @@ for variable in annual_variables:
 # one-time variables
 onetime_variables = ['Schools', 'HealthCenters', 'RailLengths', 'RoadLengths',
                      'gcn250_average', 'elevation', 'antyodaya_variables',
-                     'distance_from_river_polygon']
+                     'distance_from_river_polygon', 'drainage_density']
 master_df['year'] = ''
 
 for variable in onetime_variables:

@@ -14,7 +14,7 @@ for root, dirs, files in os.walk(main_directory):
             if any([x in csv for x in ['BHARATMAPS', 'GCN250', 'NASADEM', 'NERDRR', 'ANTYODAYA']]): # snapshot sources
                 timeperiod = ''
                 file_name = csv_files[0].split('/')[-1][:-4]
-            elif 'WORLDPOP' in csv:
+            elif any([x in csv for x in ['WORLDPOP', 'WRIS']]):
                 timeperiod = re.findall(r'\d{4}', csv)[0] #year
                 file_name = csv_files[0].split('/')[-1][:-9]
             elif 'SENTINEL' in csv:
@@ -23,7 +23,6 @@ for root, dirs, files in os.walk(main_directory):
                 timeperiod = timeperiod.replace('-', '_')
                 file_name = csv_files[0].split('/')[-1][:-15]
             else:
-                print(csv)
                 timeperiod = re.findall(r'\d{4}_\d{2}', csv)[0]
                 file_name = csv_files[0].split('/')[-1][:-12]
             df = pd.read_csv(csv)

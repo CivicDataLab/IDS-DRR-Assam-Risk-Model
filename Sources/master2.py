@@ -17,7 +17,8 @@ formatted_dates = [date.strftime('%Y_%m') for date in date_range]
 # Create a Pandas DataFrame with the values
 dfs = []
 for year_month in formatted_dates:
-    df = assam_rc[['object_id']]
+    df = assam_rc[['object_id', 'are_new']]
+    df.columns = ['object_id', 'rc_area']
     df['timeperiod'] = year_month
     dfs.append(df)
 master_df =  pd.concat(dfs).reset_index(drop = True)
@@ -58,7 +59,8 @@ master_df = master_df.drop(['Male_Camp', 'Female_Camp', 'Children_Camp',
 
 # Annual variables
 master_df['year'] = master_df['timeperiod'].str[:4].astype(int)
-annual_variables = ['mean_sexratio', 'sum_aged_population', 'sum_young_population', 'sum_population']
+annual_variables = ['mean_sexratio', 'sum_aged_population', 'sum_young_population', 'sum_population',
+                    'final_lu', 'seasonal', 'permanenent']
 
 for variable in annual_variables:
     variable_df = pd.read_csv(variables_data_path + variable + '.csv')
@@ -81,7 +83,8 @@ for variable in onetime_variables:
 
 
 master_df = master_df.drop(['year', 'count_gcn250_pixels',
-                            'count_bhuvan_pixels', 'count_inundated_pixels'], axis=1)
+                            'count_bhuvan_pixels', 'count_inundated_pixels',
+                            'Unnamed: 0'], axis=1)
 
 #master_df['year'] = master_df['timeperiod'].str[:4]
 #master_df['month'] = master_df['timeperiod'].str[-2:]

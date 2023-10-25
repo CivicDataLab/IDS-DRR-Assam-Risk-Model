@@ -33,7 +33,11 @@ else:
 if int(month)<10:
     month = '0'+str(month)
 folder = year+'_'+str(month)
-os.mkdir(os.getcwd()+'/Sources/TENDERS/scripts/scraper/scraped_recent_tenders/'+folder)
+try:
+    os.mkdir(os.getcwd()+'/Sources/TENDERS/scripts/scraper/scraped_recent_tenders/'+folder)
+except:
+    sys.exit(0)
+
 try:
     os.mkdir(os.getcwd()+'/Sources/TENDERS/scripts/scraper/scraped_recent_tenders/concatinated_csvs')
 except:

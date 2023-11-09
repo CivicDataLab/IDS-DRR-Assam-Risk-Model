@@ -1,0 +1,870 @@
+type,team,zone,location,landmark,lat,long
+MAJOR,"1-
+Kapra",LB NAGAR ZONE,HB colony main Road,HB colony main Road,17.452372,78.565584
+MAJOR,"1-
+Kapra",LB NAGAR ZONE,Aphb colony,Aphb colony,17.452375,78.565634
+MAJOR,"2-
+Uppal X Road",LB NAGAR ZONE,"Pragathinagar Ramanth
+ pur","Pragathinagar Ramanth
+ pur",17.39872,78.54509
+MAJOR,"2-
+Uppal X Road",LB NAGAR ZONE,Habsiguda,Habsiguda,17.41783,78.54287
+MAJOR,4-LB Nagar,LB NAGAR ZONE,Sagar Ring Road,Sagar Ring Road,17.335962,78.551447
+MAJOR,4-LB Nagar,LB NAGAR ZONE,LB Nagar,LB Nagar,17.348541,78.552821
+MAJOR,4-LB Nagar,LB NAGAR ZONE,"Near D-Mart , Champapet","D-Mart , Champapet",17.348801,78.514799
+MAJOR,"5-
+Saroornagar",LB NAGAR ZONE,Sarrornagar P&T Colony,Sarrornagar P&T Colony,17.35702,78.529397
+MAJOR,"5-
+Saroornagar",LB NAGAR ZONE,"Dilsuknagar Kodanda 
+Colony","Dilsuknagar Kodanda 
+Colony",17.35303,78.52874
+MAJOR,"5-
+Saroornagar",LB NAGAR ZONE,"Dilsuknagar P&T 
+Colony","Dilsuknagar P&T 
+Colony",17.357606,78.52763
+MAJOR,"5-
+Saroornagar",LB NAGAR ZONE,Sarrornagar,Sarrornagar,17.363382,78.543336
+MAJOR,"06 -
+MALAKPET",CHARMINAR ZONE,"94 Bus Stop Lane,Universal Book Stall",Universal Book Stall,17.383033,78.479634
+MAJOR,"06 -
+MALAKPET",CHARMINAR ZONE,"R.U.B.Malakpet,Near Cause way Chaderghat",Near Cause way Chaderghat,17.377018,78.495093
+MAJOR,"06 -
+MALAKPET",CHARMINAR ZONE,"Near Akshaya Hotel,  Malakpet Gunj",Opp.  Malakpet Gunj,17.373399,78.502502
+MAJOR,"06 -
+MALAKPET",CHARMINAR ZONE,Musarambagh Bridge,"Near RTA, Amberpet",17.37933,78.51633
+MAJOR,"06 -
+MALAKPET",CHARMINAR ZONE,Moosarambagh Bridge,Near Ali Café X Roads,17.381055,78.515011
+MAJOR,"07 -
+SANTOSHNAGAR",CHARMINAR ZONE,Santhosh Nagar,"Light phase-2, New Santhoshnagar",17.348175,78.508444
+MAJOR,"07 -
+SANTOSHNAGAR",CHARMINAR ZONE,Madanapet,Syedabad Road,17.355744,78.50564
+MAJOR,"07 -
+SANTOSHNAGAR",CHARMINAR ZONE,Champapet,Nagarjuna Colony,17.348807,78.514469
+MAJOR,"07 -
+SANTOSHNAGAR",CHARMINAR ZONE,Crystal Bar and Restaurant ,Sadhana Degree College,17.348408,78.508488
+MAJOR,"07 -
+SANTOSHNAGAR",CHARMINAR ZONE,Between SBI and DRDO Main gate ,DRDO water works,17.339892,78.500948
+MAJOR,"8
+CHANDRAYAN
+GUTTA",CHARMINAR ZONE,Chandrayangutta Fly over,Kanchan Bagh,17.339006,78.499462
+MAJOR,"8
+CHANDRAYAN
+GUTTA",CHARMINAR ZONE,Chandrayangutta,"Tulasi Nagar, Jahangirabad",17.314928,78.464815
+MAJOR,"9
+CHARMINAR",CHARMINAR ZONE,Petal Burji,"NH 44, Gulbagh",17.367876,78.466618
+MAJOR,"9
+CHARMINAR",CHARMINAR ZONE,Gul Bagh Road,"NH 44, Gulbagh",17.368339,78.468479
+MAJOR,"9
+CHARMINAR",CHARMINAR ZONE,"City College, Govt Meternity hospital",Govt. Maternity Hospital,17.368043,78.468211
+MAJOR,"9
+CHARMINAR",CHARMINAR ZONE,"Yakutputra Rly Station, Railway under Bridge",Railway Under Bridge,17.360719,78.492115
+MAJOR,"9
+CHARMINAR",CHARMINAR ZONE,"Puranapool Grave yard, ",Puranapool Grave yard,17.363915,78.456261
+MAJOR,"9
+CHARMINAR",CHARMINAR ZONE,Infront of Fiza Hotel Bahadurpura ,Bahadurpura X roads on both sides,17.355436,78.454428
+MAJOR,"10 -
+FALAKNUMA",CHARMINAR ZONE,"OP Chatrinaka, Chatrinaka PS",Out Post Chatrinaka,17.343550,78.478049
+MAJOR,"10 -
+FALAKNUMA",CHARMINAR ZONE,Under Rly bridge Near OKR,Under Rly bridge Near OKR,17.302611,78.421597
+MAJOR,"10 -
+FALAKNUMA",CHARMINAR ZONE,Udamgadda,Udamgadda,17.31669,78.4527
+MAJOR,"10 -
+FALAKNUMA",CHARMINAR ZONE,Durga Nagar bus stop,Durga Nagar bus stop,17.314574,78.444589
+MAJOR,"10 -
+FALAKNUMA",CHARMINAR ZONE,"VN Reddy Kamman, Chatrinaka PS",VN Reddy Kamman,17.342538,78.478362
+MAJOR,"11 -
+RAJENDRANAGAR",CHARMINAR ZONE,"Diary Farm InnerRing Road
+Upparpally","Diary Farm InnerRing Road
+Upparpally",17.345505,78.416029
+MAJOR,"11 -
+RAJENDRANAGAR",CHARMINAR ZONE,PVNR Pillar No. 192,PVNR Pillar No. 192,17.352429,78.418428
+MAJOR,"11 -
+RAJENDRANAGAR",CHARMINAR ZONE,PVNR Pillar No. 265,PVNR Pillar No. 265,17.335618,78.42678
+MAJOR,"11 -
+RAJENDRANAGAR",CHARMINAR ZONE,"Infront of Ramdevbaba near Rajendranagar
+Tr PS","Infront of Ramdevbaba near Rajendranagar
+Tr PS",17.324372,78.43366
+MAJOR,"11 -
+RAJENDRANAGAR",CHARMINAR ZONE,"Kenworth apartments, Bhavani colony","Kenworth apartments, Bhavani colony",17.327198,78.422813
+MAJOR,"11 -
+RAJENDRANAGAR",CHARMINAR ZONE,Under Rly bridge Near Aramghar   Junction,Under Rly bridge Near Aramghar   Junction,17.321185,78.433121
+MAJOR,"15-
+Musheerabad",SECUNDERABAD ZONE,Secretariat,"NH44, Khairathabad",17.408014,78.472216
+MAJOR,"16 -
+ANBERPET",SECUNDERABAD ZONE,Amberpet,Police line Road,17.389338,78.516507
+MAJOR,"16 -
+ANBERPET",SECUNDERABAD ZONE,Amberpet Road-6,"Tirmala Arcade, 
+Nimboliadda, Kachiguda,",17.382767,78.49512
+MAJOR,"16 -
+ANBERPET",SECUNDERABAD ZONE,Amberpet,"Phase 3, Qutub Shahi Tombs, ",17.391463,78.391463
+MAJOR,"16 -
+ANBERPET",SECUNDERABAD ZONE,6 No. Junction,6 No. Junction,17.390817,78.510859
+MAJOR,"16 -
+ANBERPET",SECUNDERABAD ZONE,Beside Amberpet L&O P.S,Amberpet PS L&O,17.390771,78.51788
+MAJOR,"16 -
+ANBERPET",SECUNDERABAD ZONE,Aqua café Golnaka,Aqua café Golnaka,17.388044,78.503046
+MAJOR,"16 -
+ANBERPET",SECUNDERABAD ZONE,Near TY Mandali Barkathpura,TY Mandali,17.394111,78.498394
+MAJOR,"16 -
+ANBERPET",SECUNDERABAD ZONE,"Street no.6, Himyathnagar",Street no.6,17.402067,78.484013
+MAJOR,"16 -
+ANBERPET",SECUNDERABAD ZONE,Basheerbagh to King koti Road,Gate no-4 Nizam collage,17.400177,78.476828
+MAJOR,"29 -
+METTUGUDA",SECUNDERABAD ZONE,"Opp. KFC, Karkhana main Road",Main Road Karkhana,17.45636,78.4987
+MAJOR,"29 -
+METTUGUDA",SECUNDERABAD ZONE,Railway under bridges Alugaddabavi,Railway under bridges Alugaddabavi,17.435522,78.512011
+MAJOR,"30 -
+CM CAMP OFFICE",SECUNDERABAD ZONE,Oliphant bridge,Near Rethifile bus station,17.433775,78.505875
+MAJOR,"30 -
+CM CAMP OFFICE",SECUNDERABAD ZONE,"Near Croma Opp. Gril-9 Hotel, Kharkana main Road",Opp to L&O PS Karkhana,17.45899,78.50027
+MAJOR,"30 -
+CM CAMP OFFICE",SECUNDERABAD ZONE,Mayur Marg Begumpet,Mayur Marg Begumpet,17.44288,78.45941
+MAJOR,"30 -
+CM CAMP OFFICE",SECUNDERABAD ZONE,Starting of PNT flyover,opp Nandini Hotel,17.444897,78.467139
+MAJOR,"30 -
+CM CAMP OFFICE",SECUNDERABAD ZONE,"Near Bombay Hotel, Ranigunj",towards Karabal Junction,17.43268,78.488559
+MAJOR,"30 -
+CM CAMP OFFICE",SECUNDERABAD ZONE,Karbala Maidan,Near Pavan Motor,17.428931,78.488266
+MAJOR,"12
+GUDI
+MALKAPUR",KHAIRATHABAD ZONE,"Balaji Nagar, Gudimalkapur, ",Gudimalkapur,17.384732,78.429742
+MAJOR,"12
+GUDI
+MALKAPUR",KHAIRATHABAD ZONE,"Netaji Nagar Colony, Langar Houz,",Langer HouZ,17.377197,78.429211
+MAJOR,"12
+GUDI
+MALKAPUR",KHAIRATHABAD ZONE,"Nimboliadda, Kachiguda, ",Mehdhipatnam Ring Road,17.384968,78.49703
+MAJOR,"13 -
+KARWAN",KHAIRATHABAD ZONE,Tolichowki under the flyover,Opp. Ruman Hotel,17.39863,78.41658
+MAJOR,"14 -
+ASSEMBLY",KHAIRATHABAD ZONE,Rangamahal Y-Junction.,Bagga wines,17.380891,78.485038
+MAJOR,"17 -
+RAJBHAVAN",KHAIRATHABAD ZONE,Model House,Model House,17.422399,78.454854
+MAJOR,"17 -
+RAJBHAVAN",KHAIRATHABAD ZONE,Old K.C.P.,Old K.C.P.,17.41761,78.45695
+MAJOR,"17 -
+RAJBHAVAN",KHAIRATHABAD ZONE,Lake View Guest House,Near Raj bhavan,17.41688,78.46143
+MAJOR,"17 -
+RAJBHAVAN",KHAIRATHABAD ZONE,Image Hospital Lane,Ameerpet,17.43202,78.44721
+MAJOR,"17 -
+RAJBHAVAN",KHAIRATHABAD ZONE,Joyalukkas ‘U’ Turn,Near Panjagutta Jun.,17.427912,78.450017
+MAJOR,"17 -
+RAJBHAVAN",KHAIRATHABAD ZONE,Rajiv Gandhi Statue under metro,Under Khairtabad Metro Station,17.410679,78.460940
+MAJOR,"17 -
+RAJBHAVAN",KHAIRATHABAD ZONE,Opp. L&O Saifabad PS/ Ayodhya jn,Syed tours and travels,17.403278,78.462928
+MAJOR,"18 -
+KBR PARK",KHAIRATHABAD ZONE,"Steel bridge , Road No. 52, Jubilee Hills","Road No. 52, J/Hills",17.426385,78.39978
+MAJOR,"18 -
+KBR PARK",KHAIRATHABAD ZONE,"Pakshi circle, Road No. 70, J/Hills","Road No. 70, J/Hills",17.425127,78.40028
+MAJOR,"18 -
+KBR PARK",KHAIRATHABAD ZONE,Cancer Hospital Bus stop,Cancer Hospital,17.418266,78.429177
+MAJOR,"18 -
+KBR PARK",KHAIRATHABAD ZONE,"Mylan, Road No.92, Jubilee Hills",Katta maisamma temple,17.4166,78.4179
+MAJOR,"19 -
+YOUSUFGUDA",SERILINGAMPALLY ZONE,"opposite Ramalayam, 
+Vengal Rao Nagar, Sunder Nagar,",Vengal Rao Nagar,17.44359,78.43677
+MAJOR,"19 -
+YOUSUFGUDA",SERILINGAMPALLY ZONE,"Mint Rd, MP and MLAs Colony, 
+Venkatagiri, Jubilee Hills, ",Showrya Bhavan Junction,17.43867,78.41247
+MAJOR,"19 -
+YOUSUFGUDA",SERILINGAMPALLY ZONE,"Gayatri Hills, Jubilee Hills",Road No.10c,17.43639,78.41689
+MAJOR,"19 -
+YOUSUFGUDA",SERILINGAMPALLY ZONE,"Road No. 1, Nandagiri Hills, Jubilee Hills", Opp Blalkrishna Residence,17.42246,78.41098
+MAJOR,"19 -
+YOUSUFGUDA",SERILINGAMPALLY ZONE,,Sri Chaithanya near BVBP junction,,
+MAJOR,"19 -
+YOUSUFGUDA",SERILINGAMPALLY ZONE," Road Number 10, Gayatri Hills, 
+Jubilee Hills, ",Road 10 opp; apple bee School,17.43466,78.41526
+MAJOR,"19 -
+YOUSUFGUDA",SERILINGAMPALLY ZONE,"Park View Enclave, Jubilee Hills, ",poorna Junction,17.42386,78.4273
+MAJOR,"19 -
+YOUSUFGUDA",SERILINGAMPALLY ZONE,"Green Bawarchi Ln,
+ Pragathi Nagar, Yousufguda",Infront of VINFLORA Hotel,17.43035,78.4284
+MAJOR,"19 -
+YOUSUFGUDA",SERILINGAMPALLY ZONE,"Sri Krishna Nagar, 
+Park View Enclave, Jubilee Hills,",KBR park near Cream Stone,17.42626,78.42583
+MAJOR,"19 -
+YOUSUFGUDA",SERILINGAMPALLY ZONE,Balkampet railway bridge towards Begumpet,Balkampet New Bridge,17.4488,78.451641
+MAJOR,"19 -
+YOUSUFGUDA",SERILINGAMPALLY ZONE,"CVR News, BVB Junction",BVB Junction,17.419605,78.412287
+MAJOR,"19 -
+YOUSUFGUDA",SERILINGAMPALLY ZONE,"Holy cross road, Balkampet",Near    Balkampet                                      Temple,17.4488,78.449711
+MAJOR,"19 -
+YOUSUFGUDA",SERILINGAMPALLY ZONE,Madhapur Petrol Pump,Trishul Grand Hotel,,
+MAJOR,"20
+SERILINGAMPALLY",SERILINGAMPALLY ZONE,Nector Garden Junction,Nector Garden Jn,17.437672,78.388629
+MAJOR,"20
+SERILINGAMPALLY",SERILINGAMPALLY ZONE,Towards Hitex Junction,Shilpa Ramam,17.45546,78.37711
+MAJOR,"20
+SERILINGAMPALLY",SERILINGAMPALLY ZONE,Under Raidurgam Metro Station,Raidurgam Metro  Station,17.44326,78.37661
+MAJOR,"20
+SERILINGAMPALLY",SERILINGAMPALLY ZONE,"Smiline Dental Hospital, N Convention",Smiline Dental Hospital,17.458314,78.369067
+MAJOR,"20
+SERILINGAMPALLY",SERILINGAMPALLY ZONE,Parvathnagar Junction,Parvathnagar Jn,17.45141,78.39656
+MAJOR,"20
+SERILINGAMPALLY",SERILINGAMPALLY ZONE,Before Election Commission Building,Ratnadeep Super market,17.430022,78.373975
+MAJOR,"20
+SERILINGAMPALLY",SERILINGAMPALLY ZONE,"Free left at Bio diversity junction
+towards Khajaguda",Infront of Traffic booth,17.42974,78.37528
+MAJOR,"20
+SERILINGAMPALLY",SERILINGAMPALLY ZONE,Towards Bio diversity junction,Infront of Pista House,17.43167,78.37203
+MAJOR,"20
+SERILINGAMPALLY",SERILINGAMPALLY ZONE,Khajaguda,"OPP. Malkam cheruvu Main gate towards
+Darga",17.41977,78.38651
+MAJOR,"20
+SERILINGAMPALLY",SERILINGAMPALLY ZONE,At leather factory,Beside Leather factory,,
+MAJOR,"20
+SERILINGAMPALLY",SERILINGAMPALLY ZONE,Beside care Hospital,Beside care Hospital,17.43050,78.37221
+MAJOR,"20
+SERILINGAMPALLY",SERILINGAMPALLY ZONE,Khajaguda,Khajaguda Junction,17.42251,78.38301
+MAJOR,"20
+SERILINGAMPALLY",SERILINGAMPALLY ZONE,Gachibowli Rotary Junction,Gachibowli Jn Under Flyover,17.438311,78.36412
+MAJOR,"20
+SERILINGAMPALLY",SERILINGAMPALLY ZONE,Q Mart,Opposite Radisson Hotel beside Q Mart,17.447185,78.363456
+MAJOR,"20
+SERILINGAMPALLY",SERILINGAMPALLY ZONE,Before IIIT Junction,IIIT Jn near substation,17.444195,78.351662
+MAJOR,"20
+SERILINGAMPALLY",SERILINGAMPALLY ZONE,Heritage near Narayana School,Heritage Masjid Banda,17.464211,78.347733
+MAJOR,"20
+SERILINGAMPALLY",SERILINGAMPALLY ZONE,Heritage Signal as,Raghavendra colony to HeritageJunction,17.464211,78.347733
+MAJOR,"20
+SERILINGAMPALLY",SERILINGAMPALLY ZONE,At Substation near IIIT Junction,Wipro to IIT Junction,17.444195,78.351662
+MAJOR,"20
+SERILINGAMPALLY",SERILINGAMPALLY ZONE,Lingampally Vegitable market,Lingampally Vegitable market,17.49148,78.315047
+MAJOR,"20
+SERILINGAMPALLY",SERILINGAMPALLY ZONE,My Home Mangala,My Home Mangala,17.483,78.3497
+MAJOR,"21
+CHANDANAGAR",SERILINGAMPALLY ZONE,Opp. Bata showroom,Old city wines,17.44047,78.39415
+MAJOR,"21
+CHANDANAGAR",SERILINGAMPALLY ZONE,Ramalayam Temple,Near Grave Yard,17.4408,78.39218
+MAJOR,"21
+CHANDANAGAR",SERILINGAMPALLY ZONE,Lingampally under Bridge,"Lingampally RUB, Near Railway station",17.484246,78.320515
+MAJOR,"21
+CHANDANAGAR",SERILINGAMPALLY ZONE,"Gulmohar park curve at Manikanta
+Wines, Opp. Gulmohar park kaman","Gulmohar park curve at Manikanta Wines,
+Opp. Gulmohar park kaman",17.478017,78.321841
+MAJOR,"21
+CHANDANAGAR",SERILINGAMPALLY ZONE,"Near Lucky Restuarent U-turn, Miyapur
+Rd",Near Lucky Restuarent,17.499724,78.361824
+MAJOR,"22
+RC PURAM",SERILINGAMPALLY ZONE,BHEL JUNCTION,Near RC Puram (L&O)PS,17.495423,78.316414
+MAJOR,"23 -
+MOOSAPET",KUKATPALLY ZONE,"Kukatpally Housing board , Hitech city","Siddi Vinayak Nagar, Kothaguda.",17.460025,78.38478
+MAJOR,"23 -
+MOOSAPET",KUKATPALLY ZONE,Prashanthnagar bus stop,Prashanthnagar bus stop,17.474652,78.425688
+MAJOR,"23 -
+MOOSAPET",KUKATPALLY ZONE,Moosapet Metro Station,Moosapet Metro Station,17.47196,78.4261
+MAJOR,"23 -
+MOOSAPET",KUKATPALLY ZONE,Opposite. Palak Hotel Both sides of Road,Opposite. Palak Hotel Both sides of Road,17.45799,78.43305
+MAJOR,"24 -
+NEXUS MALL",KUKATPALLY ZONE,Santosh Dhaba  Nearby Safe Express jn,Safexpress Traffic Signal,17.474445,78.474034
+MAJOR,"24 -
+NEXUS MALL",KUKATPALLY ZONE,Beside JNTU,Beside JNTU,17.49708,78.393609
+MAJOR,"24 -
+NEXUS MALL",KUKATPALLY ZONE,"Opposite water works office, Hydernagar","Opposite water works office, Hydernagar",17.498699,78.380677
+MAJOR,"24 -
+NEXUS MALL",KUKATPALLY ZONE,Nizampet road,Nizampet road,17.471081,78.386924
+MAJOR,"24 -
+NEXUS MALL",KUKATPALLY ZONE,Opposite Raithu bazar,Opposite Raithu bazar,17.492279,78.393216
+MAJOR,"24 -
+NEXUS MALL",KUKATPALLY ZONE,"Adarshnagar Khamaan, Infornt of NTR
+Statue, Opp: IDPL Colony.","Adarshnagar Khamaan, Infornt of NTR
+Statue, Opp: IDPL Colony.",17.48453,78.44959
+MAJOR,"24 -
+NEXUS MALL",KUKATPALLY ZONE,"In Between TECUMSEH Company 
+Main Gate to Dmart-IDPL - Alowng with road.",In Between TECUMSEH Company Main Gate to Dmart-IDPL - Alowng with road.,17.48124,78.44893
+MAJOR,"24 -
+NEXUS MALL",KUKATPALLY ZONE,Narsapur X Road,Narsapur X Road,17.4673,78.44563
+MAJOR,"25 - 
+QUTHUBULLAPUR",KUKATPALLY ZONE,"Infront of Bharath petrol Pump on Service
+road (GHMC-Quthubullapur)","Infront of Bharath petrol Pump on Service
+road (GHMC-Quthubullapur)",17.506961,78.479451
+MAJOR,"25 - 
+QUTHUBULLAPUR",KUKATPALLY ZONE,"Beside Satyam Shivam Sundaram
+Apartments, Suchitra to Alwal Road","Beside Satyam Shivam Sundaram
+Apartments, Suchitra to Alwal Road",17.50178,78.48057
+MAJOR,"25 - 
+QUTHUBULLAPUR",KUKATPALLY ZONE,Jeedimetla Bus depot,Jeedimetla Bus depot,17.526145,78.440668
+MAJOR,"27 -
+ALWAL",KUKATPALLY ZONE,"In front of Mangapuram colony kaman Alwal
+Road (GHMC-Alwal)","In front of Mangapuram colony kaman Alwal
+Road (GHMC-Alwal)",17.506462,78.492567
+MAJOR,"27 -
+ALWAL",KUKATPALLY ZONE,"Infront of Srini Avenue, 
+Panchaseela Enclave on Hi-Tension Road (GHMC-Quthubullapur)","Infront of Srini Avenue, Panchaseela Enclave on Hi-Tension Road (GHMC-Quthubullapur)",17.515362,78.483191
+MAJOR,"27 -
+ALWAL",KUKATPALLY ZONE,SNR Garden (NHAI),SNR Garden (NHAI),17.550112,78.493607
+MAJOR,"27 -
+ALWAL",KUKATPALLY ZONE,"Near St.Martins College, Dulapally Road","Near St.Martins College, Dulapally Road",17.54421,78.47621
+MEDIUM,"1-
+Kapra",LB NAGAR ZONE,Moula Ali Rd no 03,Moula Ali Rd no 03,17.465891,78.563533
+MEDIUM,"1-
+Kapra",LB NAGAR ZONE,Moula Ali Rd no 02,Moula Ali Rd no 02,17.46601,78.563518
+MEDIUM,"1-
+Kapra",LB NAGAR ZONE,"Ecil X Road 
+Laxmi Garden","Ecil X Road 
+Laxmi Garden",17.473326,78.57112
+MEDIUM,"1-
+Kapra",LB NAGAR ZONE,"Extention 
+Kushaiguda","Extention 
+Kushaiguda",17.473394,78.570886
+MEDIUM,"2-
+Uppal X Road",LB NAGAR ZONE,Ramanthapur Road,Ramanthapur Road,17.38693,78.54863
+MEDIUM,"2-
+Uppal X Road",LB NAGAR ZONE,"Indian Oil Petrol Pump, Habsiguda",Habsiguda,17.417632,78.542902
+MEDIUM,"2-
+Uppal X Road",LB NAGAR ZONE,Opp King Palace towards  Ramanthpur,Indian Oil Petrol Pump,17.394505,78.525108
+MEDIUM,"3-
+Hayathnaga",LB NAGAR ZONE,Bagyalath Colony,Bagyalath Colony,17.325308,78.60759
+MEDIUM,"3-
+Hayathnaga",LB NAGAR ZONE,Sai colony Khalsa,Sai colony Khalsa,17.325303,78.606630
+MEDIUM,"3-
+Hayathnaga",LB NAGAR ZONE,"Auto Nagar, Dear Park","Auto Nagar, Dear Park",17.335231,78.58272
+MEDIUM,"5-
+Saroornagar",LB NAGAR ZONE,"Chithanya puri colony
+ Main Road","Chithanya puri colony
+ Main Road",17.368319,78.531223
+MEDIUM,"5-
+Saroornagar",LB NAGAR ZONE,"Opp: Shivaganga Theatre, Gaddinnarram","Opp: Shivaganga Theatre, Gaddinnarram",17.36111,78.52281
+MEDIUM,"09 -
+CHARMINAR",CHARMINAR ZONE,Nayapul High Court,Nayapul High Court,17.369589,78.47659
+MEDIUM,"09 -
+CHARMINAR",CHARMINAR ZONE,Ghansi Bazar,Ghansi Bazar,17.368168,78.472695
+MEDIUM,"09 -
+CHARMINAR",CHARMINAR ZONE,Kamatipura,Kamatipura,17.355436,78.45437
+MEDIUM,"09 -
+CHARMINAR",CHARMINAR ZONE,"Opp bajaj Show Room, Shalibanda",Nagulchintha,17.351785,78.472601
+MEDIUM,"09 -
+CHARMINAR",CHARMINAR ZONE,CTC petlaburju,Petlaburju,17.367795,78.465273
+MEDIUM,"09 -
+CHARMINAR",CHARMINAR ZONE,In front of Bahadurpura L&O PS,Bahadurpura L&O PS,17.358646,78.455218
+MEDIUM,"09 -
+CHARMINAR",CHARMINAR ZONE,"Gandhi Statue, Puranapool ","Gandhi Statue, Puranapool",17.369365,78.458921
+MEDIUM,"11
+RAJENDRA
+NAGAR",CHARMINAR ZONE,"Diary Farm InnerRing Road
+Upparpally","Diary Farm InnerRing Road
+Upparpally",17.345505,78.416029
+MEDIUM,"11
+RAJENDRA
+NAGAR",CHARMINAR ZONE,Rambagh Colony,Rambagh Colony,17.35245,78.41845
+MEDIUM,"11
+RAJENDRA
+NAGAR",CHARMINAR ZONE,Budwel,Budwel,17.345505,78.416029
+MEDIUM,"29 -
+METTUGUDA",SECUNDERABAD ZONE,Metro Pillar 1063 Tarnaka,"Lallaguda Railway Colony, 
+Vijayapuri Colony, Mettuguda, ",17.42992,78.52605
+MEDIUM,"29 -
+METTUGUDA",SECUNDERABAD ZONE,Chilakalaguda,,17.43364,78.50604
+MEDIUM,"29 -
+METTUGUDA",SECUNDERABAD ZONE,"Padmaraonagar, Chilakalaguda","Padmarao Nagar Main Rd, 
+Railway Colony",17.42927,78.50552
+MEDIUM,"29 -
+METTUGUDA",SECUNDERABAD ZONE,"Rani Gunji, Bansilalpet","Parsigutta, Bhoiguda,
+ Secunderabad",17.43112,78.49309
+MEDIUM,"29 -
+METTUGUDA",SECUNDERABAD ZONE,"Bhoiguda,Secunderabad","St Johns Rd, Railway Colony, ",17.433535,78.506299
+MEDIUM,"29 -
+METTUGUDA",SECUNDERABAD ZONE,Railway Degree College," Near ICMR - National Institute of Nutrition,
+ Lalaguda, ",17.42846,78.52665
+MEDIUM,"29 -
+METTUGUDA",SECUNDERABAD ZONE,Near Padma Rao Nagar T Junction,"Gandhi Hospital back side, Padma Rao Nagar",17.422329,78.504480
+MEDIUM,"30 -
+CM CAMP OFFICE",SECUNDERABAD ZONE,Under Railway Bridge Bible X Roads,"Bible House X Road, R.P Road",17.431393,78.492736
+MEDIUM,"30 -
+CM CAMP OFFICE",SECUNDERABAD ZONE,Chitra Dargah R.P. Road.,"In between Patny X Road and Ghasmandi, RP Road",17.436976,78.493891
+MEDIUM,"30 -
+CM CAMP OFFICE",SECUNDERABAD ZONE,Bapuji Nagar beside HP Petrol pump,Bapujinagar Traffic  signal/lake,17.468801,78.479074
+MEDIUM,"30 -
+CM CAMP OFFICE",SECUNDERABAD ZONE,CTO Junction,Free left going towards Rasoolpura,17.443097,78.487284
+MEDIUM,"30 -
+CM CAMP OFFICE",SECUNDERABAD ZONE,Infront Tr PS Begumpet,Tr PS Begumpet and  TTI Begumpet,17.443697,78.478312
+MEDIUM,"12
+MEHADI
+PATNAM",KHAIRATHABAD ZONE,"Masab Tank,","Infront of Brilliant Gramm
+ar School Near NMDC",17.39946,78.44748
+MEDIUM,"12
+MEHADI
+PATNAM",KHAIRATHABAD ZONE,"Masab Tank,","Near Pillar No 2&3 
+Humayun Nagar",17.39946,78.44626
+MEDIUM,"12
+MEHADI
+PATNAM",KHAIRATHABAD ZONE,"Santosh Nagar, 
+Humayun Nagar",Mehdhipatnam Near Chilla,17.39554,17.39554
+MEDIUM,"12
+MEHADI
+PATNAM",KHAIRATHABAD ZONE,"Masab Tank,","Near Pillar no 23 Besides defence 
+boundary wall",17.40223,17.40223
+MEDIUM,"12
+MEHADI
+PATNAM",KHAIRATHABAD ZONE,"Rein Bazar Rd, Uppari Basthi, 
+Madannapet Colony,",Meraj cafe to Chilla Road,17.36069,78.493
+MEDIUM,"12
+MEHADI
+PATNAM",KHAIRATHABAD ZONE,"Sri Nagar Colony, Krishna Nagar,
+Yousufguda, ","Labour adda 
+Vijayanagar Colony",17.43175,78.42741
+MEDIUM,"12
+MEHADI
+PATNAM",KHAIRATHABAD ZONE,"Zeba Bagh, 
+Syed Ali Guda","Asifnagar X Road 
+near Petrol Bunk",17.38571,78.447
+MEDIUM,"12
+MEHADI
+PATNAM",KHAIRATHABAD ZONE,"Mangwada basti,
+ Mallepally, ",Mallepally Junction,17.38979,78.45883
+MEDIUM,"12
+MEHADI
+PATNAM",KHAIRATHABAD ZONE,"near Laxmi Towers, Police Quarters,
+ Goshamahal,",Yadav Bhavan Hotel X Road,17.375,78.46853
+MEDIUM,"13 -
+KARWAN",KHAIRATHABAD ZONE,"Aditya Nagar Colony, 
+Aravind Nagar Colony, Toli Chowki",Aravind Nagar Colony,17.400422,78.409182
+MEDIUM,"13 -
+KARWAN",KHAIRATHABAD ZONE,"OU Colony, Shaikpet, 
+Pokalwada,","Ou Colony, Shaikpet",17.404663,78.390625
+MEDIUM,"13 -
+KARWAN",KHAIRATHABAD ZONE,"Adithya nagar Colony, 
+Tolichowki","Adithya nagar Colony, 
+Tolichowki",,
+MEDIUM,"13 -
+KARWAN",KHAIRATHABAD ZONE,"Ambethkar nagar 
+Hakimpet",Ambethkar nagar Hakimpet,17.410437,78.402804
+MEDIUM,"13 -
+KARWAN",KHAIRATHABAD ZONE,"Bapu ghat, Langar Houz, ",Bapuji Ghat y Junction,17.37484,78.41359
+MEDIUM,"13 -
+KARWAN",KHAIRATHABAD ZONE,"Beside Toyota Show Room, Nizam Colony",Toyota Show Room,17.3981,78.41907
+MEDIUM,"13 -
+KARWAN",KHAIRATHABAD ZONE,"Aqsha Masjid, 7Tombs Road",Near 7 Tombs Jn,17.39922,78.40035
+MEDIUM,"13 -
+KARWAN",KHAIRATHABAD ZONE,"After Tarmathi Baradari, near Nala towards Tippukhan",Beside Nala,17.37681,78.37737
+MEDIUM,"13 -
+KARWAN",KHAIRATHABAD ZONE,"Beside Dargah, Pillar No. 102, Moghal Ka Nala","Pillar No. 102, Moghal Ka Nala",17.37709,78.42924
+MEDIUM,"13 -
+KARWAN",KHAIRATHABAD ZONE,Nanal Nagar Jn,Free Left From Balika Bhavan towards Nanal Nagar,17.39585,78.42756
+MEDIUM,"13 -
+KARWAN",KHAIRATHABAD ZONE,"Langer House 
+Starting flyover from Sangam
+ towards Langer House x road",Opp. Sai Dental Hospital,17.37466,78.41862
+MEDIUM,"13 -
+KARWAN",KHAIRATHABAD ZONE,"Beside Hanuman Temple, Langer House PS Road",Hanuman Temple,17.37708,78.42794
+MEDIUM,"14 -
+ASSEMBLY",KHAIRATHABAD ZONE,Dwaraka Hotel,Beside fish land hotel,17.404882,78.464095
+MEDIUM,"14 -
+ASSEMBLY",KHAIRATHABAD ZONE,Ravindra Bharathi Free Left,Ravindra Bharathi,17.40291,78.467868
+MEDIUM,"14 -
+ASSEMBLY",KHAIRATHABAD ZONE,"Intelligence Office, Lakdikapool",Opp HDFC U turn,17.40403,78.464597
+MEDIUM,"14 -
+ASSEMBLY",KHAIRATHABAD ZONE,Necklace Rotary,Lucky hotel,17.404001,78.464581
+MEDIUM,"14 -
+ASSEMBLY",KHAIRATHABAD ZONE,Opp : Lubmni Park,PV Narsimha Rao Marg,17.416762,78.465071
+MEDIUM,"14 -
+ASSEMBLY",KHAIRATHABAD ZONE,Gun Park /PCR,Near Gun Park,17.400846,78.469886
+MEDIUM,"14 -
+ASSEMBLY",KHAIRATHABAD ZONE,Compounding Booth,Old PCR,17.400412,78.470671
+MEDIUM,"14 -
+ASSEMBLY",KHAIRATHABAD ZONE,MRC Main Gate,MRC Main gate,17.409409,78.439082
+MEDIUM,"14 -
+ASSEMBLY",KHAIRATHABAD ZONE,Osman Gunj,Near Old PS Begum Bazar,17.377992,78.469271
+MEDIUM,"17 -
+RAJBHAVAN",KHAIRATHABAD ZONE,CM camp office (starting flyover),BB-IV Gate,17.438473,78.457035
+MEDIUM,"17 -
+RAJBHAVAN",KHAIRATHABAD ZONE,NFCL starting flyover,Opp. ICICI Bank,17.426099,78.450071
+MEDIUM,"17 -
+RAJBHAVAN",KHAIRATHABAD ZONE,Villa Marie College,Near entrance of villa Marie by lane,17.42305,78.46097
+MEDIUM,"17 -
+RAJBHAVAN",KHAIRATHABAD ZONE,Opp. Life style (Starting flyover Begumpet),Opp. Life style,17.4377,78.475
+MEDIUM,"17 -
+RAJBHAVAN",KHAIRATHABAD ZONE,"Lakdikapul Rd, Saifabad","Venkateshwaaara hotel to HDFC
+Bank",17.40517,78.46453
+MEDIUM,"17 -
+RAJBHAVAN",KHAIRATHABAD ZONE,"Old PS Saifabad 
+Khairtabad",Old PS Saifabad Khairtabad,17.41159,78.46468
+MEDIUM,"17 -
+RAJBHAVAN",KHAIRATHABAD ZONE,"Shadan College , 
+Khaitabad","Shadan College , Khaitabad",17.40942,78.46041
+MEDIUM,"17 -
+RAJBHAVAN",KHAIRATHABAD ZONE,"Telugu Thalli 
+(Medicity Hospital)",Telugu Thalli (Medicity Hospital),17.40751,78.46567
+MEDIUM,"17 -
+RAJBHAVAN",KHAIRATHABAD ZONE,Infront OF IMAX theater,Infront OF IMAX theater,17.41341,78.46567
+MEDIUM,"17 -
+RAJBHAVAN",KHAIRATHABAD ZONE,Opp Mental Hospital,Opp Mental Hospital,17.45057,78.43577
+MEDIUM,"17 -
+RAJBHAVAN",KHAIRATHABAD ZONE,"Between SR. Nagar Community hall
+to  L&O Ps.Sr. Nagar","Between SR. Nagar Community hall
+to  L&O Ps.Sr. Nagar",17.44243,78.44564
+MEDIUM,"17 -
+RAJBHAVAN",KHAIRATHABAD ZONE,"Prime Hospital , 
+Near Mythrivanam","Prime Hospital , Near Mythrivanam",17.43794,78.44591
+MEDIUM,"17 -
+RAJBHAVAN",KHAIRATHABAD ZONE,Blakampet Petrol Pump,Blakampet Petrol Pump,17.43359,78.44972
+MEDIUM,"17 -
+RAJBHAVAN",KHAIRATHABAD ZONE,"Near Lal Banglow, 
+DK Road","Near Lal Banglow, DK Road",17.43581,78.45216
+MEDIUM,"17 -
+RAJBHAVAN",KHAIRATHABAD ZONE,"More Jewellers, 
+Panjagutta","More Jewellers, Panjagutta",17.42853,78.45293
+MEDIUM,"17 -
+RAJBHAVAN",KHAIRATHABAD ZONE,"Sheesh Mahal Theater, 
+Ameerpet","Sheesh Mahal Theater, Ameerpet",17.43456,78.44798
+MEDIUM,"17 -
+RAJBHAVAN",KHAIRATHABAD ZONE,"D>G>P Residemce, 
+Kundhan Bagh","DGP Residence, Kundhan Bagh",17.43472,78.45838
+MEDIUM,"17 -
+RAJBHAVAN",KHAIRATHABAD ZONE,Near Harsh Mess,Near Harsh Mess,17.4388,78.44291
+MEDIUM,"17 -
+RAJBHAVAN",KHAIRATHABAD ZONE,"Sathyam Theatre 
+Diversion",Sathyam Theatre Diversion,17.43768,78.44807
+MEDIUM,"17 -
+RAJBHAVAN",KHAIRATHABAD ZONE,Near Cm Camp Office,Near Cm Camp Office,17.4349,78.45417
+MEDIUM,"17 -
+RAJBHAVAN",KHAIRATHABAD ZONE,"Panjagutta x Road, 
+near Masjid","Panjagutta x Road, near Masjid",17.43106,78.45013
+MEDIUM,"17 -
+RAJBHAVAN",KHAIRATHABAD ZONE,"Ansar Manzil, opp: More Super 
+Market","Ansar Manzil, opp: More Super 
+Market",17.41465,78.43628
+MEDIUM,"17 -
+RAJBHAVAN",KHAIRATHABAD ZONE,Nims Hospital,Nims Hospital,17.42212,78.45196
+MEDIUM,"17 -
+RAJBHAVAN",KHAIRATHABAD ZONE,"Ameerpet near 
+Charmas",Ameerpet near Charmas,17.43186,78.4476
+MEDIUM,"17 -
+RAJBHAVAN",KHAIRATHABAD ZONE,"Dehlhi Wala Sweet House Towards
+Shalimar Junction","Dehlhi Wala Sweet House Towards
+Shalimar Junction",17.42798,78.4515
+MEDIUM,"17 -
+RAJBHAVAN",KHAIRATHABAD ZONE,"Venkat Plaza, 
+Panjagutta","Venkat Plaza, Panjagutta",17.428,78.45249
+MEDIUM,"17 -
+RAJBHAVAN",KHAIRATHABAD ZONE,"Panjagutta Starting 
+Flyover",Panjagutta Starting Flyover,17.42568,78.45051
+MEDIUM,"17 -
+RAJBHAVAN",KHAIRATHABAD ZONE,"KLM Shoping Mall, 
+Lakdilkapool","KLM Shoping Mall, Lakdilkapool",17.405352,78.464235
+MEDIUM,"18 -
+KBR PARK",KHAIRATHABAD ZONE,Peddamma Temple Kamman,Peddamma Temple Kamman,17.431462,78.406934
+MEDIUM,"18 -
+KBR PARK",KHAIRATHABAD ZONE,"Wilson store Turning Point to 
+Spicy Avenue Restaurant, Rd. No. 36, J/Hills","Rd. No. 36, J/Hills",17.43303,78.417257
+MEDIUM,"18 -
+KBR PARK",KHAIRATHABAD ZONE,"Near Mantri bus stop ,
+ Road No. 2, Banjara Hills towards J/hills check post",J/hills check post,17.481762,78.493934
+MEDIUM,"18 -
+KBR PARK",KHAIRATHABAD ZONE,"Opp ICICI Bank, Road No.12, Banjara Hills",opp ICICI Bank,17.41156,78.436055
+MEDIUM,"18 -
+KBR PARK",KHAIRATHABAD ZONE,Road No.13 Grave Yard,Grave yard,17.410016,78.446665
+MEDIUM,"18 -
+KBR PARK",KHAIRATHABAD ZONE,Taj Krishna Bus stop,opp Taj Krishna hotel,17.416731,78.448823
+MEDIUM,"18 -
+KBR PARK",KHAIRATHABAD ZONE,Opp Omega Hospital Bus stop,Omega Hospital,17.414574,78.424783
+MEDIUM,"18 -
+KBR PARK",KHAIRATHABAD ZONE,KBR Park Parking Slot-1,Parking Slot-1,17.423653,78.424538
+MEDIUM,"18 -
+KBR PARK",KHAIRATHABAD ZONE,"Sarvi Hotel Road no.11, Banjara Hills",Sarvi Hotel,17.413068,78.449372
+MEDIUM,"18 -
+KBR PARK",KHAIRATHABAD ZONE,"Administrative Staff College, SNT",SNT,17.427299,78.440911
+MEDIUM,"18 -
+KBR PARK",KHAIRATHABAD ZONE,TRS Bhavan,TRS Bhavan,17.415905,78.426058
+MEDIUM,"19 -
+YOUSUFGUDA",SERILINGAMPALLY ZONE,"Erra Manzil Colony Rd,  ","Road 12 Banjara Hills 
+opp Trafic PS",17.4174,78.45307
+MEDIUM,"19 -
+YOUSUFGUDA",SERILINGAMPALLY ZONE,"Kaushik Society, Bhavani Nagar, 
+Banjara Hills, ","VLCC Bus stop Towards From Bharat
+hiya  Vidya Bhavan towards",17.4138,78.43042
+MEDIUM,"19 -
+YOUSUFGUDA",SERILINGAMPALLY ZONE,Trs Bhavan,Trs Bhavan,17.41594,78.42658
+MEDIUM,"19 -
+YOUSUFGUDA",SERILINGAMPALLY ZONE,"Infront of Cinemax 
+Theater Parking","Infront of Cinemax 
+Theater Parking",17.42377,78.4278
+MEDIUM,"19 -
+YOUSUFGUDA",SERILINGAMPALLY ZONE,"17.40016
+78.41350","Seven Toms Rd in between Satya 
+Colony",17.40016,78.4135
+MEDIUM,"19 -
+YOUSUFGUDA",SERILINGAMPALLY ZONE,"S.R. nagar near 
+Andhra bank lane",Near Umesh Chandra Statue,17.442189,78.44227
+MEDIUM,"20
+Serilingampally",SERILINGAMPALLY ZONE,Immunologics Colony,Immunologics Colony,17.450077,78.344575
+MEDIUM,"20
+Serilingampally",SERILINGAMPALLY ZONE,"Care Hospital, 
+Dimond Hills","Care Hospital, Dimond Hills",17.430915,78.372824
+MEDIUM,"20
+Serilingampally",SERILINGAMPALLY ZONE,RaiDurg,RaiDurg,17.428915,78.375073
+MEDIUM,"20
+Serilingampally",SERILINGAMPALLY ZONE,Madhura Nagar Colony,Madhura Nagar Colony,17.42295,78.381402
+MEDIUM,"20
+Serilingampally",SERILINGAMPALLY ZONE,Biodeversity,Biodeversity,17.429887,78.373519
+MEDIUM,"20
+Serilingampally",SERILINGAMPALLY ZONE,Jayaberi Enclave,Jayaberi Enclave,17.448272,78.361422
+MEDIUM,"21
+Chandanagar",SERILINGAMPALLY ZONE,"Matrusry Nagar 
+Miyapur X road",Matrusry Nagar Miyapur X road,17.496439,78.36382
+MEDIUM,"21
+Chandanagar",SERILINGAMPALLY ZONE,"Smr Vinay , Hafeez pet","Smr Vinay , Hafeez pet",17.49441,78.36523
+MEDIUM,"22
+RC PURAM",SERILINGAMPALLY ZONE,"Srinivas nagar 
+Serlingampally",Srinivas nagar Serlingampally,17.485013,78.320678
+MEDIUM,"22
+RC PURAM",SERILINGAMPALLY ZONE,"Station Road 
+Serlingampally",Station Road Serlingampally,17.485042,78.320824
+MEDIUM,"23
+MUSAPET",KUKATPALLY ZONE,IDA Kukatpally,IDA Kukatpally,17.476809,78.425873
+MEDIUM,"23
+MUSAPET",KUKATPALLY ZONE,"Soni Complex, IDA 
+kukatpally","Soni Complex, IDA kukatpally",17.476809,78.425873
+MEDIUM,"23
+MUSAPET",KUKATPALLY ZONE,Kukatpally Phase - II,Kukatpally Phase - II,17.47501,78.41953
+MEDIUM,"23
+MUSAPET",KUKATPALLY ZONE,"Pragathi nagar , Moosapet","Pragathi nagar , Moosapet",17.47363,78.42247
+MEDIUM,"23
+MUSAPET",KUKATPALLY ZONE,Moosapet Road,Moosapet Road,17.472525,78.425582
+MEDIUM,"24
+KUKATPALLY
+",KUKATPALLY ZONE,KPHB Circle,KPHB Circle,17.484223,78.389973
+MEDIUM,"24
+KUKATPALLY
+",KUKATPALLY ZONE,"Borabanda, Joythi nagar","Borabanda, Joythi nagar",17.456826,78.405903
+MEDIUM,"25
+QUTHBULLA
+PUR",KUKATPALLY ZONE,Surraram,Surraram,17.52774,78.477087
+MEDIUM,"25
+QUTHBULLA
+PUR",KUKATPALLY ZONE,Quthubullapur,Quthubullapur,74.507793,78.463507
+MEDIUM,"25
+QUTHBULLA
+PUR",KUKATPALLY ZONE,Bowenpally,Bowenpally,17.47498,78.47399
+MEDIUM,"25
+QUTHBULLA
+PUR",KUKATPALLY ZONE,Jeedimetla,Jeedimetla,17.500426,78.477087
+MEDIUM,"25
+QUTHBULLA
+PUR",KUKATPALLY ZONE,Jeedimetla Main Road,Jeedimetla Main Road,17.52774,78.438974
+MEDIUM,"26
+GAJULA
+RAMARAM",KUKATPALLY ZONE,Jeedimetla Police Station,Jeedimetla Police Station,17.508689,78.448212
+MEDIUM,"26
+GAJULA
+RAMARAM",KUKATPALLY ZONE,Sri Sai nagar Colony,Sri Sai nagar Colony,17.492444,78.451417
+MEDIUM,"26
+GAJULA
+RAMARAM",KUKATPALLY ZONE,"Chandara nagar, Chintal","Chandara nagar, Chintal",17.489934,78.450591
+MEDIUM,"27
+ALWAL",KUKATPALLY ZONE,Alwal,Alwal,17.509024,78.517632
+MEDIUM,"27
+ALWAL",KUKATPALLY ZONE,Macha Bolarum,Macha Bolarum,17.510981,78.516231
+MEDIUM,"27
+ALWAL",KUKATPALLY ZONE,Old Alwal,Old Alwal,17.5094,78.507901
+MEDIUM,"27
+ALWAL",KUKATPALLY ZONE,Alwal,Alwal,17.51197,78.500107
+MEDIUM,"27
+ALWAL",KUKATPALLY ZONE,Vivekandnda Colony,Vivekandnda Colony,17.510963,78.516205
+MEDIUM,"27
+ALWAL",KUKATPALLY ZONE,"GVR Arcade, Reddy Enclave","GVR Arcade, Reddy Enclave",17.50968,78.505825
+MEDIUM,"27
+ALWAL",KUKATPALLY ZONE,Jyothi nagar Bolarum Rd,Jyothi nagar Bolarum Rd,17.50939,78.507888
+MEDIUM,"27
+ALWAL",KUKATPALLY ZONE,Alwal Municipal Office,Alwal Municipal Office,17.504692,78.510795
+MEDIUM,"27
+ALWAL",KUKATPALLY ZONE,Cityzen Colony Rd,Cityzen Colony Rd,17.506834,78.498812
+MEDIUM,"27
+ALWAL",KUKATPALLY ZONE,Panchsheel Enclave,Panchsheel Enclave,17.516896,78.490289
+MINOR,"1-
+Kapra",LB NAGAR ZONE,Moula Ali,Moula Ali,17.46618,78.563519
+MINOR,"1-
+Kapra",LB NAGAR ZONE,"As Rao Nagar 
+Swamik nagar","As Rao Nagar 
+Swamik nagar",17.480944,78.555642
+MINOR,"1-
+Kapra",LB NAGAR ZONE,"Kushaiguda 
+Sai nagar","Kushaiguda 
+Sai nagar",17.480236,78.578267
+MINOR,"1-
+Kapra",LB NAGAR ZONE,"Kushaiguda 
+Krishna Reddy Colony","Kushaiguda 
+Krishna Reddy Colony",17.480247,78.578359
+MINOR,4-LB Nagar,LB NAGAR ZONE,Hastinapuram,Hastinapuram,17.335969,78.551418
+MINOR,5-Saroornagar,LB NAGAR ZONE,Kamala Nagar,Kamala Nagar,17.368376,17.368376
+MINOR,5-Saroornagar,LB NAGAR ZONE,Huda Colony,Huda Colony,17.363353,78.543337
+MINOR,5-Saroornagar,LB NAGAR ZONE,"Kothapet, DocotrsColony","Kothapet, DocotrsColony",,
+MINOR,5-Saroornagar,LB NAGAR ZONE,"Opp. JC Bros, Dilsukh Nagar",Near Kamala Hospital,17.368361,78.522911
+MINOR,06 -MALAKPET,CHARMINAR ZONE,"Metro Station New Market, 
+ Old Malakpet,",Surksha Hospital,17.37329,78.503239
+MINOR,06 -MALAKPET,CHARMINAR ZONE,"besides moon function hall,
+ Safa Plaza",Ashrafnagar,17.375519,78.496908
+MINOR,06 -MALAKPET,CHARMINAR ZONE,Opp L&O PS Malakpet,Musarambagh Metro,17.370711,78.512108
+MINOR,06 -MALAKPET,CHARMINAR ZONE,RUB Azampura,Near Azampura Chaman,17.37374,78.493678
+MINOR,06 -MALAKPET,CHARMINAR ZONE,Dabeerpura Darwaza ,Near Dabeerpura Darwaza,17.368077,78.485108
+MINOR,"7-
+SANTHOSH NAGAR",CHARMINAR ZONE,Champapet,,17.348807,78.514469
+MINOR,"7-
+SANTHOSH NAGAR",CHARMINAR ZONE,Drdl road,Kanchanbagh,17.335853,78.499359
+MINOR,"8
+chandrayanagutta",CHARMINAR ZONE,Chandrayangutta X Road,Kumar Basthi,17.326682,78.477042
+MINOR,"8
+chandrayanagutta",CHARMINAR ZONE,Uppuguda,"Gowlipura road, 
+Lakshminayar Colony",17.342896,78.478286
+MINOR,"8
+chandrayanagutta",CHARMINAR ZONE,Drdl road,Santhosh Nagar,17.338411,78.499128
+MINOR,"09 -
+CHARMINAR",CHARMINAR ZONE,"Shah Ghouse Hotel, Shalibanda",Shah Ghouse Hotel,17.347896,78.470931
+MINOR,"09 -
+CHARMINAR",CHARMINAR ZONE,High court backside gate no.2 & 3,Between gate no.2 & 3,,
+MINOR,"10 -
+FALAKNUMA",CHARMINAR ZONE,Hashamabad,Chandrayangutta entrance Bridge,17.32885,78.47404
+MINOR,"10 -
+FALAKNUMA",CHARMINAR ZONE,"Shamsheer gunj, Falaknuma",Near Balaji Sweet House,17.34268,78.469247
+MINOR,"10 -
+FALAKNUMA",CHARMINAR ZONE,Shastripuram X roads,Shastripuram,17.335671,78.446593
+MINOR,"10 -
+FALAKNUMA",CHARMINAR ZONE,Danamma Huts,Opp. Idly Hotel,17.336767,78.449345
+MINOR,15-Musheerabad,SECUNDERABAD ZONE,Himayatnagar,"Indira Park Rd, Jawahar Nagar",17.40937,78.488981
+MINOR,15-Musheerabad,SECUNDERABAD ZONE,Lower Tankbund Near Snow World,Near Snow World,17.414007,78.479256
+MINOR,15-Musheerabad,SECUNDERABAD ZONE,Mekala Mandi CGO Towers,Near CGO Towers.,17.423406,78.494583
+MINOR,16-Amberpet,SECUNDERABAD ZONE,Bagh Lingampally,"Narayanguda Rd, Chitrapuri Colony",17.397022,78.495181
+MINOR,"28
+Malkajgiri",SECUNDERABAD ZONE,Vimala Devinagar Colony,"Vimala Devi Nagar Colony, 
+Malkajgiri",17.45702,78.536565
+MINOR,"28
+Malkajgiri",SECUNDERABAD ZONE,Moula Ali Road,"Ulfat Nagar, Sairam Nagar, 
+Moula Ali",17.459743,78.557469
+MINOR,"28
+Malkajgiri",SECUNDERABAD ZONE,Malkajgir Road,"Malla Reddy Building, 
+ RK Nagar Colony, Malkajgiri",17.457511,78.536586
+MINOR,"28
+Malkajgiri",SECUNDERABAD ZONE,Hotel Swagath Grand,"Lakshmi Bhavan, Main Road, 
+RK Nagar Colony, ",17.456596,78.536349
+MINOR,"28
+Malkajgiri",SECUNDERABAD ZONE,MJ Colony,"ECIL Main Rd, SP Nagar, 
+Eshwar Nagar Colony",17.464803,78.56209
+MINOR,"30 -
+CM CAMP OFFICE",SECUNDERABAD ZONE,Punjagutta,Punjagutta,17.42968,78.45605
+MINOR,"30 -
+CM CAMP OFFICE",SECUNDERABAD ZONE,Begumpet,"Nizamia Observatory Rd,
+ Greenlands,Ameerpet",17.43408,78.45134
+MINOR,"30 -
+CM CAMP OFFICE",SECUNDERABAD ZONE,Ramoji Office Begumpet,"Begumpet Rd, Begumpet,",17.44304,78.45955
+MINOR,"30 -
+CM CAMP OFFICE",SECUNDERABAD ZONE,Begumpet,"Begumpet Rd, Prakash Nagar,",17.44469,78.4673
+MINOR,"30 -
+CM CAMP OFFICE",SECUNDERABAD ZONE,"Greenland Road,Begumpet","Greenlands Rd, 
+Nishat Bagh Colony,",17.42931,78.45604
+MINOR,"30 -
+CM CAMP OFFICE",SECUNDERABAD ZONE,Teacher's Colony Begumpet,"Teachers Colony, Greenlands",17.43375,78.45712
+MINOR,"30 -
+CM CAMP OFFICE",SECUNDERABAD ZONE,"YMCA Flyover Starting & Ending 
+opp; DCP Office, North Zone","Zehra Nagar Colony, Purani Haveli,",17.36827,78.48253
+MINOR,"30 -
+CM CAMP OFFICE",SECUNDERABAD ZONE,Old Gandhi Hospital,"near Parcel Office Secunderabad, 
+Monda Market, Shivaji Nagar",17.43287,78.49756
+MINOR,"30 -
+CM CAMP OFFICE",SECUNDERABAD ZONE,In Fornt of Nissam Show Room SP Road,"Hyderbasthi, Rani Gunj",17.43216,78.48896
+MINOR,"30 -
+CM CAMP OFFICE",SECUNDERABAD ZONE,"Bomby Hotel, Ranigunji X road",M.G.RD;SECUNDERABAD,17.43326,78.48866
+MINOR,"30 -
+CM CAMP OFFICE",SECUNDERABAD ZONE,Ranigunj Depot. Near Karbala Junction,"James Street Station ,
+ Karbala Maidan,
+
+",17.43309,78.48652
+MINOR,"30 -
+CM CAMP OFFICE",SECUNDERABAD ZONE,"P&T Flyover Ending in front of 
+Nandini Hotel",Begumpet,17.44516,78.46714
+MINOR,"30 -
+CM CAMP OFFICE",SECUNDERABAD ZONE,CTO Junction,"Begumpet Rd, Prakash Nagar,",17.44484,78.46735
+MINOR,"30 -
+CM CAMP OFFICE",SECUNDERABAD ZONE,"MG Road, Gandhi Statue","Hardy Complex, Krishna Reddy Nagar",17.43949,78.48869
+MINOR,"30 -
+CM CAMP OFFICE",SECUNDERABAD ZONE,Rocha Bazar towards Ranigunj,"Mahatma Gandhi Rd, Tobacco Bazar,",17.43691,78.48884
+MINOR,"12 -
+GUDIMALKAPUR",KHAIRATHABAD ZONE,Near Pulla Reddy college Pillar No. 23,PVNR Pillar No. 23,17.394759,78.436913
+MINOR,"12 -
+GUDIMALKAPUR",KHAIRATHABAD ZONE,Masab Tank Bus stop,Masab Tank flyover,17.40416,78.452274
+MINOR,"12 -
+GUDIMALKAPUR",KHAIRATHABAD ZONE,Kattamaisamma,Under Masab Tank flyover,17.401298,78.451435
+MINOR,"12 -
+GUDIMALKAPUR",KHAIRATHABAD ZONE,Masab Tank Fly over at Mahavir Hospital,Polytechnic College,17.403182,78.457168
+MINOR,"12 -
+GUDIMALKAPUR",KHAIRATHABAD ZONE,YES Bank ATM at NMDC road,NMDC road,17.398851,78.448275
+MINOR,"12 -
+GUDIMALKAPUR",KHAIRATHABAD ZONE,"Laxmi Nagar down Ramp, Pillar No. 77",Pillar No. 77 PVNR way,17.38494,78.42942
+MINOR,"12 -
+GUDIMALKAPUR",KHAIRATHABAD ZONE,Rethibowli Jn,Opp. Army Gate,17.39581,78.43261
+MINOR,"13 -
+KARWAN",KHAIRATHABAD ZONE,"Near Premia Academy, Beside Suguna Garden Function Hall, Langer House",Beside Suguna Garden Function Hall,17.37695,78.42787
+MINOR,"13 -
+KARWAN",KHAIRATHABAD ZONE,Bapught U Turn towards Tippu Khan,Bapughat U Turn,17.37298,78.41366
+MINOR,"13 -
+KARWAN",KHAIRATHABAD ZONE,"In front of Sulabh Complex, beside Bapughat Fruit Market",Beside Bapughat Fruit Market,17.37295,78.41165
+MINOR,"13 -
+KARWAN",KHAIRATHABAD ZONE,Andhra Flour Mill,Opp. Indian Oil Petrol Pump,17.3924,78.42405
+MINOR,"13 -
+KARWAN",KHAIRATHABAD ZONE,"Laxmi Nagar up Ramp, Pillar No. 77","Pillar No. 77, PVNR way",17.385,78.42965
+MINOR,"14 -
+ASSEMBLY",KHAIRATHABAD ZONE,"Uday Omini Hospital, Chapel Road","Opp. Uday Omini Hospital, Chapel Road",17.39707,78.472572
+MINOR,"14 -
+ASSEMBLY",KHAIRATHABAD ZONE,"Jagdish Market entrance, Chirag Ali Lane",Beside T.S. Industrial Development Office,17.392182,78.474564
+MINOR,"14 -
+ASSEMBLY",KHAIRATHABAD ZONE,"HP Petrol Pump, near Hyd. Collector Office",Opp. Hyderabad University,17.388669,78.474237
+MINOR,"14 -
+ASSEMBLY",KHAIRATHABAD ZONE,Opp. KJ Apartments King Koti,Near King Koti X Road,17.393889,78.479155
+MINOR,"14 -
+ASSEMBLY",KHAIRATHABAD ZONE,Nizam College  Gate No. 4,Near Basheerbagh towards King Koti Road.,17.400361,78.47663
+MINOR,"14 -
+ASSEMBLY",KHAIRATHABAD ZONE,"Mehdi Function Hall, Lakdi ka pul.",Mehdi Function Hall,17.403001,78.460744
+MINOR,"14 -
+ASSEMBLY",KHAIRATHABAD ZONE,Ambedkar Statue to Telugu Thalli,Beside amogham hotel,17.411495,78.471439
+MINOR,"14 -
+ASSEMBLY",KHAIRATHABAD ZONE,Telugu Thalli slip Road/Bus stop,Telugu Thalli Bus stop,17.408296,78.471722
+MINOR,"14 -
+ASSEMBLY",KHAIRATHABAD ZONE,Bazarghat,Bazarghat X Road,17.394092,78.462566
+MINOR,"14 -
+ASSEMBLY",KHAIRATHABAD ZONE,Under Metro Station Nampally,"Near Bus Bay, Public Garden, Opp Haj House",17.396865,78.470876
+MINOR,"14 -
+ASSEMBLY",KHAIRATHABAD ZONE,CBS,Mamta Darshani Hotel,17.379277,78.483896
+MINOR,"14 -
+ASSEMBLY",KHAIRATHABAD ZONE,DMHS X Road,Womens collage,17.384745,78.487490
+MINOR,"14 -
+ASSEMBLY",KHAIRATHABAD ZONE,"Rangamahal, near HP Petrol Pump",Kranthi Bar,17.380713,78.485544
+MINOR,"17 -
+RAJBHAVAN",KHAIRATHABAD ZONE,ADP office,ADP office,17.4206,78.458
+MINOR,"17 -
+RAJBHAVAN",KHAIRATHABAD ZONE,Skoda show room,Skoda show room,17.42367,78.45845
+MINOR,"17 -
+RAJBHAVAN",KHAIRATHABAD ZONE,Murugan  Hospital,Murugan  Hospital,17.4224,78.45485
+MINOR,"18 -
+KBR PARK",KHAIRATHABAD ZONE,"Madhapur Arch, Junction","Madhapur Arch, Junction",17.438572,78.399317
+MINOR,"18 -
+KBR PARK",KHAIRATHABAD ZONE,"Croma by lane Road No. 36, J/Hills","Croma by lane Road No. 36, J/Hills",17.435655,78.401368
+MINOR,"18 -
+KBR PARK",KHAIRATHABAD ZONE,"Beside Dominos , Road No. 5, J/Hills","Dominos , Road No. 5, J/Hills",17.429113,78.421465
+MINOR,"18 -
+KBR PARK",KHAIRATHABAD ZONE,Command Control Centre,ICCC,17.414001,78.427101
+MINOR,"18 -
+KBR PARK",KHAIRATHABAD ZONE,"Star Hospital, Road No.10, B/Hills",star hospital,17.415576,78.445003
+MINOR,"18 -
+KBR PARK",KHAIRATHABAD ZONE,"Hanuman Temple, Near LV Prasad Hospital, Road no.2, Banjara Hills",LV Prasad Hospital,17.424023,78.428338
+MINOR,"18 -
+KBR PARK",KHAIRATHABAD ZONE,"Park Hayat Hotel/Rainbow Hospital, Road no.2,  Banjara Hills",Park Hayat Hotel,17.424579,78.430887
+MINOR,"18 -
+KBR PARK",KHAIRATHABAD ZONE,"ATM centre, Srinagar colony",Srinagar colony park,17.430103,78.439807
+MINOR,"19 -
+YOUSUFGUDA",SERILINGAMPALLY ZONE,"Ramdevguda abutting to Military 
+compound Wall","Ramdevguda abutting to Military 
+compound Wall",17.37557,78.39107
+MINOR,"19 -
+YOUSUFGUDA",SERILINGAMPALLY ZONE,"At Bharath Petrol Pump Shaik pet 
+Narayanamma College towards","At Bharath Petrol Pump Shaik pet 
+Narayanamma College towards",17.410898,78.399837
+MINOR,"19 -
+YOUSUFGUDA",SERILINGAMPALLY ZONE,VST Colony,VST Colony,17.426751,78.446782
+MINOR,"19 -
+YOUSUFGUDA",SERILINGAMPALLY ZONE,Opp. Furniture world,Near TATA Capital,17.426990,78.446433
+MINOR,"19 -
+YOUSUFGUDA",SERILINGAMPALLY ZONE,"Opp ESI, Vijaya laxmi temple, nearby Darga.",Near ESI Hospital,17.448534,78.43735
+MINOR,"19 -
+YOUSUFGUDA",SERILINGAMPALLY ZONE,Balkampet near new bridge,Balkampet           New Bridge,17.450148,78.450293
+MINOR,"19 -
+YOUSUFGUDA",SERILINGAMPALLY ZONE,"Opp Bhavani medical agency, Mothi nagar, borabanda",Mothi Nagar Signal,17.2721,78.2454

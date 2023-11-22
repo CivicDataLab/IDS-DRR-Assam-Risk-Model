@@ -1036,14 +1036,15 @@ for row in df_all_curr_all['hist_totalimpact']:
                     else:
                         hist_impact.append(6)
 df_all_curr_all['hist_impact'] = hist_impact
-impactscore = df_all_curr_all[['Impact_level','hist_impact']].max(axis = 1)
+#impactscore = df_all_curr_all[['Impact_level','hist_impact']].max(axis = 1)
+impactscore = df_all_curr_all['Impact_level']
 factorscores['impact'] = impactscore 
 #factorscores['impact'] = factorscores['impact'].astype(float)
 imp_w = 1                      
 
 # 3F. Factor Score: Government Response
 resplabels = ['6','5','4','3','2','1']
-respscore = pd.cut(df_all_curr_all['cum_Preparedness'],bins = 6,precision = 0,labels =resplabels )
+respscore = pd.cut(df_all_curr_all['cum_total_tender_awarded_value'],bins = 6,precision = 0,labels =resplabels )
 factorscores['respscore'] = respscore
 #factorscores['respscore'] = factorscores['respscore'].astype(float)
 resp_w = 1

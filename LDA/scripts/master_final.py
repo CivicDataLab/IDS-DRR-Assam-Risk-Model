@@ -78,6 +78,9 @@ new_column_names = {'respscore_un': 'government-response',
 
 
 MASTER.rename(columns=new_column_names, inplace=True)
-
-MASTER.to_csv('MASTER_DATA_FRONTEND.csv', index=False)
-print(MASTER.shape)
+MASTER['year'] = MASTER['timeperiod'].str[:4]
+MASTER['year'] = MASTER['year'].astype(int)
+MASTER['month'] = MASTER['timeperiod'].str[5:]
+MASTER['month'] = MASTER['month'].astype(int)
+MASTER.to_csv('MASTER_DATA_FRONTEND_ALLMONTHS.csv', index=False)
+MASTER[MASTER['year'].isin([2022, 2023])].to_csv('MASTER_DATA_FRONTEND_2022onwards.csv', index=False)

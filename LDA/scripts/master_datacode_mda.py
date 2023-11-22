@@ -17,6 +17,17 @@ from factor_analyzer import (ConfirmatoryFactorAnalyzer, ModelSpecificationParse
 import semopy as sem
 from semopy import ModelMeans
 from sklearn.discriminant_analysis import LinearDiscriminantAnalysis
+import sys
+
+#&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+# The model gives output for each month - selected by the user through a system argument
+if len(sys.argv) < 3:
+    print("Correct way to run the code: python3 master_datacode_mda.py <YYYY> <MM>")
+    exit()
+else:
+    year_output = str(sys.argv[1])
+    month_output = str(sys.argv[2])
+    print("Month: ", year_output+"_"+month_output)
 
 #&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 #                      STAGE 0&1 : Reading file and creating new variables
@@ -36,6 +47,10 @@ from sklearn.discriminant_analysis import LinearDiscriminantAnalysis
 #--------------------
 
 data = pd.read_csv('MASTER_VARIABLES.csv')
+data['year'] = data['timeperiod'].str[:4]
+data['year'] = data['year'].astype(int)
+data['month'] = data['timeperiod'].str[5:]
+data['month'] = data['month'].astype(int)
 
 hist_inun_avg = []
 hist_inun_max = []
@@ -147,7 +162,7 @@ historic_data['hist_rcinmate_max'] = hist_rcinmate_max
 historic_data['hist_cropaff_avg'] = hist_cropaff_avg
 historic_data['hist_cropaff_max'] = hist_cropaff_max
 historic_data.fillna(0,inplace = True)
-historic_data.to_csv('Historic.csv')
+#historic_data.to_csv('Historic.csv')
 
 RC= []
 year = []
@@ -238,7 +253,7 @@ inun_yearsort = inun_yearsort.replace(r'^\s+$', np.nan, regex=True)
 dataafter21 = (inun_yearsort['year'] >= 2021) & (inun_yearsort['year'] <= 2023) #2023 could be updated to include present year
 inun_yearsort = inun_yearsort[dataafter21]
 inun_yearsort.reset_index(drop = True)
-inun_yearsort.to_csv('INUN_landchar.csv')
+#inun_yearsort.to_csv('INUN_landchar.csv')
 
 # 1.3 Computing total area inundated in the revenue circle
 # ---------------------------------------------------------
@@ -251,7 +266,7 @@ data_heads =list( inun_yearsort.columns.values)
 
 # 0. Identify present time period for analysis - Monthly basis
 # --------------------------------------------
-current_year = (inun_yearsort['year'] == 2023) & (inun_yearsort['month'] == 6) 
+current_year = (inun_yearsort['year'] == int(year_output)) & (inun_yearsort['month'] == int(month_output)) 
 df_all_current = inun_yearsort[current_year]
 df_all_curr = pd.DataFrame(data = df_all_current,columns=data_heads)
 df_all_curr.reset_index(inplace = True)
@@ -356,19 +371,20 @@ intercept2A1 = np.round(model2A1.intercept_,decimals = 3)
 
 print(np.round(params2A1,decimals = 1))
 print(np.round(model2A1.intercept_,decimals = 3))
+
 #creating plot to visualise how grouping is done
-plt.figure()
-colors = [ 'green','lime','yellow','orange','red','black']
-lw = 2
-for color, i, target_name in zip(colors, [1,2,3,4,5,6], target_names):
-    plt.scatter(data_plot[y == i, 0], data_plot[y == i, 1], alpha=.8, color=color,
-                label=target_name)
+#plt.figure()
+#colors = [ 'green','lime','yellow','orange','red','black']
+#lw = 2
+#for color, i, target_name in zip(colors, [1,2,3,4,5,6], target_names):
+#    plt.scatter(data_plot[y == i, 0], data_plot[y == i, 1], alpha=.8, color=color,
+#                label=target_name)
 
 #add legend to plot
-plt.legend(loc='best', shadow=False, scatterpoints=1)
-plt.title('Summative scale_Final model_low elevations')
+#plt.legend(loc='best', shadow=False, scatterpoints=1)
+#plt.title('Summative scale_Final model_low elevations')
 #display LDA plot
-plt.show()
+#plt.show()
 
 year_2023 = df_new['year'] == 1
 data_2023 = df_new[year_2023]
@@ -409,19 +425,20 @@ params2A2 = np.round(model2A2.coef_,decimals = 3)
 intercept2A2 = np.round(model2A2.intercept_,decimals = 3)
 print(np.round(params2A2,decimals = 1))
 print(np.round(model2A2.intercept_,decimals = 3))
+
 #creating plot to visualise how grouping is done
-plt.figure()
-colors = [ 'green','lime','yellow','orange','red','black']
-lw = 2
-for color, i, target_name in zip(colors, [1,2,3,4,5,6], target_names):
-    plt.scatter(data_plot[y == i, 0], data_plot[y == i, 1], alpha=.8, color=color,
-                label=target_name)
+#plt.figure()
+#colors = [ 'green','lime','yellow','orange','red','black']
+#lw = 2
+#for color, i, target_name in zip(colors, [1,2,3,4,5,6], target_names):
+#    plt.scatter(data_plot[y == i, 0], data_plot[y == i, 1], alpha=.8, color=color,
+#                label=target_name)
 
 #add legend to plot
-plt.legend(loc='best', shadow=False, scatterpoints=1)
-plt.title('Summative scale_Final model_low elevations')
+#plt.legend(loc='best', shadow=False, scatterpoints=1)
+#plt.title('Summative scale_Final model_low elevations')
 #display LDA plot
-plt.show()
+#plt.show()
 
 X_train, X_test, y_train, y_test = train_test_split(X,y,test_size = 0.2,random_state = 7)
 model = LinearDiscriminantAnalysis(n_components = 2,solver = 'svd')
@@ -498,19 +515,20 @@ params2B1 = np.round(model2B1.coef_,decimals = 3)
 intercept2B1 = np.round(model2B1.intercept_,decimals = 3)
 print(np.round(params2B1,decimals = 1))
 print(np.round(model2B1.intercept_,decimals = 3))
+
 #creating plot to visualise how grouping is done
-plt.figure()
-colors = [ 'green','lime','yellow','orange','red','black']
-lw = 2
-for color, i, target_name in zip(colors, [1,2,3,4,5,6], target_names):
-    plt.scatter(data_plot[y == i, 0], data_plot[y == i, 1], alpha=.8, color=color,
-                label=target_name)
+#plt.figure()
+#colors = [ 'green','lime','yellow','orange','red','black']
+#lw = 2
+#for color, i, target_name in zip(colors, [1,2,3,4,5,6], target_names):
+#    plt.scatter(data_plot[y == i, 0], data_plot[y == i, 1], alpha=.8, color=color,
+#                label=target_name)
 
 #add legend to plot
-plt.legend(loc='best', shadow=False, scatterpoints=1)
-plt.title('Summative scale_Final model_middle elevations')
+#plt.legend(loc='best', shadow=False, scatterpoints=1)
+#plt.title('Summative scale_Final model_middle elevations')
 #display LDA plot
-plt.show()
+#plt.show()
 
 X_train, X_test, y_train, y_test = train_test_split(X,y,test_size = 0.3,random_state = 7)
 model = LinearDiscriminantAnalysis(n_components = 2,solver = 'svd')
@@ -557,19 +575,20 @@ params2B2 = np.round(model2B2.coef_,decimals = 3)
 intercept2B2 = np.round(model2B2.intercept_,decimals = 3)
 print(np.round(params2B2,decimals = 1))
 print(np.round(model2B2.intercept_,decimals = 3))
+
 #creating plot to visualise how grouping is done
-plt.figure()
-colors = [ 'green','lime','yellow','orange','red','black']
-lw = 2
-for color, i, target_name in zip(colors, [1,2,3,4,5,6], target_names):
-    plt.scatter(data_plot[y == i, 0], data_plot[y == i, 1], alpha=.8, color=color,
-                label=target_name)
+#plt.figure()
+#colors = [ 'green','lime','yellow','orange','red','black']
+#lw = 2
+#for color, i, target_name in zip(colors, [1,2,3,4,5,6], target_names):
+#    plt.scatter(data_plot[y == i, 0], data_plot[y == i, 1], alpha=.8, color=color,
+#                label=target_name)
 
 #add legend to plot
-plt.legend(loc='best', shadow=False, scatterpoints=1)
-plt.title('Summative scale_Final model_middle elevations')
+#plt.legend(loc='best', shadow=False, scatterpoints=1)
+#plt.title('Summative scale_Final model_middle elevations')
 #display LDA plot
-plt.show()
+#plt.show()
 
 X_train, X_test, y_train, y_test = train_test_split(X,y,test_size = 0.3,random_state = 7)
 model = LinearDiscriminantAnalysis(n_components = 2,solver = 'svd')
@@ -639,19 +658,20 @@ params2C1 = np.round(model2C1.coef_,decimals = 3)
 intercept2C1 = np.round(model2C1.intercept_,decimals = 3)
 print(np.round(params2C1,decimals = 0))
 print(np.round(model2C1.intercept_,decimals = 3))
+
 #creating plot to visualise how grouping is done
-plt.figure()
-colors = [ 'green','lime','yellow','orange','red','black']
-lw = 2
-for color, i, target_name in zip(colors, [1,2,3,4,5,6], target_names):
-    plt.scatter(data_plot[y == i, 0], data_plot[y == i, 1], alpha=.8, color=color,
-                label=target_name)
+#plt.figure()
+#colors = [ 'green','lime','yellow','orange','red','black']
+#lw = 2
+#for color, i, target_name in zip(colors, [1,2,3,4,5,6], target_names):
+#    plt.scatter(data_plot[y == i, 0], data_plot[y == i, 1], alpha=.8, color=color,
+#                label=target_name)
 
 #add legend to plot
-plt.legend(loc='best', shadow=False, scatterpoints=1)
-plt.title('Summative scale_Final model_high elevations')
+#plt.legend(loc='best', shadow=False, scatterpoints=1)
+#plt.title('Summative scale_Final model_high elevations')
 #display LDA plot
-plt.show()
+#plt.show()
 
 X_train, X_test, y_train, y_test = train_test_split(X,y,test_size = 0.3,random_state = 7)
 model = LinearDiscriminantAnalysis(n_components = 2,solver = 'svd')
@@ -697,19 +717,20 @@ params2C2 = np.round(model2C2.coef_,decimals = 3)
 intercept2C2 = np.round(model2C2.intercept_,decimals = 3)
 print(np.round(params2C2,decimals = 1))
 print(np.round(model2C2.intercept_,decimals = 3))
+
 #creating plot to visualise how grouping is done
-plt.figure()
-colors = [ 'green','lime','yellow','orange','red','black']
-lw = 2
-for color, i, target_name in zip(colors, [1,2,3,4,5,6], target_names):
-    plt.scatter(data_plot[y == i, 0], data_plot[y == i, 1], alpha=.8, color=color,
-                label=target_name)
+#plt.figure()
+#colors = [ 'green','lime','yellow','orange','red','black']
+#lw = 2
+#for color, i, target_name in zip(colors, [1,2,3,4,5,6], target_names):
+#    plt.scatter(data_plot[y == i, 0], data_plot[y == i, 1], alpha=.8, color=color,
+#                label=target_name)
 
 #add legend to plot
-plt.legend(loc='best', shadow=False, scatterpoints=1)
-plt.title('Summative scale_Final model_high elevations')
+#plt.legend(loc='best', shadow=False, scatterpoints=1)
+#plt.title('Summative scale_Final model_high elevations')
 #display LDA plot
-plt.show()
+#plt.show()
 
 X_train, X_test, y_train, y_test = train_test_split(X,y,test_size = 0.3,random_state = 7)
 model = LinearDiscriminantAnalysis(n_components = 2,solver = 'svd')
@@ -777,19 +798,20 @@ params2D1 = np.round(model2D1.coef_,decimals = 3)
 intercept2D1 = np.round(model2D1.intercept_,decimals = 3)
 print(np.round(params2D1,decimals = 1))
 print(np.round(model2D1.intercept_,decimals = 3))
+
 #creating plot to visualise how grouping is done
-plt.figure()
-colors = [ 'green','lime','yellow','orange','red','black']
-lw = 2
-for color, i, target_name in zip(colors, [1,2,3,4,5,6], target_names):
-    plt.scatter(data_plot[y == i, 0], data_plot[y == i, 1], alpha=.8, color=color,
-                label=target_name)
+#plt.figure()
+#colors = [ 'green','lime','yellow','orange','red','black']
+#lw = 2
+#for color, i, target_name in zip(colors, [1,2,3,4,5,6], target_names):
+#    plt.scatter(data_plot[y == i, 0], data_plot[y == i, 1], alpha=.8, color=color,
+#                label=target_name)
 
 #add legend to plot
-plt.legend(loc='best', shadow=False, scatterpoints=1)
-plt.title('Summative scale_Final model_population')
+#plt.legend(loc='best', shadow=False, scatterpoints=1)
+#plt.title('Summative scale_Final model_population')
 #display LDA plot
-plt.show()
+#plt.show()
 
 X_train, X_test, y_train, y_test = train_test_split(X,y,test_size = 0.3,random_state = 7)
 model = LinearDiscriminantAnalysis(n_components = 2,solver = 'svd')
@@ -846,19 +868,20 @@ params2E1 = np.round(model2E1.coef_,decimals = 3)
 intercept2E1 = np.round(model2E1.intercept_,decimals = 3)
 print(np.round(params2E1,decimals = 3))
 print(np.round(model2E1.intercept_,decimals = 3))
+
 #creating plot to visualise how grouping is done
-plt.figure()
-colors = [ 'green','lime','yellow','orange','red','black']
-lw = 2
-for color, i, target_name in zip(colors, [1,2,3,4,5,6], target_names):
-    plt.scatter(data_plot[y == i, 0], data_plot[y == i, 1], alpha=.8, color=color,
-                label=target_name)
+#plt.figure()
+#colors = [ 'green','lime','yellow','orange','red','black']
+#lw = 2
+#for color, i, target_name in zip(colors, [1,2,3,4,5,6], target_names):
+    #plt.scatter(data_plot[y == i, 0], data_plot[y == i, 1], alpha=.8, color=color,
+ #               label=target_name)
 
 #add legend to plot
-plt.legend(loc='best', shadow=False, scatterpoints=1)
-plt.title('Summative scale_Inundation Model')
+#plt.legend(loc='best', shadow=False, scatterpoints=1)
+#plt.title('Summative scale_Inundation Model')
 #display LDA plot
-plt.show()
+#plt.show()
 
 X_train, X_test, y_train, y_test = train_test_split(X,y,test_size = 0.3,random_state = 7)
 model = LinearDiscriminantAnalysis(n_components = 2,solver = 'svd')
@@ -917,12 +940,12 @@ df_all_curr_all['totalloss'] = df_all_curr_all['Population_affected_Total']+df_a
 
 # 3A. Factor Score: Flood Hazard
 data_heads = list(df_all_curr_all.columns.values)
-df_all_curr_all['object_id'] = df_all_curr_all['object_id']
 
 #Flood Hazard modelled as Impact
 #df_all_curr_all['object_id'] = df_all_curr_all['object_id']*180+101
 #Flood Hazard modelled as Flood proneness
 object_id = df_all_curr_all['object_id']*180+101
+df_all_curr_all['object_id'] = object_id
 
 low = df_all_curr_all['elevation_mean'] <=0.04
 lowdata = df_all_curr_all[low]
@@ -1053,7 +1076,7 @@ for i in range(0,len(params2C1)):
     sum_w = sum_w+abs(params2C1[i][5]/params2C1[i][4])
 resp_w = sum_w/6
 print(resp_w)
-factorscores.to_csv('factor.csv')
+#factorscores.to_csv('factor.csv')
 
 
 #&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -1105,7 +1128,7 @@ for i in range(len(topsis_data)):
    
 data_topsis_head = list(factorscores.columns.values)
 topsis_data = pd.DataFrame(data = topsis_data,columns = data_topsis_head)
-topsis_data.to_csv('TOPSIS_results_mda.csv')
+#topsis_data.to_csv('TOPSIS_results_mda.csv')
 
 topsis_data['positive_dist'] = pp
 topsis_data['negative_dist'] = nn
@@ -1125,4 +1148,11 @@ topsis_data['exposurevar'] = df_all_curr['sum_population']
 topsis_data[['rail_length','road_length','schools_count','health_centres_count']] = df_all_curr[['rail_length','road_length','schools_count','health_centres_count']]
 topsis_data[['Population_affected_Total','Crop_Area','Total_Animal_Affected','hist_popaff_max']] = df_all_curr[['Population_affected_Total','Crop_Area','Total_Animal_Affected','hist_popaff_max']]
 topsis_data[['total_tender_awarded_value','cum_Preparedness']] = df_all_curr[['total_tender_awarded_value','cum_Preparedness']]
-topsis_data.to_csv('TOPSIS_floodproneness_june23.csv')
+
+if int(month_output) <10:
+    month_output = '0'+str(month_output)
+else:
+    month_output = str(month_output)
+topsis_data['timeperiod'] = str(year_output)+'_'+str(month_output)
+topsis_data['object_id'] = topsis_data['object_id'].apply(lambda x: round(x))
+topsis_data.to_csv('LDA/data/TOPSIS_floodproneness_{}_{}.csv'.format(str(year_output), month_output), index=False)

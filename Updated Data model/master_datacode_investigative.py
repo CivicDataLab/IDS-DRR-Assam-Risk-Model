@@ -439,6 +439,8 @@ df_all['infravulner'] = df_all['road_length']+df_all['rail_length']+df_all['scho
 #--------------------------------------------------------------------------
 df_all['totalloss'] = df_all['Population_affected_Total']+df_all['Crop_Area']+df_all['Total_Animal_Affected']
 
+df_all['totalexposure'] = df_all['sum_population']+df_all['total_hhd']
+
 # 1.8 Inundation Analysis
 # --------------------------
 
@@ -470,9 +472,9 @@ df_inun = df_all[inunmths]
 pca = PCA(n_components=2)
 
 fldhzrd = ['elevation_mean','slope_mean','drainage_density','trees','water','built_area',
-'bare_ground','rangeland','mean_cn','distance_from_river']
+'bare_ground','rangeland','mean_cn','distance_from_river','crops']
 df_all_1 = df_all[['object_id','elevation_mean','slope_mean','drainage_density','trees',
-'water','built_area','bare_ground','rangeland','mean_cn','distance_from_river']]
+'water','built_area','bare_ground','rangeland','mean_cn','distance_from_river','crops']]
 print('PCA Analysis for fldhzrd:')
 pca_df_fld = pca.fit_transform(df_all_1[fldhzrd])
 print(pca.explained_variance_ratio_)
@@ -587,9 +589,13 @@ pred_all.to_csv('physicalchar.csv')
 ax.scatter(scores[:, 0], scores[:, 1],c=pred,cmap = cm.Accent)
 
 #ax.scatter(pca_df_fld_2[ : , 0], pca_df_fld_2[ : , 1])
-for center in Kmean.cluster_centers_:
+i = 8
+for center in arr: 
     center = center[:2]
     plt.scatter(center[0],center[1],marker = '^',c = 'red',s = 30)
+    plt.text(center[0]+0.05,center[1],i, horizontalalignment='left', size='medium', color='black')
+    i = i-1
+
 plt.savefig('physicalchar_1.png')
 Kmean.labels_
 
@@ -815,17 +821,17 @@ fldhzd_w = 2
 # ------------------
 
 expscore = []
-for row in present_data['sum_population']:
-    if row <= present_data['sum_population'].mean():
+for row in present_data['totalexposure']:
+    if row <= present_data['totalexposure'].mean():
         expscore.append(1)
     else:
-        if row <= present_data['sum_population'].mean()+present_data['sum_population'].std():
+        if row <= present_data['totalexposure'].mean()+present_data['totalexposure'].std():
             expscore.append(2)
         else:
-            if row <= present_data['sum_population'].mean()+2*present_data['sum_population'].std():
+            if row <= present_data['totalexposure'].mean()+2*present_data['totalexposure'].std():
                 expscore.append(3)
             else:
-                if row <= present_data['sum_population'].mean()+3*present_data['sum_population'].std():
+                if row <= present_data['totalexposure'].mean()+3*present_data['totalexposure'].std():
                     expscore.append(4) 
                 else:
                     expscore.append(5)
@@ -1137,6 +1143,40 @@ for row in df_all['cum_Immediate']:
                     resp_imm_inv.append(2) 
                 else:
                     resp_imm_inv.append(1)                      
+
+resp_others = []
+for row in df_all['cum_Others_tenders_awarded_value']:
+    if row <= df_all['cum_Others_tenders_awarded_value'].mean():
+        resp_others.append(1)
+    else:
+        if row <= df_all['cum_Others_tenders_awarded_value'].mean()+0.5*df_all['cum_Others_tenders_awarded_value'].std():
+            resp_others.append(2)
+        else:
+            if row <= df_all['cum_Others_tenders_awarded_value'].mean()+1*df_all['cum_Others_tenders_awarded_value'].std():
+                resp_others.append(3)
+            else:
+                if row <=df_all['cum_Others_tenders_awarded_value'].mean()+2*df_all['cum_Others_tenders_awarded_value'].std():
+                    resp_others.append(4) 
+                else:
+                    resp_others.append(5)   
+                    
+                    
+
+resp_others_inv = []
+for row in df_all['cum_Others_tenders_awarded_value']:
+    if row <= df_all['cum_Others_tenders_awarded_value'].mean():
+        resp_others_inv.append(5)
+    else:
+        if row <= df_all['cum_Others_tenders_awarded_value'].mean()+0.5*df_all['cum_Others_tenders_awarded_value'].std():
+            resp_others_inv.append(4)
+        else:
+            if row <= df_all['cum_Others_tenders_awarded_value'].mean()+1*df_all['cum_Others_tenders_awarded_value'].std():
+                resp_others_inv.append(3)
+            else:
+                if row <=df_all['cum_Others_tenders_awarded_value'].mean()+2*df_all['cum_Others_tenders_awarded_value'].std():
+                    resp_others_inv.append(2) 
+                else:
+                    resp_others_inv.append(1)   
                     
 resp_total_all = []
 for row in df_all['cum_total_tender_awarded_value']:
@@ -1174,6 +1214,8 @@ df_all['resp_prep'] = resp_prep
 df_all['resp_prep_inv'] = resp_prep_inv
 df_all['resp_imm'] = resp_imm
 df_all['resp_imm_inv'] = resp_imm_inv
+df_all['resp_others'] = resp_others
+df_all['resp_others_inv'] = resp_others_inv
 df_all['resp_total_all'] = resp_total_all
 df_all['resp_total_all_inv'] = resp_total_all_inv
 
@@ -1186,15 +1228,20 @@ resp1_inv = list(present_data['resp_prep_inv'])
 resp2 = list(present_data['resp_imm'])
 resp2_inv = list(present_data['resp_imm_inv'])
 
+resp3 = list(present_data['resp_others'])
+resp3_inv = list(present_data['resp_others_inv'])
+
 resp_all = list(present_data['resp_total_all'])
 resp_all_inv = list(present_data['resp_total_all_inv'])
 
 #score['resp1'] = resp1
 #score['resp2'] = resp2
+#score['resp3'] = resp3
 #score['resp_all'] = resp_all
 
 score['resp1_inv'] = resp1_inv
 score['resp2_inv'] = resp2_inv
+score['resp3_inv'] = resp3_inv
 score['resp_all_inv'] = resp_all_inv
 
 resp_w = 2
@@ -1272,8 +1319,8 @@ train_year = df_inun['year'] < 1
 train_data = df_inun[train_year]
 train_data = pd.DataFrame(data = train_data,columns = head_2023)
 
-X_train = train_data[['inundation_intensity_sum','sum_population','sociovulner','infravulner','phyvulner','cum_Preparedness','cum_Immediate']]
-X_test = data_2023[['inundation_intensity_sum','sum_population','sociovulner','infravulner','phyvulner','cum_Preparedness','cum_Immediate']]
+X_train = train_data[['inundation_intensity_sum','sum_population','cum_total_tender_awarded_value']]
+X_test = data_2023[['inundation_intensity_sum','sum_population','cum_total_tender_awarded_value']]
 y_train = train_data['Impact_level']
 y_test = data_2023['Impact_level']
 

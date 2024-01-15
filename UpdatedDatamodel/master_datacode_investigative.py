@@ -46,11 +46,13 @@ oversampler = RandomOverSampler(random_state = 0)
 # ---------
 
 present_month = 6
-
+present_year = 2022
 # 0. Reading master file
 #--------------------
 
 data = pd.read_csv('MASTER_VARIABLES.csv')
+data = data[(data['year']<=present_year)]
+
 districtrc = pd.read_csv('DistrictRC.csv')
 
 hist_inun_avg = []
@@ -205,7 +207,7 @@ month = []
 #1.2 Computing Cumulative values for funds allocated in a year
 #----------------------------------------------------------
 for i in rc:
-    for j in range(2021,2024):
+    for j in range(2021,present_year+1):
         if j == 2021:
             for k in range(4,13):
                 month.append(k)
@@ -393,11 +395,10 @@ cum_rain.to_csv('2monthcumulativerain.csv')
 #Sorting data based on object id, year and month
 inun_yearsort = data.sort_values(by = ['object_id','year','month']).reset_index(drop = True)
 inun_yearsort = inun_yearsort.replace(r'^\s+$', np.nan, regex=True)
-
 #0. Using only data after 2021 for modelling as data all on variables is not availabe prior to this
 #-----------------------------------------------------------------------------------------------
 
-dataafter21 = (inun_yearsort['year'] >= 2021) & (inun_yearsort['year'] <= 2023) #2023 could be updated to include present year
+dataafter21 = (inun_yearsort['year'] >= 2021) & (inun_yearsort['year'] <= present_year) #2023 could be updated to include present year
 inun_yearsort = inun_yearsort[dataafter21]
 inun_yearsort.reset_index(drop = True)
 inun_yearsort.to_csv('INUN_landchar.csv')
@@ -420,9 +421,6 @@ data_heads.remove('district')
 scaler.fit(inun_yearsort[data_heads])
 data_min_max_scaled = scaler.transform(inun_yearsort[data_heads])
 df_all= pd.DataFrame(data = data_min_max_scaled,columns = data_heads)
-
-print(df_all.shape)
-exit()
 
 # 1.4 Defining new variables based on factor analysis: Flood hazard
 #-------------------------------------------------------------------
@@ -459,13 +457,11 @@ df_all['totalexposure'] = df_all['sum_population']+df_all['total_hhd']
       
 
 inunmths = (inun_yearsort['month'] >=5 )&(inun_yearsort['month']<=9)
-df_inun = df_all[inunmths]
+
+df_inun = df_all[inunmths.reset_index(drop=True)]
 inunyearsort_inun = inun_yearsort[inunmths]
 print(df_inun['inundation_intensity_sum'].describe())
 print(inunyearsort_inun['inundation_intensity_sum'].describe())
-
-inunmths = (inun_yearsort['month'] >=5 )&(inun_yearsort['month']<=9)
-df_inun = df_all[inunmths]
 #plt.hist(df_inun['Inun_level'],bins = 5)
 
 ##########################################################################################################
@@ -793,8 +789,11 @@ rain_inun_db.to_csv('rain_inun_db.csv')
 
 # 2A.1.1 Computing the flood hazard scores
 # ------------------------------------
-
-present_data_index = (df_all['year'] == 1) & (df_all['month']*11+1 > present_month - 1)& (df_all['month']*11+1 < present_month + 1)
+if present_year == 2021:
+    max_year_scaled = 0
+else:
+    max_year_scaled = 1
+present_data_index = (df_all['year'] == max_year_scaled) & (round(df_all['month']*11+1) == present_month)
 present_data = df_all[present_data_index]
 present_data.to_csv('present_data.csv')
 j = 0
@@ -905,7 +904,8 @@ df_all['socloss'] = df_all['Population_affected_Total']
 df_all['totalloss'] = 0.4*df_all['prodsysloss']+0.2*df_all['infraloss']+0.4*df_all['Population_affected_Total']
 
 inunmths = (inun_yearsort['month'] >=5 )&(inun_yearsort['month']<=9)
-df_inun = df_all[inunmths]
+df_inun = df_all[inunmths.reset_index(drop=True)]
+
 
 #df_inun : includes only months May to September
 vulner1 = []
@@ -1038,7 +1038,14 @@ hist_loss4 = []
 # Determining max historic total loss level
 rc = data['object_id'].unique()
 for i in rc:
-    for k in range(1,29):
+    if present_year==2021:
+        k_e = 9
+    elif present_year==2022:
+        k_e = 21
+    elif present_year==2023:
+        k_e = 29
+    
+    for k in range(1,k_e+1):
         if k == 1:
             data_index = (data['object_id'] == i) & (data['time_stamp'] <= k)
             data_selected = df_all[data_index]
@@ -1048,14 +1055,14 @@ for i in rc:
             data_selected = df_all[data_index]
             hist_loss4.append(data_selected['loss4'].max())
         #print(hist_loss4)
-        
+
 df_all['hist_loss4'] = hist_loss4
 df_all['vulnerability'] = round((0.45*df_all['copingdeficiency']+0.45*df_all['damages']+0.1*df_all['hist_loss4']),0)
 
 inunmths = (inun_yearsort['month'] >=5 )&(inun_yearsort['month']<=9)
 df_inun = df_all[inunmths]
 
-present_data_index = (df_all['year'] == 1) & (df_all['month']*11+1 > present_month - 1)& (df_all['month']*11+1 < present_month + 1)
+present_data_index = (df_all['year'] == max_year_scaled) & (round(df_all['month']*11+1) == present_month)
 present_data = df_all[present_data_index]
 copingdeficit = list(present_data['copingdeficiency'])
 damages = list(present_data['damages'])
@@ -1222,7 +1229,7 @@ df_all['resp_others_inv'] = resp_others_inv
 df_all['resp_total_all'] = resp_total_all
 df_all['resp_total_all_inv'] = resp_total_all_inv
 
-present_data_index = (df_all['year'] == 1) & (df_all['month']*11+1 > present_month - 1)& (df_all['month']*11+1 < present_month + 1)
+present_data_index = (df_all['year'] == max_year_scaled) & (round(df_all['month']*11+1) == present_month)
 present_data = df_all[present_data_index]
 
 resp1= list(present_data['resp_prep']) 
@@ -1309,30 +1316,33 @@ plt.title('Summative scale_Final model_low elevations')
 #display LDA plot
 #plt.show()
 
-year_2023 = df_inun['year'] == 1
-data_2023 = df_inun[year_2023]
-head_2023 = list(df_inun.columns.values)
-data_2023 = pd.DataFrame(data = data_2023,columns = head_2023 )
+if present_year == 2021:
+    pass
+else:
+    year_2023 = df_inun['year'] == 1
+    data_2023 = df_inun[year_2023]
+    head_2023 = list(df_inun.columns.values)
+    data_2023 = pd.DataFrame(data = data_2023,columns = head_2023 )
 
 
-X_train, X_test, y_train, y_test = train_test_split(X,y,test_size = 0.2,random_state = 7)
-model = LinearDiscriminantAnalysis(n_components = 2,solver = 'svd')
+    X_train, X_test, y_train, y_test = train_test_split(X,y,test_size = 0.2,random_state = 7)
+    model = LinearDiscriminantAnalysis(n_components = 2,solver = 'svd')
 
-train_year = df_inun['year'] < 1
-train_data = df_inun[train_year]
-train_data = pd.DataFrame(data = train_data,columns = head_2023)
+    train_year = df_inun['year'] < 1
+    train_data = df_inun[train_year]
+    train_data = pd.DataFrame(data = train_data,columns = head_2023)
 
-X_train = train_data[['inundation_intensity_sum','sum_population','cum_total_tender_awarded_value']]
-X_test = data_2023[['inundation_intensity_sum','sum_population','cum_total_tender_awarded_value']]
-y_train = train_data['Impact_level']
-y_test = data_2023['Impact_level']
+    X_train = train_data[['inundation_intensity_sum','sum_population','cum_total_tender_awarded_value']]
+    X_test = data_2023[['inundation_intensity_sum','sum_population','cum_total_tender_awarded_value']]
+    y_train = train_data['Impact_level']
+    y_test = data_2023['Impact_level']
 
-data_plot = model.fit(X_train, y_train).transform(X_train)
-y_pred = model.predict(X_test)
+    data_plot = model.fit(X_train, y_train).transform(X_train)
+    y_pred = model.predict(X_test)
 #print(y_test)
 #print(y_pred)
-from sklearn.metrics import accuracy_score
-print(accuracy_score(y_test, y_pred))
+    from sklearn.metrics import accuracy_score
+    print(accuracy_score(y_test, y_pred))
 
 # 2D. Population segmented model to determe effect of infrastructure 
 #-------------------------------------------------------------------
@@ -1392,24 +1402,27 @@ plt.title('Summative scale_Final model_population')
 #display LDA plot
 #plt.show()
 
-X_train, X_test, y_train, y_test = train_test_split(X,y,test_size = 0.3,random_state = 7)
-model = LinearDiscriminantAnalysis(n_components = 2,solver = 'svd')
+if present_year == 2021:
+    pass
+else:
+    X_train, X_test, y_train, y_test = train_test_split(X,y,test_size = 0.3,random_state = 7)
+    model = LinearDiscriminantAnalysis(n_components = 2,solver = 'svd')
 
-train_year = df_new['year'] < 1
-train_data = df_new[train_year]
-train_data = pd.DataFrame(data = train_data,columns = head_2023)
+    train_year = df_new['year'] < 1
+    train_data = df_new[train_year]
+    train_data = pd.DataFrame(data = train_data,columns = head_2023)
 
-X_train = train_data[['sociovulner','infravulner','phyvulner','inundation_intensity_sum']]
-X_test = data_2023[['sociovulner','infravulner','phyvulner','inundation_intensity_sum']]
-y_train = train_data['Impact_level']
-y_test = data_2023['Impact_level']
+    X_train = train_data[['sociovulner','infravulner','phyvulner','inundation_intensity_sum']]
+    X_test = data_2023[['sociovulner','infravulner','phyvulner','inundation_intensity_sum']]
+    y_train = train_data['Impact_level']
+    y_test = data_2023['Impact_level']
 
-data_plot = model.fit(X_train, y_train).transform(X_train)
-y_pred = model.predict(X_test)
-#print(y_test)
-#print(y_pred)
-from sklearn.metrics import accuracy_score
-print(accuracy_score(y_test, y_pred))
+    data_plot = model.fit(X_train, y_train).transform(X_train)
+    y_pred = model.predict(X_test)
+    #print(y_test)
+    #print(y_pred)
+    from sklearn.metrics import accuracy_score
+    print(accuracy_score(y_test, y_pred))
 
 # Modifying vulnerability score considering LDA results
 # ------------------------------------------------------
@@ -1521,7 +1534,7 @@ score['formula_riskscore'] = round(((score['flood_hazard_score']**2)*(score['mod
 
 df_all.to_csv('df_all.csv')
 score.to_csv('score.csv')
-
+exit()
 
 #&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 #                               STAGE 6: DISTRICT WISE ANALYSIS
@@ -1533,7 +1546,7 @@ district_cumpreparedness = []
 district_cumimmediate = []
 district_cumtotaltenders = []
 
-present_data_index = (df_all['year'] == 1) & (df_all['month']*11+1 > present_month - 1)& (df_all['month']*11+1 < present_month + 1)
+present_data_index = (df_all['year'] == max_year_scaled) & (round(df_all['month']*11+1) == present_month)
 present_data = df_all[present_data_index]
 district_pop = []
 district_response = []

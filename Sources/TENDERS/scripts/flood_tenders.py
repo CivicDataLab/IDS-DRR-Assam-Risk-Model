@@ -107,17 +107,52 @@ for csv in csvs:
 
     idea_frm_tenders_df.loc[:,'Scheme'] = schemes_identified
 
-    #Classification of Tenders based on Response Type
-    IMMEDIATE_MEASURES_KEYWORDS = ['sdrf','im','i/m','gr','g/r','relief','package','pkt','immediate']
-    PREPAREDNESS_MEASURES_KEYWORDS = ['protection','new', 'reconstruction', 'constn' ,'recoupment', 'restoration', 'embankment', 'embkt',
-                        'dyke','culvert','storm water', 'drainage','drain','drains','box','rcc','silt','desiltation','prosiltation',
-                        'anti erosion', 'erosion','a/e','ae','a e','bank protection','bank breach','breach','sludging','desludging',
-                        'sluice','bund','bundh', 'dam','canal','road','roads',
-                        'bridge','bridges','data','drone','rescue','consultation','advisory','consult','study']
+    # EROSION RELATED TENDERS
+    EROSION_KEYWORDS = ['anti erosion', 'ae', 'a/e', 'a e', 'erosion', 'eroded', 'erroded', 'errosion']
+    for index, row in idea_frm_tenders_df.iterrows():
+        tender_slug = str(row['tender_externalreference']) + ' ' + str(row['tender_title']) + ' ' + str(row['Work Description'])
+        tender_slug = re.sub('[^a-zA-Z0-9 \n\.]', ' ', tender_slug)
 
+        is_present = [len(re.findall(r"\b%s\b" % kw.lower(), tender_slug.lower())) for kw in EROSION_KEYWORDS]
+        if sum(is_present)>0:
+            idea_frm_tenders_df.loc[index, "Erosion"] = True
+        else:
+            idea_frm_tenders_df.loc[index, "Erosion"] = False
+    
+    # ROADS, BRIDGES EMBANKMENTS RELATED TENDERS
+    ROADS_BRIDGES_EMBANKMENTS_KEYWORDS = ['roads', 'bridges', 'road', 'bridge', 'storm water drain' ,'drain',
+                                          'box cul', 'box culvert', 'box culv', 'culvert' ,'embankment', 'embkt',
+                                          'river bank protection', 'bund', 'bunds', 'bundh', 'bank protection', 'dyke',
+                                          'dyke wall', 'dyke walls', 'silt', 'siltation', 'sluice', 'breach']
+    for index, row in idea_frm_tenders_df.iterrows():
+        tender_slug = str(row['tender_externalreference']) + ' ' + str(row['tender_title']) + ' ' + str(row['Work Description'])
+        tender_slug = re.sub('[^a-zA-Z0-9 \n\.]', ' ', tender_slug)
+
+        is_present = [len(re.findall(r"\b%s\b" % kw.lower(), tender_slug.lower())) for kw in ROADS_BRIDGES_EMBANKMENTS_KEYWORDS]
+        if sum(is_present)>0:
+            idea_frm_tenders_df.loc[index, "Roads_Bridges_Embkt"] = True
+        else:
+            idea_frm_tenders_df.loc[index, "Roads_Bridges_Embkt"] = False
+
+    #Classification of Tenders based on Response Type
+    IMMEDIATE_MEASURES_KEYWORDS = ['sdrf','im','i/m','gr','g/r','relief','package','pkt','immediate', 'emergency', 'pk', 'g.r.', 'i.m.']
+    REPAIR_RESTORATION_IMPROVEMENTS_KEYWORDS = ['improvement', 'imp.', 'impvt', 'impt.', 'repair',
+                                                'repairing', 'restoration', 'reconstruction', 'reconstn', 'recoupment',
+                                                'raising', 'strengthening', 'r/s', 'm and r', 'upgradation', 'renovation',
+                                                'repairing/renovation', 'up-gradation', 'm-r', 'mr', 'widening', 'r s', 'extension',
+                                                'replacement', 're-shaping', 're-grading']
+    # PREPAREDNESS_MEASURES_KEYWORDS = ['protection','new', 'reconstruction', 'constn' ,'recoupment', 'restoration', 'embankment', 'embkt',
+    #                     'dyke','culvert','storm water', 'drainage','drain','drains','box','rcc','silt','desiltation','prosiltation',
+    #                     'anti erosion', 'erosion','a/e','ae','a e','bank protection','bank breach','breach','sludging','desludging',
+    #                     'sluice','bund','bundh', 'dam','canal','road','roads',
+    #                     'bridge','bridges','data','drone','rescue','consultation','advisory','consult','study']
+
+    PREPAREDNESS_KEYWORDS = ['shelter', 'shelters', 'tarpaulin', 'rehabilitation']
     for index, row in idea_frm_tenders_df.iterrows():
         immedidate_measures_dict = populate_keyword_dict(IMMEDIATE_MEASURES_KEYWORDS)
-        preparedness_measures_dict = populate_keyword_dict(PREPAREDNESS_MEASURES_KEYWORDS)
+        repair_restoration_dict = populate_keyword_dict(REPAIR_RESTORATION_IMPROVEMENTS_KEYWORDS)
+        preparedness_measures_dict = populate_keyword_dict(PREPAREDNESS_KEYWORDS)
+        
         response_type = "Others"
         tender_slug = str(row['tender_externalreference']) + ' ' + str(row['tender_title']) + ' ' + str(row['Work Description'])
         tender_slug = re.sub('[^a-zA-Z0-9 \n\.]', ' ', tender_slug)
@@ -129,6 +164,14 @@ for csv in csvs:
                 immedidate_measures_dict[keyword] =  False
             else:
                 response_type = "Immediate Measures"
+
+        for keyword in repair_restoration_dict:
+            keyword_count = len(re.findall(r"\b%s\b" % keyword.lower(), tender_slug.lower()))
+            repair_restoration_dict[keyword] = keyword_count
+            if not keyword_count:
+                repair_restoration_dict[keyword] =  False
+            else:
+                response_type = "Repair and Restoration"
         
         for keyword in preparedness_measures_dict:
             keyword_count = len(re.findall(r"\b%s\b" % keyword.lower(), tender_slug.lower()))
@@ -142,6 +185,9 @@ for csv in csvs:
         if response_type == "Immediate Measures":
             sub_head_dict = {k: v for k, v in immedidate_measures_dict.items() if v is not False}
             idea_frm_tenders_df.loc[index, "Flood Response - Subhead"] = str(sub_head_dict)
+        elif response_type == "Repair and Restoration":
+            sub_head_dict = {k: v for k, v in repair_restoration_dict.items() if v is not False}
+            idea_frm_tenders_df.loc[index, "Flood Response - Subhead"] = str(sub_head_dict) 
         elif response_type == "Preparedness Measures":
             sub_head_dict = {k: v for k, v in preparedness_measures_dict.items() if v is not False}
             idea_frm_tenders_df.loc[index, "Flood Response - Subhead"] = str(sub_head_dict)  

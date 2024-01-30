@@ -434,7 +434,7 @@ df_all['phyvulner'] = df_all['rc_piped_hhds_pct']+df_all['avg_electricity']-df_a
 
 # 1.6 Defining new variables based on factor analysis:Infrastructure access
 #--------------------------------------------------------------------------
-df_all['infravulner'] = df_all['road_length']+df_all['rail_length']+df_all['schools_count']+df_all['health_centres_count']
+df_all['infravulner'] = df_all['road_length']+df_all['rail_length']+df_all['schools_count']+df_all['health_centres_count'] - df_all['Embankment breached'] 
 
 # 1.7 Defining new variables based on factor analysis:Total Impact
 #--------------------------------------------------------------------------
@@ -899,7 +899,7 @@ df_all['sociovulner'] = df_all['net_sown_area_in_hac']+df_all['sum_aged_populati
 # Redefining Total loss
 # ---------------------
 df_all['prodsysloss'] = df_all['Total_Animal_Affected']+df_all['Total_Animal_Washed_Away']+df_all['Crop_Area']
-df_all['infraloss'] = df_all['Total_House_Fully_Damaged']+df_all['Embankments affected']+df_all['Embankment breached']+df_all['Roads']+df_all['Bridge']
+df_all['infraloss'] = df_all['Total_House_Fully_Damaged']+df_all['Embankments affected']+df_all['Roads']+df_all['Bridge']
 df_all['socloss'] = df_all['Population_affected_Total']
 df_all['totalloss'] = 0.4*df_all['prodsysloss']+0.2*df_all['infraloss']+0.4*df_all['Population_affected_Total']
 
@@ -1028,7 +1028,7 @@ df_all['vulner3'] = vulner3
 df_all['loss1'] = loss1
 df_all['loss2'] = loss2
 df_all['loss3'] = loss3
-df_all['loss4'] = round(0.4*df_all['loss1']+0.2*df_all['loss2']+0.4*df_all['loss3'],0)
+df_all['loss4'] = round(df_all['loss1']+df_all['loss2']+df_all['loss3'],0)
 df_all['copingdeficiency'] = round((8*df_all['vulner1']+5*df_all['vulner2']+5*df_all['vulner3'])/18,0)
 df_all['damages'] = df_all['loss4']
 

@@ -24,10 +24,10 @@ exp_w = 1
 vul_w = 2
 resp_w = 2
 
-weights = [fldhzd_w,exp_w,vul_w,resp_w]
+weights = [fldhzd_w,vul_w,exp_w,resp_w]
 
 sum_weights = fldhzd_w+exp_w+vul_w+resp_w
-weights = [fldhzd_w/sum_weights,exp_w/sum_weights,vul_w/sum_weights,resp_w/sum_weights]
+weights = [fldhzd_w/sum_weights,vul_w/sum_weights,exp_w/sum_weights,resp_w/sum_weights]
 print(weights)
 score = pd.read_csv('predicted_scores_2.csv')
 scores_interest = score[["object_id","Hazard","Vulnerability","Exposure","Response"]]

@@ -25,6 +25,7 @@ for source in sources:
             files_in_s3.append(key['Key'].split('data')[1])
     except:
         pass
+    
     # Uploading variables only
     for root, dirs, files in os.walk(cwd+'/Sources/{}/data/variables/'.format(source)):
         if '.ipynb_checkpoints' in root:

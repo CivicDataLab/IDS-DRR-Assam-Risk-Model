@@ -139,7 +139,7 @@ for csv in csvs:
     REPAIR_RESTORATION_IMPROVEMENTS_KEYWORDS = ['improvement', 'imp.', 'impvt', 'impt.', 'repair',
                                                 'repairing', 'restoration', 'reconstruction', 'reconstn', 'recoupment',
                                                 'raising', 'strengthening', 'r/s', 'm and r', 'upgradation', 'renovation',
-                                                'repairing/renovation', 'up-gradation', 'm-r', 'mr', 'widening', 'r s', 'extension',
+                                                'repairing/renovation', 'up-gradation', 'm-r', 'm-r ', 'mr', 'widening', 'r s', 'extension',
                                                 'replacement', 're-shaping', 're-grading']
     # PREPAREDNESS_MEASURES_KEYWORDS = ['protection','new', 'reconstruction', 'constn' ,'recoupment', 'restoration', 'embankment', 'embkt',
     #                     'dyke','culvert','storm water', 'drainage','drain','drains','box','rcc','silt','desiltation','prosiltation',
@@ -147,7 +147,10 @@ for csv in csvs:
     #                     'sluice','bund','bundh', 'dam','canal','road','roads',
     #                     'bridge','bridges','data','drone','rescue','consultation','advisory','consult','study']
 
-    PREPAREDNESS_KEYWORDS = ['shelter', 'shelters', 'tarpaulin', 'rehabilitation']
+    PREPAREDNESS_KEYWORDS = ['shelter', 'shelters', 'tarpaulin', 'shelter ',
+                             'responder kit', 'aapda mitra volunteers','aapda mitra volunteer', 'district emergency stockpile', 'search light',
+                             'life buoys', 'boat ambulances', 'boat ambulance', 'inflatable rubber',
+                             'mechanized boats', 'mechanised boats','mechanized boat', 'mechanised boat']
     for index, row in idea_frm_tenders_df.iterrows():
         immedidate_measures_dict = populate_keyword_dict(IMMEDIATE_MEASURES_KEYWORDS)
         repair_restoration_dict = populate_keyword_dict(REPAIR_RESTORATION_IMPROVEMENTS_KEYWORDS)

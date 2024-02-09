@@ -6,6 +6,28 @@ After all the variables are prepared, you can calculate the factor scores and th
 
 ### Calculation of Factor Scores
 
+#### Exposure
+
+![alt text](docs/exposure.jpg)
+
+1. `sum_population` and `total_hhd` variables are considered for the calculation. (add other variables as required)
+2. Use min_max scaler to scale these variables for each month.
+3. Sum the scaled variables of `sum_population` and `total_hhd`
+4. Find mean and standard deviation of the sum calculated above.
+5. Then find the `exposure` factor score using the following criteria:
+
+    - If sum <= mean => very low(1) 
+    - mean to mean+1std => low(2)
+    - mean+1std to mean+2std => medium(3)
+    - mean+2std to mean+3std => high(4)
+    - sum > mean+3std => very high(5)
+
+`exposure.py` is the code that runs above steps.
+
+Input -- `MASTER_VARIABLES.csv`
+
+Output -- `factor_scores_l1_exposure.csv`
+
 #### Flood Hazard
 ...
 
@@ -13,12 +35,10 @@ After all the variables are prepared, you can calculate the factor scores and th
 #### Vulnerability
 ...
 
-#### Exposure
-...
-
 #### Government Response
 ...
 
+Output -- `factor_scores.csv`
 
 ## Calculation of Risk-Score using TOPSIS
 

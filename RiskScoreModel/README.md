@@ -4,9 +4,9 @@
 
 After all the variables are prepared, you can calculate the factor scores and the risk score for each revenue circle.
 
-### Calculation of Factor Scores
+## Calculation of Factor Scores
 
-#### Exposure
+### Exposure
 
 ![alt text](docs/exposure.jpg)
 
@@ -28,14 +28,33 @@ Input -- `MASTER_VARIABLES.csv`
 
 Output -- `factor_scores_l1_exposure.csv`
 
-#### Flood Hazard
+### Flood Hazard
+![alt text](docs/hazard.jpg)
+
+1. `inundation_intensity_mean_nonzero` and `inundation_intensity_sum` variables are considered for the calculation. (add other variables as required)
+
+2. Using the following table, calculate class for both these variables, for each revenue circle in each month.
+
+- If sum <= mean => very low(1) 
+- mean to mean+1std => low(2)
+- mean+1std to mean+2std => medium(3)
+- mean+2std to mean+3std => high(4)
+- sum > mean+3std => very high(5)
+
+3. Take average of both the classes thus calculated.
+4. Then find the `exposure` factor score by rounding the average.
+
+`hazard.py` is the code that runs above steps.
+
+Input -- `MASTER_VARIABLES.csv`
+
+Output -- `factor_scores_l1_hazard.csv`
+
+
+### Vulnerability
 ...
 
-
-#### Vulnerability
-...
-
-#### Government Response
+### Government Response
 ...
 
 Output -- `factor_scores.csv`

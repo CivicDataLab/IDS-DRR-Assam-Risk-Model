@@ -282,6 +282,8 @@ def VRS(DMU, X, Y, orientation, dual):
     
     I=len(X[DMU[0]])
     O=len(Y[DMU[0]])    
+    efficiencies = []
+    DMUs = []
     E={}  
     u0_v={}
     
@@ -320,15 +322,23 @@ def VRS(DMU, X, Y, orientation, dual):
                 m.optimize()
                 
                 # Print efficiency            
-                E[r]="The efficiency of DMU %s:%0.3f"%(r,m.objVal)
+                #E[r]="The efficiency of DMU %s:%0.3f"%(r,m.objVal)
+
+                efficiencies.append(m.objVal)
+                DMUs.append(r)
                 
-                print (E[r])
+                #print (E[r])
     #            if RTS_check==True:
     #                u0_v[r]='%s = %0.3f'%(u0[r].varName,u0[r].X)
     #                print(u0_v[r])
     
             except GurobiError:
             	print ('GurobiError reported')
+
+        df = pd.DataFrame([DMU,efficiencies]).T
+        df.columns = ['DMU', 'efficiency']
+
+        return df
 
 
     elif(orientation=="input" and dual==True):

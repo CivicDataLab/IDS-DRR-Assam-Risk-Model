@@ -24,7 +24,8 @@ for month in tqdm(exposure_df.timeperiod.unique()):
     exposure_df_month[exposure_vars] = scaler.fit_transform(exposure_df_month[exposure_vars])
     
     # Sum scaled exposure vars
-    exposure_df_month['sum'] = exposure_df_month['sum_population'] + exposure_df_month['total_hhd']     
+    
+    exposure_df_month['sum'] = exposure_df_month[exposure_vars].sum(axis=1)
     
     # Calculate mean and standard deviation
     mean = exposure_df_month['sum'].mean()

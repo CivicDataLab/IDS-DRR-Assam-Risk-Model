@@ -5,7 +5,11 @@ We used the [BHARAT MAPS GIS Service](https://bharatmaps.gov.in/newversion/map.a
 
 This is a snapshot data that we obtained as on September 2023.
 
-**Variables extracted from the source:** `Number of hospitals in each revenue circle`, `Number of schools in each revenue circle`, `Length of roads in each revenue circle`, `Lenght of rail network in each revenue circle`
+**Variables extracted from the source:** 
+1. `Number of hospitals in each revenue circle`
+2. `Number of schools in each revenue circle`
+3. `Length of roads in each revenue circle`
+4. `Length of rail network in each revenue circle`
 
 ## Project Structure
 - `data`: Contains datasets sourced from BHARATMAPS for Assam.

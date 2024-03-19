@@ -1,0 +1,170 @@
+revenue_ci,object_id,district_3,matches,Revenue_Name,RC_Id,District_Name
+Gossaigaon (Pt),101,KOKRAJHAR,Gossaigaon,Gossaigaon,121,Kokrajhar
+Bhowraguri,102,KOKRAJHAR,Bhawraguri,Bhawraguri,122,Kokrajhar
+Dotoma,103,KOKRAJHAR,Dotma,Dotma,120,Kokrajhar
+Kokrajhar (Pt),104,KOKRAJHAR,Kokrajhar,Kokrajhar,119,Kokrajhar
+Bagribari (Pt),105,KOKRAJHAR,Bagribari,Bagribari,123,Kokrajhar
+Dhubri (Pt),112,DHUBRI,Dhubri,Dhubri,55,Dhubri
+Chapar (Pt),114,DHUBRI,Chapar,Chapar,56,Dhubri
+Agamoni,110,DHUBRI,Agamoni,Agamoni,54,Dhubri
+Bilasipara (Pt),113,DHUBRI,Bilasipara,Bilasipara,57,Dhubri
+Lakhipur,115,GOALPARA,Lakhipur,Lakhipur,75,Goalpara
+Lakhipur,188,CACHAR,Lakhipur,Lakhipur,39,Cachar
+Balijana,116,GOALPARA,Balijana,Balijana,73,Goalpara
+Matia,117,GOALPARA,Matia,Matia,71,Goalpara
+Dudhnai,118,GOALPARA,Dudhnoi,Dudhnoi,74,Goalpara
+Rangjuli,119,GOALPARA,Rongjuli,Rongjuli,72,Goalpara
+Kalgachia,120,BARPETA,Kalgachia,Kalgachia,23,Barpeta
+Baghbor,121,BARPETA,Baghbar,Baghbar,22,Barpeta
+Barpeta,122,BARPETA,Barpeta,Barpeta,19,Barpeta
+Sarthebari,123,BARPETA,Sarthebari,Sarthebari,26,Barpeta
+Bajali (Pt),124,BAJALI,Bajali,Bajali,25,Bajali
+Jalah (Pt),233,BAKSA,Jalah,Jalah,18,Baksa
+Bhuragaon,126,MORIGAON,Bhuragaon,Bhuragaon,135,Morigaon
+Laharighat,127,MORIGAON,Laharighat,Laharighat,136,Morigaon
+Marigaon,128,MORIGAON,Morigaon,Morigaon,133,Morigaon
+Mikirbheta,129,MORIGAON,Mikirbheta,Mikirbheta,134,Morigaon
+Kaliabor,130,NAGAON,Kaliabor,Kaliabor,143,Nagaon
+Samaguri,131,NAGAON,Samaguri,Samaguri,142,Nagaon
+Rupahi,132,NAGAON,Rupahi,Rupahi,141,Nagaon
+Dhing,133,NAGAON,Dhing,Dhing,139,Nagaon
+Nagaon,134,NAGAON,Nagaon,Nagaon,137,Nagaon
+Raha,135,NAGAON,Raha,Raha,140,Nagaon
+Kampur,136,NAGAON,Kampur,Kampur,138,Nagaon
+Dhekiajuli (Pt),137,SONITPUR,Dhekiajuli,Dhekiajuli,155,Sonitpur
+Chariduar,138,SONITPUR,Chariduar,Chariduar,157,Sonitpur
+Tezpur,139,SONITPUR,Tezpur,Tezpur,156,Sonitpur
+Na-Duar,140,SONITPUR,Naduar,Naduar,158,Sonitpur
+Narayanpur,141,LAKHIMPUR,Narayanpur,Narayanpur,127,Lakhimpur
+Bihpuria,142,LAKHIMPUR,Bihpuria,Bihpuria,124,Lakhimpur
+Kadam,144,LAKHIMPUR,Kadam,Kadam,130,Lakhimpur
+North Lakhimpur,145,LAKHIMPUR,North Lakhimpur,North Lakhimpur,128,Lakhimpur
+Dhakuakhana (Pt-I),146,LAKHIMPUR,Dhakuakhana,Dhakuakhana,125,Lakhimpur
+Subansiri (Pt-I),147,LAKHIMPUR,Subansiri,Subansiri,126,Lakhimpur
+Dhemaji,150,DHEMAJI,Dhemaji,Dhemaji,50,Dhemaji
+Sissibargaon,151,DHEMAJI,Sissiborgaon,Sissiborgaon,53,Dhemaji
+Jonai,152,DHEMAJI,Jonai,Jonai,51,Dhemaji
+Gogamukh,153,DHEMAJI,Gogamukh,Gogamukh,52,Dhemaji
+Sadiya,154,TINSUKIA,Sadiya,Sadiya,165,Tinsukia
+Doom Dooma,155,TINSUKIA,Doomdooma,Doomdooma,163,Tinsukia
+Tinsukia,156,TINSUKIA,Tinsukia ,Tinsukia ,162,Tinsukia
+Margherita,157,TINSUKIA,Margherita,Margherita,164,Tinsukia
+Dibrugarh West,158,DIBRUGARH,Dibrugarh West,Dibrugarh West,64,Dibrugarh
+Dibrugarh East,159,DIBRUGARH,Dibrugarh East,Dibrugarh East,63,Dibrugarh
+Chabua,160,DIBRUGARH,Chabua,Chabua,65,Dibrugarh
+Tengakhat,161,DIBRUGARH,Tengakhat,Tengakhat,68,Dibrugarh
+Moran,162,DIBRUGARH,Moran,Moran,67,Dibrugarh
+Tingkhong,163,DIBRUGARH,Tingkhong,Tingkhong,62,Dibrugarh
+Naharkatiya,164,DIBRUGARH,Naharkatia,Naharkatia,66,Dibrugarh
+Dimow,165,SIVSAGAR,Demow,Demow,154,Sivasagar
+Sibsagar,166,SIVSAGAR,Sivsagar,Sivsagar,151,Sivasagar
+Amguri,167,SIVSAGAR,Amguri,Amguri,152,Sivasagar
+Nazira,168,SIVSAGAR,Nazira,Nazira,153,Sivasagar
+Teok,169,JORHAT,Teok,Teok,90,Jorhat
+Titabor,170,JORHAT,Titabor,Titabor,91,Jorhat
+Mariani,171,JORHAT,Mariani,Mariani,93,Jorhat
+Bokakhat,172,GOLAGHAT,Bokakhat,Bokakhat,76,Golaghat
+Khumtai,173,GOLAGHAT,Khumtai,Khumtai,78,Golaghat
+Dergaon,174,GOLAGHAT,Dergaon,Dergaon,80,Golaghat
+Golaghat,175,GOLAGHAT,Golaghat,Golaghat,81,Golaghat
+Morangi,176,GOLAGHAT,Morongi,Morongi,77,Golaghat
+Sarupathar,177,GOLAGHAT,Sarupathar,Sarupathar,79,Golaghat
+Diphu,178,K.ANGLONG,Diphu,Diphu,110,Karbi Anglong 
+Silonijan,179,K.ANGLONG,Silonijan,Silonijan,112,Karbi Anglong 
+Haflong,181,DIMA HASAO,Haflong,Haflong,69,Dima-Hasao
+Katigora,184,CACHAR,Katigorah,Katigorah,36,Cachar
+Silchar,185,CACHAR,Silchar,Silchar,37,Cachar
+Udarbond,186,CACHAR,Udharbond,Udharbond,35,Cachar
+Sonai,187,CACHAR,Sonai,Sonai,38,Cachar
+Karimganj,189,KARIMGANJ,Karimganj,Karimganj,114,Karimganj
+Badarpur,190,KARIMGANJ,Badarpur,Badarpur,115,Karimganj
+Nilambazar,191,KARIMGANJ,Nilambazar,Nilambazar,117,Karimganj
+Patharkandi,192,KARIMGANJ,Patherkandi,Patherkandi,116,Karimganj
+"Ramkrishna
+Nagar",193,KARIMGANJ,RK Nagar,RK Nagar,118,Karimganj
+Algapur,194,HAILAKANDI,Algapur,Algapur,82,Hailakandi
+Hailakandi,195,HAILAKANDI,Hailakandi,Hailakandi,84,Hailakandi
+Lala,196,HAILAKANDI,Lala,Lala,83,Hailakandi
+Katlichara,197,HAILAKANDI,Katlicherra,Katlicherra,85,Hailakandi
+"Bongaigaon
+(Pt)",198,BONGAIGAON,Bongaigaon,Bongaigaon,32,Bongaigaon
+Boitamari,199,BONGAIGAON,Boitamari,Boitamari,30,Bongaigaon
+Srijangram,200,BONGAIGAON,Srijangram,Srijangram,33,Bongaigaon
+Sidli (Pt),206,CHIRANG,Sidli,Sidli,44,Chirang
+Manikpur,202,BONGAIGAON,Manikpur,Manikpur,174,Bongaigaon
+Barnagar (Pt),264,BARPETA,Barnagar,Barnagar,20,Barpeta
+Bengtal,205,CHIRANG,Bengtal,Bengtal,45,Chirang
+Bijni (Pt),207,CHIRANG,Bijni,Bijni,43,Chirang
+"Rangia
+(Pt)",208,KAMRUP,Rangia,Rangia,102,Kamrup
+Kamalpur,210,KAMRUP,Kamalpur,Kamalpur,100,Kamrup
+Hajo,211,KAMRUP,Hajo,Hajo,99,Kamrup
+Chhaygaon,212,KAMRUP,Chaygaon,Chaygaon,107,Kamrup
+Goroimari,213,KAMRUP,Goroimari,Goroimari,105,Kamrup
+Chamaria,214,KAMRUP,Chamaria,Chamaria,104,Kamrup
+Nagarbera,215,KAMRUP,Nagarbera,Nagarbera,103,Kamrup
+Boko,216,KAMRUP,Boko,Boko,106,Kamrup
+Guwahati,219,KAMRUP METRO,Guwahati,Guwahati,96,Kamrup (M)
+Sonapur,220,KAMRUP METRO,Sonapur,Sonapur,98,Kamrup (M)
+Chandrapur,221,KAMRUP METRO,Chandrapur,Chandrapur,97,Kamrup (M)
+"Tihu
+(Pt)",222,NALBARI,Tihu,Tihu,148,Nalbari
+"Pachim
+Nalbari",223,NALBARI,Paschim Nalbari,Paschim Nalbari,149,Nalbari
+Barkhetri,224,NALBARI,Barkhetri,Barkhetri,145,Nalbari
+Barbhag,225,NALBARI,Barbhag,Barbhag,146,Nalbari
+Nalbari,226,NALBARI,Nalbari,Nalbari,144,Nalbari
+Banekuchi,227,NALBARI,Banekuchi,Banekuchi,150,Nalbari
+Ghograpar (Pt),228,NALBARI,Ghograpar,Ghograpar,147,Nalbari
+Baganpara (Pt),260,BAKSA,Baganpara,Baganpara,16,Baksa
+Baganpara (Pt),230,NALBARI,Baganpara,Baganpara,16,Baksa
+Barama,234,BAKSA,Barama,Barama,3,Baksa
+Sipajhar,239,DARRANG,Sipajhar,Sipajhar,46,Darrang
+Mangaldoi (Pt),269,DARRANG,Mangaldoi,Mangaldoi,10,Darrang
+Dalgaon (Pt),270,DARRANG,Dalgaon,Dalgaon,47,Darrang
+Harisinga,245,UDALGURI,Harisinga,Harisinga,168,Udalguri
+Udalguri,246,UDALGURI,Udalguri,Udalguri,167,Udalguri
+Mazbat,247,UDALGURI,Mazbat,Mazbat,166,Udalguri
+Mahmora,248,CHARAIDEO,Mahmora,Mahmora,40,Charaideo
+Biswanath,249,BISWANATH,Biswanath,Biswanath,27,Biswanath
+Helem,250,BISWANATH,Halem,Halem,29,Biswanath
+Gohpur,251,BISWANATH,Gohpur,Gohpur,28,Biswanath
+Hojai,252,HOJAI,Hojai,Hojai,87,Hojai
+Doboka,253,HOJAI,Doboka,Doboka,86,Hojai
+Lanka,254,HOJAI,Lanka,Lanka,88,Hojai
+Donka,255,WEST KARBI ANGLONG,Donkamokam,Donkamokam,113,Karbi Anglong West
+South Salmara,256,SOUTH SALMARA MANCACHAR,South Salmara,South Salmara,161,South Salmara
+Mankachar,257,SOUTH SALMARA MANCACHAR,Mankachar,Mankachar,160,South Salmara
+Goreswar (Pt),259,TAMULPUR,Goreswar,Goreswar,17,Tamulpur
+Tamulpur,261,TAMULPUR,Tamulpur,Tamulpur,4,Tamulpur
+Baksa,262,BAKSA,Baska,Baska,2,Baksa
+Sarupeta (Pt),265,BAJALI,Sarupeta,Sarupeta,24,Bajali
+Chenga,266,BARPETA,Chenga,Chenga,21,Barpeta
+Kalaigaon (Pt),268,UDALGURI,Kalaigaon,Kalaigaon,170,Udalguri
+Mayong,271,MORIGAON,Mayong,Mayong,132,Morigaon
+Palasbari,272,KAMRUP,Palashbari,Palashbari,108,Kamrup
+Azara,273,KAMRUP,Azara,Azara,95,Kamrup (M)
+Jorhat West,276,JORHAT,Jorhat West,Jorhat West,92,Jorhat
+Jorhat East,277,JORHAT,Jorhat East,Jorhat East,89,Jorhat
+Sapekhati,278,CHARAIDEO,Sapekhati,Sapekhati,41,Charaideo
+Sonari,279,CHARAIDEO,Sonari,Sonari,42,Charaideo
+Ujani Majuli,280,MAJULI,Ujani Majuli,Ujani Majuli,173,Majuli
+Majuli,281,MAJULI,Majuli,Majuli,131,Majuli
+Phuloni,275,K.ANGLONG,Phuloni,Phuloni,111,Karbi Anglong 
+Pathorighat,238,DARRANG,Pathorighat,Pathorighat,48,Darrang
+Naobaicha,143,LAKHIMPUR,Nowboicha,Nowboicha,129,Lakhimpur
+Golakganj (Pt),111,DHUBRI,Golakganj,Golakganj,59,Dhubri
+Khoirabari (Pt),241,UDALGURI,Khairabari,Khairabari,169,Udalguri
+Na-Duar,140,,Naduar RC part,Naduar RC part,177,
+Barnagar (Pt),231,BAKSA,Barnagar RC part,Barnagar RC part,178,Baksa
+Koya,209,KAMRUP,Kayan,Kayan,109,Kamrup
+North Guwahati,217,KAMRUP,North Ghy,North Ghy,101,Kamrup
+,256,,,,61,
+,279,,,,175,
+,168,,,,176,
+Mangaldoi (Pt),243,UDALGURI,Pub-Mangaldai ,Pub-Mangaldai ,188,Darrang
+Guwahati,219,KAMRUP METRO,Dispur,Dispur,94,Kamrup (M)
+Sidli (Pt-II),201,BONGAIGAON,Dangtol,Dangtol,31,Bongaigaon
+Bagribari (Pt),109,DHUBRI,Athani,Athani,58,Dhubri
+Dhubri (Pt),112,DHUBRI,Gauripur,Gauripur,60,Dhubri
+Dhekiajuli (Pt),137,SONITPUR,Thelamara,Thelamara,159,Sonitpur

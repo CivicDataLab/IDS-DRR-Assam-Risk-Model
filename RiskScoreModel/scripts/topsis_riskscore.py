@@ -99,5 +99,5 @@ dist = pd.concat([dist_vul,
                   axis=1)
 
 final = pd.concat([topsis, dist], ignore_index=True)
-
+final.rename(columns={'preparedness-measures-tenders-awarded-value': 'restoration-measures-tenders-awarded-value'}, inplace=True)
 final.to_csv(os.getcwd()+'/RiskScoreModel/data/risk_score_final.csv', index=False)

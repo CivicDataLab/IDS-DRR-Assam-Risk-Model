@@ -34,7 +34,7 @@ Output -- `factor_scores_l1_exposure.csv`
 ### Flood Hazard
 ![alt text](docs/hazard.jpg)
 
-1. `inundation_intensity_mean_nonzero` and `inundation_intensity_sum` variables are considered for the calculation. (add other variables as required)
+1. `inundation_intensity_mean_nonzero`, `inundation_intensity_sum`, `drainage_density`, `max_rain` and `mean_rain` variables are considered for the calculation.  Other variables as required can be added.
 
 2. Using the following table, calculate class for both these variables, for each revenue circle in each month.
 
@@ -80,7 +80,7 @@ Output -- `factor_scores_l1_vulnerability.csv`
 ### Government Response
 ![alt text](docs/response.jpg)
 
-1. All tender variables variables are considered for the calculation. (add other variables as required)
+1. Tender variables (total sum and SDRF tenders) variables are considered for the calculation. (Other variables as required can be added)
 2. Calculate cumulative sum of money spent in each Financial Year.
 2. Use min_max scaler to scale these variables for each month.
 3. Sum all the scaled variables

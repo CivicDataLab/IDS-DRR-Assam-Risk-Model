@@ -35,12 +35,15 @@ monthly_variables = ['total_tender_awarded_value',
                      'Human_Live_Lost_Children', 'Human_Live_Lost_Female', 'Human_Live_Lost_Male',
                      'Embankments affected', 'Roads', 'Bridge', 'Embankment breached',
                      'rainfall',
-                     'mean_ndvi', 'mean_ndbi',
+                     'ndvi_rc', 'ndbi_rc',
                      'inundation_pct', 'riverlevel'
                      ]
 
 for variable in monthly_variables:
+    print(variable)        
     variable_df = pd.read_csv(variables_data_path + variable + '.csv')
+    if variable in ['ndvi_rc', 'ndbi_rc']:
+        variable_df = variable_df.rename(columns = {'mean':'mean_'+variable[:4]})
     variable_df = variable_df.drop_duplicates()
     master_df = master_df.merge(variable_df, on=['object_id', 'timeperiod'], how='left')
 
@@ -85,8 +88,7 @@ for variable in onetime_variables:
 
 
 master_df = master_df.drop(['year', 'count_gcn250_pixels',
-                            'count_bhuvan_pixels', 'count_inundated_pixels',
-                            'Unnamed: 0'], axis=1)
+                            'count_bhuvan_pixels', 'count_inundated_pixels'], axis=1)
 
 #master_df['year'] = master_df['timeperiod'].str[:4]
 #master_df['month'] = master_df['timeperiod'].str[-2:]
@@ -106,12 +108,12 @@ master_df['net_sown_area_in_hac'] = master_df['net_sown_area_in_hac'].fillna(mas
 # Impute missing NDVI and NDBI
 master_df = master_df.sort_values(by=['object_id', 'timeperiod'])
 master_df['mean_ndvi'] = master_df['mean_ndvi'].ffill()
-master_df['ndbi_mean'] = master_df['ndbi_mean'].ffill()
+master_df['mean_ndbi'] = master_df['mean_ndbi'].ffill()
 
 # Impute all other vars with 0
 master_df = master_df.fillna(0)
 
-master_df.to_csv('MASTER_VARIABLES.csv', index=False)
+master_df.to_csv(os.getcwd() + '/RiskScoreModel/data/MASTER_VARIABLES.csv', index=False)
 #master_df[master_df.duplicated(subset= ['object_id', 'timeperiod'])].to_csv('MASTER_VARIABLES.csv', index=False)
 
 print(master_df.shape)

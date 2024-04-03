@@ -1,11 +1,10 @@
 # Risk Score Model
 
-Intelligent Data Solution - Disaster Disk Reduction (IDS-DRR)
+Once the data variables are created from all data sources, these are used to calculate `Risk score` for each revenue circle.
 
-Data Model to calculate Risk score for each revenue circle.
-## Steps
+IDS-DRR defines `Risk` as the combination of **factors** `Flood Hazard`, `Vulnerability`, `Exposure` and `Government Response`
 
-After all the variables are prepared, you can calculate the factor scores and the risk score for each revenue circle.
+Variables are used to model each of these `factor scores` at first. The factor scores are then used to model the comprehensive `Risk Score`.
 
 ## Calculation of Factor Scores
 

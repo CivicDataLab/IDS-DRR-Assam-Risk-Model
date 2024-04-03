@@ -1,10 +1,11 @@
-
 # Intelligent Data Solution for Disaster Risk Reduction (IDS-DRR) 
 *Previously IDEA-FRM*
 
-Extreme weather events are arguably the most visible manifestation of the climate change crisis and India has witnessed several aversive extreme weather events. In  Assam where annual floods acutely affect 40% of the state, floods in 2022 alone resulted in over 190 deaths and affected over 8 million people (as per data compiled from ASDMA’s daily FRIMS reports which this repo hosts).
+In Assam, the most visible risk is flooding. As per a study by the Ministry of Home Affairs, Government of India, the state ranks 2nd in the flood risk index. Assam State Disaster Management Authority (ASDMA) has initiated the process of disaster risk reduction (DRR). ASDMA has aligned with recommendations in SFDRR through multiple ways like preparing Disaster Risk Reduction (DRR) Roadmap for Assam, capturing daily flood damage data through Flood Response Information Management System (FRIMS), maintaining a web GIS portal and more.
 
-Good quality, machine-readable and interoperable data to inform on strategies to correctly plan for flood response and relief is currently unavailable. Despite multiple initiatives by the state bodies the comprehensive, usable intelligence from the multiple sources of information avaialble in silos is amiss. With the [‘Intelligent Data Ecosystem in Assam - Flood Response and Management (IDEA-FRM)’](https://github.com/CivicDataLab/IDEA-FRM) we tried to solve this problem by creating interoperable datasets on Flood management for the state of Assam. 
+Data that could enable more effective disaster-risk response and management is scattered or siloed across different agencies, at different scales and formats, making it difficult for decision-makers and relevant stakeholders to make data-informed decisions. The availability of good quality, machine-readable, and interoperable data is crucial for effective climate action and disaster response. However, in India, this data is fragmented and siloed, scattered across different agencies, making it difficult for decision-makers to make data-informed decisions in a timely manner.
+
+We have developed a data model for combining climate, losses & damages, procurement and demographic data for effective flood mitigation strategies in Assam state. Our solution leverages advanced data science techniques to derive insights for decision makers and make it into a user-friendly, interactive open-access tool.
 
 With IDS-DRR, we are keen to build on the IDEA-FRM project by building data pipelines so that datasets are updated automatically and thus data-driven governance can be installed.
 

@@ -10,7 +10,6 @@ With IDS-DRR, we are keen to build on the IDEA-FRM project by building data pipe
 
 ## Directory Tree:
 1. [Sources](https://github.com/CivicDataLab/IDS-DRR-Data-Pipeline/tree/main/Sources): Contains all data sources along with the scripts used to obtain data from these sources.
-2. [SEM](https://github.com/CivicDataLab/IDS-DRR-Data-Pipeline/tree/main/SEM): Codes for Structural Equation Modelling.
-
+2. [RiskScoreModel](https://github.com/CivicDataLab/IDS-DRR-Data-Pipeline/tree/main/RiskScoreModel): Contains codes for calculating the `Comprehensive risk score` and factor scores for `Flood Hazard`, `Vulnerability`, `Exposure` and `Government Response`.
 
 If you want to contribute to the data sources or have any doubts with the data, please contact us at info@civicdatalab.in

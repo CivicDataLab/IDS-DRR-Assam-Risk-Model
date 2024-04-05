@@ -17,4 +17,9 @@ The project report for details can be accessed here: [Link](https://docs.google.
 3. [NYU-Capstone-Research](https://github.com/CivicDataLab/IDS-DRR-Assam/tree/main/NYU-Capstone-Research) : MS Data Science students from the New York University selected IDS-DRR for their capstone project. This folder contains the paper they have written and the codes.
 4. [Archive](https://github.com/CivicDataLab/IDS-DRR-Assam/tree/main/Archive): Codes and documents beyond the scope of project. 
 
+## License:
+All content in this repository is licensed under
+[![GNU-AGPL](https://www.gnu.org/graphics/agplv3-155x51.png)](LICENSE.md)
+
+
 If you want to contribute to the data sources, research or have any doubts with the data, please contact us at info@civicdatalab.in

@@ -10,7 +10,7 @@ Variables are used to model each of these `factor scores` at first. The factor s
 
 ### Exposure
 
-![alt text](docs/exposure.jpg)
+![Exposure](docs/exposure.jpg)
 
 1. `sum_population` and `total_hhd` variables are considered for the calculation. (add other variables as required)
 2. Use min_max scaler to scale these variables for each month.

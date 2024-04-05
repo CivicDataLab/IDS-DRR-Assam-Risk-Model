@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "If you use data and codes from this repository, please cite it as below."
+authors:
+- name: "CivicDataLab"
+title: "Intelligent Data Solution - Disaster Risk Reduction (Assam)"
+date-released: 2024-04-05
+url: "https://github.com/CivicDataLab/IDS-DRR-Assam/tree/main"

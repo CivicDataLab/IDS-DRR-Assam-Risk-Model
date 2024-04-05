@@ -14,7 +14,7 @@ The project report for details can be accessed here: [Link](https://docs.google.
 ## Directory Tree:
 1. [Sources](https://github.com/CivicDataLab/IDS-DRR-Assam/tree/main/Sources): Contains all data sources along with the scripts used to obtain data from these sources.
 2. [RiskScoreModel](https://github.com/CivicDataLab/IDS-DRR-Assam/tree/main/RiskScoreModel): Contains codes for calculating the `Comprehensive risk score` and factor scores for `Flood Hazard`, `Vulnerability`, `Exposure` and `Government Response`.
-3. [NYU Capstone Research](https://github.com/CivicDataLab/IDS-DRR-Assam/tree/main/NYU Capstone Research): MS Data Science students from the New York University selected IDS-DRR for their capstone project. This folder contains the paper they have written and the codes.
+3. [NYU-Capstone-Research](https://github.com/CivicDataLab/IDS-DRR-Assam/tree/main/NYU-Capstone-Research) : MS Data Science students from the New York University selected IDS-DRR for their capstone project. This folder contains the paper they have written and the codes.
 4. [Archive](https://github.com/CivicDataLab/IDS-DRR-Assam/tree/main/Archive): Codes and documents beyond the scope of project. 
 
 If you want to contribute to the data sources, research or have any doubts with the data, please contact us at info@civicdatalab.in

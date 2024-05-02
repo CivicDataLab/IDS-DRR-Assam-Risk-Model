@@ -1,33 +1,58 @@
 import os
-import time
+import subprocess
+import timeit
 
-path = os.getcwd()+'/Sources/BHUVAN/'
+from osgeo import gdal
 
-date_strings = ['2020_17_07_06', '2020_17_07_18', '2020_18_07', '2020_19_07_18', '2020_21_06', '2020_22_07', '2020_23_07_14', 
-                '2020_24_06_06', '2020_24_07_06', '2020_25_07_18', '2020_26_06_18', '2020_27_07_18', '2020_28_05', '2020_28_06_18', 
-                '2020_28_09_11', '2020_29_09_11', '2020_30_07_06', '2020_30_09_06', '2020_30_09_18',
-                
-                '2019_02_08_18', '2019_10_07', '2019_12_07_18', '2019_14_07', '2019_16_07', '2019_17_07_06', '2019_19_07',
-                '2019_20_07_10', '2019_21_07_06', '2019_22_07', '2019_23_07', '2019_24_07_07', '2019_28_07_19',
-                
-                '2018_01_09', '2018_03_08_18', '2018_07_07_18', '2018_07_08_18', '2018_08_06', '2018_08_09_18', '2018_12_09_06',
-                '2018_13_09_18', '2018_14_07_18', '2018_14_08_18', '2018_15_06', '2018_16_06', '2018_20_06', '2018_23_06_18', '2018_31_07_18',
-                
-                '2017_10_09', '2017_12_08', '2017_13_06', '2017_14_07', '2017_15_06', '2017_15_08', '2017_18_06', '2017_18_08','2017_19_07',
-                '2017_19_08', '2017_20_06', '2017_22_07', '2017_22_08', '2017_23_06', '2017_25_06', '2017_28_06', '2017_29_08', '2017_30_06',
-                '2017_06-07_06', '2017_16-17_07',
-                
-                '2016_05_07_18', '2016_07_07_18', '2016_12_07_06', '2016_13_07_18', '2016_14_07_18', '2016_19_07', '2016_22_07_06',
-                '2016_23_06_18', '2016_24_07_18', '2016_26_04_18', '2016_26_07_06', '2016_27_07_18', '2016_29_07_06',
-                
-                '2015_01_09', '2015_02_09', '2015_06_09', '2015_07_09', '2015_09_09', '2015_14_06', '2015_17_06', '2015_18_07', '2015_21_08',
-                '2015_22_08','2015_25_09', '2015_14-15_06', '2015_10-12_06', '2015_08-10_06', '2015_03-04_09', '2015_22-23_08', '2015_22-25_08',
-                '2015_29-30_08']
+gdal.DontUseExceptions()
 
-for date_string in ['2023_18_06_18']:
-     print(date_string)
-     gdal_code = '''gdal_translate -of WMS "WMS:https://bhuvan-gp1.nrsc.gov.in/bhuvan/wms?&LAYERS=flood%3Aas_{}&TRANSPARENT=TRUE&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&STYLES=&FORMAT=image%2Fpng&SRS=EPSG%3A4326&BBOX=89.6922970,23.990548,96.0205936,28.1690311" {}data/inundation.xml'''.format(date_string,path)
-     os.system(gdal_code)
-     time.sleep(3)
-     os.system("gdalwarp -tr 0.0001716660336923202072 -0.0001716684356881450775 {}data/inundation.xml {}data/tiffs/{}.tif -co COMPRESS=DEFLATE -co TILED=YES".format(path, path, date_string))
-     time.sleep(10)
+path = os.getcwd() + "/Sources/BHUVAN/"
+
+date_strings = ["cuml_2021"]  # Sample date for assam - "2023_07_07_18"
+
+# Specify the state information to scrape data for.
+state_info = {"state": "Himachal Pradesh", "code": "hp"}
+
+
+for dates in date_strings:
+
+    # Define your input and output paths
+    input_xml_path = path + f"{state_info['state']}/data/inundation.xml"
+    output_tiff_path = path + f"{state_info['state']}/data/tiffs/{dates}.tif"
+
+    layer_hp = "fld_cuml_2021_hp"
+    layer_assam = "flood%3Aas_2023_07_07_18"
+    state_code = "hp"  # fld_cuml_2021_hp #flood%3Aas_2023_07_07_18
+    url_hp = "https://bhuvan-ras2.nrsc.gov.in/mapcache"
+    url_as = "https://bhuvan-gp1.nrsc.gov.in/bhuvan/wms"
+
+    # Download the WMS(Web Map Sevice) layer and save as XML.
+    command = [
+        "gdal_translate",
+        "-of",
+        "WMS",
+        f"WMS:{url_hp}?&LAYERS={layer_hp}&TRANSPARENT=TRUE&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&STYLES=&FORMAT=image%2Fpng&SRS=EPSG%3A4326&BBOX=89.6922970,23.990548,96.0205936,28.1690311",
+        f"{path}{state_info['state']}/data/inundation.xml",
+    ]
+    subprocess.run(command)
+
+    # Specify the target resolution in the X and Y directions
+    target_resolution_x = 0.0001716660336923202072
+    target_resolution_y = -0.0001716684356881450775
+
+    # Perform the warp operation using gdal.Warp()
+    print("Warping Started")
+    starttime = timeit.default_timer()
+
+    gdal.Warp(
+        output_tiff_path,
+        input_xml_path,
+        format="GTiff",
+        xRes=0.0001716660336923202072,
+        yRes=-0.0001716684356881450775,
+        creationOptions=["COMPRESS=DEFLATE", "TILED=YES"],
+        callback=gdal.TermProgress,
+    )
+
+    print("Time took to Warp: ", timeit.default_timer() - starttime)
+    print(f"Warping completed. Output saved to: {output_tiff_path}")

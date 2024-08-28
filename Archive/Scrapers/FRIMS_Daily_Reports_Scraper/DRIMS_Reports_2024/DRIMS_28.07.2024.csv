@@ -1,0 +1,608 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13
+Assam Flood Report as on 28-07-2024,,,,,,,,,,,,,
+Particulars,Assam Flood Report as on 28-07-2024,,,,,,,,,,,,
+"Rivers flowing
+above Danger
+Level (as per
+CWC bulletin
+issued at 8
+AM)",Rivers flowing above danger level,,,,,Nil,,,,,,,
+,Rivers flowing above highest flood level,,,,,Nil,,,,,,,
+"District
+Affected",No. of,Name of Affected Districts,,,,,,,,,,,
+,Districts,,,,,,,,,,,,
+,Affected,,,,,,,,,,,,
+,5,"Dibrugarh, Sivasagar, Golaghat, Nagaon, Dhemaji",,,,,,,,,,,
+"No. Of
+Revenue
+Circles
+Affected",13,,,,,,,,,,,,
+"Name Of
+Revenue
+Circle
+Affected",District,Total,Revenue Circle,,,,,,,,,,
+,Dhemaji,1,Jonai,,,,,,,,,,
+,Dibrugarh,1,Dibrugarh West,,,,,,,,,,
+,Golaghat,4,"Golaghat, Khumtai, Bokakhat, Dergaon",,,,,,,,,,
+,Nagaon,3,"Kaliabor, Raha, Samaguri",,,,,,,,,,
+,Sivasagar,4,"Demow, Sivsagar, Amguri, Nazira",,,,,,,,,,
+,Total,13,,,,,,,,,,,
+"Villages
+Affected",District,Total,Revenue Circle,,,,,,,,,,
+,Dibrugarh,1,(Dibrugarh West | 1),,,,,,,,,,
+,Dhemaji,1,(Jonai | 1),,,,,,,,,,
+,Sivasagar,48,"(Demow | 14), (Sivsagar | 22), (Amguri | 6), (Nazira | 6)",,,,,,,,,,
+,Golaghat,24,"(Golaghat | 11), (Khumtai | 4), (Bokakhat | 4), (Dergaon | 5)",,,,,,,,,,
+,Nagaon,29,"(Kaliabor | 9), (Raha | 4), (Samaguri | 16)",,,,,,,,,,
+,Total,103,,,,,,,,,,,
+"Population
+And Crop
+Area Affected",District,Male,Female,Children,Total,Total Crop Area (in Hect.),,Population and Crop Area Details,,,,,
+,,,,,Population,,,,,,,,
+,Cachar,0,0,0,0,0,,"(Katigorah | Population Affected: 0 | Crop Area: 0),
+(Silchar | Population Affected: 0 | Crop Area: 0)",,,,,
+,Dhemaji,50,42,44,136,2,,"(Sissiborgaon | Population Affected: 0 | Crop Area: 0),
+(Jonai | Population Affected: 136 | Crop Area: 2)",,,,,
+,Dibrugarh,0,0,0,0,5,,(Dibrugarh West | Population Affected: 0 | Crop Area: 5),,,,,
+,Golaghat,2122,1527,410,4059,309.26,,"(Golaghat | Population Affected: 0 | Crop Area: 221.5),
+(Khumtai | Population Affected: 0 | Crop Area: 28),
+(Bokakhat | Population Affected: 4059 | Crop Area: 33.5),
+(Dergaon | Population Affected: 0 | Crop Area: 26.26)",,,,,
+,Karimganj,0,0,0,0,0,,"(Nilambazar | Population Affected: 0 | Crop Area: 0),
+(Karimganj | Population Affected: 0 | Crop Area: 0)",,,,,
+,Nagaon,8525,5325,2685,16535,2439.5,,"(Kaliabor | Population Affected: 12989 | Crop Area:
+1378.5), (Raha | Population Affected: 0 | Crop Area: 50),
+(Samaguri | Population Affected: 3546 | Crop Area: 1011)",,,,,
+,Sivasagar,446,389,216,1051,273,,"(Demow | Population Affected: 1051 | Crop Area: 29),
+(Sivsagar | Population Affected: 0 | Crop Area: 200),
+(Amguri | Population Affected: 0 | Crop Area: 34), (Nazira
+| Population Affected: 0 | Crop Area: 10)",,,,,
+,Total,11143,7283,3355,21781,3028.76,,,,,,,
+"Relief Camps
+/ Centres
+Opened",District,Total,Relief Camp,,,,Relief Distribution Centres,,,,,,
+,Cachar,0,"0 (Katigorah | 0), (Silchar | 0)",,,,"0 (Katigorah | 0), (Silchar | 0)",,,,,,
+,Dhemaji,1,"1 (Sissiborgaon | 0), (Jonai | 1)",,,,"0 (Sissiborgaon | 0), (Jonai | 0)",,,,,,
+,Dibrugarh,0,0 (Dibrugarh West | 0),,,,0 (Dibrugarh West | 0),,,,,,
+,Golaghat,0,"0 (Golaghat | 0), (Khumtai | 0), (Bokakhat | 0),
+(Dergaon | 0)",,,,"0 (Golaghat | 0), (Khumtai | 0), (Bokakhat | 0), (Dergaon | 0)",,,,,,
+,Karimganj,0,"0 (Nilambazar | 0), (Karimganj | 0)",,,,"0 (Nilambazar | 0), (Karimganj | 0)",,,,,,
+,Nagaon,4,"4 (Kaliabor | 4), (Raha | 0), (Samaguri | 0)",,,,"0 (Kaliabor | 0), (Raha | 0), (Samaguri | 0)",,,,,,
+,Sivasagar,6,"6 (Demow | 6), (Sivsagar | 0), (Amguri | 0),
+(Nazira | 0)",,,,"0 (Demow | 0), (Sivsagar | 0), (Amguri | 0), (Nazira | 0)",,,,,,
+,Total,11,11,,,,0,,,,,,
+,District,Total,Revenue Circlewise,,,Male,Female,Children,Pregnant,Person with Disability,,,
+,,,,,,,,,/,,,,
+,,,,,,,,,Lactating,,,,
+,,,,,,,,,Mother,,,,
+,Cachar,0,"(Katigorah | 0), (Silchar | 0)",,,0,0,0,0,0,,,
+,Dhemaji,116,"(Sissiborgaon | 0), (Jonai | 116)",,,37,35,44,0,0,,,
+,Dibrugarh,0,(Dibrugarh West | 0),,,0,0,0,0,0,,,
+,Golaghat,0,"(Golaghat | 0), (Khumtai | 0),
+(Bokakhat | 0), (Dergaon | 0)",,,0,0,0,0,0,,,
+,Karimganj,0,"(Nilambazar | 0), (Karimganj | 0)",,,0,0,0,0,0,,,
+,Nagaon,392,"(Kaliabor | 392), (Raha | 0),
+(Samaguri | 0)",,,195,146,51,0,0,,,
+,Sivasagar,252,"(Demow | 252), (Sivsagar | 0),
+(Amguri | 0), (Nazira | 0)",,,97,92,63,0,0,,,
+,Total,760,,,,329,273,158,0,0,,,
+"Non Camp
+Inmates in
+Relief
+Distribution
+Centers",District,Total,Revenue Circlewise,,,Male,Female,Children,Animals,,,,
+,,,,,,,,,Big,Small,Poultry,,
+,,,,,,,,,,,,,
+,Cachar,0,"(Katigorah | 0), (Silchar | 0)",,,0,0,0,0,0,0,,
+,Dhemaji,0,"(Sissiborgaon | 0), (Jonai | 0)",,,0,0,0,0,0,0,,
+,Dibrugarh,0,(Dibrugarh West | 0),,,0,0,0,0,0,0,,
+,Golaghat,0,"(Golaghat | 0), (Khumtai | 0),
+(Bokakhat | 0), (Dergaon | 0)",,,0,0,0,0,0,0,,
+,Karimganj,0,"(Nilambazar | 0), (Karimganj | 0)",,,0,0,0,0,0,0,,
+,Nagaon,0,"(Kaliabor | 0), (Raha | 0), (Samaguri
+| 0)",,,0,0,0,0,0,0,,
+,Sivasagar,0,"(Demow | 0), (Sivsagar | 0), (Amguri
+| 0), (Nazira | 0)",,,0,0,0,0,0,0,,
+,Total,0,,,,0,0,0,0,0,0,,
+"Human Lives
+Lost -
+Confirmed",District,Total,Flood Death,General,Male,Female,Children,,Others,Revenue Circlewise,,,
+,,,,Drowning,,,Male,Female,,,,,
+,,,,(Non,,,,,,,,,
+,,,,Flood),,,,,,,,,
+,Karimganj,0,0,0,0,0,0,0,0,"0 (Nilambazar | 0), (Karimganj | 0)",,,
+,Dibrugarh,0,0,0,0,0,0,0,0,0 (Dibrugarh West | 0),,,
+,Dhemaji,0,0,0,0,0,0,0,0,"0 (Sissiborgaon | 0), (Jonai | 0)",,,
+,Sivasagar,0,0,0,0,0,0,0,0,"0 (Demow | 0), (Sivsagar | 0),
+(Amguri | 0), (Nazira | 0)",,,
+,Golaghat,0,0,0,0,0,0,0,0,"0 (Golaghat | 0), (Khumtai | 0),
+(Bokakhat | 0), (Dergaon | 0)",,,
+,Nagaon,0,0,0,0,0,0,0,0,"0 (Kaliabor | 0), (Raha | 0), (Samaguri
+| 0)",,,
+,Cachar,0,0,0,0,0,0,0,0,"0 (Katigorah | 0), (Silchar | 0)",,,
+,Total,0,0,0,0,0,0,0,0,,,,
+"Human Lives
+Lost - Missing",District,Total,Male,Female,Children,,Others,Revenue Circlewise,,,,,
+,,,,,Male,Female,,,,,,,
+,Karimganj,0,0,0,0,0,0,"0 (Nilambazar | 0), (Karimganj | 0)",,,,,
+,Dibrugarh,0,0,0,0,0,0,0 (Dibrugarh West | 0),,,,,
+,Dhemaji,0,0,0,0,0,0,"0 (Sissiborgaon | 0), (Jonai | 0)",,,,,
+,Sivasagar,0,0,0,0,0,0,"0 (Demow | 0), (Sivsagar | 0), (Amguri | 0), (Nazira | 0)",,,,,
+,Golaghat,0,0,0,0,0,0,"0 (Golaghat | 0), (Khumtai | 0), (Bokakhat | 0), (Dergaon |
+0)",,,,,
+,Nagaon,0,0,0,0,0,0,"0 (Kaliabor | 0), (Raha | 0), (Samaguri | 0)",,,,,
+,Cachar,0,0,0,0,0,0,"0 (Katigorah | 0), (Silchar | 0)",,,,,
+,Total,0,0,0,0,0,0,,,,,,
+"Animals
+Affected",District,Total,Big,Small,Poultry,,,,,,,,
+,Cachar,0,0,0,0,,,,,,,,
+,Dhemaji,0,0,0,0,,,,,,,,
+,Dibrugarh,0,0,0,0,,,,,,,,
+,Golaghat,0,0,0,0,,,,,,,,
+,Karimganj,0,0,0,0,,,,,,,,
+,Nagaon,0,0,0,0,,,,,,,,
+,Sivasagar,5571,2654,1785,1132,,,,,,,,
+,Total,5571,2654,1785,1132,,,,,,,,
+,,,,,,,,,,,,,
+"Animals
+Washed Away",District,Total,Big,Small,Poultry,,,,,,,,
+,Cachar,0,0,0,0,,,,,,,,
+,Dhemaji,0,0,0,0,,,,,,,,
+,Dibrugarh,0,0,0,0,,,,,,,,
+,Golaghat,0,0,0,0,,,,,,,,
+,Karimganj,0,0,0,0,,,,,,,,
+,Nagaon,0,0,0,0,,,,,,,,
+,Sivasagar,0,0,0,0,,,,,,,,
+,Total,0,0,0,0,,,,,,,,
+"Houses
+Damaged",District,Fully Kuccha,Fully Pukka,Fully Total,,Partially,Partially,Partially Total,,,,,
+,,,,,,Kuccha,Pukka,,,,,,
+,Karimganj,21,0,21,,15848,16333,32181,,,,,
+,Dibrugarh,0,0,0,,0,0,0,,,,,
+,Dhemaji,0,0,0,,0,0,0,,,,,
+,Sivasagar,0,0,0,,0,0,0,,,,,
+,Golaghat,0,0,0,,0,0,0,,,,,
+,Nagaon,242,78,320,,590,482,1072,,,,,
+,Cachar,0,0,0,,0,0,0,,,,,
+,Total,263,78,341,,16438,16815,33253,,,,,
+"Houses
+Damaged
+Others",District,Others Huts,,,Others Cattle Shed,,,Others Total,,,,,
+,Karimganj,0,,,0,,,0,,,,,
+,Dibrugarh,0,,,0,,,0,,,,,
+,Dhemaji,0,,,0,,,0,,,,,
+,Sivasagar,0,,,0,,,0,,,,,
+,Golaghat,0,,,0,,,0,,,,,
+,Nagaon,158,,,85,,,243,,,,,
+,Cachar,0,,,0,,,0,,,,,
+,Total,158,,,85,,,243,,,,,
+"Rescue
+Operation",District,Agency,,,Other Agencies,,Medical,Boats,Person,Animal,Helicopters,Person,
+,,,,,Involved,,Team,Deployed,Evacuated,Evacuated,Deployed,Evacuated By,
+,,,,,,,Deployed,,By Boats,By Boats,,Helicopters,
+,Cachar,,,,,,0,0,0,0,0,0,
+,Dhemaji,,,,,,1,0,0,0,0,0,
+,Dibrugarh,,,,,,0,0,0,0,0,0,
+,Golaghat,,,,,,0,0,0,0,0,0,
+,Karimganj,,,,,,0,0,0,0,0,0,
+,Nagaon,,,,,,0,0,0,0,0,0,
+,Sivasagar,,,,,,0,0,0,0,0,0,
+,Total,,,,,,1,0,0,0,0,0,
+"Relief
+Distributed",District,Rice (in Q),Dal (in Q),Salt (in,M. Oil (in,Cattle Feed,Cattle Feed -,Cattle Feed - Rice Bran (in Q),,,,,
+,,,,Q),L),- Green,Wheat Bran,,,,,,
+,,,,,,Fooder (in,(in Q),,,,,,
+,,,,,,Q),,,,,,,
+,Cachar,0.00,0.00,0.00,0.00,0.00,0.00,0.00,,,,,
+,Dhemaji,0.00,0.00,0.00,0.00,0.00,0.00,0.00,,,,,
+,Dibrugarh,0.00,0.00,0.00,0.00,0.00,0.00,0.00,,,,,
+,Golaghat,0.00,0.00,0.00,0.00,0.00,0.00,0.00,,,,,
+,Karimganj,0.00,0.00,0.00,0.00,0.00,0.00,0.00,,,,,
+,Nagaon,0.00,0.00,0.00,0.00,0.00,0.00,0.00,,,,,
+,Sivasagar,0.00,0.00,0.00,0.00,0.00,0.00,0.00,,,,,
+,Total,0,0,0,0,0,0,0,,,,,
+"Relief
+Distributed –
+Others",District,Baby Food Liquid,,Baby Food Solid,,Others,,,,,,,
+,Cachar,,,,,,,,,,,,
+,Dhemaji,,,,,,,,,,,,
+,Dibrugarh,,,,,,,,,,,,
+,Golaghat,,,,,,,,,,,,
+,Karimganj,,,,,,,,,,,,
+,Nagaon,,,,,,,,,,,,
+,Sivasagar,,,,,,,,,,,,
+District,Number,Revenue,Road Name,Department,Village,Location,Longitude,Latitude,Remarks,,,,
+,,Circle,,,,,,,,,,,
+Cachar,5,(Katigorah | 4),"NH-44 at
+Brahmingram to
+Konapara","PWD
+(Roads)",Brahmangram,Brahmangram,92.56,24.98,"NH-44 at
+Brahmingram
+to Konapara
+As reported by
+PWRD
+Borkhala
+Katigorah T.R
+Division on
+dated
+19.07.2024",,,,
+,,,"Road from
+Moinagram to Jabda","PWD
+(Roads)",Mougram,Moinagram,92.54,24.94,"Road from
+Moinagram to
+Jabda, As
+reported by
+PWRD
+Borkhala
+Katigorah T.R
+Division on
+dated
+19.07.2024",,,,
+,,,"Road from KH road
+at Lamargram to
+Jagadishpur","PWD
+(Roads)","Jagadishpur
+Part – III",Jagadishpur,92.57,24.89,"Road from KH
+road at
+Lamargram to
+Jagadishpur,
+As reported by
+PWRD
+Borkhala
+Katigorah T.R
+Division on
+dated
+19.07.2024",,,,
+,,,"Road from
+Moingram to
+Hiluatilla L.P. School","PWD
+(Roads)",Mougram,Moingram,91.54,24.94,"Road from
+Moingram to
+Hiluatilla L.P.
+School, As
+reported by
+PWRD
+Borkhala
+Katigorah T.R
+Division on
+dated
+19.07.2024",,,,
+,,(Silchar | 1),Srikona to Hatirhar,"PWD
+(Roads)","Srikona Part –
+I",Srikona,92.7,24.85,"Srikona to
+Hatirhar
+Length -200
+Km, As
+reported by
+PWRD
+Borkhala
+Katigorah T.R
+Division on
+dated
+19.07.2024",,,,
+Dhemaji,1,"(Sissiborgaon
+| 1)","Bormuria Arney
+Road to No.2 Nalbari","PWD
+(Roads)",No.2. Nalbari,"Ch-1000.00 M to
+Ch-1200.00 M
+Ch-1980.00 M to
+Ch-2500.00 M
+Ch-3000.00 M to
+Ch-3400.00 M",94.77,27.55,"Road
+submerged
+and damage in
+Side Shoulder
+and Bridge
+approaches
+and Major
+damage in
+Road
+Carriageway.
+Dated
+11.07.2024.
+Extends of
+damage is",,,,
+,,,,,,,,,,,,"1900.00 M.
+Population
+effected is
+7800.",
+,,,(Jonai | 0),Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,Dibrugarh,0,"(Dibrugarh
+West | 0)",Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,Golaghat,0,(Golaghat | 0),Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,(Khumtai | 0),Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,(Bokakhat | 0),Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,(Dergaon | 0),Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,Karimganj,0,"(Nilambazar |
+0)",Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,"(Karimganj |
+0)",Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,Nagaon,0,(Kaliabor | 0),Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,(Raha | 0),Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,(Samaguri | 0),Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,Sivasagar,0,(Demow | 0),Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,(Sivsagar | 0),Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,(Amguri | 0),Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,(Nazira | 0),Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,Total,6,,,,,,,,,,,
+"Infrastructure
+Damaged -
+Bridge",District,Number,Revenue,Bridge Name,,Department,Village,Location,,Longitude,Latitude,Remarks,
+,,,Circle,,,,,,,,,,
+,Cachar,0,(Katigorah | 0),Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,(Silchar | 0),Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,Dhemaji,0,"(Sissiborgaon
+| 0)",Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,(Jonai | 0),Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,Dibrugarh,0,"(Dibrugarh
+West | 0)",Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,Golaghat,0,(Golaghat | 0),Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,(Khumtai | 0),Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,(Bokakhat | 0),Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,(Dergaon | 0),Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,Karimganj,0,"(Nilambazar |
+0)",Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,"(Karimganj |
+0)",Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,Nagaon,0,(Kaliabor | 0),Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,(Raha | 0),Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,(Samaguri | 0),Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,Sivasagar,0,(Demow | 0),Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,(Sivsagar | 0),Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,(Amguri | 0),Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,(Nazira | 0),Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,Total,0,,,,,,,,,,,
+,District,Number,Revenue,Embankment,,Department,Village,Location,,Longitude,Latitude,Remarks,
+,,,Circle,Breached Name,,,,,,,,,
+,Cachar,0,(Katigorah | 0),Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,(Silchar | 0),Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,Dhemaji,0,"(Sissiborgaon
+| 0)",Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,(Jonai | 0),Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,Dibrugarh,0,"(Dibrugarh
+West | 0)",Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,Golaghat,0,(Golaghat | 0),Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,(Khumtai | 0),Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,(Bokakhat | 0),Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,(Dergaon | 0),Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,Karimganj,0,"(Nilambazar |
+0)",Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,"(Karimganj |
+0)",Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,Nagaon,0,(Kaliabor | 0),Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,(Raha | 0),Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,(Samaguri | 0),Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,Sivasagar,0,(Demow | 0),Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,(Sivsagar | 0),Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,(Amguri | 0),Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,(Nazira | 0),Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,Total,0,,,,,,,,,,,
+"Infrastructure
+Damaged -
+Embankment
+Affected",District,Number,Revenue,Embankment,,Department,Village,Location,,Longitude,Latitude,Remarks,
+,,,Circle,Affected Name,,,,,,,,,
+,Cachar,0,(Katigorah | 0),Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,(Silchar | 0),Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,Dhemaji,0,"(Sissiborgaon
+| 0)",Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,(Jonai | 0),Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,Dibrugarh,0,"(Dibrugarh
+West | 0)",Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,Golaghat,0,(Golaghat | 0),Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,(Khumtai | 0),Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,(Bokakhat | 0),Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,(Dergaon | 0),Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,Karimganj,0,"(Nilambazar |
+0)",Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,"(Karimganj |
+0)",Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,Nagaon,0,(Kaliabor | 0),Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,(Raha | 0),Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,(Samaguri | 0),Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,Sivasagar,0,(Demow | 0),Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,(Sivsagar | 0),Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,(Amguri | 0),Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,(Nazira | 0),Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,Total,0,,,,,,,,,,,
+,District,Revenue,Damages,Number,Name,Department,Village,Location,,Longitude,Latitude,Remarks,
+,,Circle,,,,,,,,,,,
+,,,,,,,,,,,,,
+,Cachar,Katigorah,Nil,Nil,Nil,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,Silchar,Nil,Nil,Nil,Nil,Nil,Nil,,Nil,Nil,Nil,
+,Dhemaji,Sissiborgaon,Nil,Nil,Nil,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,Jonai,Nil,Nil,Nil,Nil,Nil,Nil,,Nil,Nil,Nil,
+,Dibrugarh,"Dibrugarh
+West",Nil,Nil,Nil,Nil,Nil,Nil,,Nil,Nil,Nil,
+,Golaghat,Golaghat,Nil,Nil,Nil,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,Khumtai,Nil,Nil,Nil,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,Bokakhat,Nil,Nil,Nil,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,Dergaon,Nil,Nil,Nil,Nil,Nil,Nil,,Nil,Nil,Nil,
+,Karimganj,Nilambazar,Nil,Nil,Nil,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,Karimganj,Nil,Nil,Nil,Nil,Nil,Nil,,Nil,Nil,Nil,
+,Nagaon,Kaliabor,Nil,Nil,Nil,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,Raha,Nil,Nil,Nil,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,Samaguri,Nil,Nil,Nil,Nil,Nil,Nil,,Nil,Nil,Nil,
+,Sivasagar,Demow,Nil,Nil,Nil,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,Sivsagar,"Fisheries/Pond
+(in Hect.)",13,"Ani
+Chandra
+Gam",Fishery,"Jagara Habi
+Mamal Miri","Jagara Habi Mamol
+Miri",,94.5,27.02,"Submerged
+2.0 Hect.",
+,,,,,"Binapani
+taye",Fishery,Lepai,Lepai,,94.02,26.37,"Submerged
+0.35 Hect.",
+,,,,,"Pratima
+Taye",Fishery,Lepai,Lepai,,94.58,27.06,"Submerged
+0.42 Hect.",
+,,,,,"Hatobodon
+Saikia",Fishery,Chenimora,Chenimora,,94.33,27.01,"Submerged
+0.14 Hect.",
+,,,,,Ratul Das,Fishery,Panbecha,Panbecha,94.35,27.01,"Submerged
+0.14 Hect.",,
+,,,,,Palash Das,Fishery,Lepai,lepai,94.64,27.08,"Submerged
+0.28 Hect.",,
+,,,,,"Bhupen
+Gogoi
+Dihingia",Fishery,Panbecha,Panbecha,94.35,27.01,"Submerged
+0.10 Hect.",,
+,,,,,"Tapon
+Kumar
+Bora",Fishery,Panbecha,Panbecha,94.35,27.02,"Submerged
+0.14 Hect.",,
+,,,,,"Ratneswar
+Das",Fishery,Panbecha,Panbecha,94.35,27.02,"Submerged
+0.14 Hect.",,
+,,,,,"Sawan
+Phukan",Fishery,Panbecha,Panbecha,94.35,27.02,"Submerged
+0.14 Hect.",,
+,,,,,"Bijoy
+Hatimuria",Fishery,Panbecha,Panbecha,94.35,27.01,"Submerged
+0.14 Hect.",,
+,,,,,"Diganta
+Saikia",Fishery,Panbecha,Panbecha,94.35,27.02,"Submerged
+0.14 Hect.",,
+,,,,,"Tileswar
+das",Fishery,Panbecha,Panbecha,94.35,27.01,"Submerged
+0.14 Hect.",,
+,,Amguri,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil,,
+,,Nazira,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil,,
+,,,,,,,,,,,,,
+"Wildlife
+affected
+under
+protected
+areas
+description",District,Details,,,,,,,,,,,
+,Cachar,,,,,,,,,,,,
+,Dhemaji,,,,,,,,,,,,
+,Dibrugarh,,,,,,,,,,,,
+,Golaghat,,,,,,,,,,,,
+,Karimganj,,,,,,,,,,,,
+,Nagaon,,,,,,,,,,,,
+,Sivasagar,,,,,,,,,,,,
+Remarks,District,Details,,,,,,,,,,,
+,Cachar,,,,,,,,,,,,
+,Dhemaji,,,,,,,,,,,,
+,Dibrugarh,,,,,,,,,,,,
+,Golaghat,,,,,,,,,,,,
+,Karimganj,,,,,,,,,,,,
+,Nagaon,,,,,,,,,,,,
+,Sivasagar,,,,,,,,,,,,
+,Report Generated On: 28-07-2024 04:43 PM,,,,,,,,,,,,
+Assam Urban Flood Report as on 28-07-2024,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Particulars,Assam Urban Flood Report as on 28-07-2024,,,,,,,,,,,,
+,,,,,,,,,,,,,
+"District
+Affected",No. of,Name of Affected Districts,,,,,,,,,,,
+,Districts,,,,,,,,,,,,
+,Affected,,,,,,,,,,,,
+,0,,,,,,,,,,,,
+"No. Of Revenue
+Circles Affected",0,,,,,,,,,,,,
+"Name Of
+Revenue Circle
+Affected",District,Total,Revenue Circle,,,,,,,,,,
+,,,,,,,,,,,,,
+,Nil,Nil,Nil,,,,,,,,,,
+,Total,Nil,,,,,,,,,,,
+"Villages
+Affected",District,Total,Revenue Circle,,,,,,,,,,
+,,,,,,,,,,,,,
+,Nil,Nil,Nil,,,,,,,,,,
+,Total,Nil,,,,,,,,,,,
+"Population
+Affected",District,Male,Female,Children,Total,Population Details,,,Ward,,Total,Locality,
+,,,,,Population,,,,,,Ward,,
+,Nil,Nil,Nil,Nil,Nil,Nil,,,Nil,,Nil,Nil,
+,Total,Nil,Nil,Nil,Nil,,,,,,Nil,,
+"Relief Camps /
+Centres
+Opened",District,Total,Relief Camp,,,,Relief Distribution Centres,,,,,,
+,,,,,,,,,,,,,
+,Nil,Nil,Nil,,,,Nil,,,,,,
+,Total,Nil,Nil,,,,Nil,,,,,,
+"Inmates In
+Relief Camps",District,Total,Revenue Circlewise,,,Male,Female,Children,Pregnant /,Person with Disability,,,
+,,,,,,,,,Lactating,,,,
+,,,,,,,,,Mother,,,,
+,Nil,Nil,Nil,,,Nil,Nil,Nil,Nil,Nil,,,
+,Total,Nil,,,,Nil,Nil,Nil,Nil,Nil,,,
+"Human Lives
+Lost -
+Confirmed",District,Total,Male,Female,Children,,Others,Revenue Circlewise,,,,,
+,,,,,,,,,,,,,
+,,,,,Male,Female,,,,,,,
+,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil,,,,,
+,Total,Nil,Nil,Nil,Nil,Nil,Nil,,,,,,
+"Human Lives
+Lost - Missing",District,Total,Male,Female,Children,,Others,Revenue Circlewise,,,,,
+,,,,,,,,,,,,,
+,,,,,Male,Female,,,,,,,
+,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil,,,,,
+,Total,Nil,Nil,Nil,Nil,Nil,Nil,,,,,,
+"Livestocks
+Affected",District,Total,Big,Small,Poultry,,,,,,,,
+,Nil,Nil,Nil,Nil,Nil,,,,,,,,
+,Total,Nil,Nil,Nil,Nil,,,,,,,,
+"Livestocks
+Washed Away",District,Total,Big,Small,Poultry,,,,,,,,
+,,,,,,,,,,,,,
+,Nil,Nil,Nil,Nil,Nil,,,,,,,,
+,Total,Nil,Nil,Nil,Nil,,,,,,,,
+"Houses
+Damaged",District,Fully,Fully,Fully Total,,Partially,Partially,Partially Total,,Severely,Severely,Severely Total,
+,,Kuccha,Pukka,,,Kuccha,Pukka,,,Kuccha,Pukka,,
+,,,,,,,,,,,,,
+,Nil,Nil,Nil,Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,Total,Nil,Nil,Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+"Rescue
+Operation",District,Agency,,,Other Agencies,,Number,Person,Animal,Number of,Person,Medical Team,
+,,,,,Involved,,of Boat,Evacuated,Evacuated,Helicopter,Evacuated,Deployed,
+,,,,,,,Deployed,by Boat,by Boat,Deployed,by,,
+,,,,,,,,,,,Helicopter,,
+,,,,,,,,,,,,,
+,Nil,Nil,,,Nil,,Nil,Nil,Nil,Nil,Nil,Nil,
+,Total,,,,,,Nil,Nil,Nil,Nil,Nil,Nil,
+,,,,,,,,,,,,,
+"Relief
+Distributed",District,Rice (in,Dal (in Q),Salt (in,M. Oil (in,Cattle Feed -,Cattle,Cattle Feed - Rice Bran (in Q),,,,,
+,,Q),,Q),L),Green,Feed -,,,,,,
+,,,,,,Fooder (in,Wheat,,,,,,
+,,,,,,Q),Bran (in,,,,,,
+,,,,,,,Q),,,,,,
+,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil,,,,,
+,Total,Nil,Nil,Nil,Nil,Nil,Nil,Nil,,,,,
+"Relief
+Distributed -
+Others",District,Baby Food Liquid,,Baby Food Solid,,Others,,,,,,,
+,,,,,,,,,,,,,
+,Nil,Nil,,Nil,,Nil,,,,,,,
+"Infrastructure
+Damaged -
+Road",District,Number,Revenue,Road Name,,Department,Village,Location,Longitude,Latitude,Remarks,,
+,,,Circle,,,,,,,,,,
+,Nil,Nil,Nil,Nil,,Nil,Nil,Nil,Nil,Nil,Nil,,
+,Total,Nil,,,,,,,,,,,
+"Infrastructure
+Damaged -
+Bridge",District,Number,Revenue,Bridge Name,,Department,Village,Location,Longitude,Latitude,Remarks,,
+,,,Circle,,,,,,,,,,
+,Nil,Nil,Nil,Nil,,Nil,Nil,Nil,Nil,Nil,Nil,,
+,Total,Nil,,,,,,,,,,,
+"Infrastructure
+Damaged -
+Others",District,Revenue,Damages,Number,Name,Department,Village,Location,Longitude,Latitude,Remarks,,
+,,Circle,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Remarks,District,Details,,,,,,,,,,,
+,,,,,,,,,,,,,
+,Nil,Nil,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,

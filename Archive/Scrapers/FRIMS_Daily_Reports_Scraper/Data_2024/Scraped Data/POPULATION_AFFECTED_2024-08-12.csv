@@ -1,0 +1,15 @@
+District,Male,Female,Children,Total Population,Total Crop Area (in Hect.),Population and Crop Area Details
+,Dhemaji,392,385,109,886,2
+,Dibrugarh,2510,2287,1526,6323,1661.5
+,Golaghat,1868,1699,460,4027,1046.7
+,Sivasagar,45,30,14,89,25.5
+,Sonitpur,0,0,0,0,0
+,Total,13948,11340,8249,33537,5737.7
+,District,Total,Relief Camp,,,
+,Charaideo,7,"{'Mahmora': 7, 'Sonari': 0, 'Sapekhati': 0}",,,
+,Dhemaji,2,"{'Jonai': 1, 'Dhemaji': 0}",,,
+,Dibrugarh,6,"{'Moran': 0, 'Naharkatia': 1, 'Tengakhat': 0, 'Tingkhong': 5}",,,
+,Golaghat,9,"{'Golaghat': 1, 'Khumtai': 0, 'Morongi': 1, 'Dergaon': 0, 'Sarupathar': 1, 'Bokakhat': 0}",,,
+,Sivasagar,0,"{'Nazira': 0, 'Sonari RC part': 0, 'Demow': 0}",,,
+,Sonitpur,0,"{'Tezpur': 0, 'Chariduar': 0}",,,
+,Total,24,17,,,

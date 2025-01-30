@@ -1,0 +1,33 @@
+District,Number,Revenue Circle,Embankment Affected Name,Department,Village,Location,Longitude,Latitude,Remarks
+,Barpeta,0,{'Cheng a': 0},Nil,Nil,Nil,Nil,Nil,Nil
+,Biswanath,1,{'Halem': 1},Balijan,Water Resource Deptt.,Bholaguri T.E. 677/371 No. Grant (1st),Bholaguri,93.56,26.87
+,Bongaigaon,0,{'Bongai gaon': 0},Nil,Nil,Nil,Nil,Nil,Nil
+,Cachar,0,{'Silchar': 0},Nil,Nil,Nil,Nil,Nil,Nil
+,Charaideo,0,{'Sonari': 0},Nil,Nil,Nil,Nil,Nil,Nil
+,Chirang,0,{'Bijni': 0},Nil,Nil,Nil,Nil,Nil,Nil
+,Darrang,0,{'Dalgao n': 0},Nil,Nil,Nil,Nil,Nil,Nil
+,Dhemaji,0,{'Sissibo rgaon': 0},Nil,Nil,Nil,Nil,Nil,Nil
+,Dhubri,0,{'Dhubri': 0},Nil,Nil,Nil,Nil,Nil,Nil
+,Dibrugarh,0,{'Dibrug arh West': 0},Nil,Nil,Nil,Nil,Nil,Nil
+,Dima-Hasao,0,{'Haflon g': 0},Nil,Nil,Nil,Nil,Nil,Nil
+,Goalpara,0,{'Lakhip ur': 0},Nil,Nil,Nil,Nil,Nil,Nil
+,Golaghat,0,{'Bokakh at': 0},Nil,Nil,Nil,Nil,Nil,Nil
+,Hailakandi,0,{'Hailaka ndi': 0},Nil,Nil,Nil,Nil,Nil,Nil
+,Hojai,0,{'Dobok a': 0},Nil,Nil,Nil,Nil,Nil,Nil
+,Jorhat,0,{'Teok': 0},Nil,Nil,Nil,Nil,Nil,Nil
+,Kamrup,0,{'Chama ria': 0},Nil,Nil,Nil,Nil,Nil,Nil
+,Kamrup (M),0,{'Sonap ur': 0},Nil,Nil,Nil,Nil,Nil,Nil
+,Karbi Anglong West,0,{'Donka mokam': 0},Nil,Nil,Nil,Nil,Nil,Nil
+,Karimganj,7,{'RK Nagar': 7},Krishnanagar Left Bank of Singla River,Water Resource Deptt.,Krishnanagr,Krishnanagar Left Bank of Singla River,92.44,24.49
+,Kokrajhar,0,{'Kokraj har': 0},Nil,Nil,Nil,Nil,Nil,Nil
+,Lakhimpur,0,{'North Lakhim pur': 0},Nil,Nil,Nil,Nil,Nil,Nil
+,Majuli,0,{'Majuli': 0},Nil,Nil,Nil,Nil,Nil,Nil
+,Morigaon,0,{'Bhurag aon': 0},Nil,Nil,Nil,Nil,Nil,Nil
+,Nagaon,0,{'Samag uri': 0},Nil,Nil,Nil,Nil,Nil,Nil
+,Nalbari,0,{'Barkhe tri': 0},Nil,Nil,Nil,Nil,Nil,Nil
+,Sivasagar,1,{'Demo w': 1},Dehing bund left Bank from joon gaon to Laibeel,Water Resource Deptt.,Bhatgaj,Gorukhuti,94.76,27.25
+,Sonitpur,0,{'Thela mara': 0},Nil,Nil,Nil,Nil,Nil,Nil
+,South Salmara,0,{'South Salmara': 0},Nil,Nil,Nil,Nil,Nil,Nil
+,Tinsukia,0,{'Margh erita': 0},Nil,,Nil,Nil,Nil,Nil
+,Udalguri,0,{'Harisin ga': 0},Nil,,Nil,Nil,Nil,Nil
+,Total,9,,,,,,,

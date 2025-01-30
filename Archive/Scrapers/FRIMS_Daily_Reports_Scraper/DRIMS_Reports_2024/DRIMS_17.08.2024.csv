@@ -1,0 +1,794 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13
+Assam Flood Report as on 17-08-2024,,,,,,,,,,,,,
+Particulars,Assam Flood Report as on 17-08-2024,,,,,,,,,,,,
+"Rivers
+flowing
+above Danger
+Level (as per
+CWC bulletin
+issued at 8
+AM)",Rivers flowing above danger level,,,,,Disang (Nanglamuraghat),,,,,,,
+,Rivers flowing above highest flood level,,,,,Nil,,,,,,,
+"District
+Affected",No. of,Name of Affected Districts,,,,,,,,,,,
+,Districts,,,,,,,,,,,,
+,Affected,,,,,,,,,,,,
+,5,"Dibrugarh, Sivasagar, Dhemaji, Golaghat, Charaideo",,,,,,,,,,,
+"No. Of
+Revenue
+Circles
+Affected",8,,,,,,,,,,,,
+"Name Of
+Revenue
+Circle
+Affected",District,Total,Revenue Circle,,,,,,,,,,
+,Charaideo,1,Mahmora,,,,,,,,,,
+,Dhemaji,1,Jonai,,,,,,,,,,
+,Dibrugarh,2,"Moran, Tingkhong",,,,,,,,,,
+,Golaghat,1,Bokakhat,,,,,,,,,,
+,Sivasagar,3,"Nazira, Sivsagar, Demow",,,,,,,,,,
+,Total,8,,,,,,,,,,,
+"Villages
+Affected",District,Total,Revenue Circle,,,,,,,,,,
+,Dibrugarh,13,"(Moran | 5), (Tingkhong | 8)",,,,,,,,,,
+,Sivasagar,53,"(Nazira | 1), (Sivsagar | 15), (Demow | 37)",,,,,,,,,,
+,Dhemaji,1,(Jonai | 1),,,,,,,,,,
+,Golaghat,9,(Bokakhat | 9),,,,,,,,,,
+,Charaideo,35,(Mahmora | 35),,,,,,,,,,
+,Total,111,,,,,,,,,,,
+"Population
+And Crop
+Area Affected",District,Male,Female,Children,Total,Total Crop Area (in Hect.),,Population and Crop Area Details,,,,,
+,,,,,Population,,,,,,,,
+,Cachar,0,0,0,0,0,,"(Silchar | Population Affected: 0 | Crop Area: 0),
+(Udharbond | Population Affected: 0 | Crop Area: 0),
+(Lakhipur | Population Affected: 0 | Crop Area: 0), (Sonai
+| Population Affected: 0 | Crop Area: 0), (Katigorah |
+Population Affected: 0 | Crop Area: 0)",,,,,
+,Charaideo,5300,3961,4937,14198,4291,,"(Mahmora | Population Affected: 14198 | Crop Area:
+4291)",,,,,
+,Dhemaji,50,44,45,139,2,,(Jonai | Population Affected: 139 | Crop Area: 2),,,,,
+,Dibrugarh,1487,1288,1247,4022,135,,"(Dibrugarh West | Population Affected: 0 | Crop Area: 0),
+(Moran | Population Affected: 1479 | Crop Area: 30),
+(Dibrugarh East | Population Affected: 0 | Crop Area: 0),
+(Chabua | Population Affected: 0 | Crop Area: 0),
+(Naharkatia | Population Affected: 0 | Crop Area: 0),
+(Tengakhat | Population Affected: 0 | Crop Area: 0),
+(Tingkhong | Population Affected: 2543 | Crop Area: 105)",,,,,
+,Golaghat,0,0,0,0,122,,"(Sarupathar | Population Affected: 0 | Crop Area: 0),
+(Bokakhat | Population Affected: 0 | Crop Area: 122)",,,,,
+,Sivasagar,15297,12840,10108,38245,1887.5,,"(Nazira | Population Affected: 108 | Crop Area: 35),
+(Sivsagar | Population Affected: 4193 | Crop Area: 100),
+(Demow | Population Affected: 33944 | Crop Area:
+1752.5)",,,,,
+,Udalguri,0,0,0,0,0,,"(Udalguri | Population Affected: 0 | Crop Area: 0),
+(Harisinga | Population Affected: 0 | Crop Area: 0)",,,,,
+,Total,22134,18133,16337,56604,6437.5,,,,,,,
+"Relief Camps
+/ Centres
+Opened",District,Total,Relief Camp,,,,Relief Distribution Centres,,,,,,
+,Cachar,0,"0 (Silchar | 0), (Udharbond | 0), (Lakhipur | 0),
+(Sonai | 0), (Katigorah | 0)",,,,"0 (Silchar | 0), (Udharbond | 0), (Lakhipur | 0), (Sonai | 0), (Katigorah | 0)",,,,,,
+,Charaideo,7,7 (Mahmora | 7),,,,0 (Mahmora | 0),,,,,,
+,Dhemaji,1,1 (Jonai | 1),,,,0 (Jonai | 0),,,,,,
+,Dibrugarh,3,"2 (Dibrugarh West | 0), (Moran | 0), (Dibrugarh
+East | 0), (Chabua | 0), (Naharkatia | 0),
+(Tengakhat | 0), (Tingkhong | 2)",,,,"1 (Dibrugarh West | 0), (Moran | 1), (Dibrugarh East | 0), (Chabua | 0),
+(Naharkatia | 0), (Tengakhat | 0), (Tingkhong | 0)",,,,,,
+,Golaghat,0,"0 (Sarupathar | 0), (Bokakhat | 0)",,,,"0 (Sarupathar | 0), (Bokakhat | 0)",,,,,,
+,Sivasagar,37,"10 (Nazira | 0), (Sivsagar | 0), (Demow | 10)",,,,"27 (Nazira | 0), (Sivsagar | 0), (Demow | 27)",,,,,,
+,Udalguri,0,"0 (Udalguri | 0), (Harisinga | 0)",,,,"0 (Udalguri | 0), (Harisinga | 0)",,,,,,
+,Total,48,20,,,,28,,,,,,
+"Inmates In
+Relief Camps",District,Total,Revenue Circlewise,,,Male,Female,Children,Pregnant,Person with Disability,,,
+,,,,,,,,,/,,,,
+,,,,,,,,,Lactating,,,,
+,,,,,,,,,Mother,,,,
+,Cachar,0,"(Silchar | 0), (Udharbond | 0),
+(Lakhipur | 0), (Sonai | 0), (Katigorah
+| 0)",,,0,0,0,0,0,,,
+,Charaideo,1651,(Mahmora | 1651),,,546,631,474,0,0,,,
+,Dhemaji,122,(Jonai | 122),,,42,35,45,0,0,,,
+,Dibrugarh,247,"(Dibrugarh West | 0), (Moran | 0),
+(Dibrugarh East | 0), (Chabua | 0),
+(Naharkatia | 0), (Tengakhat | 0),
+(Tingkhong | 247)",,,105,98,44,0,0,,,
+,Golaghat,0,"(Sarupathar | 0), (Bokakhat | 0)",,,0,0,0,0,0,,,
+,Sivasagar,937,"(Nazira | 0), (Sivsagar | 0), (Demow |
+937)",,,403,338,196,0,0,,,
+,Udalguri,0,"(Udalguri | 0), (Harisinga | 0)",,,0,0,0,0,0,,,
+,Total,2957,,,,1096,1102,759,0,0,,,
+"Non Camp
+Inmates in
+Relief
+Distribution
+Centers",District,Total,Revenue Circlewise,,,Male,Female,Children,Animals,,,,
+,,,,,,,,,Big,Small,Poultry,,
+,Cachar,0,"(Silchar | 0), (Udharbond | 0),
+(Lakhipur | 0), (Sonai | 0), (Katigorah
+| 0)",,,0,0,0,0,0,0,,
+,Charaideo,0,(Mahmora | 0),,,0,0,0,0,0,0,,
+,Dhemaji,0,(Jonai | 0),,,0,0,0,0,0,0,,
+,Dibrugarh,241,"(Dibrugarh West | 0), (Moran | 241),
+(Dibrugarh East | 0), (Chabua | 0),
+(Naharkatia | 0), (Tengakhat | 0),
+(Tingkhong | 0)",,,90,78,73,0,0,0,,
+,Golaghat,0,"(Sarupathar | 0), (Bokakhat | 0)",,,0,0,0,0,0,0,,
+,Sivasagar,24437,"(Nazira | 0), (Sivsagar | 0), (Demow |
+24437)",,,9633,7988,6816,0,0,0,,
+,Udalguri,0,"(Udalguri | 0), (Harisinga | 0)",,,0,0,0,0,0,0,,
+,Total,24678,,,,9723,8066,6889,0,0,0,,
+"Human Lives
+Lost -
+Confirmed",District,Total,Flood,General,Male,Female,Children,,Others,Revenue Circlewise,,,
+,,,Death,Drowning,,,Male,Female,,,,,
+,,,,(Non Flood),,,,,,,,,
+,Dibrugarh,0,0,0,0,0,0,0,0,"0 (Dibrugarh West | 0), (Moran |
+0), (Dibrugarh East | 0), (Chabua |
+0), (Naharkatia | 0), (Tengakhat |
+0), (Tingkhong | 0)",,,
+,Udalguri,0,0,0,0,0,0,0,0,"0 (Udalguri | 0), (Harisinga | 0)",,,
+,Sivasagar,0,0,0,0,0,0,0,0,"0 (Nazira | 0), (Sivsagar | 0),
+(Demow | 0)",,,
+,Dhemaji,0,0,0,0,0,0,0,0,0 (Jonai | 0),,,
+,Golaghat,0,0,0,0,0,0,0,0,"0 (Sarupathar | 0), (Bokakhat | 0)",,,
+,Charaideo,2,2,0,2,0,0,0,0,2 (Mahmora | 2),,,
+,Cachar,0,0,0,0,0,0,0,0,"0 (Silchar | 0), (Udharbond | 0),
+(Lakhipur | 0), (Sonai | 0),
+(Katigorah | 0)",,,
+,Total,2,2,0,2,0,0,0,0,,,,
+,,,,,,,,,,,,,
+"Human Lives
+Lost - Missing",District,Total,Male,Female,Children,,Others,Revenue Circlewise,,,,,
+,,,,,Male,Female,,,,,,,
+,Dibrugarh,0,0,0,0,0,0,"0 (Dibrugarh West | 0), (Moran | 0), (Dibrugarh East | 0),
+(Chabua | 0), (Naharkatia | 0), (Tengakhat | 0),
+(Tingkhong | 0)",,,,,
+,Udalguri,0,0,0,0,0,0,"0 (Udalguri | 0), (Harisinga | 0)",,,,,
+,Sivasagar,0,0,0,0,0,0,"0 (Nazira | 0), (Sivsagar | 0), (Demow | 0)",,,,,
+,Dhemaji,0,0,0,0,0,0,0 (Jonai | 0),,,,,
+,Golaghat,0,0,0,0,0,0,"0 (Sarupathar | 0), (Bokakhat | 0)",,,,,
+,Charaideo,0,0,0,0,0,0,0 (Mahmora | 0),,,,,
+,Cachar,0,0,0,0,0,0,"0 (Silchar | 0), (Udharbond | 0), (Lakhipur | 0), (Sonai |
+0), (Katigorah | 0)",,,,,
+,Total,0,0,0,0,0,0,,,,,,
+"Animals
+Affected",District,Total,Big,Small,Poultry,,,,,,,,
+,Cachar,0,0,0,0,,,,,,,,
+,Charaideo,0,0,0,0,,,,,,,,
+,Dhemaji,0,0,0,0,,,,,,,,
+,Dibrugarh,0,0,0,0,,,,,,,,
+,Golaghat,0,0,0,0,,,,,,,,
+,Sivasagar,16238,7650,5432,3156,,,,,,,,
+,Udalguri,0,0,0,0,,,,,,,,
+,Total,16238,7650,5432,3156,,,,,,,,
+"Animals
+Washed
+Away",District,Total,Big,Small,Poultry,,,,,,,,
+,Cachar,0,0,0,0,,,,,,,,
+,Charaideo,0,0,0,0,,,,,,,,
+,Dhemaji,0,0,0,0,,,,,,,,
+,Dibrugarh,0,0,0,0,,,,,,,,
+,Golaghat,0,0,0,0,,,,,,,,
+,Sivasagar,0,0,0,0,,,,,,,,
+,Udalguri,0,0,0,0,,,,,,,,
+,Total,0,0,0,0,,,,,,,,
+"Houses
+Damaged",District,Fully,Fully Pukka,Fully Total,,Partially,Partially Pukka,Partially Total,,,,,
+,,Kuccha,,,,Kuccha,,,,,,,
+,Dibrugarh,821,0,821,,5533,198,5731,,,,,
+,Udalguri,0,0,0,,0,0,0,,,,,
+,Sivasagar,0,0,0,,0,0,0,,,,,
+,Dhemaji,0,0,0,,0,0,0,,,,,
+,Golaghat,16,0,16,,38,0,38,,,,,
+,Charaideo,1,0,1,,0,0,0,,,,,
+,Cachar,256,0,256,,40713,10074,50787,,,,,
+,Total,1094,0,1094,,46284,10272,56556,,,,,
+"Houses
+Damaged
+Others",District,Others Huts,,,Others Cattle Shed,,,Others Total,,,,,
+,Dibrugarh,35,,,82,,,117,,,,,
+,Udalguri,0,,,0,,,0,,,,,
+,Sivasagar,0,,,0,,,0,,,,,
+,Dhemaji,0,,,0,,,0,,,,,
+,Golaghat,0,,,0,,,0,,,,,
+,Charaideo,0,,,0,,,0,,,,,
+,Cachar,12,,,5,,,17,,,,,
+,Total,47,,,87,,,134,,,,,
+"Rescue
+Operation",District,Agency,,,Other Agencies,,Medical Team,Boats,Person,Animal,Helicopters,Person,
+,,,,,Involved,,Deployed,Deployed,Evacuated,Evacuated,Deployed,Evacuated,
+,,,,,,,,,By Boats,By Boats,,By,
+,,,,,,,,,,,,Helicopters,
+,Cachar,,,,,,0,0,0,0,0,0,
+,Charaideo,,,,,,0,0,0,0,0,0,
+,Dhemaji,,,,,,0,0,0,0,0,0,
+,Dibrugarh,,,,Nil,,15,0,0,0,0,0,
+,Golaghat,,,,,,0,0,0,0,0,0,
+,Sivasagar,,,,,,0,0,0,0,0,0,
+,Udalguri,,,,,,0,0,0,0,0,0,
+,Total,,,,,,15,0,0,0,0,0,
+"Relief
+Distributed",District,Rice (in Q),Dal (in Q),Salt (in Q),M. Oil (in,Cattle Feed,Cattle Feed -,Cattle Feed - Rice Bran (in Q),,,,,
+,,,,,L),- Green,Wheat Bran (in,,,,,,
+,,,,,,Fooder (in,Q),,,,,,
+,,,,,,Q),,,,,,,
+,Cachar,0.00,0.00,0.00,0.00,0.00,0.00,0.00,,,,,
+,Charaideo,0.00,0.00,0.00,0.00,0.00,0.00,0.00,,,,,
+,Dhemaji,4.10,0.77,0.23,23.22,0.00,0.00,0.00,,,,,
+,Dibrugarh,3.90,0.72,0.22,9.20,0.00,0.00,0.00,,,,,
+,Golaghat,0.00,0.00,0.00,0.00,0.00,0.00,0.00,,,,,
+,Sivasagar,405.48,74.47,22.34,2234.07,0.00,0.00,0.00,,,,,
+,Udalguri,0.00,0.00,0.00,0.00,0.00,0.00,0.00,,,,,
+,Total,413.48,75.96,22.79,2266.49,0,0,0,,,,,
+"Relief
+Distributed -
+Others",District,Baby Food Liquid,,Baby Food Solid,,Others,,,,,,,
+,Cachar,,,,,,,,,,,,
+,Charaideo,,,,,,,,,,,,
+,Dhemaji,0.00-L,,0.00-Kg,,"Mosquito Coil-98.00-Pck., Match Box-5.00-Pcs, Cheera-98.00-Kg, Candle-98.00-Pcs,
+Soap-196.00-Pck., Biscuits-98.00-Pck.",,,,,,,
+,Dibrugarh,0.00-L,,0.00-Q,,,,,,,,,
+,Golaghat,,,,,,,,,,,,
+,Sivasagar,0.00-L,,0.00-Kg,,,,,,,,,
+,Udalguri,,,,,,,,,,,,
+"Infrastructure
+Damaged -
+Road",District,Number,Revenue,Road Name,,Department,Village,Location,Longitude,Latitude,Remarks,,
+,,,Circle,,,,,,,,,,
+,Cachar,0,(Silchar | 0),Nil,,Nil,Nil,Nil,Nil,Nil,Nil,,
+,,,"(Udharbond
+| 0)",Nil,,Nil,Nil,Nil,Nil,Nil,Nil,,
+,,,"(Lakhipur |
+0)",Nil,,Nil,Nil,Nil,Nil,Nil,Nil,,
+,,,(Sonai | 0),Nil,,Nil,Nil,Nil,Nil,Nil,Nil,,
+,,,"(Katigorah |
+0)",Nil,,Nil,Nil,Nil,Nil,Nil,Nil,,
+,Charaideo,0,"(Mahmora |
+0)",Nil,,Nil,Nil,Nil,Nil,Nil,Nil,,
+,Dhemaji,0,(Jonai | 0),Nil,,Nil,Nil,Nil,Nil,Nil,Nil,,
+,Dibrugarh,0,"(Dibrugarh
+West | 0)",Nil,,Nil,Nil,Nil,Nil,Nil,Nil,,
+,,,(Moran | 0),Nil,,Nil,Nil,Nil,Nil,Nil,Nil,,
+,,,"(Dibrugarh
+East | 0)",Nil,,Nil,Nil,Nil,Nil,Nil,Nil,,
+,,,"(Chabua |
+0)",Nil,,Nil,Nil,Nil,Nil,Nil,Nil,,
+,,,"(Naharkatia
+| 0)",Nil,,Nil,Nil,Nil,Nil,Nil,Nil,,
+,,,"(Tengakhat
+| 0)",Nil,,Nil,Nil,Nil,Nil,Nil,Nil,,
+,,,"(Tingkhong
+| 0)",Nil,,Nil,Nil,Nil,Nil,Nil,Nil,,
+,Golaghat,0,"(Sarupathar
+| 0)",Nil,,Nil,Nil,Nil,Nil,Nil,Nil,,
+,,,"(Bokakhat |
+0)",Nil,,Nil,Nil,Nil,Nil,Nil,Nil,,
+,Sivasagar,0,(Nazira | 0),Nil,,Nil,Nil,Nil,Nil,Nil,Nil,,
+,,,"(Sivsagar |
+0)",Nil,,Nil,Nil,Nil,Nil,Nil,Nil,,
+,,,"(Demow |
+0)",Nil,,Nil,Nil,Nil,Nil,Nil,Nil,,
+,Udalguri,0,"(Udalguri |
+0)",Nil,,Nil,Nil,Nil,Nil,Nil,Nil,,
+,,,"(Harisinga |
+0)",Nil,,Nil,Nil,Nil,Nil,Nil,Nil,,
+,Total,0,,,,,,,,,,,
+"Infrastructure
+Damaged -
+Bridge",District,Number,Revenue,Bridge Name,,Department,Village,Location,Longitude,Latitude,Remarks,,
+,,,Circle,,,,,,,,,,
+,Cachar,0,(Silchar | 0),Nil,,Nil,Nil,Nil,Nil,Nil,Nil,,
+,,,"(Udharbond
+| 0)",Nil,,Nil,Nil,Nil,Nil,Nil,Nil,,
+,,,"(Lakhipur |
+0)",Nil,,Nil,Nil,Nil,Nil,Nil,Nil,,
+,,,(Sonai | 0),Nil,,Nil,Nil,Nil,Nil,Nil,Nil,,
+,,,"(Katigorah |
+0)",Nil,,Nil,Nil,Nil,Nil,Nil,Nil,,
+,Charaideo,0,"(Mahmora |
+0)",Nil,,Nil,Nil,Nil,Nil,Nil,Nil,,
+,Dhemaji,0,(Jonai | 0),Nil,,Nil,Nil,Nil,Nil,Nil,Nil,,
+,Dibrugarh,0,"(Dibrugarh
+West | 0)",Nil,,Nil,Nil,Nil,Nil,Nil,Nil,,
+,,,(Moran | 0),Nil,,Nil,Nil,Nil,Nil,Nil,Nil,,
+,,,"(Dibrugarh
+East | 0)",Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,"(Chabua |
+0)",Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,"(Naharkatia
+| 0)",Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,"(Tengakhat
+| 0)",Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,"(Tingkhong
+| 0)",Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,Golaghat,0,"(Sarupathar
+| 0)",Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,"(Bokakhat |
+0)",Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,Sivasagar,0,(Nazira | 0),Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,"(Sivsagar |
+0)",Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,"(Demow |
+0)",Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,Udalguri,0,"(Udalguri |
+0)",Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,"(Harisinga |
+0)",Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,Total,0,,,,,,,,,,,
+"Infrastructure
+Damaged -
+Embankment
+Breached",District,Number,Revenue,Embankment Breached,,Department,Village,Location,,Longitude,Latitude,Remarks,
+,,,Circle,Name,,,,,,,,,
+,Cachar,0,(Silchar | 0),Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,"(Udharbond
+| 0)",Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,"(Lakhipur |
+0)",Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,(Sonai | 0),Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,"(Katigorah |
+0)",Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,Charaideo,0,"(Mahmora |
+0)",Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,Dhemaji,0,(Jonai | 0),Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,Dibrugarh,0,"(Dibrugarh
+West | 0)",Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,(Moran | 0),Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,"(Dibrugarh
+East | 0)",Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,"(Chabua |
+0)",Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,"(Naharkatia
+| 0)",Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,"(Tengakhat
+| 0)",Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,"(Tingkhong
+| 0)",Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,Golaghat,0,"(Sarupathar
+| 0)",Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,"(Bokakhat |
+0)",Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,Sivasagar,0,(Nazira | 0),Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,"(Sivsagar |
+0)",Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,"(Demow |
+0)",Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,Udalguri,0,"(Udalguri |
+0)",Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,"(Harisinga |
+0)",Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,Total,0,,,,,,,,,,,
+"Infrastructure
+Damaged -",District,Number,Revenue,Embankment Affected,,Department,Village,Location,,Longitude,Latitude,Remarks,
+,,,Circle,Name,,,,,,,,,
+,Cachar,0,(Silchar | 0),Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+"Embankment
+Affected",,,"(Udharbond
+| 0)",Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,"(Lakhipur |
+0)",Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,(Sonai | 0),Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,"(Katigorah |
+0)",Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,Charaideo,0,"(Mahmora |
+0)",Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,Dhemaji,0,(Jonai | 0),Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,Dibrugarh,0,"(Dibrugarh
+West | 0)",Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,(Moran | 0),Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,"(Dibrugarh
+East | 0)",Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,"(Chabua |
+0)",Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,"(Naharkatia
+| 0)",Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,"(Tengakhat
+| 0)",Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,"(Tingkhong
+| 0)",Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,Golaghat,0,"(Sarupathar
+| 0)",Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,"(Bokakhat |
+0)",Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,Sivasagar,0,(Nazira | 0),Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,"(Sivsagar |
+0)",Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,"(Demow |
+0)",Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,Udalguri,1,"(Udalguri |
+0)",Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,"(Harisinga |
+1)","Tangagora
+FIS, Due to
+heavy rainfall
+the U/S left
+embankment
+near the
+head work is
+damaged. Fo
+the length
+20meter ant
+breath
+3meter.",,Irrigation,Dimakuchigaon,"Dimakuchi
+gaon",,9.83,26.74,,
+,Total,1,,,,,,,,,,,
+"Infrastructure
+Damaged -
+Others",District,Revenue,Damages,Number,Name,Department,Village,Location,,Longitude,Latitude,Remarks,
+,,Circle,,,,,,,,,,,
+,Cachar,Silchar,Nil,Nil,Nil,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,Udharbond,Nil,Nil,Nil,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,Lakhipur,Nil,Nil,Nil,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,Sonai,Nil,Nil,Nil,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,Katigorah,Nil,Nil,Nil,Nil,Nil,Nil,,Nil,Nil,Nil,
+,Charaideo,Mahmora,Nil,Nil,Nil,Nil,Nil,Nil,,Nil,Nil,Nil,
+,Dhemaji,Jonai,Nil,Nil,Nil,Nil,Nil,Nil,,Nil,Nil,Nil,
+,Dibrugarh,"Dibrugarh
+West",Nil,Nil,Nil,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,Moran,Nil,Nil,Nil,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,"Dibrugarh
+East",Nil,Nil,Nil,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,Chabua,Nil,Nil,Nil,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,Naharkatia,Nil,Nil,Nil,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,Tengakhat,Nil,Nil,Nil,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,Tingkhong,Nil,Nil,Nil,Nil,Nil,Nil,,Nil,Nil,Nil,
+,Golaghat,Sarupathar,Nil,Nil,Nil,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,Bokakhat,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil,,
+,Sivasagar,Nazira,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil,,
+,,Sivsagar,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil,,
+,,Demow,"Power
+Dept. Poles
+(in Nos)",8,PSC Pole,APDCL,"Nangalamora
+Ahom","Patsaku, Khamun,
+Gelapathar, Dolopa",94.78,26.91,"Total Nos
+PSC pole
+and 2.5 Km
+Conductor
+was
+damaged at
+above
+mentioned
+villages.",,
+,Udalguri,Udalguri,"Power
+Dept. Poles
+(in Nos)",33,"LT pole
+damaged",APDCL,Belguri,Belguri,92.02,26.69,"Due to
+incessant
+rainfall, 1 LT
+pole has
+been
+damaged.",,
+,,,,,"LT pole
+damaged",APDCL,Golondi Habi,Golondi Habi,92.1,26.74,"Due to
+incessant
+rainfall, 1 LT
+pole has
+been
+damaged.",,
+,,,,,"LT and HT
+poles
+damage",APDCL,Bhairaguri,Bhairaguri,92.05,26.68,"Due to
+incessant
+rainfall, 3 LT
+poles and 4
+HT poles has
+been
+damaged.",,
+,,,,,"LT pole
+damaged",APDCL,Khagrabari,Khagrabari,92.06,26.72,"Due to
+incessant
+rainfall, 1 LT
+pole has
+been
+damaged.",,
+,,,,,"LT pole
+damaged",APDCL,Dongamokha,Dogormakha,92.04,26.73,"Due to
+incessant
+rainfall, 1 LT
+pole has
+been
+damaged.",,
+,,,,,"LT pole
+damaged",APDCL,Saru Nagaon,Sarunagaon,92.06,26.65,"Due to
+incessant
+rainfall, 1 LT
+pole has
+been
+damaged",,
+,,,,,"HT pole
+damage",APDCL,Borigaon,Borigaon,92.03,26.8,"Due to
+incessant
+rainfall, 3 HT
+poles has
+been
+damaged.",,
+,,,,,"HT pole
+damaged",APDCL,"Nanke
+Kundarbil","Nanke Kundarbil (NC
+Kundarbil)",92,26.83,"Due to
+incessant
+rainfall, 4 HT
+poles has
+been
+damaged.",,
+,,,,,"LT pole
+damaged",APDCL,Bhura Chuburi,Bhurachuburi,92.04,26.72,"Due to
+incessant
+rainfall, 1 LT
+pole has
+been
+damaged.",,
+,,,,,"LT pole
+damaged",APDCL,Kahibari,Kahibari,92,26.71,"Due to
+incessant",,
+,,,,,,,,,,,"rainfall, 1 LT
+pole has
+been
+damaged.",,
+,,,,,"LT pole
+damaged",APDCL,No.1 Sapkhaity,"No.1 Sapkhaiti
+(Sapkhaiti)",92.07,26.72,"Due to
+incessant
+rainfall, 2 LT
+poles has
+been
+damaged.",,
+,,,,,"LT pole
+damaged",APDCL,Bhalukmari,"Bhalukmari (Rowta
+Bhalukmari)",92.21,26.7,"Due to
+incessant
+rainfall, 2 LT
+poles has
+been
+damaged.",,
+,,,,,"LT pole
+damaged",APDCL,Golmagaon,Golmagaon,92.09,26.76,"Due to
+incessant
+rainfall, 1 LT
+pole has
+been
+damaged.",,
+,,,,,"LT pole
+damage",APDCL,Galagaon,Gelagaon,92.15,26.79,"Due to
+incessant
+rainfall, 1 LT
+pole has
+been
+damaged.",,
+,,,,,"LT pole
+damaged",APDCL,Landarchuburi,"Landarchuburi (near
+Hangma Chowk)",91.99,26.68,"Due to
+incessant
+rainfall, 1 LT
+pole has
+been
+damaged.",,
+,,,,,"HT pole
+damage",APDCL,Aminpara,Aminpara,92.21,26.71,"Due to
+incessant
+rainfall, 2 HT
+poles has
+been
+damaged.",,
+,,,,,"LT pole
+damageg",APDCL,Rowta Pathar,Rowta Pathar,92.24,26.7,"Due to
+incessant
+rainfall, 2 LT
+poles has
+been
+damaged.",,
+,,,,,"LT pole
+damaged",APDCL,Chamuapara,"Chamuapara
+(Somowapara)",91.99,26.71,"Due to
+incessant
+rainfall, 1 LT
+pole has
+been
+damaged.",,
+,,,"Power
+Dept.
+Conductors
+(in Nos)",5,"LT
+conductor
+snapped",APDCL,Landarchuburi,"Landarchuburi (near
+Hangma Chowk)",91.99,26.68,"Due to
+incessant
+rainfall, 0.85
+km LT
+conductor
+has been
+snapped.",,
+,,,,,"11kV and
+LT
+conductor
+snapped",APDCL,"Nanke
+Kundarbil","Nanke Kundarbil (NC
+Kundarbil)",92,26.83,"Due to
+incessant
+rainfall, 1.95
+km 11kV
+and 1.3 km
+LT
+conductor
+has been
+snapped.",,
+,,,,,"11kv and
+LT
+conductor
+snapped",APDCL,Bhura Chuburi,Bhurachuburi,,92.03,26.8,"Due to
+incessant
+rainfall, 0.7
+km 11kV
+and 0.85 km
+LT
+conductor
+has been
+snapped.",
+,,,"Bridge
+Approach
+Road
+Washed
+Away (in
+Nos)",1,"RCC bridge
+approach
+road
+damage","PWD
+(Roads)",Barigaon,Barigaon,,92.03,26.78,"Due to
+incessant
+rainfall and
+the rise in
+the water
+level of the
+Swarna
+River (Bala),
+one side of
+the
+approach
+road to RCC
+Bridge No.
+1/1 has
+been
+damaged or
+washed
+away over a
+length of 25
+meters.",
+,,Harisinga,Nil,Nil,Nil,Nil,Nil,Nil,,Nil,Nil,Nil,
+,,,,,,,,,,,,,
+"Wildlife
+affected
+under
+protected
+areas
+description",District,Details,,,,,,,,,,,
+,Cachar,,,,,,,,,,,,
+,Charaideo,,,,,,,,,,,,
+,Dhemaji,,,,,,,,,,,,
+,Dibrugarh,,,,,,,,,,,,
+,Golaghat,,,,,,,,,,,,
+,Sivasagar,,,,,,,,,,,,
+,Udalguri,,,,,,,,,,,,
+Remarks,District,Details,,,,,,,,,,,
+,Cachar,"(Silchar - House damage for Flood 2024), (Udharbond - House Damage Report for 2024.), (Lakhipur - House Damage for Flood 2024),
+(Sonai - House damage report for 2024), (Katigorah - House Damage Report flood 2024)",,,,,,,,,,,
+,Charaideo,,,,,,,,,,,,
+,Dhemaji,,,,,,,,,,,,
+,Dibrugarh,"(Dibrugarh West - Fully Damage House 160 No's, Which includes 159 No's Severely Damaged Kutcha House.), (Moran - 511 Nos. of Fully
+damage houses which includes 491 Nos. of Severely damaged kutcha houses.), (Tengakhat - Fully Damage House 42 which includes 31
+nos. Severely damaged Kuccha house.), (Tingkhong - Fully Damage House 82 which includes 10 nos. Severely damaged Pucca House. )",,,,,,,,,,,
+,Golaghat,,,,,,,,,,,,
+,Sivasagar,,,,,,,,,,,,
+,Udalguri,,,,,,,,,,,,
+,Report Generated On: 17-08-2024 05:47 PM,,,,,,,,,,,,
+Assam Urban Flood Report as on 17-08-2024,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Particulars,Assam Urban Flood Report as on 17-08-2024,,,,,,,,,,,,
+,,,,,,,,,,,,,
+District Affected,No. of Districts,Name of Affected Districts,,,,,,,,,,,
+,Affected,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,0,,,,,,,,,,,,
+"No. Of Revenue
+Circles Affected",0,,,,,,,,,,,,
+"Name Of
+Revenue Circle
+Affected",District,Total,Revenue Circle,,,,,,,,,,
+,,,,,,,,,,,,,
+,Nil,Nil,Nil,,,,,,,,,,
+,Total,Nil,,,,,,,,,,,
+Villages Affected,District,Total,Revenue Circle,,,,,,,,,,
+,,,,,,,,,,,,,
+,Nil,Nil,Nil,,,,,,,,,,
+,Total,Nil,,,,,,,,,,,
+"Population
+Affected",District,Male,Female,Children,Total,Population Details,,,Ward,,Total Ward,Locality,
+,,,,,Population,,,,,,,,
+,Nil,Nil,Nil,Nil,Nil,Nil,,,Nil,,Nil,Nil,
+,Total,Nil,Nil,Nil,Nil,,,,,,Nil,,
+"Relief Camps /
+Centres Opened",District,Total,Relief Camp,,,,Relief Distribution Centres,,,,,,
+,,,,,,,,,,,,,
+,Nil,Nil,Nil,,,,Nil,,,,,,
+,Total,Nil,Nil,,,,Nil,,,,,,
+"Inmates In Relief
+Camps",District,Total,Revenue Circlewise,,,Male,Female,Children,Pregnant /,Person with Disability,,,
+,,,,,,,,,Lactating,,,,
+,,,,,,,,,Mother,,,,
+,Nil,Nil,Nil,,,Nil,Nil,Nil,Nil,Nil,,,
+,Total,Nil,,,,Nil,Nil,Nil,Nil,Nil,,,
+"Human Lives
+Lost - Confirmed",District,Total,Male,Female,Children,,Others,Revenue Circlewise,,,,,
+,,,,,,,,,,,,,
+,,,,,Male,Female,,,,,,,
+,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil,,,,,
+,Total,Nil,Nil,Nil,Nil,Nil,Nil,,,,,,
+"Human Lives
+Lost - Missing",District,Total,Male,Female,Children,,Others,Revenue Circlewise,,,,,
+,,,,,,,,,,,,,
+,,,,,Male,Female,,,,,,,
+,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil,,,,,
+,Total,Nil,Nil,Nil,Nil,Nil,Nil,,,,,,
+,,,,,,,,,,,,,
+"Livestocks
+Affected",District,Total,Big,Small,Poultry,,,,,,,,
+,Nil,Nil,Nil,Nil,Nil,,,,,,,,
+,Total,Nil,Nil,Nil,Nil,,,,,,,,
+"Livestocks
+Washed Away",District,Total,Big,Small,Poultry,,,,,,,,
+,,,,,,,,,,,,,
+,Nil,Nil,Nil,Nil,Nil,,,,,,,,
+,Total,Nil,Nil,Nil,Nil,,,,,,,,
+"Houses
+Damaged",District,Fully,Fully,Fully Total,,Partially,Partially,Partially Total,,Severely,Severely,Severely Total,
+,,Kuccha,Pukka,,,Kuccha,Pukka,,,Kuccha,Pukka,,
+,,,,,,,,,,,,,
+,Nil,Nil,Nil,Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+,Total,Nil,Nil,Nil,,Nil,Nil,Nil,,Nil,Nil,Nil,
+"Rescue
+Operation",District,Agency,,,Other Agencies Involved,,Number,Person,Animal,Number of,Person,Medical Team,
+,,,,,,,of Boat,Evacuated,Evacuated,Helicopter,Evacuated,Deployed,
+,,,,,,,Deployed,by Boat,by Boat,Deployed,by,,
+,,,,,,,,,,,Helicopter,,
+,,,,,,,,,,,,,
+,Nil,Nil,,,Nil,,Nil,Nil,Nil,Nil,Nil,Nil,
+,Total,,,,,,Nil,Nil,Nil,Nil,Nil,Nil,
+,,,,,,,,,,,,,
+"Relief
+Distributed",District,Rice (in,Dal (in Q),Salt (in,M. Oil (in L),Cattle Feed -,Cattle,Cattle Feed - Rice Bran (in Q),,,,,
+,,Q),,Q),,Green,Feed -,,,,,,
+,,,,,,Fooder (in Q),Wheat,,,,,,
+,,,,,,,Bran (in,,,,,,
+,,,,,,,Q),,,,,,
+,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil,,,,,
+,Total,Nil,Nil,Nil,Nil,Nil,Nil,Nil,,,,,
+"Relief
+Distributed -
+Others",District,Baby Food Liquid,,Baby Food Solid,,Others,,,,,,,
+,,,,,,,,,,,,,
+,Nil,Nil,,Nil,,Nil,,,,,,,
+"Infrastructure
+Damaged - Road",District,Number,Revenue,Road Name,,Department,Village,Location,Longitude,Latitude,Remarks,,
+,,,Circle,,,,,,,,,,
+,Nil,Nil,Nil,Nil,,Nil,Nil,Nil,Nil,Nil,Nil,,
+,Total,Nil,,,,,,,,,,,
+"Infrastructure
+Damaged -
+Bridge",District,Number,Revenue,Bridge Name,,Department,Village,Location,Longitude,Latitude,Remarks,,
+,,,Circle,,,,,,,,,,
+,Nil,Nil,Nil,Nil,,Nil,Nil,Nil,Nil,Nil,Nil,,
+,Total,Nil,,,,,,,,,,,
+,,,,,,,,,,,,,
+"Infrastructure
+Damaged -
+Others",District,Revenue,Damages,Number,Name,Department,Village,Location,Longitude,Latitude,Remarks,,
+,,Circle,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil,Nil,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Remarks,District,Details,,,,,,,,,,,
+,,,,,,,,,,,,,
+,Nil,Nil,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,

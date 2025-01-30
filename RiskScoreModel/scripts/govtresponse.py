@@ -22,6 +22,7 @@ master_variables['FinancialYear'] = master_variables['timeperiod'].apply(lambda 
 #INPUT VARS
 government_response_vars = ["total_tender_awarded_value",
                        #"SOPD_tenders_awarded_value",
+                       "SDRF_sanctions_awarded_value",
                        "SDRF_tenders_awarded_value",
                        #"RIDF_tenders_awarded_value",
                        #"LTIF_tenders_awarded_value",

@@ -9,112 +9,47 @@ import warnings
 warnings.filterwarnings("ignore")
 
 master_variables = pd.read_csv(os.getcwd()+'/RiskScoreModel/data/MASTER_VARIABLES.csv')
-
 hazard_vars = ['inundation_intensity_mean_nonzero', 'inundation_intensity_sum', 'drainage_density', 'mean_rain', 'max_rain']
-
 hazard_df = master_variables[hazard_vars + ['timeperiod', 'object_id']]
-
 hazard_df_months = []
+
+
+# Define categories for hazard levels
+categories = [1, 2, 3, 4, 5]
+def custom_binning(df, var):
+    conditions = [
+        (df[var] == 0),
+        (df[var] > 0) & (df[var] <= df[var].quantile(0.25)),
+        (df[var] > df[var].quantile(0.25)) & (df[var] <= df[var].quantile(0.5)),
+        (df[var] > df[var].quantile(0.5)) & (df[var] <= df[var].quantile(0.75)),
+        (df[var] > df[var].quantile(0.75))
+    ]
+    return np.select(conditions, categories, default='outlier')
+
+
 for month in tqdm(hazard_df.timeperiod.unique()):
     hazard_df_month = hazard_df[hazard_df.timeperiod == month]
     
-    # Define the corresponding categories
-    #categories = ['very low', 'low', 'medium', 'high', 'very high']
-    categories = [1, 2, 3, 4, 5]
-
-    # Calculate mean and standard deviation
-    mean = hazard_df_month['drainage_density'].mean()
-    std = hazard_df_month['drainage_density'].std()
+    # Apply custom binning based on value ranges
+    hazard_df_month['drainage_density_custom'] = custom_binning(hazard_df_month, 'drainage_density')
+    hazard_df_month['mean_rain_custom'] = custom_binning(hazard_df_month, 'mean_rain')
+    hazard_df_month['max_rain_custom'] = custom_binning(hazard_df_month, 'max_rain')
+    hazard_df_month['inundation_intensity_mean_nonzero_custom'] = custom_binning(hazard_df_month, 'inundation_intensity_mean_nonzero')
+    hazard_df_month['inundation_intensity_sum_custom'] = custom_binning(hazard_df_month, 'inundation_intensity_sum')
     
-    # Define the conditions for each category
-    conditions = [
-        (hazard_df_month['drainage_density'] <= mean),
-        (hazard_df_month['drainage_density'] > mean) & (hazard_df_month['drainage_density'] <= mean + std),
-        (hazard_df_month['drainage_density'] > mean + std) & (hazard_df_month['drainage_density'] <= mean + 2 * std),
-        (hazard_df_month['drainage_density'] > mean + 2 * std) & (hazard_df_month['drainage_density'] <= mean + 3 * std),
-        (hazard_df_month['drainage_density'] > mean + 3 * std)
-    ]
-    # Create the new column based on the conditions
-    hazard_df_month['drainage_density_level'] = np.select(conditions, categories, default='outlier')
-
-    #!! ************** !!#
-    # Calculate mean and standard deviation
-    mean = hazard_df_month['mean_rain'].mean()
-    std = hazard_df_month['mean_rain'].std()
-    
-    # Define the conditions for each category
-    conditions = [
-        (hazard_df_month['mean_rain'] <= mean),
-        (hazard_df_month['mean_rain'] > mean) & (hazard_df_month['mean_rain'] <= mean + std),
-        (hazard_df_month['mean_rain'] > mean + std) & (hazard_df_month['mean_rain'] <= mean + 2 * std),
-        (hazard_df_month['mean_rain'] > mean + 2 * std) & (hazard_df_month['mean_rain'] <= mean + 3 * std),
-        (hazard_df_month['mean_rain'] > mean + 3 * std)
-    ]
-    # Create the new column based on the conditions
-    hazard_df_month['mean_rain_level'] = np.select(conditions, categories, default='outlier')
-    #!! ************** !!#
-    # Calculate mean and standard deviation
-    mean = hazard_df_month['max_rain'].mean()
-    std = hazard_df_month['max_rain'].std()
-    
-    # Define the conditions for each category
-    conditions = [
-        (hazard_df_month['max_rain'] <= mean),
-        (hazard_df_month['max_rain'] > mean) & (hazard_df_month['max_rain'] <= mean + std),
-        (hazard_df_month['max_rain'] > mean + std) & (hazard_df_month['max_rain'] <= mean + 2 * std),
-        (hazard_df_month['max_rain'] > mean + 2 * std) & (hazard_df_month['max_rain'] <= mean + 3 * std),
-        (hazard_df_month['max_rain'] > mean + 3 * std)
-    ]
-    # Create the new column based on the conditions
-    hazard_df_month['max_rain_level'] = np.select(conditions, categories, default='outlier')
-    #!! ************** !!#
-    
-    # Calculate mean and standard deviation
-    mean = hazard_df_month['inundation_intensity_mean_nonzero'].mean()
-    std = hazard_df_month['inundation_intensity_mean_nonzero'].std()
-    
-    # Define the conditions for each category
-    conditions = [
-        (hazard_df_month['inundation_intensity_mean_nonzero'] <= mean),
-        (hazard_df_month['inundation_intensity_mean_nonzero'] > mean) & (hazard_df_month['inundation_intensity_mean_nonzero'] <= mean + std),
-        (hazard_df_month['inundation_intensity_mean_nonzero'] > mean + std) & (hazard_df_month['inundation_intensity_mean_nonzero'] <= mean + 2 * std),
-        (hazard_df_month['inundation_intensity_mean_nonzero'] > mean + 2 * std) & (hazard_df_month['inundation_intensity_mean_nonzero'] <= mean + 3 * std),
-        (hazard_df_month['inundation_intensity_mean_nonzero'] > mean + 3 * std)
-    ]
-    # Create the new column based on the conditions
-    hazard_df_month['inundation_intensity_mean_nonzero_level'] = np.select(conditions, categories, default='outlier')
-    #!! ************** !!#
-
-    # Calculate mean and standard deviation
-    mean = hazard_df_month['inundation_intensity_sum'].mean()
-    std = hazard_df_month['inundation_intensity_sum'].std()
-
-    # Define the conditions for each category
-    conditions = [
-        (hazard_df_month['inundation_intensity_sum'] <= mean),
-        (hazard_df_month['inundation_intensity_sum'] > mean) & (hazard_df_month['inundation_intensity_sum'] <= mean + std),
-        (hazard_df_month['inundation_intensity_sum'] > mean + std) & (hazard_df_month['inundation_intensity_sum'] <= mean + 2 * std),
-        (hazard_df_month['inundation_intensity_sum'] > mean + 2 * std) & (hazard_df_month['inundation_intensity_sum'] <= mean + 3 * std),
-        (hazard_df_month['inundation_intensity_sum'] > mean + 3 * std)
-    ]
-    
-    # Create the new column based on the conditions
-    hazard_df_month['inundation_intensity_sum_level'] = np.select(conditions, categories, default='outlier')
-    #!! ************** !!#
-
     #Average of all levels
-    hazard_df_month['flood-hazard'] = (hazard_df_month['inundation_intensity_mean_nonzero_level'].astype(int)
-                                        + hazard_df_month['inundation_intensity_sum_level'].astype(int)
-                                        + hazard_df_month['mean_rain_level'].astype(int)
-                                        + hazard_df_month['max_rain_level'].astype(int)
-                                        + hazard_df_month['drainage_density_level'].astype(int))/5
     
-    hazard_df_month['flood-hazard'] = round(hazard_df_month['flood-hazard'])
+    # Average hazard score
+    hazard_df_month['flood-hazard-float'] = (hazard_df_month[['drainage_density_custom', 'mean_rain_custom', 
+                                                        'max_rain_custom', 'inundation_intensity_mean_nonzero_custom',
+                                                        'inundation_intensity_sum_custom']]
+                                       .astype(float).mean(axis=1))
+
+    hazard_df_month['flood-hazard'] = round(hazard_df_month['flood-hazard-float'])
 
     hazard_df_months.append(hazard_df_month)
 
 hazard = pd.concat(hazard_df_months)
-
 master_variables = master_variables.merge(hazard[['timeperiod', 'object_id', 'flood-hazard']],
                        on = ['timeperiod', 'object_id'])
 

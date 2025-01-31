@@ -1,0 +1,3 @@
+[submodule "flood-data-ecosystem-Assam"]
+	path = flood-data-ecosystem-Assam
+	url = https://github.com/CivicDataLab/flood-data-ecosystem-Assam.git

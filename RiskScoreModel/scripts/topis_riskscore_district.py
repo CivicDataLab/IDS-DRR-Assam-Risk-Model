@@ -16,7 +16,7 @@ factor_scores_dfs = glob.glob(os.getcwd()+r'/RiskScoreModel/data/factor_scores_l
 
 # Select only the columns that exist in both the DataFrame and the list
 factors = ['exposure', 'flood-hazard', 'vulnerability', 'government-response']
-additional_columns = ['efficiency','flood-hazard-float', 'total_tenders_hist', "SDRF_sanctions_hist", "other_tenders_hist"]
+additional_columns = ['financial_year','efficiency','flood-hazard-float', 'total_tenders_hist', "SDRF_sanctions_hist", "other_tenders_hist"]
 
 merged_df = pd.read_csv(factor_scores_dfs[0])
 print(merged_df.shape)
@@ -28,7 +28,7 @@ for df in factor_scores_dfs[1:]:
     selected_additional_columns = [col for col in additional_columns if col in df.columns]
 
     # Create a new DataFrame containing only the selected columns
-    df = df[selected_columns + ['object_id', 'timeperiod']+selected_additional_columns]
+    df = df[selected_columns + ['object_id', 'timeperiod'] + selected_additional_columns]
     #merged_df = pd.merge(merged_df, df, on=['object_id', 'timeperiod'], how='inner')
     merged_df = pd.merge(
         merged_df, df, on=['object_id', 'timeperiod'], how='inner', suffixes=('', '_drop')
@@ -189,13 +189,14 @@ indicators = ['total-tender-awarded-value',
     'mean-rain',
     'sum-rain',
     'efficiency',
+    'financial-year',
     
     #'total-tenders-hist', 
     #"sdrf-sanctions-hist", 
     #"other-tenders-hist",    
     #'flood-hazard-float'
 
-    #'topsis-score',
+    'topsis-score'
     #'risk-score',
     #'exposure',
     #'vulnerability',
@@ -274,7 +275,7 @@ aggregation_rules = {
     #"other-tenders-hist":"mean",    
     #'flood-hazard-float':"mean",
 
-    #'topsis-score': 'mean',
+    'topsis-score': 'mean',
     #'risk-score': 'mean',
     #'exposure': 'mean',
     #'vulnerability': 'mean',
@@ -283,9 +284,8 @@ aggregation_rules = {
     # Max for hazard levels
     'max-rain':'max',
     'riverlevel-max':'max',
-    'riverlevel-min':'min'
-
-
+    'riverlevel-min':'min',
+    'financial-year': 'first' 
 }
 
 rounding_rules = {
@@ -350,8 +350,8 @@ dist = pd.concat([dist_vul.set_index(['district', 'timeperiod']),
                   dist_risk.set_index(['district', 'timeperiod'])['risk-score'],
                   dist_indicators.set_index(['district', 'timeperiod'])[indicators]],
                   axis=1).reset_index()
-print(dist.shape)
-print(topsis.shape)
+print(dist.columns)
+print(topsis.columns)
 
 
 final = pd.concat([topsis, dist], ignore_index=True)

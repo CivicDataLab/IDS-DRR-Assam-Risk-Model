@@ -17,10 +17,11 @@ def get_financial_year(timeperiod):
         return str(int(timeperiod.split('_')[0]) - 1)+'-'+str(int(timeperiod.split('_')[0]))
     
 # Apply the function to create the 'FinancialYear' column
-master_variables['FinancialYear'] = master_variables['timeperiod'].apply(lambda x: get_financial_year(x))
+master_variables['financial_year'] = master_variables['timeperiod'].apply(lambda x: get_financial_year(x))
 
 #INPUT VARS
 government_response_vars = ["total_tender_awarded_value",
+                            "total_expenditure_value",
                        #"SOPD_tenders_awarded_value",
                        "SDRF_sanctions_awarded_value",
                        "SDRF_tenders_awarded_value",
@@ -34,7 +35,7 @@ government_response_vars = ["total_tender_awarded_value",
 
 # Find cumsum in each FY of the government response vars
 for var in government_response_vars:
-    master_variables[var]=master_variables.groupby(['object_id','FinancialYear'])[var].cumsum()
+    master_variables[var]=master_variables.groupby(['object_id','financial_year'])[var].cumsum()
 
 
 govtresponse_df = master_variables[government_response_vars + ['timeperiod', 'object_id']]

@@ -37,32 +37,24 @@ for df in factor_scores_dfs[1:]:
     merged_df = merged_df.loc[:, ~merged_df.columns.str.endswith('_drop')]
 
 #df = pd.read_csv(os.getcwd()+'/RiskScoreModel/data/factor_scores.csv')
-'''
-#updating govt-response variables to be cumulative
-government_response_vars = ["total_tender_awarded_value",
-                            "SDRF_sanctions_awarded_value",
-                       "SOPD_tenders_awarded_value",
-                       "SDRF_tenders_awarded_value",
-                       "RIDF_tenders_awarded_value",
-                       "LTIF_tenders_awarded_value",
-                       "CIDF_tenders_awarded_value",
-                       "Preparedness Measures_tenders_awarded_value",
-                       "Immediate Measures_tenders_awarded_value",
-                       "Others_tenders_awarded_value",
-                       
-                      ]
-govt_response_df = pd.read_csv(r'D:\CivicDataLab_IDS-DRR\IDS-DRR_Github\IDS-DRR-Assam\RiskScoreModel\data\factor_scores_l1_government-response.csv')  # Adjust path
-govt_response_df = govt_response_df[['object_id', 'timeperiod'] + government_response_vars]
-
-# Merge govt_response_df into the merged dataframe to update the 'government-response' values
-merged_df = pd.merge(merged_df, govt_response_df, on=['object_id', 'timeperiod'], how='left', suffixes=('', '_updated'))
-
-# Update each of the government response variables
-for col in government_response_vars:
-    merged_df[col] = merged_df[f'{col}_updated']  # Directly replace values with the updated column
-    merged_df = merged_df.drop(columns=[f'{col}_updated'])  # Clean up the temporary '_updated' columns
-'''
 df_months = []
+
+# Ensure sorting for proper cumulative sum
+merged_df.sort_values(by=['object_id', 'financial_year', 'timeperiod'], inplace=True)
+
+# Define indicators that need cumulative sums
+cumulative_vars = [
+    "total_tender_awarded_value",
+    "SDRF_sanctions_awarded_value",
+    "SDRF_tenders_awarded_value",
+    "Preparedness Measures_tenders_awarded_value",
+    "Immediate Measures_tenders_awarded_value",
+    "Others_tenders_awarded_value"
+]
+
+for var in cumulative_vars:
+    cum_var_name = var + "_fy_cumsum"
+    merged_df[cum_var_name] = merged_df.groupby(['object_id', 'financial_year'])[var].cumsum()
 
 for month in merged_df.timeperiod.unique():
 
@@ -89,6 +81,7 @@ topsis = pd.concat(df_months)
 
 print(topsis.shape)
 topsis.columns = [col.lower().replace('_', '-').replace(' ', '-') for col in topsis.columns]
+print(topsis.columns)
 
 topsis.to_csv(os.getcwd()+r'/RiskScoreModel/data/risk_score.csv', index=False)
 
@@ -133,7 +126,23 @@ indicators = ['total-tender-awarded-value',
     'cidf-tenders-awarded-value',
     'preparedness-measures-tenders-awarded-value',
     'immediate-measures-tenders-awarded-value',
+
     'others-tenders-awarded-value',
+    'others-tenders-awarded-value-fy-cumsum',
+
+    'total-tender-awarded-value-fy-cumsum',
+    'sdrf-sanctions-awarded-value-fy-cumsum',
+    'sdrf-tenders-awarded-value-fy-cumsum',
+    'preparedness-measures-tenders-awarded-value-fy-cumsum',
+    'immediate-measures-tenders-awarded-value-fy-cumsum',
+
+    'total-expenditure-value',
+    'immediate-measures-expenditure-value',
+    'others-expenditure-value',
+    'sdrf-expenditure-value',
+    #'sopd-expenditure-value',
+    'repair-and-restoration-expenditure-value',
+
     'total-animal-washed-away',
     'total-animal-affected',
     'total-house-fully-damaged',
@@ -190,6 +199,9 @@ indicators = ['total-tender-awarded-value',
     'sum-rain',
     'efficiency',
     'financial-year',
+    'relief-camps',
+    'relief-centers', 
+    'relief-inmates',
     
     #'total-tenders-hist', 
     #"sdrf-sanctions-hist", 
@@ -216,6 +228,22 @@ aggregation_rules = {
     'preparedness-measures-tenders-awarded-value': 'sum',
     'immediate-measures-tenders-awarded-value': 'sum',
     'others-tenders-awarded-value': 'sum',
+
+    'others-tenders-awarded-value-fy-cumsum': 'sum',
+
+    'total-tender-awarded-value-fy-cumsum': 'sum',
+    'sdrf-sanctions-awarded-value-fy-cumsum': 'sum',
+    'sdrf-tenders-awarded-value-fy-cumsum': 'sum',
+    'preparedness-measures-tenders-awarded-value-fy-cumsum': 'sum',
+    'immediate-measures-tenders-awarded-value-fy-cumsum': 'sum',
+
+    'total-expenditure-value': 'sum',
+    'immediate-measures-expenditure-value': 'sum',
+    'others-expenditure-value': 'sum',
+    'sdrf-expenditure-value': 'sum',
+    #'sopd-expenditure-value': 'sum',
+    'repair-and-restoration-expenditure-value': 'sum',
+
     'total-animal-washed-away': 'sum',
     'total-animal-affected': 'sum',
     'total-house-fully-damaged': 'sum',
@@ -241,6 +269,9 @@ aggregation_rules = {
     'rail-count':'sum',
     'population-affected-total': 'sum',
     'crop-area': 'sum',
+    'relief-camps':'sum',
+    'relief-centers':'sum', 
+    'relief-inmates':'sum',
 
     # Mean for percentage or density-based metrics
     'rc-nosanitation-hhds-pct': 'mean',
@@ -350,8 +381,8 @@ dist = pd.concat([dist_vul.set_index(['district', 'timeperiod']),
                   dist_risk.set_index(['district', 'timeperiod'])['risk-score'],
                   dist_indicators.set_index(['district', 'timeperiod'])[indicators]],
                   axis=1).reset_index()
-print(dist.columns)
-print(topsis.columns)
+#print(dist.columns)
+#print(topsis.columns)
 
 
 final = pd.concat([topsis, dist], ignore_index=True)
@@ -363,7 +394,7 @@ final['inundation-pct'] = final['inundation-pct']*100
 
 #final = pd.concat([topsis.set_index(['object-id', 'timeperiod']),
 #                   dist.set_index(['object-id', 'timeperiod'])], axis=1).reset_index()
-
+final["total-infrastructure-damage"] =  final["total-house-fully-damaged"] + final["roads"] + final["bridge"]
 final.rename(columns={'preparedness-measures-tenders-awarded-value': 'restoration-measures-tenders-awarded-value', 'mean-sexratio':'sexratio'}, inplace=True)
 final.to_csv(os.getcwd()+r'/RiskScoreModel/data/risk_score_final_district.csv', index=False)
 

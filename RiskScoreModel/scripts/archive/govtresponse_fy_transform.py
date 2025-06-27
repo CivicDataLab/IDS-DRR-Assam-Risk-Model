@@ -28,36 +28,49 @@ government_response_vars = ["total_tender_awarded_value",
                        #"RIDF_tenders_awarded_value",
                        #"LTIF_tenders_awarded_value",
                     #   "CIDF_tenders_awarded_value",
+                       "Preparedness Measures_tenders_awarded_value",
+                       "Immediate Measures_tenders_awarded_value",
+                       "Others_tenders_awarded_value"
+                      ]
+
+government_response_indicators = ["total_tender_awarded_value",
+                            #"total_expenditure_value",
+                       #"SOPD_tenders_awarded_value",
+                       "SDRF_sanctions_awarded_value",
+                       "SDRF_tenders_awarded_value",
+                       #"RIDF_tenders_awarded_value",
+                       #"LTIF_tenders_awarded_value",
+                    #   "CIDF_tenders_awarded_value",
                     #   "Preparedness Measures_tenders_awarded_value",
                     #   "Immediate Measures_tenders_awarded_value",
-                    #   "Others_tenders_awarded_value",
-                        #'Repair and Restoration_tenders_awarded_value'
+                    #   "Others_tenders_awarded_value"
                       ]
 
 # Find cumsum in each FY of the government response vars
+# Reset indicators at the start of each financial year, cumulative sum monthly
+master_variables.sort_values(by=['object_id', 'financial_year', 'timeperiod'], inplace=True)
+
+# Reset government response vars to zero at the start of each financial year
 for var in government_response_vars:
-    master_variables[var]=master_variables.groupby(['object_id','financial_year'])[var].cumsum()
+    master_variables[var + '_fy_cumsum'] = master_variables.groupby(['object_id', 'financial_year'])[var].cumsum()
 
-
-govtresponse_df = master_variables[government_response_vars + ['timeperiod', 'object_id']]
-
+# Now use the cumulative variables for normalization and score calculations
+govtresponse_df = master_variables[[var + '_fy_cumsum' for var in government_response_indicators] + ['timeperiod', 'object_id']]
 
 govtresponse_df_months = []
 for month in tqdm(govtresponse_df.timeperiod.unique()):
-    govtresponse_df_month = govtresponse_df[govtresponse_df.timeperiod == month]
-    # Initialize MinMaxScaler
+    govtresponse_df_month = govtresponse_df[govtresponse_df.timeperiod == month].copy()
+    
     scaler = MinMaxScaler()
-    # Fit scaler to the data and transform it
-    govtresponse_df_month[government_response_vars] = scaler.fit_transform(govtresponse_df_month[government_response_vars])
+    cumsum_vars = [var + '_fy_cumsum' for var in government_response_indicators]
+
+    govtresponse_df_month[cumsum_vars] = scaler.fit_transform(govtresponse_df_month[cumsum_vars])
     
-    # Sum scaled exposure vars
-    govtresponse_df_month['sum'] = govtresponse_df_month[government_response_vars].sum(axis=1)
-    
-    # Calculate mean and standard deviation
+    govtresponse_df_month['sum'] = govtresponse_df_month[cumsum_vars].sum(axis=1)
+
     mean = govtresponse_df_month['sum'].mean()
     std = govtresponse_df_month['sum'].std()
     
-    # Define the conditions for each category
     conditions = [
         (govtresponse_df_month['sum'] <= mean),
         (govtresponse_df_month['sum'] > mean) & (govtresponse_df_month['sum'] <= mean + std),
@@ -66,17 +79,15 @@ for month in tqdm(govtresponse_df.timeperiod.unique()):
         (govtresponse_df_month['sum'] > mean + 3 * std)
     ]
     
-    # Define the corresponding categories
-    #categories = ['very low', 'low', 'medium', 'high', 'very high']
     categories = [5, 4, 3, 2, 1]
     
-    # Create the new column based on the conditions
     govtresponse_df_month['government-response'] = np.select(conditions, categories, default='outlier')
 
     govtresponse_df_months.append(govtresponse_df_month)
 
 govtresponse = pd.concat(govtresponse_df_months)
-master_variables = master_variables.merge(govtresponse[['timeperiod', 'object_id', 'government-response']],
-                       on = ['timeperiod', 'object_id'])
 
-master_variables.to_csv(os.getcwd()+'/RiskScoreModel/data/factor_scores_l1_government-response.csv', index=False)
+master_variables = master_variables.merge(govtresponse[['timeperiod', 'object_id', 'government-response']],
+                                          on=['timeperiod', 'object_id'])
+
+master_variables.to_csv(os.getcwd()+'/RiskScoreModel/data/factor_scores_l1_government-response_2.csv', index=False)

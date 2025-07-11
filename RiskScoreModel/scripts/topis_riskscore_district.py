@@ -220,7 +220,7 @@ aggregation_rules = {
     # Sum columns
     'total-tender-awarded-value': 'sum',
     'sopd-tenders-awarded-value': 'sum',
-    'sdrf-sanctions-awarded-value': 'sum',
+    'sdrf-sanctions-awarded-value': 'first',
     'sdrf-tenders-awarded-value': 'sum',
     'ridf-tenders-awarded-value': 'sum',
     'ltif-tenders-awarded-value': 'sum',
@@ -232,7 +232,7 @@ aggregation_rules = {
     'others-tenders-awarded-value-fy-cumsum': 'sum',
 
     'total-tender-awarded-value-fy-cumsum': 'sum',
-    'sdrf-sanctions-awarded-value-fy-cumsum': 'sum',
+    'sdrf-sanctions-awarded-value-fy-cumsum': 'first',
     'sdrf-tenders-awarded-value-fy-cumsum': 'sum',
     'preparedness-measures-tenders-awarded-value-fy-cumsum': 'sum',
     'immediate-measures-tenders-awarded-value-fy-cumsum': 'sum',

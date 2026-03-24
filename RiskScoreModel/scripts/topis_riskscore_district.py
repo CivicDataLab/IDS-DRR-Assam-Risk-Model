@@ -386,7 +386,7 @@ dist = pd.concat([dist_vul.set_index(['district', 'timeperiod']),
 
 
 final = pd.concat([topsis, dist], ignore_index=True)
-
+print(final.shape)
 # Apply rounding rules
 final = apply_rounding_rules(final, rounding_rules)
 final['inundation-pct'] = final['inundation-pct']*100
@@ -395,7 +395,8 @@ final['inundation-pct'] = final['inundation-pct']*100
 #final = pd.concat([topsis.set_index(['object-id', 'timeperiod']),
 #                   dist.set_index(['object-id', 'timeperiod'])], axis=1).reset_index()
 final["total-infrastructure-damage"] =  final["total-house-fully-damaged"] + final["roads"] + final["bridge"]
-final.rename(columns={'preparedness-measures-tenders-awarded-value': 'restoration-measures-tenders-awarded-value', 'mean-sexratio':'sexratio'}, inplace=True)
+final["total-female-population"] = final["sum-population"]* final["mean-sex-ratio"]/(1000 + final["mean-sex-ratio"])
+final.rename(columns={'preparedness-measures-tenders-awarded-value': 'restoration-measures-tenders-awarded-value'}, inplace=True)
 final.to_csv(os.getcwd()+r'/RiskScoreModel/data/risk_score_final_district.csv', index=False)
 
 #dist.rename(columns={'preparedness-measures-tenders-awarded-value': 'restoration-measures-tenders-awarded-value'}, inplace=True)

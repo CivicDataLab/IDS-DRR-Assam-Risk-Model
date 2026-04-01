@@ -45,7 +45,7 @@ for month in tqdm(exposure_df.timeperiod.unique()):
     categories = [1, 2, 3, 4, 5]
     
     # Create the new column based on the conditions
-    exposure_df_month['exposure'] = np.select(conditions, categories, default='outlier')
+    exposure_df_month['exposure'] = np.select(conditions, categories)#, default='outlier')
 
     exposure_df_months.append(exposure_df_month)
 

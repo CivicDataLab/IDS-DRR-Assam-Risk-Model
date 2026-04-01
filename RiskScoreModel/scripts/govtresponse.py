@@ -71,7 +71,7 @@ for month in tqdm(govtresponse_df.timeperiod.unique()):
     categories = [5, 4, 3, 2, 1]
     
     # Create the new column based on the conditions
-    govtresponse_df_month['government-response'] = np.select(conditions, categories, default='outlier')
+    govtresponse_df_month['government-response'] = np.select(conditions, categories)#, default='outlier')
 
     govtresponse_df_months.append(govtresponse_df_month)
 

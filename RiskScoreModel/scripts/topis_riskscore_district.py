@@ -119,6 +119,8 @@ dist_risk = dist_risk.merge(dist_ids, on='district')
 
 indicators = ['total-tender-awarded-value',
     'sopd-tenders-awarded-value',
+    'erosion-tenders-awarded-value',
+
     'sdrf-sanctions-awarded-value',
     'sdrf-tenders-awarded-value',
     'ridf-tenders-awarded-value',
@@ -225,6 +227,8 @@ aggregation_rules = {
     'ridf-tenders-awarded-value': 'sum',
     'ltif-tenders-awarded-value': 'sum',
     'cidf-tenders-awarded-value': 'sum',
+    'erosion-tenders-awarded-value': 'sum',
+    
     'preparedness-measures-tenders-awarded-value': 'sum',
     'immediate-measures-tenders-awarded-value': 'sum',
     'others-tenders-awarded-value': 'sum',

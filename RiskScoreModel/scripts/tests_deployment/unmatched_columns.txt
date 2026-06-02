@@ -1,4 +1,2 @@
-number-relief-camps
+relief-and-mitigation-sanction-value-fy-cumsum
 restoration-measures-tenders-awarded-value-fy-cumsum
-lives-missing
-sopd-expenditure-value

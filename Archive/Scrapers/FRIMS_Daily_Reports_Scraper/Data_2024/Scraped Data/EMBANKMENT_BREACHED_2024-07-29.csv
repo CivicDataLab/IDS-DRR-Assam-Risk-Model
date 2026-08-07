@@ -1,0 +1,12 @@
+District,Number,Revenue Circle,Embankment Breached Name,Department,Village,Location,Longitude,Latitude,Remarks
+,Golaghat,0,{'Khumtai': 0},Nil,Nil,Nil,Nil,Nil,Nil
+,Jorhat,0,{'Titabor': 0},Nil,Nil,Nil,Nil,Nil,Nil
+,Nagaon,0,{'Kaliabor': 0},Nil,Nil,Nil,Nil,Nil,Nil
+,Sivasagar,0,{'Sivsagar': 0},Nil,Nil,Nil,Nil,Nil,Nil
+,Total,0,,,,,,,
+,District,Number,Revenue,Embankment,Department,Village,Location,Longitude,Latitude
+,Dhemaji,0,{'Sissiborgaon': 0},Nil,Nil,Nil,Nil,Nil,Nil
+,Jorhat,0,{'Titabor': 0},Nil,,Nil,Nil,Nil,Nil
+,Nagaon,0,{'Kaliabor': 0},Nil,,Nil,Nil,Nil,Nil
+,Sivasagar,0,{'Sivsagar': 0},Nil,,Nil,Nil,Nil,Nil
+,Total,0,,,,,,,

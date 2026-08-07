@@ -1,0 +1,30 @@
+District,Number,Revenue Circle,Embankment Affected Name,Department,Village,Location,Longitude,Latitude,Remarks
+,Biswanath,5,{'Biswanath': 0},Nil,Nil,Nil,Nil,Nil,Nil
+,Bongaigaon,0,{'Boitamari': 0},Nil,Nil,Nil,Nil,Nil,Nil
+,Cachar,0,{'Katigorah': 0},Nil,Nil,Nil,Nil,Nil,Nil
+,Charaideo,0,{'Sapekhati': 0},Nil,Nil,Nil,Nil,Nil,Nil
+,Chirang,0,{'Bijni': 0},Nil,Nil,Nil,Nil,Nil,Nil
+,Darrang,2,{'Patharighat': 2},Ghagra R/B embankment,Water Resource Deptt.,Bagachala,pub bagachala,91.82,26.43
+,Dhemaji,0,{'Dhemaji': 0},Nil,Nil,Nil,Nil,Nil,Nil
+,Dibrugarh,1,{'Chabua': 0},Nil,Nil,Nil,Nil,Nil,Nil
+,Goalpara,0,{'Balijana': 0},Nil,Nil,Nil,Nil,Nil,Nil
+,Golaghat,0,{'Dergaon': 0},Nil,Nil,Nil,Nil,Nil,Nil
+,Hojai,0,{'Hojai': 0},Nil,Nil,Nil,Nil,Nil,Nil
+,Jorhat,0,{'Jorhat West': 0},Nil,Nil,Nil,Nil,Nil,Nil
+,Kamrup,0,{'Kamalpur': 0},Nil,Nil,Nil,Nil,Nil,Nil
+,Kamrup (M),0,{'Azara': 0},Nil,Nil,Nil,Nil,Nil,Nil
+,Karbi Anglong,0,{'Phuloni': 0},Nil,Nil,Nil,Nil,Nil,Nil
+,Karimganj,0,{'Karimganj': 0},Nil,Nil,Nil,Nil,Nil,Nil
+,Kokrajhar,0,{'Dotma': 0},Nil,Nil,Nil,Nil,Nil,Nil
+,Lakhimpur,1,{'North Lakhimpur': 0},Nil,Nil,Nil,Nil,Nil,Nil
+,Majuli,0,{'Majuli': 0},Nil,Nil,Nil,Nil,Nil,Nil
+,Morigaon,2,{'Bhuragaon': 2},Barduba Tup Embankment,Water Resource Deptt.,Barduba Tup,Barduba Tup Embankment near Rathkhula,92.23,26.38
+,Nagaon,0,{'Dhing': 0},Nil,Nil,Nil,Nil,Nil,Nil
+,Nalbari,0,{'Tihu': 0},Nil,Nil,Nil,Nil,Nil,Nil
+,Sivasagar,0,{'Nazira': 0},Nil,Nil,Nil,Nil,Nil,Nil
+,Sonitpur,0,{'Thelamara': 0},Nil,Nil,Nil,Nil,Nil,Nil
+,South Salmara,3,{'Mankachar': 3},Const. of Embankment with boulder protection,P&RD,Chirakhowa Toppara,Chirakhawa Toppara,89.94,25.62
+,Tamulpur,0,{'Tamulpur': 0},Nil,Nil,Nil,Nil,Nil,Nil
+,Tinsukia,0,{'Doomdooma': 0},Nil,,Nil,Nil,Nil,Nil
+,Udalguri,0,{'Khairabari': 0},Nil,,Nil,Nil,Nil,Nil
+,Total,14,,,,,,,

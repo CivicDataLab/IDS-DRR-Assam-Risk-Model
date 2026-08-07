@@ -1,0 +1,16 @@
+District,Number,Revenue Circle,Road Name,Department,Village,Location,Longitude,Latitude,Remarks
+,Dhemaji,6,{'Gogamukh': 2},Majdeori to Majabari Deori Gaon Road,,PWD (Roads),Koupatani Gaon,From Ch. 0.00 m to Ch. 385.00 m,94.38
+,Dibrugarh,0,{'Chabua': 0},Nil,Nil,Nil,Nil,Nil,Nil
+,Goalpara,1,{'Lakhipur': 1},"Hatogaon Sonalurtal Road, PMGSY PKG. No. AS-07-297",PWD (Roads),Hatogaon Pt-II,Hatogaon Pt-II,90.37,26
+,Golaghat,0,{'Khumtai': 0},Nil,Nil,Nil,Nil,Nil,Nil
+,Jorhat,0,{'Jorhat East': 0},Nil,Nil,Nil,Nil,Nil,Nil
+,Kamrup,0,{'North Ghy': 0},Nil,Nil,Nil,Nil,Nil,Nil
+,Karimganj,0,{'Nilambazar': 0},Nil,Nil,Nil,Nil,Nil,Nil
+,Kokrajhar,0,{'Gossaigaon': 0},Nil,Nil,Nil,Nil,Nil,Nil
+,Lakhimpur,4,{'Kadam': 0},Nil,Nil,Nil,Nil,Nil,Nil
+,Majuli,0,{'Majuli': 0},Nil,Nil,Nil,Nil,Nil,Nil
+,Sivasagar,0,{'Sivsagar': 0},Nil,Nil,Nil,Nil,Nil,Nil
+,Sonitpur,0,{'Chariduar': 0},Nil,Nil,Nil,Nil,Nil,Nil
+,Tinsukia,0,{'Margherita': 0},Nil,Nil,Nil,Nil,Nil,Nil
+,Udalguri,0,{'Khairabari': 0},Nil,Nil,Nil,Nil,Nil,Nil
+,Total,11,,,,,,,

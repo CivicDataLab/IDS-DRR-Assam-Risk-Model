@@ -29,7 +29,7 @@ government_response_vars = ["total_tender_awarded_value",
                        "LTIF_tenders_awarded_value",
                        "CIDF_tenders_awarded_value",
                       "Preparedness Measures_tenders_awarded_value",
-                       "Immediate Measures_tenders_awarded_value",
+                     "Immediate Measures_tenders_awarded_value",
                       "Others_tenders_awarded_value",
                        'Repair and Restoration_tenders_awarded_value'
                       ]

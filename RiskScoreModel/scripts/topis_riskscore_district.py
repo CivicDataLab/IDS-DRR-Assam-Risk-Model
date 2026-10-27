@@ -45,6 +45,7 @@ merged_df.sort_values(by=['object_id', 'financial_year', 'timeperiod'], inplace=
 # Define indicators that need cumulative sums
 cumulative_vars = [
     "total_tender_awarded_value",
+    "erosion_tenders_awarded_value",
     "SDRF_sanctions_awarded_value",
     "SOPD_tenders_awarded_value",
     "RIDF_tenders_awarded_value",
@@ -123,9 +124,8 @@ dist_risk = dist_risk.merge(dist_ids, on='district')
 
 
 indicators = ['total-tender-awarded-value',
+              'erosion-tenders-awarded-value',
     'sopd-tenders-awarded-value',
-    'erosion-tenders-awarded-value',
-
     'sdrf-sanctions-awarded-value',
     'sdrf-tenders-awarded-value',
     'ridf-tenders-awarded-value',
@@ -140,6 +140,7 @@ indicators = ['total-tender-awarded-value',
     'total-tender-awarded-value-fy-cumsum',
     'sdrf-sanctions-awarded-value-fy-cumsum',
     'sdrf-tenders-awarded-value-fy-cumsum',
+    'erosion-tenders-awarded-value-fy-cumsum',
     'preparedness-measures-tenders-awarded-value-fy-cumsum',
     'immediate-measures-tenders-awarded-value-fy-cumsum',
 
@@ -245,6 +246,7 @@ aggregation_rules = {
     'sdrf-tenders-awarded-value-fy-cumsum': 'sum',
     'preparedness-measures-tenders-awarded-value-fy-cumsum': 'sum',
     'immediate-measures-tenders-awarded-value-fy-cumsum': 'sum',
+    'erosion-tenders-awarded-value-fy-cumsum':'sum',
 
     'total-expenditure-value': 'sum',
     'immediate-measures-expenditure-value': 'sum',
